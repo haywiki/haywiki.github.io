@@ -1,5 +1,5 @@
 ---
-title: Полезные каналы и чаты Telegram
+title: Полезные каналы и чаты в Telegram
 layout: page
 ---
 

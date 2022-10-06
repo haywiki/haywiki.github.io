@@ -1,9 +1,8 @@
 title: Путеводитель по переезду в Армению
-#email: druidvav@gmail.com
-#description: >-
-#  Write an awesome description for your new site here. You can edit this
-#  line in _config.yml. It will appear in your document head meta (for
-#  Google search results) and in your feed.xml site description.
+author: HayWiki Team
+email: druidvav+haywiki@gmail.com
+description: >-
+  Полезная информация о переезде, жизни и легализации в Армении.
 baseurl: ""
 url: "https://haywiki.github.io"
 github_username: haywiki
