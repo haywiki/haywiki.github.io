@@ -1,0 +1,22 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.site-title::before {
+  content: url("./logo.svg");
+  display: inline-block;
+  position: relative;
+  width: 37px;
+  top: 5px;
+  margin-right: 5px;
+}
+
+.site-title:hover {
+  text-decoration: none !important;
+}
+
+.site-nav {
+  display: none;
+}
