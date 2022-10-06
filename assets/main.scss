@@ -8,8 +8,8 @@
   content: url("./logo.svg");
   display: inline-block;
   position: relative;
-  width: 37px;
-  top: 5px;
+  width: 50px;
+  top: 8px;
   margin-right: 5px;
 }
 
@@ -19,4 +19,8 @@
 
 .site-nav {
   display: none;
+}
+
+.page-content {
+  padding-top: 10px;
 }
