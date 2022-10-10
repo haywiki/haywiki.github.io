@@ -4,7 +4,7 @@ email: druidvav+haywiki@gmail.com
 description: >-
   Полезная информация о переезде, жизни и легализации в Армении.
 baseurl: ""
-url: "https://haywiki.github.io"
+url: "https://haywiki.org"
 github_username: haywiki
 
 markdown: kramdown

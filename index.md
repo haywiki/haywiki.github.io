@@ -51,6 +51,7 @@ Disclaimer: информация на этом сайте написана не 
 - [Банки в Армении: FAQ для иммигрантов и туристов](https://bit.ly/armenian-banks-faq)
 - [Резидентство и Легализация в Армении: FAQ для Иммигрантов](https://bit.ly/armenian-residency-faq)
 - [Сводная таблица с условиями и особенностями банков в РА](https://bit.ly/armenian-banks-terms)
+- [Официальный FAQ по релокации от Министерства Экономики РА](https://mineconomy.am/media/18156/reloc_mineconomy.pdf)
 
 ## Обратная связь
 
