@@ -10,7 +10,7 @@ parent_url: /animals/
 - [РЖД](https://www.tutu.ru/2read/rules_and_documents/pets_in_train)
 - [Aeroflot](https://www.aeroflot.ru/ru-ru/information/special/animals) - там так же подробный чеклист по покупке и справкам 
 - [Azimut](https://azimuth.aero/ru/passengers/baggage/flights-with-pets)
-- [Pobeda](https://www.pobeda.aero/ru/information/service/perevozka-zhivotnykh/)
+- [Победа](https://www.pobeda.aero/ru/information/service/perevozka-zhivotnykh/)
 - [Red Wings](https://flyredwings.com/baggage/perevozka-zhivotnyx/)
 - [S7](https://www.s7.ru/ru/info/perevozka-zhivotnykh/) и [популярные вопросы](https://helpcenter.s7.ru/ru/category/bagazh-i-ruchnaya-klad/perevozka-zhivotnyh/)
 - [Utair](https://www.utair.ru/support/6/ob_usluge_perevozka_zhivotnyh) и [инструкция](https://www.utair.ru/support/4/kak_perevozyatsya_zhivotnye_na_rejsah_utair)
