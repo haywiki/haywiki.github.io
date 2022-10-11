@@ -17,10 +17,6 @@
   text-decoration: none !important;
 }
 
-.site-nav {
-  display: none;
-}
-
 .page-content {
   padding-top: 10px;
 }
@@ -32,4 +28,8 @@ blockquote {
   font-size: 14px;
   letter-spacing: -1px;
   font-style: normal;
+}
+
+#breadcrumbs {
+  margin-top: 10px;
 }

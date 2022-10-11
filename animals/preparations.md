@@ -1,6 +1,8 @@
 ---
 title: Подготовка питомца к путешествию
 layout: page
+parent_title: Переезд с питомцем
+parent_url: /animals/
 ---
 
 ## Ветеринарный паспорт
