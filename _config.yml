@@ -6,6 +6,7 @@ description: >-
 baseurl: ""
 url: "https://haywiki.org"
 github_username: haywiki
+lang: ru
 
 markdown: kramdown
 theme: minima
@@ -22,3 +23,6 @@ exclude:
   - vendor/ruby/
   - .idea
   - robots.txt
+
+sass:
+  sass_dir: _sass
