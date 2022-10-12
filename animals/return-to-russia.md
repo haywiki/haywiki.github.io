@@ -1,8 +1,8 @@
 ---
 title: Возвращение питомца в Россию
 layout: page
-parent_title: Переезд с питомцем
-parent_url: /animals/
+parent_title: Жизнь с питомцем
+parent_url: /animals/in-armenia
 ---
 
 Правила по прививкам и идентификации точно такие же как и для выезда из России.
@@ -21,4 +21,6 @@ parent_url: /animals/
 
 ### Возвращение через Грузию
 
-```todo```
+```
+todo
+```

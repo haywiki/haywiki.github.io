@@ -2,7 +2,7 @@
 title: Как правильно подобрать размер переноски
 layout: page
 parent_title: Переезд с питомцем
-parent_url: /animals/
+parent_url: /animals/to-armenia
 ---
 
 ## Как подобрать переноску

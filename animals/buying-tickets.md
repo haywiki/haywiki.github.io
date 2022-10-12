@@ -2,7 +2,7 @@
 title: Покупка билета на самолет с питомцем
 layout: page
 parent_title: Переезд с питомцем
-parent_url: /animals/
+parent_url: /animals/to-armenia
 ---
 
 ## Покупка авиабилета с питомцем

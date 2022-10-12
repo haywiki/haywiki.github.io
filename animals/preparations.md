@@ -2,7 +2,7 @@
 title: Подготовка питомца к путешествию
 layout: page
 parent_title: Переезд с питомцем
-parent_url: /animals/
+parent_url: /animals/to-armenia
 ---
 
 ## Ветеринарный паспорт
