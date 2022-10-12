@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 ---
 
 <p style="text-align: center;"><img src="/assets/panic.svg" alt="Don't panic!" width="300px"></p>

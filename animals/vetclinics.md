@@ -5,7 +5,7 @@ parent_title: Жизнь с питомцем
 parent_url: /animals/in-armenia
 ---
 
-## Ветеринарные клиники в Ереване
+## Клиники в Ереване
 
 ### Клиника VetExpert
 
@@ -92,7 +92,7 @@ parent_url: /animals/in-armenia
 - Контактный телефон: +374 10 289898
 - [Facebook](https://www.facebook.com/doctorvetveterinaryclinic) [Instagram](https://www.instagram.com/doctorvetarmenia/)
 
-## Ветеринарные клиники в Гюмри
+## Клиники в Гюмри
 
 ### Клиника Вет Ват
 
@@ -101,5 +101,3 @@ parent_url: /animals/in-armenia
 - [Facebook](https://www.facebook.com/vetvatVeterinary)
 
 - Есть возможность сделать [титры](rabies-titers).
-
-## Есть что добавить? Делитесь отзывами и контактами клиник в комментариях!

@@ -1,0 +1,44 @@
+$base-font-family: "Noto Sans", sans-serif !default;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$bold-font-weight: 800 !default;
+$small-font-size:  $base-font-size * 0.8 !default;
+$base-line-height: 1.5 !default;
+
+$heading-font-family: "Noto Serif", serif !default;
+
+$content-width:    990px !default;
+$spacing-unit:     20px !default;
+
+$on-palm:          767.98px !default;
+$on-laptop:        991.98px !default;
+
+$text-color:       #111 !default;
+$background-color: #fdfdfd !default;
+$brand-color:      #2a7ae2 !default;
+
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+$blockquote-color: #4d4d4d !default;
+$blockquote-color-light: #039be5 !default;
+
+$table-text-align: left !default;
+
+$code-font-family: "Noto Sans Mono", monospace !default;
+$code-font-weight: 300;
+$code-font-weight-bold: 600;
+$code-font-size:   90%;
+$code-line-height: 1.4;
+
+$breadcrumb-padding-vertical:   8px !default;
+$breadcrumb-padding-horizontal: 15px !default;
+$breadcrumb-bg:                 lighten($grey-color, 45%) !default;
+$breadcrumb-color:              #ccc !default;
+$breadcrumb-active-color:       $grey-color-dark !default;
+$breadcrumb-separator:          "/" !default;
+
+$toc-title: "Содержание страницы" !default;
+
+@import "base", "code", "blockquote", "table", "adaptive", "breadcrumb", "layout", "syntax-highlighting", "toc";

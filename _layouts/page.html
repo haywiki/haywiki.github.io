@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<nav>
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Главная</a></li>
+    {% if page.parent_url %}
+      <li class="breadcrumb-item"><a href="{{ page.parent_url | relative_url }}">{{ page.parent_title }}</a></li>
+    {% endif %}
+    <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+  </ol>
+</nav>
+
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-toc">
+    {% include toc.html html=content %}
+  </div>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>

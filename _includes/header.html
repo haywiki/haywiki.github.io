@@ -6,15 +6,3 @@
         <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     </div>
 </header>
-
-{% if page.url != '/' %}
-    <div class="wrapper">
-        <div id="breadcrumbs">
-            <a href="/">Главная</a>
-            {% if page.parent_url %}
-            / <a href="{{ page.parent_url | relative_url }}">{{ page.parent_title }}</a>
-            {% endif %}
-            / {{ page.title }}
-        </div>
-    </div>
-{% endif %}

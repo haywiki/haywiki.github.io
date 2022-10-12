@@ -2,7 +2,7 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "minima";
+@import "theme";
 
 .site-title::before {
   content: url("./logo.svg");
@@ -15,21 +15,4 @@
 
 .site-title:hover {
   text-decoration: none !important;
-}
-
-.page-content {
-  padding-top: 10px;
-}
-
-blockquote {
-  color: #828282;
-  border-left: 4px solid #e8e8e8;
-  padding-left: 15px;
-  font-size: 14px;
-  letter-spacing: -1px;
-  font-style: normal;
-}
-
-#breadcrumbs {
-  margin-top: 10px;
 }
