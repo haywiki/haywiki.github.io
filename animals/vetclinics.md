@@ -5,9 +5,9 @@ parent_title: Жизнь с питомцем
 parent_url: /animals/in-armenia
 ---
 
-## Клиники в Ереване
+## Клиники в Ереване {#yerevan}
 
-### Клиника VetExpert
+### VetExpert
 
 - Адрес: [просп. Азатутян, 14](https://yandex.ru/maps/org/vet_ekspert/1861952348/)
 - Адрес: [просп. Маштоца 21](https://yandex.ru/maps/10262/yerevan/house/YE0YcwZgSUMAQFpqfX15cn5kbA==/)
@@ -22,12 +22,13 @@ parent_url: /animals/in-armenia
 или 135000 драмов за срочный (11-14 дней). Чтобы получить эту цену скажите что вы из
 [чата Армения с питомцем](https://t.me/armenia_pets).
 - Можно сделать "Сертификат таможенного союза" и справки для выезда за границу.
+- Есть зоомагазин
 
 Примерная стоимость услуг:
 - Чипирование 8000 драм;
 - Вакцинация без бешенства 12000 драм, с бешенством 15000 драм.
 
-### Клиника VetLine
+### VetLine
 
 - Адрес: [просп. Комитаса, 6](https://yandex.ru/maps/org/kruglosutochnaya_veterinarnaya_klinika_vetlayn/154801169156/)
 - Контактный телефон: +374 11 279999
@@ -35,8 +36,9 @@ parent_url: /animals/in-armenia
 - [Facebook](https://www.facebook.com/vetlinearmenia/) [Instagram](https://www.instagram.com/vetline_vet.clinic/)
 
 - Можно сделать "Сертификат таможенного союза" и справки для выезда за границу.
+- Есть зоомагазин
 
-### Клиника AmiryanVet
+### AmiryanVet
 
 - Адрес: [ул. Амиряна, 10](https://yandex.ru/maps/org/amiryanvet/209808278094/)
 - Контактный телефон: +374 95 560119
@@ -45,8 +47,9 @@ parent_url: /animals/in-armenia
 
 - Есть возможность сделать [титры](rabies-titers).
 - Можно сделать "Сертификат таможенного союза" и справки для выезда за границу.
+- Есть зоомагазин
 
-### Клиника Quercus
+### Quercus
 
 - Адрес: [ул. Казара Парпеци, 17/3](https://yandex.ru/maps/org/quercus_vet_clinic_zoosalon/181982950255/)
 - Контактный телефон: +374 10 537602
@@ -55,6 +58,7 @@ parent_url: /animals/in-armenia
 
 - Есть возможность сделать [титры](rabies-titers) (97000 драмов, срок 2-3 недели).
 - Можно сделать "Сертификат таможенного союза" и справки для выезда за границу.
+- Есть зоомагазин
 
 ### Vahe Mkrtchyan's Vet Clinic
 
@@ -65,7 +69,7 @@ parent_url: /animals/in-armenia
 
 - Можно сделать "Сертификат таможенного союза" и справки для выезда за границу.
 
-### Клиника VetHome
+### VetHome
 
 - Адрес: [1-й квартал Давташен, 36/4](https://yandex.ru/maps/org/vethome/111774686048/)
 - Контактный телефон: +374 99 366788
@@ -75,7 +79,7 @@ parent_url: /animals/in-armenia
 - Есть возможность сделать [титры](rabies-titers) (150000 драмов).
 - Можно сделать "Сертификат таможенного союза" и справки для выезда за границу.
 
-### Клиника Maltese City
+### Maltese City
 
 - Адрес: [пр-кт Комитаса, 32](https://yandex.ru/maps/10262/yerevan/house/YE0YcwdjSUQCQFpqfX5xdX5lZg==/)
 - Контактный телефон: +374 94 372233 +374 91 626258 (Viber и WhatsApp)
@@ -85,16 +89,16 @@ parent_url: /animals/in-armenia
 - Есть возможность сделать [титры](rabies-titers).
 - Можно сделать "Сертификат таможенного союза" и справки для выезда за границу.
 
-### Клиника DoctorVet
+### DoctorVet
 
 - Адрес: [ул. Паруйра Севака, 53/4](https://yandex.ru/maps/org/doktor_vet/24738688707/)
 - График работы: с 11:00 до 19:00, уточняйте по телефону
 - Контактный телефон: +374 10 289898
 - [Facebook](https://www.facebook.com/doctorvetveterinaryclinic) [Instagram](https://www.instagram.com/doctorvetarmenia/)
 
-## Клиники в Гюмри
+## Клиники в Гюмри {#gyumri}
 
-### Клиника Вет Ват
+### Вет Ват
 
 - Адрес: [ул. Мусаелян, 61](https://yandex.ru/maps/org/vet_vat/40293317454/)
 - Контактный телефон: +374 93 304652
