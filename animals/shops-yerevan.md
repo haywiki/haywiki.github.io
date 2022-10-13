@@ -12,6 +12,19 @@ parent_url: /animals/in-armenia
 - Выбор аксессуаров меньше и стоимость часто больше чем в России.
 - Практически в каждом магазине можно позвонить и договориться о доставке.
 - При [ветеринарных клиниках](vetclinics) практически всегда есть небольшой магазин.
+- Некоторые корма и многие вещи для животных доступны с доставкой в Армению с Wildberries:
+  [для собак](https://am.wildberries.ru/catalog?category=16438&sort=popular) и
+  [для кошек](https://am.wildberries.ru/catalog?category=16347&sort=popular).
+- В приложении [Menu.am](https://menu.am/ru) доступно больше всего
+  [зоомагазинов с доставкой](https://menu.am/ru/shops?filters=pet-food).
+- В приложении [яндекс.еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf) есть магазин Haf-Haf.
+- В приложении [Glovo](https://glovoapp.com/am/) есть
+  [зоомагазины с доставкой](https://glovoapp.com/am/en/yerevan/shops-and-gifts_1554/pet-shop_35518/).
+
+```
+TODO
+посылки
+```
 
 ## Крупнейшие зоомагазины
 
