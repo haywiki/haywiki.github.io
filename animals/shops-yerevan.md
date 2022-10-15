@@ -50,7 +50,7 @@ TODO
 - [Магазины на карте](https://yandex.ru/maps/10262/yerevan/search/PetCity/)
 - [petcity.am](https://petcity.am/ru/homepage-2) — на сайте можно заказать доставку.
 - Instagram: [pet_city.am](https://www.instagram.com/pet_city.am/)
-- Корма в продаже: Royal Canin, Purina, Monge, Acana
+- Корма в продаже: Royal Canin, Purina, Monge, Acana, Farmina
 
 ### Nemo — интернет-магазин с доставкой
 
