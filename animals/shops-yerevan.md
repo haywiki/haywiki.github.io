@@ -21,10 +21,7 @@ parent_url: /animals/in-armenia
 - В приложении [Glovo](https://glovoapp.com/am/) есть
   [зоомагазины с доставкой](https://glovoapp.com/am/en/yerevan/shops-and-gifts_1554/pet-shop_35518/).
 
-```
-TODO
-посылки
-```
+[//]: # (todo: Заказ посылки через Глоббинг)
 
 ## Крупнейшие зоомагазины
 

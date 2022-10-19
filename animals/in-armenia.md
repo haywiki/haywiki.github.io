@@ -7,12 +7,6 @@ layout: page
 
 ## Бытовые вопросы жизни с собакой
 
-### Где выбрать жилье, где гулять?
-
-```
-TODO
-```
-
 ## Где покупать корм, игрушки, аксессуары?
 
 - [Зоомагазины в Ереване](shops-yerevan)
@@ -21,14 +15,11 @@ TODO
   [для кошек](https://am.wildberries.ru/catalog?category=16347&sort=popular).
 - В приложении [Menu.am](https://menu.am/ru) доступно больше всего
   [зоомагазинов с доставкой](https://menu.am/ru/shops?filters=pet-food).
-- В приложении [яндекс.еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf) есть магазин Haf-Haf.
+- В приложении [яндекс еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf) есть магазин Haf-Haf.
 - В приложении [Glovo](https://glovoapp.com/am/) есть
   [зоомагазины с доставкой](https://glovoapp.com/am/en/yerevan/shops-and-gifts_1554/pet-shop_35518/).
 
-```
-TODO
-посылки
-```
+[//]: # (todo: Заказ посылки через Глоббинг)
 
 ## Ветеринарные клиники в Армении
 
