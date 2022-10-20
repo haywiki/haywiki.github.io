@@ -12,7 +12,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
+#  - jekyll-feed
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock

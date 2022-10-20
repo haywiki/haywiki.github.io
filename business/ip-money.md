@@ -3,6 +3,7 @@ title: Получение и вывод денег во время работы 
 layout: page
 parent_title: ИП в Армении
 parent_url: /business/ip
+last_modified_at: 2022-10-21
 ---
 
 ## Получение банковских переводов за услуги

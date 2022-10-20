@@ -3,6 +3,7 @@ title: Поездка с питомцем в Грузию
 layout: page
 parent_title: Жизнь с питомцем
 parent_url: /animals/in-armenia
+last_modified_at: 2022-10-21
 ---
 
 Правила по прививкам и идентификации точно такие же как и для выезда из России.

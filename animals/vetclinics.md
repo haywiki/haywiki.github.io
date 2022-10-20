@@ -3,6 +3,7 @@ title: Ветеринарные клиники в Армении
 layout: page
 parent_title: Жизнь с питомцем
 parent_url: /animals/in-armenia
+last_modified_at: 2022-10-21
 ---
 
 ## Клиники в Ереване {#yerevan}
