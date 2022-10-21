@@ -1,8 +1,8 @@
 ---
 title: Как подготовить питомца и себя к перелёту?
 layout: page
-parent_title: Переезд с питомцем
-parent_url: /animals/to-armenia
+parent_title: Перелет с питомцем
+parent_url: /animals/flight-to-armenia
 last_modified_at: 2022-10-21
 ---
 
