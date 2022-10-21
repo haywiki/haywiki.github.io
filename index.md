@@ -1,6 +1,6 @@
 ---
 layout: home
-last_modified_at: 2022-10-21 04:00
+last_modified_at: 2022-10-21 08:30
 ---
 
 <p style="text-align: center;"><img src="/assets/panic.svg" alt="Don't panic!" width="300px"></p>
@@ -21,7 +21,7 @@ Disclaimer: информация на этом сайте написана не 
 - Как [приехать на автомобиле](/moving/by-car)?
 - Сколько валюты и вещей можно с собой взять [на самолете](/moving/by-air#customs), [по земле](/moving/by-car#customs)?
 - [На какой срок можно ввезти автомобиль в Армению](/moving/by-car#на-какой-срок-можно-ввезти-автомобиль-в-армению)?
-- [Переезд в Армению с собакой или кошкой](/animals/to-armenia)
+- Переезд в Армению с собакой или кошкой [на самолете](/animals/flight-to-armenia), [по земле](/animals/ground-to-armenia)
 
 - [Как найти жилье в Армении?](/rent-house) — контакты, источники и советы по поиску жилья (в том числе с животными)
 

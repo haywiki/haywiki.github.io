@@ -1,16 +1,17 @@
 ---
 title: Жизнь с собакой или кошкой в Армении
 layout: page
-last_modified_at: 2022-10-21
+last_modified_at: 2022-10-21 08:30
 ---
 
-Если вы еще не переехали — вам [сюда](to-armenia).
+## Переезд с питомцем в Армению
 
-## Бытовые вопросы жизни с собакой
+- [Инструкция по переезду на самолете](/animals/flight-to-armenia)
+- [Инструкция по переезду по земле](/animals/ground-to-armenia) (например, на машине)
 
 ## Где покупать корм, игрушки, аксессуары?
 
-- [Зоомагазины в Ереване](shops-yerevan)
+- [Зоомагазины в Ереване](/animals/shops-yerevan)
 - Некоторые корма и многие вещи для животных доступны с доставкой в Армению с Wildberries:
   [для собак](https://am.wildberries.ru/catalog?category=16438&sort=popular) и
   [для кошек](https://am.wildberries.ru/catalog?category=16347&sort=popular).
@@ -24,15 +25,15 @@ last_modified_at: 2022-10-21
 
 ## Ветеринарные клиники в Армении
 
-- [Клиники в Ереване](vetclinics#yerevan)
-- [Клиники в Гюмри](vetclinics#gyumri)
+- [Клиники в Ереване](/animals/vetclinics#yerevan)
+- [Клиники в Гюмри](/animals/vetclinics#gyumri)
 
 ## Поездки с животным из Армении
 
 - [Поездка с животным в Грузию](/animals/to-georgia)
 - [Возвращение с питомцем в Россию](/animals/return-to-russia)
 
-- [Где сделать титры антител к бешенству?](rabies-titers#лаборатории-в-армении)
+- [Где сделать титры антител к бешенству?](/animals/rabies-titers#лаборатории-в-армении)
 - [Перевозка животных не из РФ](https://app.simplenote.com/p/rNbbPH)
 - [Требования на ввоз по разным странам](https://app.simplenote.com/p/Bfndg9)
 

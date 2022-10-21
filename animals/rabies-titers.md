@@ -1,9 +1,9 @@
 ---
 title: Титры антител к бешенству. Зачем нужны? Как сделать?
 layout: page
-parent_title: Переезд с питомцем
-parent_url: /animals/to-armenia
-last_modified_at: 2022-10-21
+parent_title: Жизнь с питомцем
+parent_url: /animals/in-armenia
+last_modified_at: 2022-10-21 08:30
 ---
 
 ## Что это и зачем?
