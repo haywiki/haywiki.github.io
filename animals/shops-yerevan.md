@@ -48,14 +48,14 @@ last_modified_at: 2022-10-21 08:30
 - [Магазины на карте](https://yandex.ru/maps/10262/yerevan/search/PetCity/)
 - [petcity.am](https://petcity.am/ru/homepage-2) — на сайте можно заказать доставку.
 - Instagram: [pet_city.am](https://www.instagram.com/pet_city.am/)
-- Корма в продаже: Royal Canin, Purina, Monge, Acana, Farmina
+- Корма в продаже: Royal Canin, Purina ProPlan, Monge, Acana, Farmina VetLife, N&D и другие
 
 ### Nemo — интернет-магазин с доставкой
 
 - [Магазин на карте](https://yandex.ru/maps/org/nemo/191697089221/)
 - [nemo.am](https://nemo.am/) — на сайте можно заказать доставку.
 - Instagram: [nemo_petstore](https://www.instagram.com/nemo_petstore/)
-- Корма в продаже: Acana, N&D, Royal Canin, Farmina, Vet life и другие
+- Корма в продаже: Royal Canin, Acana, Purina ProPlan, Mr.Buffalo, Monge, Orijen, bonmascota и другие
 
 ## Другие зоомагазины
 
@@ -93,3 +93,21 @@ last_modified_at: 2022-10-21 08:30
 - Контактный телефон: +374 10 537602
 - [vet.clinic_quercus](https://www.instagram.com/vet.clinic_quercus/)
 - Корма в продаже: Monge
+
+### Forest Voices zoo market
+
+- Адрес: [проспект Комитаса, 30](https://yandex.ru/maps/org/forest_voices_zoomagazin/99596547688/)
+- Адрес: [ул. Хачатура Абовяна, 36](https://yandex.ru/maps/org/forest_voices_zoomagazin/57855023163/)
+- Контактный телефон: +374 77 288098
+- [Facebook](https://www.facebook.com/zoomarket1/about)
+- Корма в продаже: Monge, Royal Canin
+
+### Zoo Market Zooashxarh
+
+- Адрес: [ул. Киевян, 12](https://yandex.ru/maps/org/180669891281/)
+- Адрес: [ул. Ерванда Кочара, 19/7](https://yandex.ru/maps/org/137532800215/)
+- Адрес: [ул. Грачья Ачаряна, 30](https://yandex.ru/maps/org/33139129154/)
+- Контактный телефон: +374 93 528877
+- [zoomarket.am](https://zoomarket.am/)
+- [Facebook](https://www.facebook.com/Zooashkharh/)
+- Корма в продаже: Monge, Royal Canin
