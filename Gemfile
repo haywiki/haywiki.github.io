@@ -3,6 +3,7 @@ source "https://rubygems.org"
 gem "minima", "~> 2.0"
 gem "github-pages", group: :jekyll_plugins
 gem 'jekyll-sitemap'
+gem 'jekyll-redirect-from'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -17,3 +18,4 @@ end
 gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 gem "kramdown-parser-gfm"
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
+gem "nokogiri", ">= 1.13.9"
