@@ -29,7 +29,7 @@ last_modified_at: 2022-10-21
 
 - [sosedi.network](http://sosedi.network): сервис для поиска соседей
 - [https://t.me/collivingarmenia](https://t.me/collivingarmenia)
-- [t.me/ArkHelps/15332](http://t.me/ArkHelps/15332): коливинг от Ковчега
+- [t.me/ArkHelps/15332](https://t.me/ArkHelps/15332): коливинг от Ковчега
 - [https://t.me/ColiveArmeniaChat](https://t.me/ColiveArmeniaChat)
 
 ### Чаты по поиску жилья (в том числе риэлторы)

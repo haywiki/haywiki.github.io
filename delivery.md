@@ -29,7 +29,7 @@ last_modified_at: 2022-10-21
 - [@nikitaPochukalin](https://t.me/nikitaPochukalin) — Никита
 - [@Dv227](https://t.me/Dv227) — Давид
 
-Эти перевозчики проверены опытом чатов [Взаимопомощь](http://t.me/+szFNNJqf1J42Zjhi) и
+Эти перевозчики проверены опытом чатов [Взаимопомощь](https://t.me/+szFNNJqf1J42Zjhi) и
 [Армения: иммиграция, легализация, банки, налоги](https://t.me/am_banking_and_residency).
 
 ## Беспошлинный порог в Армении {#taxes}
