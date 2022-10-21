@@ -2,7 +2,7 @@
 title: Переезд с питомцем в Армению по земле
 layout: page
 parent_title: Жизнь с питомцем
-parent_url: /animals/in-armenia
+parent_url: /animals/
 last_modified_at: 2022-10-21 08:30
 ---
 
@@ -10,10 +10,10 @@ last_modified_at: 2022-10-21 08:30
 
 Для поездки вместе с питомцем из России в Армению через Грузию вам потребуется:
 
-- [Ветеринарный паспорт](/animals/preparations#vetpassport)
-- [Чип](/animals/preparations#chip)
-- [Вакцинация от бешенства и других болезней](/animals/preparations#vaccines), сделанные ПОСЛЕ чипа.
-- [**Ветеринарное свидетельство** №1](/animals/preparations#certificates)
+- [Ветеринарный паспорт](/animals/documents#vetpassport)
+- [Чип](/animals/documents#chip)
+- [Вакцинация от бешенства и других болезней](/animals/documents#vaccines), сделанные ПОСЛЕ чипа.
+- [**Ветеринарное свидетельство** №1](/animals/documents#certificates)
 
 ### Адреса станций СББЖ в крупных городах
 
@@ -72,7 +72,7 @@ last_modified_at: 2022-10-21 08:30
 
 ## Жизнь с питомцем после переезда
 
-- [Жизнь с питомцем после переезда](/animals/in-armenia)
+- [Жизнь с питомцем после переезда](/animals/)
 
 ## Источники информации
 

@@ -2,7 +2,7 @@
 title: Подготовка питомца к путешествию
 layout: page
 parent_title: Переезд с питомцем
-parent_url: /animals/in-armenia
+parent_url: /animals/
 last_modified_at: 2022-10-21 08:30
 ---
 
