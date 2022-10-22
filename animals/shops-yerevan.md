@@ -3,7 +3,7 @@ title: Зоомагазины в Ереване
 layout: page
 parent_title: Жизнь с питомцем
 parent_url: /animals/
-last_modified_at: 2022-10-21 23:30
+last_modified_at: 2022-10-22 04:30
 ---
 
 В Ереване есть множество зоомагазинов, но по сравнению с Россией есть некоторые особенности.
@@ -21,8 +21,8 @@ last_modified_at: 2022-10-21 23:30
 - В приложении [яндекс.еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf) есть магазин Haf-Haf.
 - В приложении [Glovo](https://glovoapp.com/am/) есть
   [зоомагазины с доставкой](https://glovoapp.com/am/en/yerevan/shops-and-gifts_1554/pet-shop_35518/).
-
-[//]: # (todo: Заказ посылки через Глоббинг)
+- Если ваш корм есть в РФ, то можно заказать его через посредника, например Globbing. Вот здесь мы написали
+  [инструкцию как это сделать](/delivery/globbing-from-russia).
 
 ## Крупнейшие зоомагазины
 

@@ -1,7 +1,7 @@
 ---
 title: Жизнь с собакой или кошкой в Армении
 layout: page
-last_modified_at: 2022-10-21 08:30
+last_modified_at: 2022-10-22 04:30
 redirect_from:
 - /animals/to-armenia
 ---
@@ -22,8 +22,8 @@ redirect_from:
 - В приложении [яндекс еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf) есть магазин Haf-Haf.
 - В приложении [Glovo](https://glovoapp.com/am/) есть
   [зоомагазины с доставкой](https://glovoapp.com/am/en/yerevan/shops-and-gifts_1554/pet-shop_35518/).
-
-[//]: # (todo: Заказ посылки через Глоббинг)
+- Если ваш корм есть в РФ, то можно заказать его через посредника, например Globbing. Вот здесь мы написали
+  [инструкцию как это сделать](/delivery/globbing-from-russia).
 
 ## Бытовые вопросы жизни в Армении с питомцем
 

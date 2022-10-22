@@ -227,6 +227,8 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.75);
     }
+
+    //border-bottom: 1px solid $grey-color;
   }
 
   h3 {
@@ -243,5 +245,13 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
     }
+  }
+
+  img {
+    padding: .25rem;
+    border: 1px solid $grey-color-light;
+    border-radius: .375rem;
+    max-width: 700px;
+    height: auto;
   }
 }
