@@ -54,4 +54,4 @@ last_modified_at: 2022-10-22 02:00
 
 ## Смотрите также
 
-- [Полезные каналы и чаты в Telegram](/telegram-groups.md)
+- [Полезные каналы и чаты в Telegram](telegram-groups.md)

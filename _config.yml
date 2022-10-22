@@ -29,3 +29,7 @@ exclude:
 
 sass:
   sass_dir: _sass
+
+relative_links:
+  enabled:     true
+  collections: true

@@ -8,7 +8,7 @@ layout: default
     {% if page.parent_url %}
       <li class="breadcrumb-item"><a href="{{ page.parent_url | relative_url }}">{{ page.parent_title }}</a></li>
     {% endif %}
-    <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+    <li class="breadcrumb-item active" aria-current="page"><a href="{{ page.permalink }}">{{ page.title }}</a></li>
   </ol>
 </nav>
 

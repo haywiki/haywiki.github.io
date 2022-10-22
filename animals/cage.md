@@ -2,7 +2,7 @@
 title: Как правильно подобрать размер переноски
 layout: page
 parent_title: Перелет с питомцем
-parent_url: /animals/flight-to-armenia
+parent_url: /animals/flight-to-armenia.html
 last_modified_at: 2022-10-21 08:00
 ---
 

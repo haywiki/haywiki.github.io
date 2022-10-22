@@ -8,7 +8,7 @@ last_modified_at: 2022-10-21
 
 ## Зачем нужны?
 
-Для [получения соцкарты](/documents/social-number.md), регистрации по месту жительства, получения ВНЖ.
+Для [получения соцкарты](social-number.md), регистрации по месту жительства, получения ВНЖ.
 
 ## Адреса миграционных отделений
 
@@ -16,7 +16,7 @@ last_modified_at: 2022-10-21
 
 - Кентрон: [ул. Симона Врацана, 90](https://www.spyur.am/ru/companies/central-passport-department-of-passport-and-visa-office/24157) (вход с задней стороны здания)
 - Арабкир: [ул. Мамиконянц, 1](https://www.spyur.am/ru/companies/arabkir-passport-group-of-passport-and-visa-office/24154)
-- Давташен: [ул. Тигран Петросян, 31/2](https://www.spyur.am/ru/companies/davtashen-passport-department-of-passport-and-visa-office/26917) - [не рекоммендуем обращаться в него за соцкартой](social-number)
+- Давташен: [ул. Тигран Петросян, 31/2](https://www.spyur.am/ru/companies/davtashen-passport-department-of-passport-and-visa-office/26917) - [не рекоммендуем обращаться в него за соцкартой](social-number.md)
 - Нор Норк: [ул. Борян, 1](https://www.spyur.am/ru/companies/nor-nork-passport-department-of-passport-and-visa-office/24176)
 - Ачапняк: [ул. Шинарарнери, 10/1](https://www.spyur.am/ru/companies/mashtots-passport-department-of-passport-and-visa-office/24159)
 - Канакер-Зейтун: [ул. Агаронян, 3](https://www.spyur.am/ru/companies/kanaker-zeytun-passport-department-of-passport-and-visa-office/24178)
