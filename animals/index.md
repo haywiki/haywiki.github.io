@@ -8,12 +8,12 @@ redirect_from:
 
 ## Переезд с питомцем в Армению
 
-- [Инструкция по переезду на самолете](/animals/flight-to-armenia)
-- [Инструкция по переезду по земле](/animals/ground-to-armenia) (например, на машине)
+- [Инструкция по переезду на самолете](/animals/flight-to-armenia.md)
+- [Инструкция по переезду по земле](/animals/ground-to-armenia.md) (например, на машине)
 
 ## Где покупать корм, игрушки, аксессуары? {#howtobuy}
 
-- [Зоомагазины в Ереване](/animals/shops-yerevan)
+- [Зоомагазины в Ереване](/animals/shops-yerevan.md)
 - Некоторые корма и многие вещи для животных доступны с доставкой в Армению с Wildberries:
   [для собак](https://am.wildberries.ru/catalog?category=16438&sort=popular) и
   [для кошек](https://am.wildberries.ru/catalog?category=16347&sort=popular).
@@ -23,7 +23,7 @@ redirect_from:
 - В приложении [Glovo](https://glovoapp.com/am/) есть
   [зоомагазины с доставкой](https://glovoapp.com/am/en/yerevan/shops-and-gifts_1554/pet-shop_35518/).
 - Если ваш корм есть в РФ, то можно заказать его через посредника, например Globbing. Вот здесь мы написали
-  [инструкцию как это сделать](/delivery/globbing-from-russia).
+  [инструкцию как это сделать](/delivery/globbing-from-russia.md).
 
 ## Бытовые вопросы жизни в Армении с питомцем
 
@@ -39,15 +39,15 @@ redirect_from:
 
 ## Ветеринарные клиники в Армении
 
-- [Клиники в Ереване](/animals/vetclinics#yerevan)
-- [Клиники в Гюмри](/animals/vetclinics#gyumri)
+- [Клиники в Ереване](/animals/vetclinics.md#yerevan)
+- [Клиники в Гюмри](/animals/vetclinics.md#gyumri)
 
 ## Поездки с животным из Армении
 
-- [Поездка с животным в Грузию](/animals/to-georgia)
-- [Возвращение с питомцем в Россию](/animals/return-to-russia)
+- [Поездка с животным в Грузию](/animals/to-georgia.md)
+- [Возвращение с питомцем в Россию](/animals/return-to-russia.md)
 
-- [Где сделать титры антител к бешенству?](/animals/rabies-titers#лаборатории-в-армении)
+- [Где сделать титры антител к бешенству?](/animals/rabies-titers.md#лаборатории-в-армении)
 - [Перевозка животных не из РФ](https://app.simplenote.com/p/rNbbPH)
 - [Требования на ввоз по разным странам](https://app.simplenote.com/p/Bfndg9)
 

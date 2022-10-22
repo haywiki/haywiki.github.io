@@ -4,6 +4,7 @@ gem "minima", "~> 2.0"
 gem "github-pages", group: :jekyll_plugins
 gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'
+gem 'jekyll-relative-links'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

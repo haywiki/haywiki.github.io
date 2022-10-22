@@ -15,6 +15,7 @@ plugins:
 #  - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-relative-links
 exclude:
   - Gemfile
   - Gemfile.lock
