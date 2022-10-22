@@ -5,7 +5,7 @@ last_modified_at: 2022-10-22 02:00
 ---
 
 - [list.am](https://list.am/) — аналог Авито, крупнейшая площадка по жилью, продаже товаров и поиску работы.
-- [rate.am](http://rate.am) — курсы валют в банках и обменниках
+- [rate.am](https://rate.am) — курсы валют в банках и обменниках
 - [what.am](https://what.am) — сервис по переводу армянского транслита в армянский язык пригодный для перевода.
 - [Яндекс Переводчик](https://translate.yandex.ru) — можно установить мобильное приложение и переводить армянский язык прямо камерой телефона.
 
@@ -26,7 +26,7 @@ last_modified_at: 2022-10-22 02:00
 ## Медицинские центры, анализы
 
 - [Medline](https://www.medline.am/?l=ru) - взрослая
-- [Wigmore](http://www.wigmoreclinic.am/ru) - детская и взрослая
+- [Wigmore](https://www.wigmoreclinic.am/ru) - детская и взрослая
 - [Vardanants](https://vcim.am/en/home/) - взрослая
 - [Наири](https://www.nairimed.com/ru) - взрослая
 - [Стоматология Avanta](https://avanta.am/ru/) - детская и взрослая

@@ -83,7 +83,7 @@ last_modified_at: 2022-10-22 04:30
 ### Joli — зоомагазин и ветклиника
 
 - [Магазин на карте](https://yandex.ru/maps/org/veterinarny_tsentr_dzholi/135151397057/)
-- [joli.am](http://joli.am/) — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены.
+- [joli.am](https://joli.am/) — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены.
 - [joli_veterinary_center](https://www.instagram.com//)
 - Корма в продаже: Brit, Monge.
 

@@ -27,7 +27,7 @@ last_modified_at: 2022-10-21
 
 ### Коливинги
 
-- [sosedi.network](http://sosedi.network): сервис для поиска соседей
+- [sosedi.network](https://sosedi.network): сервис для поиска соседей
 - [https://t.me/collivingarmenia](https://t.me/collivingarmenia)
 - [t.me/ArkHelps/15332](https://t.me/ArkHelps/15332): коливинг от Ковчега
 - [https://t.me/ColiveArmeniaChat](https://t.me/ColiveArmeniaChat)
@@ -48,8 +48,8 @@ last_modified_at: 2022-10-21
 
 ### Сайты с жильем
 
-- [list.am](http://list.am): крупнейший сайт с объявлениями, много риэлторов, много мошенников
-- [tunmun](http://tunmun.am/ru): относительно новый ресурс, намного меньше
+- [list.am](https://list.am): крупнейший сайт с объявлениями, много риэлторов, много мошенников
+- [tunmun](https://tunmun.am/ru): относительно новый ресурс, намного меньше
 
 ### Проверенные риэлторы
 

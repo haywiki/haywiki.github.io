@@ -91,7 +91,7 @@ last_modified_at: 2022-10-21 08:30
 
 ### Адреса станций в крупных городах
 
-- [Станции по борьбе с болезнями животных по Москве](http://mosobvet.ru/departament/)
+- [Станции по борьбе с болезнями животных по Москве](https://mos-obvet.ru/clinics/)
 - [Станции по борьбе с болезнями животных по Санкт-Петербургу](http://www.spbvet.ru/structure/stationall/)
 - [Список СББЖ и пунктов ветконтроля в РФ и вне РФ](https://docs.google.com/spreadsheets/d/1wRx7hnck4QOV97gTzuVUp_jLBAr-gwIAeJJ5II8aQjc/edit#gid=0)
 
