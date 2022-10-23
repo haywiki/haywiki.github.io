@@ -1,6 +1,6 @@
 ---
 layout: home
-last_modified_at: 2022-10-23 06:00
+last_modified_at: 2022-10-23 08:00
 ---
 
 <p style="text-align: center;"><img src="/assets/panic.svg" alt="Don't panic!" width="300px"></p>
@@ -65,6 +65,7 @@ Disclaimer: информация на этом сайте написана не 
 
 [//]: # (todo: Банковские карты в Армении)
 
+- [Способы перевода денег из банков РФ в банки Армении](/money/bank-transfer-ru-am.md)
 - [Нужно ли уведомлять налоговую РФ о банковских счетах в Армении?](/money/notifications.md)
 - [Инвестиции и брокерские счета в Армении](./money/investment.md)
 
