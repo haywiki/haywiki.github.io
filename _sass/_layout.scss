@@ -254,4 +254,8 @@
     max-width: 700px;
     height: auto;
   }
+
+  p a, li a, td a {
+    text-decoration: underline;
+  }
 }
