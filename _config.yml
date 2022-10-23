@@ -26,10 +26,12 @@ exclude:
   - vendor/ruby/
   - .idea
   - robots.txt
-
 sass:
   sass_dir: _sass
-
 relative_links:
   enabled:     true
   collections: true
+
+# Content variables
+
+mir_cards_date: "23.10.2022"
