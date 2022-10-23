@@ -59,4 +59,4 @@ redirect_from:
 ## Источники информации
 
 - [Гайд по перевозке домашних животных](https://app.simplenote.com/p/8m020X)
-- [Гайд по кошкам/собакам](https://docs.google.com/document/d/11rGMd9-e0LQL-VJyiDuVLjdosSIQl1QlHDPxwIX6O6o/edit#heading=h.9ht2i1bssg39)
+- [Гайд по кошкам/собакам](https://bit.ly/3F8Gf4x)

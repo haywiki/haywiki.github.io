@@ -56,4 +56,4 @@ last_modified_at: 2022-10-23 06:00
 ## Источники информации
 
 - [Армения: иммиграция, легализация, банки, налоги \| Канал](https://t.me/am_banking_and_residency)
-- [Банки в Армении: FAQ для иммигрантов и туристов](https://docs.google.com/document/d/10ChXMUn6TXN9WgtExoJJAofohxV0BBM9iuhe1IX-zGk/edit#heading=h.3g09c8lbb0fb)
+- [Банки в Армении: FAQ для иммигрантов и туристов](https://bit.ly/armenian-banks-faq)

@@ -55,7 +55,7 @@ last_modified_at: 2022-10-21 08:30
 [аккредитованных ЕС](https://ec.europa.eu/food/animals/movement-pets/approved-rabies-serology-laboratories/non-eu-countries_en) -
 смотрите, чтобы не был заполнен expiration date.
 
-Часть зарубежных адресов есть в [списке СББЖ](https://docs.google.com/spreadsheets/d/1wRx7hnck4QOV97gTzuVUp_jLBAr-gwIAeJJ5II8aQjc/edit#gid=2088162064)
+Часть зарубежных адресов есть в [списке СББЖ](https://bit.ly/3SyGHfs)
 
 В РФ и странах бывшего союза (кроме Грузии) можно сдать в партнёрах
 [NS-Rabies (НОВИСТЕМ)](https://ns-rabies.ru/poleznaya-informatsiya/kliniki-partnery/).

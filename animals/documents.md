@@ -93,7 +93,7 @@ last_modified_at: 2022-10-21 08:30
 
 - [Станции по борьбе с болезнями животных по Москве](https://mos-obvet.ru/clinics/)
 - [Станции по борьбе с болезнями животных по Санкт-Петербургу](http://www.spbvet.ru/structure/stationall/)
-- [Список СББЖ и пунктов ветконтроля в РФ и вне РФ](https://docs.google.com/spreadsheets/d/1wRx7hnck4QOV97gTzuVUp_jLBAr-gwIAeJJ5II8aQjc/edit#gid=0)
+- [Список СББЖ и пунктов ветконтроля в РФ и вне РФ](https://bit.ly/3SyGHfs)
 
 ## Источники информации
 
@@ -101,4 +101,4 @@ last_modified_at: 2022-10-21 08:30
 - [Поездка с питомцем за границу](https://lapka-app.notion.site/96d6675eb113425e959fc7a08e8ce56d)
 - [Инструкция: как путешествовать с животным за рубеж](https://fsvps.gov.ru/ru/ehksport-import/dlya-vladelcev-zhivotnyh/instrukciya)
 - [Гайд по перевозке домашних животных](https://app.simplenote.com/p/8m020X)
-- [Гайд по кошкам/собакам](https://docs.google.com/document/d/11rGMd9-e0LQL-VJyiDuVLjdosSIQl1QlHDPxwIX6O6o/edit#heading=h.9ht2i1bssg39)
+- [Гайд по кошкам/собакам](https://bit.ly/3F8Gf4x)
