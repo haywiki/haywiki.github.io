@@ -253,6 +253,10 @@
     border-radius: .375rem;
     max-width: 700px;
     height: auto;
+
+    @include media-query($on-palm) {
+      width: 100%;
+    }
   }
 }
 
