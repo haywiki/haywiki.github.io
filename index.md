@@ -1,6 +1,6 @@
 ---
 layout: home
-last_modified_at: 2022-10-24 06:30
+last_modified_at: 2022-10-24 07:30
 ---
 
 <p style="text-align: center;"><img src="/assets/panic.svg" alt="Don't panic!" width="300px"></p>
@@ -101,6 +101,7 @@ Disclaimer: информация на этом сайте написана не 
 
 - [Инструкции по открытию и ведению ИП в Армении](/business/ip.md)
 - [Получение и вывод денег с ИП в Армении](/business/ip-money.md)
+- [Удаленное закрытие ИП в РФ без ЭЦП](/business/ru-ip-close.md)
 
 ### Бытовые вопросы
 
