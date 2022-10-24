@@ -18,7 +18,7 @@ last_modified_at: 2022-10-22 04:30
   [для кошек](https://am.wildberries.ru/catalog?category=16347&sort=popular).
 - В приложении [Menu.am](https://menu.am/ru) доступно больше всего
   [зоомагазинов с доставкой](https://menu.am/ru/shops?filters=pet-food).
-- В приложении [яндекс.еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf) есть магазин Haf-Haf.
+- В приложении [яндекс еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf) есть магазин Haf-Haf.
 - В приложении [Glovo](https://glovoapp.com/am/) есть
   [зоомагазины с доставкой](https://glovoapp.com/am/en/yerevan/shops-and-gifts_1554/pet-shop_35518/).
 - Если ваш корм есть в РФ, то можно заказать его через посредника, например Globbing. Вот здесь мы написали
@@ -39,7 +39,7 @@ last_modified_at: 2022-10-22 04:30
 
 - [Магазины на карте](https://yandex.ru/maps/10262/yerevan/search/Haf-Haf/)
 - [haf-haf.am](https://www.haf-haf.am/ru/) — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены
-- У магазина есть доставка через [яндекс.еду](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf)
+- У магазина есть доставка через приложение [яндекс еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf)
 - [haf.hafpetshop](https://www.instagram.com/haf.hafpetshop/)
 - Корма в продаже: Royal Canin.
 
