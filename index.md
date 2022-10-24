@@ -1,6 +1,6 @@
 ---
 layout: home
-last_modified_at: 2022-10-24 04:30
+last_modified_at: 2022-10-24 04:40
 ---
 
 <p style="text-align: center;"><img src="/assets/panic.svg" alt="Don't panic!" width="300px"></p>
@@ -48,6 +48,7 @@ Disclaimer: информация на этом сайте написана не 
 - [Перевод денег из Армении в Россию](/money/bank-transfer-am-ru.md)
 - [Нужно ли уведомлять налоговую РФ о банковских счетах в Армении?](/money/notifications.md)
 - [Инвестиции и брокерские счета в Армении](./money/investment.md)
+- [Ограничения на вывоз наличных из Армении](./moving/out-money.md)
 
 ### [Правовое положение граждан РФ](/migration.md)
 
