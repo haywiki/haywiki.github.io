@@ -32,6 +32,13 @@ relative_links:
   enabled:     true
   collections: true
 
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      display_toc: true
+
 # Content variables
 
 mir_cards_date: "23.10.2022"

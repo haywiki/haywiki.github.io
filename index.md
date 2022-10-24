@@ -1,6 +1,6 @@
 ---
 layout: home
-last_modified_at: 2022-10-24 04:45
+last_modified_at: 2022-10-24 06:30
 ---
 
 <p style="text-align: center;"><img src="/assets/panic.svg" alt="Don't panic!" width="300px"></p>
@@ -27,6 +27,7 @@ Disclaimer: информация на этом сайте написана не 
 - Переезд в Армению с собакой или кошкой [на самолете](/animals/flight-to-armenia.md), [по земле](/animals/ground-to-armenia.md)
 
 - [Как найти жилье в Армении?](/rent-house.md) — контакты, источники и советы по поиску жилья (в том числе с животными)
+- [Нюансы при въезде в Армению по внутреннему паспорту РФ](/moving/without-zagran.md)
 
 ### [Российские банковские карты в Армении](/money/russian-cards.md)
 
@@ -109,6 +110,8 @@ Disclaimer: информация на этом сайте написана не 
 - [Типовые договоры аренды жилья в Армении](/rent-house.md#contract)
 - [Как получить загранпаспорт РФ в Армении?](/documents/zagran.md)
 - [Можно ли податься на Шенгенскую визу или визу США в Армении?](/documents/foreign-visa.md)
+- [Покупка недвижимости в Армении](/life/buying-home.md)
+- [Предварительная запись в банки и госорганы через EarlyOne](/life/earlyone.md)
 
 ### Другие вопросы о жизни в Армении
 

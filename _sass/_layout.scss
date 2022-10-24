@@ -209,12 +209,12 @@
 }
 
 .post-title {
-  @include relative-font-size(2.625);
+  font-size: $base-font-size * 2.625;
   letter-spacing: -1px;
-  line-height: 1;
+  line-height: 1.15;
 
   @include media-query($on-laptop) {
-    @include relative-font-size(2.25);
+    font-size: $base-font-size * 2.25;
   }
 }
 
@@ -254,7 +254,9 @@
     max-width: 700px;
     height: auto;
   }
+}
 
+.home, .post-content {
   p a, li a, td a {
     text-decoration: underline;
   }
