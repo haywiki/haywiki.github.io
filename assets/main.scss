@@ -4,15 +4,6 @@
 
 @import "theme";
 
-.site-title::before {
-  content: url("./logo.svg");
-  display: inline-block;
-  position: relative;
-  width: 50px;
-  top: 8px;
-  margin-right: 5px;
-}
-
 .site-title:hover {
   text-decoration: none !important;
 }
