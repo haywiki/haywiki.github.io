@@ -31,6 +31,8 @@ sass:
 relative_links:
   enabled:     true
   collections: true
+kramdown:
+  parse_block_html: true
 
 defaults:
   - scope:

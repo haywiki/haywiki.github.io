@@ -45,6 +45,8 @@ last_modified_at: 2022-10-24 20:50
 - [https://t.me/armarealty](https://t.me/armarealty)
 - [https://t.me/posutkaerevan](https://t.me/posutkaerevan)
 - [https://t.me/peryerevan](https://t.me/peryerevan)
+  https://t.me/jilyoerevan35
+- rent_yerevan
 
 ### Сайты с жильем
 
