@@ -6,11 +6,6 @@ gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'
 gem 'jekyll-relative-links'
 
-# If you have any plugins, put them here!
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
-end
-
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"

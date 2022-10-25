@@ -7,23 +7,34 @@
 </div>
 
 <footer class="site-footer h-card">
-    <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
     <div class="wrapper">
-        <h2 class="footer-heading">{{ site.title | escape }}</h2>
-        <div class="footer-col-wrapper">
-            <div class="footer-col footer-col-1">
-                <ul class="contact-list">
-                    {%- if site.email -%}
-                    <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.author }}</a></li>
-                    {%- endif -%}
-                </ul>
+        <div class="row">
+            <div class="col-sm-6">
+                <p class="footer-heading">
+                    Подпишитесь на наш еженедельный дайджест
+                </p>
+                <p>
+                    Присылаем не чаще раза в неделю только важные новости о жизни иммигрантов в Армении, а также обновления и изменения гайдов на этом сайте.
+                </p>
+                <div class="subscribe">
+                    <form action="https://login.sendpulse.com/forms/simple/u/eyJ1c2VyX2lkIjo4MTU2Mzk0LCJhZGRyZXNzX2Jvb2tfaWQiOjQ5OTcwOSwibGFuZyI6InJ1In0=" method="post">
+                        <input type="hidden" name="sender" value="anton@haywiki.org">
+                        <input type="email" required name="email" placeholder="Введите ваш е-мейл">
+                        <button>Подписаться</button>
+                    </form>
+                </div>
             </div>
-            <div class="footer-col footer-col-2">
-                {%- include social.html -%}
-            </div>
-            <div class="footer-col footer-col-3">
-                <p>{{- site.description | escape -}}</p>
+            <div class="col-sm-6">
+                <h2 class="footer-heading">{{ site.title | escape }}</h2>
+                <p>
+                    Сайт создан <a class="u-email" href="https://github.com/haywiki">командой HayTeam</a>.<br />
+                    Вы можете присоединиться к команде на <a class="u-email" href="https://github.com/haywiki">github</a>.
+                </p>
+                <p>
+                    <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru">
+                        <img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
+                    </a>
+                </p>
             </div>
         </div>
     </div>

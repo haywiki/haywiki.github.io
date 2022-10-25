@@ -1,7 +1,7 @@
 @mixin row($full-width: "false") {
   box-sizing: border-box;
   margin: 0 auto;
-  width: 100%;
+  //width: 100%;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;

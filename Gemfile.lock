@@ -263,7 +263,6 @@ DEPENDENCIES
   faraday-retry
   github-pages
   http_parser.rb (~> 0.6.0)
-  jekyll-feed (~> 0.6)
   jekyll-redirect-from
   jekyll-relative-links
   jekyll-sitemap

@@ -1,6 +1,6 @@
 title: Путеводитель по переезду в Армению
-author: HayWiki Team
-email: druidvav+haywiki@gmail.com
+author: Команда HayWiki
+email: anton@haywiki.org
 description: >-
   Полезная информация о переезде, жизни и легализации в Армении.
 baseurl: ""
@@ -12,7 +12,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-remote-theme
-#  - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-relative-links

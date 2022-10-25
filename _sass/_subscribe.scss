@@ -1,0 +1,45 @@
+.subscribe {
+  text-align: center;
+
+  input[type=email] {
+    display: inline-block;
+    vertical-align: bottom;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    border-radius: .3rem;
+  }
+
+  button {
+    display: inline-block;
+    vertical-align: bottom;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid #337ab7;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    border-radius: .3rem;
+    color: #fff;
+    background-color: #337ab7;
+    &:hover {
+      background-color: #2b689c;
+      border-color: #296292;
+    }
+  }
+}
