@@ -1,6 +1,7 @@
 ---
 layout: home
 last_modified_at: 2022-10-25 08:00
+display_comments: false
 ---
 
 ![Флаг Армении на фоне Арарата](/files/ararat.jpg)
@@ -155,15 +156,3 @@ Disclaimer: информация на этом сайте написана не 
 
 - ["История Армении" (Фильм кинокомпании HAYK)](https://youtu.be/w6M5bD2J5hs) — очень советуем посмотреть!
 - [Какие армянские вина стоит попробовать?](/armenian-wines.md)
-
-### Важнейшие источники информации!
-
-- [Армения: иммиграция, легализация, банки, налоги](https://t.me/am_banking_and_residency)
-- [Банки в Армении: FAQ для иммигрантов и туристов](https://bit.ly/armenian-banks-faq)
-- [Резидентство и Легализация в Армении: FAQ для Иммигрантов](https://bit.ly/armenian-residency-faq)
-- [Сводная таблица с условиями и особенностями банков в РА](https://bit.ly/am-banks)
-- [Официальный FAQ по релокации от Министерства Экономики РА](https://mineconomy.am/media/18156/reloc_mineconomy.pdf)
-
-### Обратная связь
-
-Авторы данного сайта и многих из FAQ для иммигрантов обитают в [этом чате](https://t.me/am_banking_and_relocation_chat).

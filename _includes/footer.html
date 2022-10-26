@@ -1,12 +1,13 @@
-
-<div class="site-footer h-card">
-    <div class="wrapper">
-        <h2 class="footer-heading">Есть вопросы или дополнения? Пишите комментарий!</h2>
-        <div id="anycomment-app"></div>
+{% if page.display_comments %}
+    <div class="site-footer">
+        <div class="wrapper">
+            <h2 class="footer-heading">Есть вопросы или дополнения? Пишите комментарий!</h2>
+            <div id="anycomment-app"></div>
+        </div>
     </div>
-</div>
+{% endif %}
 
-<footer class="site-footer h-card">
+<footer class="site-footer darken">
     <div class="wrapper">
         <div class="row">
             <div class="col-sm-6">
@@ -41,14 +42,7 @@
 </footer>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2LG5FDB49T"></script>
-<script type="text/javascript" >
-    AnyComment = window.AnyComment || []; AnyComment.Comments = [];
-    AnyComment.Comments.push({ "root": "anycomment-app", "app_id": 4537, "language": "ru" })
-    var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
-    s.src = "https://widget.anycomment.io/comment/embed.js";
-    var sa = document.getElementsByTagName("script")[0];
-    sa.parentNode.insertBefore(s, s.nextSibling);
-
+<script type="text/javascript">
     (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
         m[i].l=1*new Date();
         for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
@@ -63,3 +57,14 @@
 
     gtag('config', 'G-2LG5FDB49T');
 </script>
+
+{% if page.display_comments %}
+    <script type="text/javascript">
+        AnyComment = window.AnyComment || []; AnyComment.Comments = [];
+        AnyComment.Comments.push({ "root": "anycomment-app", "app_id": 4537, "language": "ru" })
+        var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
+        s.src = "https://widget.anycomment.io/comment/embed.js";
+        var sa = document.getElementsByTagName("script")[0];
+        sa.parentNode.insertBefore(s, s.nextSibling);
+    </script>
+{% endif %}

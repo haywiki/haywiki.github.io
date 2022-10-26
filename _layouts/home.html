@@ -3,25 +3,48 @@ layout: default
 ---
 
 <div class="home">
-  {{ content }}
+  <div class="wrapper">
+    {{ content }}
+  </div>
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+    <div class="posts">
+      <div class="wrapper">
+        <h2 class="post-list-heading">{{ page.list_title | default: "Новости и обновления" }}</h2>
+        <ul class="post-list">
+          {%- for post in site.posts -%}
+          <li>
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+            <h3>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </h3>
+            {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+            <p>
+              <a href="{{ post.url | relative_url }}">Читать далее</a>
+            </p>
+            {%- endif -%}
+          </li>
+          {%- endfor -%}
+        </ul>
+      </div>
+    </div>
   {%- endif -%}
+
+  <div class="wrapper">
+    <h2>Важнейшие источники информации!</h2>
+    <ul>
+      <li><a href="https://t.me/am_banking_and_residency">Армения: иммиграция, легализация, банки, налоги</a></li>
+      <li><a href="https://bit.ly/armenian-banks-faq">Банки в Армении: FAQ для иммигрантов и туристов</a></li>
+      <li><a href="https://bit.ly/armenian-residency-faq">Резидентство и Легализация в Армении: FAQ для Иммигрантов</a></li>
+      <li><a href="https://bit.ly/am-banks">Сводная таблица с условиями и особенностями банков в РА</a></li>
+      <li><a href="https://mineconomy.am/media/18156/reloc_mineconomy.pdf">Официальный FAQ по релокации от Министерства Экономики РА</a></li>
+    </ul>
+
+    <h2>Обратная связь</h2>
+    <p>Авторы данного сайта и многих из FAQ для иммигрантов обитают в <a href="https://t.me/am_banking_and_relocation_chat">этом чате</a>.</p>
+  </div>
 </div>

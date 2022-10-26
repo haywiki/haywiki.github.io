@@ -2,28 +2,30 @@
 layout: default
 ---
 
-<nav>
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="/">Главная</a></li>
-    {% if page.parent_url %}
-      <li class="breadcrumb-item"><a href="{{ page.parent_url | relative_url }}">{{ page.parent_title }}</a></li>
+<div class="wrapper">
+  <nav>
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="/">Главная</a></li>
+      {% if page.parent_url %}
+        <li class="breadcrumb-item"><a href="{{ page.parent_url | relative_url }}">{{ page.parent_title }}</a></li>
+      {% endif %}
+      <li class="breadcrumb-item active" aria-current="page"><a href="{{ page.permalink }}">{{ page.title }}</a></li>
+    </ol>
+  </nav>
+
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+    </header>
+
+    {% if page.display_toc %}
+      <div class="post-toc">
+        {% include toc.html html=content %}
+      </div>
     {% endif %}
-    <li class="breadcrumb-item active" aria-current="page"><a href="{{ page.permalink }}">{{ page.title }}</a></li>
-  </ol>
-</nav>
 
-<article class="post">
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-
-  {% if page.display_toc %}
-    <div class="post-toc">
-      {% include toc.html html=content %}
+    <div class="post-content">
+      {{ content }}
     </div>
-  {% endif %}
-
-  <div class="post-content">
-    {{ content }}
-  </div>
-</article>
+  </article>
+</div>

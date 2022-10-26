@@ -7,6 +7,7 @@ baseurl: ""
 url: "https://haywiki.org"
 github_username: haywiki
 lang: ru
+show_excerpts: true
 
 markdown: kramdown
 theme: minima
@@ -39,6 +40,13 @@ defaults:
       type: "pages"
     values:
       display_toc: true
+      display_comments: true
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      display_toc: false
+      display_comments: true
 
 # Content variables
 
