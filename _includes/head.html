@@ -7,7 +7,5 @@
   <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,800,800i|Noto+Serif|Noto+Sans+Mono:300,600&subset=cyrillic&display=swap" rel="stylesheet">
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
-  {%- endif -%}
+  {% include opengraph.html %}
 </head>
