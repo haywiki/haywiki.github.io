@@ -34,4 +34,4 @@ $breadcrumb-separator:          "/" !default;
 $toc-title: "Содержание страницы" !default;
 
 @import "flexboxgrid/main";
-@import "base", "code", "adaptive", "breadcrumb", "syntax-highlighting", "content", "_layout/main";
+@import "base", "code", "adaptive", "syntax-highlighting", "content", "_layout/main";

@@ -32,10 +32,14 @@
   border-radius: .25rem;
   padding: .5rem 1rem;
   font-size: .9rem;
-  margin: 1rem 3rem 1rem 0;
+  margin: 1rem 0;
 
   > ul {
     margin: 0;
+  }
+
+  @media #{$breakpoint-sm-up} {
+    margin: 1rem 3rem 1rem 0;
   }
 
   @media #{$breakpoint-md-up} {
