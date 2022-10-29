@@ -5,16 +5,16 @@ code {
   font-weight: $code-font-weight;
   line-height: $code-line-height;
   border: 1px solid $grey-color-light;
-  border-radius: 3px;
+  border-radius: .3rem;
   background-color: #eef;
 }
 
 code {
-  padding: 1px 5px;
+  padding: 1px .5rem;
 }
 
 pre {
-  padding: 8px 12px;
+  padding: .4rem .8rem;
   overflow-x: auto;
 
   > code {

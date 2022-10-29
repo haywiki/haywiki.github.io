@@ -2,16 +2,11 @@ $base-font-family: "Noto Sans", sans-serif !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $bold-font-weight: 800 !default;
-$small-font-size:  $base-font-size * 0.8 !default;
 $base-line-height: 1.75 !default;
 
 $heading-font-family: "Noto Serif", serif !default;
 
-$content-width:    990px !default;
-$spacing-unit:     20px !default;
-
-$on-palm:          767.98px !default;
-$on-laptop:        991.98px !default;
+$content-width:    60rem !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
@@ -25,16 +20,12 @@ $grey-color-bg: #f9f9f9 !default;
 $blockquote-color: #4d4d4d !default;
 $blockquote-color-light: #039be5 !default;
 
-$table-text-align: left !default;
-
 $code-font-family: "Noto Sans Mono", monospace !default;
 $code-font-weight: 300;
 $code-font-weight-bold: 600;
 $code-font-size:   90%;
 $code-line-height: 1.4;
 
-$breadcrumb-padding-vertical:   8px !default;
-$breadcrumb-padding-horizontal: 15px !default;
 $breadcrumb-bg:                 lighten($grey-color, 45%) !default;
 $breadcrumb-color:              #ccc !default;
 $breadcrumb-active-color:       $grey-color-dark !default;
@@ -43,4 +34,4 @@ $breadcrumb-separator:          "/" !default;
 $toc-title: "Содержание страницы" !default;
 
 @import "flexboxgrid/main";
-@import "base", "code", "blockquote", "table", "adaptive", "breadcrumb", "layout", "syntax-highlighting", "toc", "subscribe";
+@import "base", "code", "adaptive", "breadcrumb", "syntax-highlighting", "content", "_layout/main";

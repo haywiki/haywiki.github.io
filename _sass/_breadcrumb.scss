@@ -1,15 +1,15 @@
 .breadcrumb {
-  padding: $breadcrumb-padding-vertical $breadcrumb-padding-horizontal;
-  margin: 0 0 $spacing-unit;
+  padding: .5rem 1rem;
+  margin: 0 0 1rem;
   list-style: none;
   background-color: $breadcrumb-bg;
-  border-radius: $spacing-unit / 4;
+  border-radius: .25rem;
 
   > li {
     display: inline-block;
 
     + li:before {
-      padding: 0 5px;
+      padding: 0 .3rem;
       color: $breadcrumb-color;
       // [converter] Workaround for https://github.com/sass/libsass/issues/1115
       $nbsp: "\00a0";
@@ -22,5 +22,9 @@
     a {
       color: $breadcrumb-active-color;
     }
+  }
+
+  a {
+    text-decoration: none !important;
   }
 }

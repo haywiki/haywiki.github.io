@@ -1,11 +1,17 @@
 .subscribe {
   text-align: center;
 
-  input[type=email] {
+  input, button {
     display: inline-block;
     vertical-align: bottom;
-    font-weight: 400;
+    font-weight: $base-font-weight;
     line-height: 1.5;
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    border-radius: .3rem;
+  }
+
+  input[type=email] {
     color: #212529;
     background-color: #fff;
     background-clip: padding-box;
@@ -14,16 +20,9 @@
     -moz-appearance: none;
     appearance: none;
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-    padding: .5rem 1rem;
-    font-size: 1rem;
-    border-radius: .3rem;
   }
 
   button {
-    display: inline-block;
-    vertical-align: bottom;
-    font-weight: 400;
-    line-height: 1.5;
     text-align: center;
     cursor: pointer;
     -webkit-user-select: none;
@@ -31,10 +30,7 @@
     -ms-user-select: none;
     user-select: none;
     border: 1px solid #337ab7;
-    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-    padding: .5rem 1rem;
-    font-size: 1rem;
-    border-radius: .3rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
     color: #fff;
     background-color: #337ab7;
     &:hover {

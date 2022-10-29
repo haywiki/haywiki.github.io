@@ -4,7 +4,7 @@ last_modified_at: 2022-10-29 10:00
 display_comments: false
 ---
 
-![Флаг Армении на фоне Арарата](/files/ararat.jpg)
+![Флаг Армении на фоне Арарата](/files/ararat.jpg){: .default}
 
 На этом сайте мы собрали важную и полезную информацию по переезду, легализации и адаптации в Армении.
 
@@ -15,8 +15,7 @@ Disclaimer: информация на этом сайте написана не 
 [Основные сайты и сервисы в Армении](/websites.md) &nbsp; [Полезные каналы и чаты в Telegram](/telegram-groups.md)
 {: style="text-align: center;"}
 
-![Состояние работы платежных карт в Армении](/files/cards-status.jpg)
-{: style="max-width: 600px; display: block; margin: 0 auto;"}
+![Состояние работы платежных карт в Армении](/files/cards-status.jpg){: .cards-status}
 
 Карты МИР работают нормально (по состоянию на {{ site.mir_cards_date }}). Подробнее о
 [покупках](/money/russian-cards.md#mir) и о [снятии наличных](/money/russian-cards.md#cash) с карт МИР.

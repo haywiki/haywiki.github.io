@@ -5,7 +5,7 @@ last_modified_at: 2022-10-25 08:00
 display_toc: false
 ---
 
-<div class="telegram-groups">
+<div class="cards">
 <div class="card-wide">
 
 - [list.am](https://list.am/) — аналог Авито, крупнейшая площадка по жилью, продаже товаров и поиску работы.
