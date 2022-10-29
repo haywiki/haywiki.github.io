@@ -1,6 +1,6 @@
 ---
 layout: home
-last_modified_at: 2022-10-25 08:00
+last_modified_at: 2022-10-29 10:00
 display_comments: false
 ---
 
@@ -133,6 +133,7 @@ Disclaimer: информация на этом сайте написана не 
 
 ### Бытовые вопросы
 
+- [Важные контакты для жизни в Армении](/life/services.md)
 - [Где вакцинироваться от Covid-19 в Ереване?](/covid-vaccine.md)
 - [Где найти нотариуса в Ереване?](/attorneys.md)
 - [Как получить загранпаспорт РФ в Армении?](/documents/zagran.md)
