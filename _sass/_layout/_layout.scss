@@ -12,8 +12,11 @@
     color: black;
   }
 
-  .row {
-    margin: 0 -1rem;
+  .footer-col {
+    @include col("xs", 12);
+    @include col("md", 6);
+    padding: 0 1rem !important;
+    margin-bottom: 2rem;
     color: $grey-color;
     font-size: 0.9375rem;
   }
