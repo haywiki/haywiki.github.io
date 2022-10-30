@@ -133,6 +133,13 @@
         font-size: 1rem;
       }
     }
+
+    &.vet {
+      li {
+        font-size: 1rem;
+        color: $text-color;
+      }
+    }
   }
 }
 

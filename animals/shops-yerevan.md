@@ -3,7 +3,7 @@ title: Зоомагазины в Ереване
 layout: page
 parent_title: Жизнь с питомцем
 parent_url: /animals/
-last_modified_at: 2022-10-22 04:30
+last_modified_at: 2022-10-30 11:00
 display_toc: false
 ---
 
@@ -27,7 +27,9 @@ display_toc: false
 
 ## Карта зоомагазинов
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/ru/map/map_826834?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&datalayers=2480563"></iframe><p><a href="//umap.openstreetmap.fr/ru/map/map_826834">Смотреть в полноэкранном режиме</a></p>
+<iframe width="100%" height="450px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/ru/map/map_826834?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&datalayers=2480563"></iframe>
+
+[Смотреть в полноэкранном режиме](https://umap.openstreetmap.fr/ru/map/map_826834)
 
 ## Крупнейшие зоомагазины
 
@@ -36,30 +38,30 @@ display_toc: false
 - [Магазины на карте](https://yandex.ru/maps/10262/yerevan/search/Kakadu/)
 - [kakadu.am](https://kakadu.am) — на сайте указаны адреса и контактные телефоны
 - [Facebook](https://m.facebook.com/KAKADUSshops/)
-  [kakadu_armenia](https://www.instagram.com/kakadu_armenia/) [kakadu_petshop](https://www.instagram.com/kakadu_petshop/)
-  [kakadu_zooland_](https://www.instagram.com/kakadu_zooland_/)
+  [kakadu_armenia](https://instagram.com/kakadu_armenia/) [kakadu_petshop](https://instagram.com/kakadu_petshop/)
+  [kakadu_zooland_](https://instagram.com/kakadu_zooland_/)
 - Корма в продаже: Monge, Acana, Orijen.
 
 ### Haf-Haf
 
 - [Магазины на карте](https://yandex.ru/maps/10262/yerevan/search/Haf-Haf/)
-- [haf-haf.am](https://www.haf-haf.am/ru/) — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены
+- [haf-haf.am](https://haf-haf.am/ru/) — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены
 - У магазина есть доставка через приложение [яндекс еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf)
-- [haf.hafpetshop](https://www.instagram.com/haf.hafpetshop/)
+- [haf.hafpetshop](https://instagram.com/haf.hafpetshop/)
 - Корма в продаже: Royal Canin.
 
 ### PetCity
 
 - [Магазины на карте](https://yandex.ru/maps/10262/yerevan/search/PetCity/)
 - [petcity.am](https://petcity.am/ru/homepage-2) — на сайте можно заказать доставку.
-- Instagram: [pet_city.am](https://www.instagram.com/pet_city.am/)
+- Instagram: [pet_city.am](https://instagram.com/pet_city.am/)
 - Корма в продаже: Royal Canin, Purina ProPlan, Monge, Acana, Farmina VetLife, N&D и другие
 
 ### Nemo — интернет-магазин с доставкой
 
 - [Магазин на карте](https://yandex.ru/maps/org/nemo/191697089221/)
 - [nemo.am](https://nemo.am/) — на сайте можно заказать доставку.
-- Instagram: [nemo_petstore](https://www.instagram.com/nemo_petstore/)
+- Instagram: [nemo_petstore](https://instagram.com/nemo_petstore/)
 - Корма в продаже: Royal Canin, Acana, Purina ProPlan, Mr.Buffalo, Monge, Orijen, bonmascota и другие
 
 ## Другие зоомагазины
@@ -68,13 +70,13 @@ display_toc: false
 
 - [Магазин на карте](https://goo.gl/maps/a9LGfFGQkHstkQuy6)
 - [zoomall.am](https://zoomall.am/)
-- Instagram: [zoomall4](https://www.instagram.com/zoomall4/)
+- Instagram: [zoomall4](https://instagram.com/zoomall4/)
 - Корма в продаже: Royal Canin, Monge, Acana
 
 ### Zoo Shop
 
 - [Магазин на карте](https://yandex.ru/maps/org/zoo_shop/16779486277/)
-- Instagram: [zooshop_yerevan](https://www.instagram.com/zooshop_yerevan/)
+- Instagram: [zooshop_yerevan](https://instagram.com/zooshop_yerevan/)
 - Контактный телефон: +374 95 049905
 - Корма в продаже: Royal Canin, Monge
 
@@ -82,21 +84,21 @@ display_toc: false
 
 - Адрес: [ул. Амиряна, 10](https://yandex.ru/maps/org/amiryanvet/209808278094/)
 - Контактный телефон: +374 95 560119
-- [amiryanvet](https://www.instagram.com/amiryanvet/)
+- [amiryanvet](https://instagram.com/amiryanvet/)
 - Корма в продаже: Purina / Pro Plan
 
 ### Joli — зоомагазин и ветклиника
 
 - [Магазин на карте](https://yandex.ru/maps/org/veterinarny_tsentr_dzholi/135151397057/)
 - [joli.am](https://joli.am/) — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены.
-- [joli_veterinary_center](https://www.instagram.com//)
+- [joli_veterinary_center](https://instagram.com/joli_veterinary_center/)
 - Корма в продаже: Brit, Monge.
 
 ### Quercus — зоомагазин и ветклиника
 
 - Адрес: [ул. Казара Парпеци, 17/3](https://yandex.ru/maps/org/quercus_vet_clinic_zoosalon/181982950255/)
 - Контактный телефон: +374 10 537602
-- [vet.clinic_quercus](https://www.instagram.com/vet.clinic_quercus/)
+- [vet.clinic_quercus](https://instagram.com/vet.clinic_quercus/)
 - Корма в продаже: Monge
 
 ### Forest Voices zoo market
@@ -104,7 +106,7 @@ display_toc: false
 - Адрес: [проспект Комитаса, 30](https://yandex.ru/maps/org/forest_voices_zoomagazin/99596547688/)
 - Адрес: [ул. Хачатура Абовяна, 36](https://yandex.ru/maps/org/forest_voices_zoomagazin/57855023163/)
 - Контактный телефон: +374 77 288098
-- [Facebook](https://www.facebook.com/zoomarket1/about)
+- [Facebook](https://facebook.com/zoomarket1/about)
 - Корма в продаже: Monge, Royal Canin
 
 ### Zoo Market Zooashxarh
@@ -114,5 +116,5 @@ display_toc: false
 - Адрес: [ул. Грачья Ачаряна, 30](https://yandex.ru/maps/org/33139129154/)
 - Контактный телефон: +374 93 528877
 - [zoomarket.am](https://zoomarket.am/)
-- [Facebook](https://www.facebook.com/Zooashkharh/)
+- [Facebook](https://facebook.com/Zooashkharh/)
 - Корма в продаже: Monge, Royal Canin
