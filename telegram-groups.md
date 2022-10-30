@@ -106,7 +106,7 @@ display_toc: false
 - [Переезд в Дилижан, Армения](https://t.me/dilijanforlife)
 
 </div>
-<div class="col-md-12">
+<div class="card-wide">
 
 ## Сообщества по интересам
 

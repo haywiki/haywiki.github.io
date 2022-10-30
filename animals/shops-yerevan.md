@@ -3,7 +3,7 @@ title: Зоомагазины в Ереване
 layout: page
 parent_title: Жизнь с питомцем
 parent_url: /animals/
-last_modified_at: 2022-10-30 11:00
+last_modified_at: 2022-10-31 02:00
 display_toc: false
 ---
 
@@ -27,9 +27,7 @@ display_toc: false
 
 ## Карта зоомагазинов
 
-<iframe width="100%" height="450px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/ru/map/map_826834?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&datalayers=2480563"></iframe>
-
-[Смотреть в полноэкранном режиме](https://umap.openstreetmap.fr/ru/map/map_826834)
+{%- include animals-map.md layers="2480563#12/40.2012/44.5199" -%}
 
 ## Крупнейшие зоомагазины
 

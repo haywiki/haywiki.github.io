@@ -3,13 +3,11 @@ title: Ветеринарные клиники и услуги в Армении
 layout: page
 parent_title: Жизнь с питомцем
 parent_url: /animals/
-last_modified_at: 2022-10-30 11:00
+last_modified_at: 2022-10-31 02:00
 display_toc: false
 ---
 
-<iframe width="100%" height="450px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/ru/map/map_826834?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&datalayers=2480568%2C2480573#13/40.2012/44.5199"></iframe>
-
-[Смотреть в полноэкранном режиме](https://umap.openstreetmap.fr/ru/map/map_826834)
+{%- include animals-map.md layers="2480568,2480573#11/40.2012/44.5199" -%}
 
 ## Клиники и услуги в Ереване {#yerevan}
 

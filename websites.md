@@ -72,7 +72,7 @@ display_toc: false
 - [job.banks.am](https://job.banks.am/am)
 
 </div>
-<div class="col-md-12">
+<div class="card-wide">
 
 ## Смотрите также
 
