@@ -4,6 +4,7 @@ layout: page
 parent_title: Жизнь с питомцем
 parent_url: /animals/
 last_modified_at: 2022-10-22 04:30
+display_toc: false
 ---
 
 В Ереване есть множество зоомагазинов, но по сравнению с Россией есть некоторые особенности.
@@ -23,6 +24,10 @@ last_modified_at: 2022-10-22 04:30
   [зоомагазины с доставкой](https://glovoapp.com/am/en/yerevan/shops-and-gifts_1554/pet-shop_35518/).
 - Если ваш корм есть в РФ, то можно заказать его через посредника, например Globbing. Вот здесь мы написали
   [инструкцию как это сделать](../delivery/globbing-from-russia.md).
+
+## Карта зоомагазинов
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/ru/map/map_826834?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&datalayers=2480563"></iframe><p><a href="//umap.openstreetmap.fr/ru/map/map_826834">Смотреть в полноэкранном режиме</a></p>
 
 ## Крупнейшие зоомагазины
 

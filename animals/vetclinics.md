@@ -4,7 +4,12 @@ layout: page
 parent_title: Жизнь с питомцем
 parent_url: /animals/
 last_modified_at: 2022-10-21 08:30
+display_toc: false
 ---
+
+## Клиники на карте
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/ru/map/map_826834?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&datalayers=2480568#13/40.1863/44.5327"></iframe><p><a href="//umap.openstreetmap.fr/ru/map/map_826834">Смотреть в полноэкранном режиме</a></p>
 
 ## Клиники в Ереване {#yerevan}
 
