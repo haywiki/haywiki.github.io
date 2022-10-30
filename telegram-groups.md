@@ -1,7 +1,7 @@
 ---
 title: Полезные каналы и чаты в Telegram
 layout: page
-last_modified_at: 2022-10-25 08:00
+last_modified_at: 2022-10-31 03:00
 display_toc: false
 ---
 
@@ -87,6 +87,7 @@ display_toc: false
 - [Куда пойдем в Ереване?](https://t.me/review_armenia) — гастрономические обзоры, дайджест-афиша по четвергам и отзывчивое комьюнити в комментариях.
 - [Urban ARMENIA](https://t.me/urbanarmenia) — нестандартные экскурсии.
 - [Гастронавты Еревана](https://t.me/gastroneersYerevan) — место, где можно поделиться своими гастрономическими открытиями в Ереване и узнать про новые места, где можно вкусно поесть.
+- [Понаприехали!](https://t.me/offtoarmenia) — О вкусной и интересной жизни в Армении!
 
 </div>
 <div class="card">
