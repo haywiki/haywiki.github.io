@@ -1,7 +1,7 @@
 ---
 title: Жизнь с собакой или кошкой в Армении
 layout: page
-last_modified_at: 2022-11-01 05:30
+last_modified_at: 2022-11-01 06:30
 redirect_from:
 - /animals/to-armenia
 ---
@@ -17,6 +17,7 @@ redirect_from:
 - [Инструкция по переезду на самолете](flight-to-armenia.md)
 - [Инструкция по переезду по земле](ground-to-armenia.md) (например, на машине)
 - [Pet-friendly гостиницы в Армении](hotels.md)
+- [Успокоительные препараты для собак и кошек](sedation.md)
 - [Поиск жилья в Армении](../rent-house.md)
 
 ## Где покупать корм, игрушки, аксессуары? {#howtobuy}
