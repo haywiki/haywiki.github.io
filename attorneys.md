@@ -21,13 +21,13 @@ last_modified_at: 2022-10-21
 - Рядом множество переводчиков
 - Средние цены, но бывают очереди
 
-### "Кентрон-4"
+### «Кентрон-4»
 
 - Адрес: [ул. Байрона, 6](https://yandex.ru/maps/10262/yerevan/house/YE0YcwZnT0wDQFpqfX15d31kZg==/)
 - Нотариус [Манукян Марине Герасимовна](https://www.spyur.am/ru/companies/yerevan-notarial-district-kentron-4-residence/71509)
 - Работает по субботам и есть адекватный переводчик, спасли когда в субботу нужна была доверенность для РФ
 
-### "Эребуни-2"
+### «Эребуни-2»
 
 - [Контактная информация](https://www.spyur.am/ru/companies/yerevan-notarial-district-erebuni-2-residence/43731)
 - Адрес: [ул. Эребуни, 27](https://yandex.ru/maps/org/yerebuni_2/228695746820/)

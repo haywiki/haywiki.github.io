@@ -21,5 +21,5 @@ last_modified_at: 2022-10-23 05:20
 
 Помимо текстов законов, указов, и [пояснений от ЦБ РФ](https://www.cbr.ru/faq/w_fin_sector/), нам кажутся достойными доверия следующие ресурсы на тему:
 
-- [Telegram-канал "Счета валютных резидентов за рубежом"](https://t.me/+RE0haAqcKiIyMmYy) предоставляет сводки обсуждений в [одноименном чате](https://t.me/+fVDnu0bGaqNiYTVi)
+- [Telegram-канал «Счета валютных резидентов за рубежом»](https://t.me/+RE0haAqcKiIyMmYy) предоставляет сводки обсуждений в [одноименном чате](https://t.me/+fVDnu0bGaqNiYTVi)
 - [Телеграм-канал FTL Advisers](https://t.me/ftladvisers)

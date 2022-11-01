@@ -10,7 +10,7 @@ last_modified_at: 2022-11-01 05:30
 
 Для международных поездок у собаки и кошки должен быть ветеринарный паспорт. Если у вас его нет — нужно его приобрести.
 Подойдет, например, [вот такой](https://4lapy.ru/catalog/veterinarnaya-apteka/universalnye/veterinarnyy-pasport-universalnye/veterinarnyy_pasport_chetyre_lapy.html)
-из магазина "Четыре лапы".
+из магазина «Четыре лапы».
 
 Заполните самостоятельно первую страницу паспорта с информацией о животном, вклейте фотографию, заполните на второй
 странице информацию о владельце. Остальную информацию в паспорте заполнит ветеринарный врач.
@@ -113,5 +113,5 @@ last_modified_at: 2022-11-01 05:30
 - [Как разобраться в правилах путешествий с собакой](https://bavarian-hound.com/trips/documents.html)
 - [Поездка с питомцем за границу](https://lapka-app.notion.site/96d6675eb113425e959fc7a08e8ce56d)
 - [Инструкция: как путешествовать с животным за рубеж](https://fsvps.gov.ru/ru/ehksport-import/dlya-vladelcev-zhivotnyh/instrukciya)
-- [Гайд от команды чата "Увожу Кроликов"](https://rabbitsleavingrussia.wiki/)
+- [Гайд от команды чата «Увожу Кроликов»](https://rabbitsleavingrussia.wiki/)
 - [Гайд по кошкам/собакам](https://bit.ly/3F8Gf4x)
