@@ -3,7 +3,7 @@ title: Подготовка питомца к путешествию
 layout: page
 parent_title: Переезд с питомцем
 parent_url: /animals/
-last_modified_at: 2022-10-30 07:00
+last_modified_at: 2022-11-01 05:30
 ---
 
 ## Ветеринарный паспорт {#vetpassport}
@@ -113,5 +113,5 @@ last_modified_at: 2022-10-30 07:00
 - [Как разобраться в правилах путешествий с собакой](https://bavarian-hound.com/trips/documents.html)
 - [Поездка с питомцем за границу](https://lapka-app.notion.site/96d6675eb113425e959fc7a08e8ce56d)
 - [Инструкция: как путешествовать с животным за рубеж](https://fsvps.gov.ru/ru/ehksport-import/dlya-vladelcev-zhivotnyh/instrukciya)
-- [Гайд по перевозке домашних животных](https://app.simplenote.com/p/8m020X)
+- [Гайд от команды чата "Увожу Кроликов"](https://rabbitsleavingrussia.wiki/)
 - [Гайд по кошкам/собакам](https://bit.ly/3F8Gf4x)

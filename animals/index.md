@@ -1,7 +1,7 @@
 ---
 title: Жизнь с собакой или кошкой в Армении
 layout: page
-last_modified_at: 2022-10-31 02:00
+last_modified_at: 2022-11-01 05:30
 redirect_from:
 - /animals/to-armenia
 ---
@@ -43,9 +43,8 @@ redirect_from:
 
 - **[Поездка с животным в Грузию](to-georgia.md)**
 - **[Возвращение с питомцем в Россию](return-to-russia.md)**
+- [Требования на ввоз по странам от команды чата "Увожу Кроликов"](https://rabbitsleavingrussia.wiki/w/Требования_стран_к_ввозу_животных)
 - [Где сделать титры антител к бешенству?](rabies-titers.md#лаборатории-в-армении)
-- [Перевозка животных не из РФ](https://app.simplenote.com/p/rNbbPH)
-- [Требования на ввоз по разным странам](https://app.simplenote.com/p/Bfndg9)
 
 ## Бытовые вопросы жизни в Армении с питомцем
 
@@ -65,5 +64,5 @@ redirect_from:
 
 ## Источники информации
 
-- [Гайд по перевозке домашних животных](https://app.simplenote.com/p/8m020X)
+- [Гайд от команды чата "Увожу Кроликов"](https://rabbitsleavingrussia.wiki/)
 - [Гайд по кошкам/собакам](https://bit.ly/3F8Gf4x)

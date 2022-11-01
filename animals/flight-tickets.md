@@ -3,7 +3,7 @@ title: Покупка билета на самолет с питомцем
 layout: page
 parent_title: Перелет с питомцем
 parent_url: /animals/flight-to-armenia.html
-last_modified_at: 2022-10-21 08:00
+last_modified_at: 2022-11-01 05:30
 ---
 
 ## Покупка авиабилета с питомцем
@@ -63,5 +63,5 @@ Armenia Air Company разрешает сначала купить билет н
 
 ## Источник информации
 
-- [Титры на антитела к бешенству](https://app.simplenote.com/p/T0hr6m)
+- [Гайд от команды чата "Увожу Кроликов"](https://rabbitsleavingrussia.wiki/w/Титры:_Когда_они_нужны_и_когда_не_нужны._Краткое_руководство)
 - [Канал "Увожу кроликов"](https://t.me/+Cm_ikyupPDQ4ZDdi)
