@@ -75,6 +75,10 @@
     }
   }
 
+  li {
+    margin-bottom: 0.2rem;
+  }
+
   blockquote {
     color: $blockquote-color;
     border-left: 0.2em solid $blockquote-color-light;

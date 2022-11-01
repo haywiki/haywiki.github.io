@@ -47,7 +47,8 @@ defaults:
     values:
       display_toc: false
       display_comments: true
+      more_text: Читать далее
 
 # Content variables
 
-mir_cards_date: "28.10.2022"
+mir_cards_date: "31.10.2022"
