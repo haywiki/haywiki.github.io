@@ -1,0 +1,40 @@
+name: Deploy Jekyll site
+
+on:
+  push:
+    branches: ["main"]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+env:
+  CURRENT_DIR: /srv/haywiki.org/current
+  RELEASES_DIR: /srv/haywiki.org/releases
+
+jobs:
+  build-deploy:
+    runs-on: self-hosted
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Build with Jekyll
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+      - name: Copy result
+        run: |
+          mkdir "$RELEASES_DIR/$GITHUB_RUN_NUMBER"
+          cp -R "./_site/." "$RELEASES_DIR/$GITHUB_RUN_NUMBER"
+      - name: Switch symlink
+        run: |
+          rm -Rf ${CURRENT_DIR}
+          ln -s "$RELEASES_DIR/$GITHUB_RUN_NUMBER" ${CURRENT_DIR}
+      - name: Reload nginx
+        run: sudo service nginx reload
