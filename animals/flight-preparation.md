@@ -4,8 +4,6 @@ layout: page
 parent_title: Перелет с питомцем
 parent_url: /animals/flight-to-armenia.html
 last_modified_at: 2022-10-21
-redirect_from:
-- /animals/preparations
 ---
 
 **Золотое правило звучит так: чем спокойнее вы, тем спокойнее ваш питомец.**

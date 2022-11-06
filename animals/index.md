@@ -2,10 +2,6 @@
 title: Жизнь с собакой или кошкой в Армении
 layout: page
 last_modified_at: 2022-11-01 06:30
-redirect_from:
-- /animals/to-armenia
-- /animals/in-armenia
-- /animals/flight
 ---
 
 **[Армения с питомцем](https://t.me/armenia_pets)** — чат, в котором можно обсудить все вопросы
