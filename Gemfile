@@ -1,10 +1,14 @@
 source "https://rubygems.org"
 
-gem "minima", "~> 2.0"
-gem "github-pages", group: :jekyll_plugins
-gem 'jekyll-sitemap'
-gem 'jekyll-redirect-from'
-gem 'jekyll-relative-links'
+group :jekyll_plugins do
+  gem "jekyll-remote-theme"
+  gem "minima", "~> 2.0"
+#   gem "github-pages"
+  gem 'jekyll-sitemap'
+  gem 'jekyll-redirect-from'
+  gem 'jekyll-relative-links'
+  gem "jekyll-last-modified-at"
+end
 
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
   gem "tzinfo", "~> 1.2"

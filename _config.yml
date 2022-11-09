@@ -14,7 +14,7 @@ theme: minima
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
-  - jekyll-redirect-from
+#  - jekyll-redirect-from
   - jekyll-relative-links
 exclude:
   - Gemfile
@@ -51,4 +51,4 @@ defaults:
 
 # Content variables
 
-mir_cards_date: "31.10.2022"
+mir_cards_date: "9.11.2022"
