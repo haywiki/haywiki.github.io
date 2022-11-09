@@ -1,8 +1,9 @@
 #!/usr/bin/env ruby
 
 Jekyll::Hooks.register :pages, :post_init do |page|
-  if File.file?(page.path)
-      page.data['last_modified_at_v2'] = File.mtime ( page.path )
+  commit_num = `git rev-list --count HEAD "#{ page.path }"`
+  if commit_num.to_i > 1
+    page.data['last_modified_at_v2'] = Time.parse(`git log -1 --pretty="%ad" --date=iso "#{ page.path }"`)
   end
 end
 
