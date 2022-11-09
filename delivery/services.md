@@ -3,7 +3,6 @@ title: Службы доставки из Армении и в Армению
 layout: page
 parent_title: Доставка в Армению
 parent_url: /delivery/
-last_modified_at: 2022-10-21
 ---
 
 Присоединяйтесь к нашему чату «[Армения: доставки, посылки, растаможка](https://t.me/am_delivery)» для обсуждения

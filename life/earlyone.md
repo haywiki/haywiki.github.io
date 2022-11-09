@@ -1,7 +1,6 @@
 ---
 title: Приложение для записи в банки и госорганы EarlyOne
 layout: page
-last_modified_at: 2022-10-24 06:30
 ---
 
 Приложение [EarlyOne](https://earlyone.com/mobile-application/) вряд ли нуждается в представлении. С его помощью можно

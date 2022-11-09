@@ -1,7 +1,6 @@
 ---
 title: Удаленное закрытие ИП в РФ без ЭЦП
 layout: page
-last_modified_at: 2022-10-24 07:30
 display_toc: false
 ---
 

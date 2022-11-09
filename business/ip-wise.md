@@ -3,7 +3,6 @@ title: Получение переводов на счет ИП через Wise
 layout: page
 parent_title: ИП в Армении
 parent_url: /business/ip.html
-last_modified_at: 2022-10-21
 ---
 
 В этом посте мы рассмотрим следующую ситуацию:

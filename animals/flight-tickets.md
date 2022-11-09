@@ -3,7 +3,6 @@ title: Покупка билета на самолет с питомцем
 layout: page
 parent_title: Перелет с питомцем
 parent_url: /animals/flight-to-armenia.html
-last_modified_at: 2022-11-01 05:30
 ---
 
 ## Покупка авиабилета с питомцем

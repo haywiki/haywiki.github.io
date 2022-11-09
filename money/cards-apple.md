@@ -1,7 +1,6 @@
 ---
 title: Подключение карт к Apple Pay и Apple ID
 layout: page
-last_modified_at: 2022-10-26 04:00
 ---
 
 ## Добавление карт к Apple Wallet и Apple Pay

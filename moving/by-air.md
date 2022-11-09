@@ -1,7 +1,6 @@
 ---
 title: Переезд в Армению на самолете
 layout: page
-last_modified_at: 2022-10-23 08:10
 display_toc: false
 ---
 

@@ -3,7 +3,6 @@ title: Карта pet-friendly мест в Армении
 layout: page
 parent_title: Жизнь с питомцем
 parent_url: /animals/
-last_modified_at: 2022-10-31 02:00
 display_toc: false
 ---
 
@@ -18,3 +17,7 @@ display_toc: false
 - Фиолетовые метки — дог-френдли рестораны и кафе;
 - Метки с домиком — [пет-френдли гостиницы](hotels.md);
 - Метки с ножницами — [груминг салоны](vetclinics.md#grooming).
+
+### Знаете еще места?
+
+[Заполните форму](https://forms.gle/WcQNJwd4NUJMDHvK9) или оставьте комментарий ниже и мы добавим их на карту!

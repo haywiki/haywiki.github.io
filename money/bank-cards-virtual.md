@@ -3,7 +3,6 @@ title: Виртуальные карты в банках Армении
 layout: page
 parent_title: Банки Армении
 parent_url: /money/bank-accounts.html
-last_modified_at: 2022-10-24 04:30
 ---
 
 Несколько банков в Армении предлагают карты Visa Digital: Ameria, ACBA, Ardshinbank, ID, Ineco. Как понятно из названия, это виртуальные карты, которые можно использовать для онлайн платежей, через NFC механизмы оплаты (например, Apple Pay) и электронные кошельки вроде idram и Telcell.

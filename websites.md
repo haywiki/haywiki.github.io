@@ -1,7 +1,6 @@
 ---
 title: Основные сайты и сервисы в Армении
 layout: page
-last_modified_at: 2022-10-25 08:00
 display_toc: false
 ---
 

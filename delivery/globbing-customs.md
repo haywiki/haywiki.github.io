@@ -3,7 +3,6 @@ title: Доставка Globbing - что делать, если посылку 
 layout: page
 parent_title: Доставка в Армению
 parent_url: /delivery/
-last_modified_at: 2022-10-21
 ---
 
 ## Ситуация

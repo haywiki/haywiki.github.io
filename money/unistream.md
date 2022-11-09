@@ -1,7 +1,6 @@
 ---
 title: Получение средств через Unistream
 layout: page
-last_modified_at: 2022-10-23 05:00
 ---
 
 Если нужны наличные, можно также поставить приложение денежных переводов [Юнистрим](https://unistream.ru/transfers/corridors/armenia/), 

@@ -1,7 +1,6 @@
 ---
 title: Основы налогообложения для иммигрантов
 layout: page
-last_modified_at: 2022-10-24 06:30
 ---
 
 ## Disclaimer

@@ -1,6 +1,5 @@
 ---
 layout: home
-last_modified_at: 2022-11-01 06:30
 display_comments: false
 ---
 

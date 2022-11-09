@@ -3,7 +3,6 @@ title: Зоомагазины в Ереване
 layout: page
 parent_title: Жизнь с питомцем
 parent_url: /animals/
-last_modified_at: 2022-10-31 02:00
 display_toc: false
 ---
 

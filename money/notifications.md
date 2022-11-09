@@ -1,7 +1,6 @@
 ---
 title: Нужно ли уведомлять налоговую РФ о банковских счетах в Армении?
 layout: page
-last_modified_at: 2022-10-22 02:00
 ---
 
 Согласно закону [173-ФЗ](https://www.consultant.ru/document/cons_doc_LAW_45458/15452676240afa2b4ce846308d8f9434eaac4019/)

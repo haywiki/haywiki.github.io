@@ -3,7 +3,6 @@ title: Переезд с питомцем в Армению по земле
 layout: page
 parent_title: Жизнь с питомцем
 parent_url: /animals/
-last_modified_at: 2022-11-01 06:30
 ---
 
 ## Подготовка документов к поездке
