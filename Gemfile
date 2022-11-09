@@ -3,11 +3,8 @@ source "https://rubygems.org"
 group :jekyll_plugins do
   gem "jekyll-remote-theme"
   gem "minima", "~> 2.0"
-#   gem "github-pages"
   gem 'jekyll-sitemap'
-  gem 'jekyll-redirect-from'
   gem 'jekyll-relative-links'
-  gem "jekyll-last-modified-at"
 end
 
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
