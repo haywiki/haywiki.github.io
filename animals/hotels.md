@@ -3,7 +3,6 @@ title: Pet-friendly гостиницы в Армении
 layout: page
 parent_title: Жизнь с питомцем
 parent_url: /animals/
-last_modified_at: 2022-10-31 02:00
 display_toc: false
 ---
 
@@ -18,7 +17,9 @@ display_toc: false
 - [Гостевой дом Кесабелла](https://yandex.ru/maps/org/gostevoy_dom_kesabella/234786492198/) — улица Ереванян, 3, Паракар; телефон +37498001986;
 - [Отель Арцах](https://yandex.ru/maps/org/otel_artsakh/223875545819/) — ул. Севана, 116; телефон +37410449939;
 - [Dave Hotel Yerevan](https://yandex.ru/maps/org/dave_hotel_yerevan/198326053456/) — ул. Прошяна, 4; телефон +37460707575;
-- [Кросс Резорт Ереван](https://yandex.ru/maps/org/kross_rezort_yerevan/1193096505/) — ш. Аштараки, 50-1; телефон +37494777077.
+- [Кросс Резорт Ереван](https://yandex.ru/maps/org/kross_rezort_yerevan/1193096505/) — ш. Аштараки, 50-1; телефон +37494777077;
+- [Отель Република](https://yandex.ru/maps/org/otel_republika_yerevan/141128342239/) - ул. Амиряна, 7/1; телефон +37411990000;
+- [Ibis Ереван центр](https://yandex.ru/maps/org/ibis_yerevan_tsentr/1748657808/) — Северный проспект 5/1; телефон +37410595959.
 
 ### Отели и гостевые дома за городом
 

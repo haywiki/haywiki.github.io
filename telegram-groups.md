@@ -1,7 +1,6 @@
 ---
 title: Полезные каналы и чаты в Telegram
 layout: page
-last_modified_at: 2022-10-31 03:00
 display_toc: false
 ---
 
@@ -105,6 +104,7 @@ display_toc: false
 
 - [Переезд в Ванадзор, Армения](https://t.me/vanadzorchat)
 - [Переезд в Дилижан, Армения](https://t.me/dilijanforlife)
+- [Русскоязычный Абовян](https://t.me/ruabovyan)
 
 </div>
 <div class="card-wide">
