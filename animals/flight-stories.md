@@ -11,6 +11,7 @@ parent_url: /animals/flight-to-armenia.html
 - [Вылеты из Санкт-Петербурга](./stories/spb.md)
 - [Вылеты из Минеральных Вод и Сочи](./stories/south.md)
 - [Истории об экзотических животных](./stories/exotic.md)
+- [Истории о переезде из Армении](./stories/from-armenia.md)
 
 ### Кошка без чипа и прививок
 
