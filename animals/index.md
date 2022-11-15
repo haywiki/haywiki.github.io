@@ -19,7 +19,7 @@ layout: page
 
 ## Где покупать корм, игрушки, аксессуары? {#howtobuy}
 
-- [Зоомагазины в Ереване](shops-yerevan.md)*
+- [Зоомагазины в Ереване](shops-yerevan.md)
 - Некоторые корма и многие вещи для животных доступны с доставкой в Армению с Wildberries:
   [для собак](https://am.wildberries.ru/catalog?category=16438&sort=popular) и
   [для кошек](https://am.wildberries.ru/catalog?category=16347&sort=popular).
