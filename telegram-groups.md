@@ -106,6 +106,7 @@ display_toc: false
 - [Переезд в Ванадзор, Армения](https://t.me/vanadzorchat)
 - [Переезд в Дилижан, Армения](https://t.me/dilijanforlife)
 - [Русскоязычный Абовян](https://t.me/ruabovyan)
+- [Гюмри - Взаимопомощь](https://t.me/rossia_126)
 
 </div>
 <div class="card-wide">

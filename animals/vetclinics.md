@@ -135,6 +135,11 @@ display_toc: false
 - [facebook](https://www.facebook.com/profile.php?id=100064109612549) [instagram](https://www.instagram.com/diadella_/)
 - Услуги: груминг, экспресс-линька, передержка (отель для животных).
 
+### Polly Grooming ✂️
+
+- [instagram](https://www.instagram.com/polly_grooming/)
+- График работы: по предварительной записи через инстаграм, услуги пока оказываются на дому.
+
 ## Зоогостиницы и передержки в Ереване {#zoohotel}
 
 - Ветеринарная клиника [VetExpert](#vetexpert) оказывает услуги передержки, животные при этом содержатся дома
