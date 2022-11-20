@@ -1,6 +1,8 @@
 ---
 title: Где взять автомобиль в аренду?
 layout: page
+parent_title: Авто в Армении
+parent_url: /drive/
 ---
 
 В порядке убывания удобства:
