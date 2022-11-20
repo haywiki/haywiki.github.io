@@ -5,7 +5,8 @@ layout: page
 
 ## Помощь в регистрации бизнеса
 
-- [@Armenia_business_integration](https://t.me/Armenia_business_integration) — Акоб, помогает в открытии ИП и ООО, открытии счетов, 
+- [@Armenia_business_integration](https://t.me/Armenia_business_integration) — Акоб, юрист, помогает в открытии ИП и ООО, открытии счетов, 
+- **+37441213537 Виктор**, юрист. ИП, ООО, ВНЖ, паспорт, банковские счета.
 
 ## Проверенные бухгалтеры
 
@@ -15,6 +16,8 @@ layout: page
 - **[Размик](https://t.me/trustmeiamaaccountant)**
 - **[Safe Invest](https://t.me/safe_invest_accounting)**
 - **[Lusine Tsaturyan](https://t.me/Lusine_Tsaturyan)** — цены выше среднего, но очень развернутые консультации.
+- **Андреас** develex.info@gmail.com +37477225062
+- **Artyom Ghazaryan** - +37477765552, бухгалтер, также может помочь с регистрацией бизнеса.
 
 ## Источник информации
 
