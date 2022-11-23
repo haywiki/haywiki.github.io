@@ -24,4 +24,4 @@ layout: page
 - midpass: [gist.github.com](https://gist.github.com/dez64ru/a3786cc30f79a63469ba9ce9ae647555)
 - kdmid.ru: [gist.github.com](https://gist.github.com/dez64ru/18cb57940430c3822693b9cbaff1ad37)
 
-Автор скриптов [@Dez64ru](https:/t.me/Dez64ru).
+Автор скриптов [@Dez64ru](https://t.me/Dez64ru).

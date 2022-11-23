@@ -100,7 +100,7 @@ display_toc: false
 - Контактный телефон: +374 94 372233 +374 91 626258 (Viber и WhatsApp)
 - График работы: с 11:00 до 21:00, уточняйте по телефону
 - [facebook](https://facebook.com/maltesecity/) [instagram](https://instagram.com/maltese_city/)
-- Услуги: [титры](rabies-titers.md), справки для путешествий.
+- Услуги: [титры](rabies-titers.md).
 
 </div>
 <div class="card">
