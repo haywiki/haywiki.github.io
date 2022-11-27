@@ -106,10 +106,16 @@
     @include row();
     margin: 0 -1rem;
 
-    h2, h3 {
+    h2 {
       font-size: 1.5rem !important;
       margin-bottom: .2rem;
       margin-top: 1rem;
+    }
+
+    h3 {
+      font-size: 1.3rem !important;
+      margin-bottom: .2rem;
+      margin-top: .5rem;
     }
 
     .card {
@@ -130,11 +136,20 @@
       }
     }
 
+    p {
+      font-size: 0.85rem;
+      color: $grey-color;
+    }
+
     li {
       font-size: 0.85rem;
       color: $grey-color;
-      a {
+      a, strong {
         font-size: 1rem;
+      }
+      strong {
+        color: black;
+        font-weight: normal;
       }
     }
 
@@ -144,6 +159,11 @@
         color: $text-color;
       }
     }
+  }
+
+  .fa-telegram {
+    color: #2AABEE;
+    font-size: 1.15rem;
   }
 }
 
