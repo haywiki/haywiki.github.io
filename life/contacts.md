@@ -175,10 +175,10 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [IT в Ереване](https://t.me/iterevan) — общение IT специалистов
 - <i class="fa-brands fa-telegram"></i> [Армения: айти-железки](https://t.me/am_hardware) — выбор, покупка и ремонт техники и компьютерного железа
 - <i class="fa-brands fa-telegram"></i> [Relogame Армения](https://t.me/relogame_armenia) — релокация специалистов из GameDev сферы
-- <i class="fa-brands fa-telegram"></i> [Beauty / Woman Ереван](https://t.me/womenYRevan) — женское комьюнити в Ереване: спорт, красота, здоровье, развлечения
+- <i class="fa-brands fa-telegram"></i> [Beauty / Woman Ереван](https://t.me/womenYRevan) — женское комьюнити: спорт, красота, здоровье, развлечения
 - <i class="fa-brands fa-telegram"></i> [Yerevan Bike Club](https://t.me/yerevanBikeClub) — клуб любителей велосипедов
-- <i class="fa-brands fa-telegram"></i> [Настолки в Ереване](https://t.me/boardgames_yerevan) — анонсы настольных (и не только) игр в Ереване
-- <i class="fa-brands fa-telegram"></i> [НРИ Ереван Армения](https://t.me/nrierevan) — настольные ролевые игры в Ереване
+- <i class="fa-brands fa-telegram"></i> [Настолки в Ереване](https://t.me/boardgames_yerevan) — анонсы настольных (и не только) игр
+- <i class="fa-brands fa-telegram"></i> [НРИ Ереван Армения](https://t.me/nrierevan) — настольные ролевые игры
 - <i class="fa-brands fa-telegram"></i> [Волейбол Ереван](https://t.me/volleybollerv)
 - <i class="fa-brands fa-telegram"></i> [Книжный клуб. Ереван](https://t.me/bookclubyerevan)
 - <i class="fa-brands fa-telegram"></i> [Relolib Армения](https://t.me/+J__AORhInF5jMWYy) — проект [relolib.com](https://relolib.com/armenia): обмен и обсуждение книг
