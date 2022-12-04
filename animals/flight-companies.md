@@ -3,6 +3,7 @@ title: Требования компаний к перевозке питомц�
 layout: page
 parent_title: Перелет с питомцем
 parent_url: /animals/flight-to-armenia.html
+display_toc: false
 ---
 
 ## Популярные авиакомпании
