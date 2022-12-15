@@ -76,4 +76,4 @@ parent_url: /animals/
 Эта инструкция составлена [ветеринарным врачом Варварой Соловьевой](https://www.biocontrol.ru/vrachi/gruppa-arit/soloveva-varvara-vladimirovna.html)
 
 Если у вас остались вопросы — проконсультируйтесь со своим ветеринаром или обращайтесь в чат
-[Армения с питомцем](https://t.me/armenia_pets).
+[Армения: Переезд с питомцем](https://t.me/am_pets).

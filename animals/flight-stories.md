@@ -263,4 +263,4 @@ parent_url: /animals/flight-to-armenia.html
 
 ### Источник информации
 
-- [Чат «Армения с питомцем»](https://t.me/armenia_pets)
+- Чат «Армения с питомцем»

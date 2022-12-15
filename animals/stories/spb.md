@@ -68,4 +68,5 @@ parent_url: /animals/flight-stories.html
 
 ### Источник информации
 
-- [Чат «Армения с питомцем»](https://t.me/armenia_pets)
+- Чат «Увожу кроликов»
+- Чат «Армения с питомцем»
