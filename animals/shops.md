@@ -18,7 +18,7 @@ display_toc: false
 
 ## Карта зоомагазинов
 
-{%- include animals-map.md layers="2480563#12/40.2012/44.5199" -%}
+{%- include animals-map.md layers="2480563" location="12/40.2012/44.5199" -%}
 
 ## Крупнейшие зоомагазины
 

@@ -6,8 +6,6 @@ parent_url: /animals/
 display_toc: false
 ---
 
-{%- include animals-map.md height="600px" -%}
-
 На карте отмечены:
 
 - Зеленые области — хорошие места для прогулок, желтые — места где нужно гулять с осторожностью, красные — где гулять нельзя или опасно;
@@ -18,6 +16,18 @@ display_toc: false
 - Метки с домиком — [пет-френдли гостиницы](hotels.md);
 - Метки с ножницами — [груминг салоны](vetclinics.md#grooming).
 
+### Ереван
+
+{%- include animals-map.md height="600px" location="12/40.2012/44.5199" -%}
+
+### Дилижан
+
+{%- include animals-map.md height="600px" location="15/40.7438/44.8546" -%}
+
+### Гюмри
+
+{%- include animals-map.md height="600px" location="15/40.7853/43.8474" -%}
+
 ### Знаете еще места?
 
-[Заполните форму](https://forms.gle/WcQNJwd4NUJMDHvK9) или оставьте комментарий ниже и мы добавим их на карту!
+Оставьте комментарий ниже и мы добавим их на карту!

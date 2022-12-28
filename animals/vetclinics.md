@@ -6,7 +6,7 @@ parent_url: /animals/
 display_toc: false
 ---
 
-{%- include animals-map.md layers="2480568,2480573#11/40.2012/44.5199" -%}
+{%- include animals-map.md layers="2480568,2480573" location="11/40.2012/44.5199" -%}
 
 ## Клиники и услуги в Ереване {#yerevan}
 

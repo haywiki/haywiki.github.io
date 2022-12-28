@@ -6,7 +6,7 @@ parent_url: /animals/
 display_toc: false
 ---
 
-{%- include animals-map.md layers="2480575#12/40.2012/44.5199" -%}
+{%- include animals-map.md layers="2480575" location="12/40.2012/44.5199" -%}
 
 ## Отели, допускающие проживание с животными
 
