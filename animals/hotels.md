@@ -27,5 +27,10 @@ display_toc: false
 
 ### Отели и гостевые дома за городом
 
+- [Бутик-отель Овер](https://yandex.ru/maps/org/butik_otel_over/179643072999/) — город Дилижан; телефон +37495920091.
 - [DiliVita Rest House](https://yandex.ru/maps/org/dilivita_rest_house/236966451280/) — село Гош, неподалеку от Дилижана; телефон +37498776477;
 - [Harsnadzor Eco Resort](https://yandex.ru/maps/org/harsnadzor_eco_resort/148323819074/) — село Татев; телефон +37477062032.
+
+### Ищете зоогостиницы или передержку?
+
+- [Зоогостиницы и передержки](services.md#zoohotel)
