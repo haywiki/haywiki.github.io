@@ -1,0 +1,2092 @@
+{
+  "type": "umap",
+  "uri": "https://umap.openstreetmap.fr/en/map/map_826834",
+  "properties": {
+    "easing": true,
+    "tilelayersControl": null,
+    "measureControl": false,
+    "embedControl": null,
+    "editinosmControl": false,
+    "fullscreenControl": true,
+    "locateControl": true,
+    "searchControl": null,
+    "datalayersControl": true,
+    "zoomControl": true,
+    "slideshow": {},
+    "captionBar": false,
+    "limitBounds": {
+      "east": null,
+      "west": null,
+      "north": null,
+      "south": null
+    },
+    "tilelayer": {
+      "tms": false,
+      "name": "OSM Street (jawgmaps)",
+      "maxZoom": 18,
+      "minZoom": 0,
+      "attribution": "Tiles courtesy of [[https://www.jawg.io/|jawgmaps]] - Map data [[http://osm.org/copyright/|&copy; OpenStreetMap contributors]], under ODbL.",
+      "url_template": "https://tile.jawg.io/{z}/{x}/{y}.png?api-key=community"
+    },
+    "licence": "",
+    "description": "Обновлена 30.12.2022",
+    "name": "Карта мест для животных в Армении",
+    "onLoadPanel": "none",
+    "displayPopupFooter": false,
+    "miniMap": false,
+    "moreControl": true,
+    "scaleControl": true,
+    "scrollWheelZoom": true,
+    "zoom": 13
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.50861930847168,
+      40.18372588041463
+    ]
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Бар TUF",
+            "description": "+37491183231\nулица Арама, 42\nпт-вс 18:00 – 01:00\n\nhttps://www.tuf.su"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.512423,
+              40.180611
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "+374 55 529277\nул. Аветика Исаакяна, 38\nпн-вс 08:30-00:00\n\nhttps://yandex.ru/maps/org/grin_bin/33792362159/",
+            "name": "Грин Бин"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.515872,
+              40.189537
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "+374 60 700805\nул. Максима Горького, 17/1\nпн-вс: 09-22\n\nhttps://yandex.ru/maps/org/cafe_2/222737698143/\n",
+            "name": "Кафе №2"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.864919,
+              40.739474
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "+374 41 886010\nул. Мясникяна, 37/3\n\nhttps://yandex.ru/maps/org/kchuch/108116108720/",
+            "name": "Кчуч"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.866576,
+              40.739104
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "+374 55 308998\nул. Мясникяна, 33\nпн-вс: 10-23\n\nhttps://yandex.ru/maps/org/sovats_vozni/156793485090/",
+            "name": "Совац Возни"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.86582,
+              40.738828
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Чайный Домик",
+            "description": "+374 96 272701\nДетский Парк\nпн-вс: 10-24\n\nС собакой можно на веранду\n\nhttps://yandex.ru/maps/org/chayny_domik/167587794622/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.506634,
+              40.175894
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "+374 11 779977\nул. Мартироса Сарьяна, 2/2\nпн-вс: 09-01\n\nhttps://yandex.ru/maps/org/avocado_queen_yerevan/59200775827/",
+            "name": "Avocado Queen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.509279,
+              40.187267
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "DOC Therapy Bar",
+            "description": "Красивое место в в центре Еревана с широким выбором европейских, латиноамериканских и азиатских блюд.\n\n+37444440333"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.515014,
+              40.182369
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "+374 44 120112\nул. Павстоса Бузанда, 13\nпн-вс: 11-24\n\nС собакой можно на веранду.\n\nhttps://yandex.ru/maps/org/dors_kraft_biyer_end_kitchen/167907282429/",
+            "name": "Dors Craft Beer & Kitchen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.510534,
+              40.180636
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Green lanj",
+            "description": "+374 93 715303\nул. Алабяна, 2/2\nпн-вс: 12-24\n\nКафе в парке\n\nhttps://yandex.ru/maps/org/green_lanj/54281041477/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.480606,
+              40.190922
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "+37441325000\nул. Мартироса Сарьяна, 1\nпн-вс 08-24\n\nhttps://yandex.ru/maps/org/ground_zero/187272188529/",
+            "name": "Ground Zero"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.509934,
+              40.187197
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Hayk Coffee Roasters",
+            "description": "+37441200041\nул. Мартироса Сарьяна, 4\nпн-вс 9-24\n\nhttps://yandex.ru/maps/org/hayk_coffee_roasters/151031274555/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.508984,
+              40.187365
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Hummus | Kimchi",
+            "description": "+374 55 650610\nул. Сарьяна, 16\nпн-вс: 12-23\n\nhttps://yandex.ru/maps/org/hummus_kimchi/10247476118/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.506946,
+              40.185623
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Julios",
+            "description": "ул. Московян, 36\nпн-вс 09-24\n\nМожно с собакой, приносят воду в миске.\n\nhttps://yandex.ru/maps/org/julios/100091795357/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.510379,
+              40.187804
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "MAMA JAN",
+            "description": "+374 93 330968\nул. Александра Таманяна, 5, Ереван\nпн-вс 11-23\n\nhttps://yandex.ru/maps/org/mama_jan/161012235389/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.51246,
+              40.186963
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Prepa",
+            "description": "+374 95 300300\nул. Амиряна, 4/6\nпн-вс 08-23\n\nС собакой точно можно на веранду, внутрь — нужно узнавать\n\nhttps://yandex.ru/maps/org/prepa/46656616641/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.510658,
+              40.179918
+            ]
+          }
+        }
+      ],
+      "_umap_options": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "name": "Pet-friendly рестораны и кафе",
+        "id": 2480593,
+        "iconUrl": "/uploads/pictogram/bar-24_1.png",
+        "color": "Fuchsia"
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Бутик отель Овер",
+            "description": "+374 95 920091\nул Андраники 3-й пер., дом 1\n\nhttps://yandex.ru/maps/org/butik_otel_over/179643072999/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.852892,
+              40.744014
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Гостевой дом Кесабелла",
+            "description": "[Гостевой дом Кесабелла](https://yandex.ru/maps/org/gostevoy_dom_kesabella/234786492198/) — улица Ереванян, 3, Паракар; телефон +37498001986;"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.413267,
+              40.1641
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Гостиница Венеция",
+            "description": "- [Венеция](https://yandex.ru/maps/org/venetsiya/166723620307/)\n улица Мовсеса Хоренаци, 217/19; телефон +37410570102\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.52114,
+              40.155934
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Гостиница Режинэ",
+            "description": "- [Режинэ](https://yandex.ru/maps/org/rezhine/28907706121/) — ул. Норки Айгинер, 235/1; телефон +37410655939;\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.53299,
+              40.184378
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "- [Ереван Плейс](https://yandex.ru/maps/org/yerevan_pleys/6494473678/) (раньше назывался Hyatt Place) — ул. Вазгена Саргсяна, 26/1; телефон +37411221234;",
+            "name": "Ереван Плейс (ex Hyatt Place)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.512879,
+              40.176172
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Кросс Резорт Ереван",
+            "description": "- [Кросс Резорт Ереван](https://yandex.ru/maps/org/kross_rezort_yerevan/1193096505/) — ш. Аштараки, 50-1; телефон +37494777077;\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.459342,
+              40.222477
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Отель Арцах",
+            "description": "[Отель Арцах](https://yandex.ru/maps/org/otel_artsakh/223875545819/) — ул. Севана, 116; телефон +37410449939;\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.503582,
+              40.151813
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Отель Република Ереван",
+            "description": "ул. Амиряна, 7/1; телефон +37411990000;"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.509247,
+              40.179361
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Albert House",
+            "description": "https://yandex.ru/maps/org/albert_house/224294205229/\nул. Заваряна, 12/1; телефон +374 0561114"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.514064,
+              40.166622
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "DiliVita Rest House",
+            "description": "[DiliVita Rest House](https://yandex.ru/maps/org/dilivita_rest_house/236966451280/) — село Гош, неподалеку от Дилижана; телефон +37498776477.\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              45.004699,
+              40.731755
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Harsnadzor Eco Resort",
+            "description": "[Harsnadzor Eco Resort](https://yandex.ru/maps/org/harsnadzor_eco_resort/148323819074/) — село Татев; телефон +37477062032."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              46.280218,
+              39.398679
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Ibis Ереван центр",
+            "description": "Северный проспект 5/1; телефон +37410595959."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.515223,
+              40.181263
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Opera Suite Hotel",
+            "description": "- [Opera Suite Hotel](https://yandex.ru/maps/org/opera_suite_hotel/147894966895/) — улица Рафаэла Лемкина, 1; телефон +37411201000;\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.512444,
+              40.189271
+            ]
+          }
+        }
+      ],
+      "_umap_options": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "name": "Pet-friendly гостиницы",
+        "color": "Khaki",
+        "iconUrl": "/uploads/pictogram/commercial-24.png",
+        "id": 2480575
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Мих хвостатых",
+            "description": "https://yandex.ru/maps/org/mir_khvostatykh/17380324135/\n\nЕсть корма Monge, Brit"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              43.843786,
+              40.787475
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "- Адрес: [ул. Амиряна, 10](https://yandex.ru/maps/org/amiryanvet/209808278094/)\n- Контактный телефон: +374 95 560119\n- https://instagram.com/amiryanvet/\n- Корма в продаже: Purina / Pro Plan",
+            "name": "AmiryanVet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.509209,
+              40.180164
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Forest Voices zoo market",
+            "description": "- Адрес: [[https://yandex.ru/maps/org/forest_voices_zoomagazin/99596547688/|проспект Комитаса, 30]]\n- Адрес: [[https://yandex.ru/maps/org/forest_voices_zoomagazin/57855023163/|ул. Хачатура Абовяна, 36]]\n- Контактный телефон: +374 77 288098\n- https://www.facebook.com/zoomarket1/about\n- Корма в продаже: Monge, Royal Canin"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.501866,
+              40.203821
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Forest Voices zoo market",
+            "description": "- Адрес: [[https://yandex.ru/maps/org/forest_voices_zoomagazin/99596547688/|проспект Комитаса, 30]]\n- Адрес: [[https://yandex.ru/maps/org/forest_voices_zoomagazin/57855023163/|ул. Хачатура Абовяна, 36]]\n- Контактный телефон: +374 77 288098\n- https://www.facebook.com/zoomarket1/about\n- Корма в продаже: Monge, Royal Canin"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.521472,
+              40.185603
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Haf-Haf",
+            "description": "- [Магазины на карте](https://yandex.ru/maps/10262/yerevan/search/Haf-Haf/)\n-https://haf-haf.am/ru/ — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены\n- У магазина есть доставка через приложение [яндекс еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf)\n- https://instagram.com/haf.hafpetshop/\n- Корма в продаже: Royal Canin."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.492993,
+              40.197089
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Haf-Haf",
+            "description": "- [Магазины на карте](https://yandex.ru/maps/10262/yerevan/search/Haf-Haf/)\n-https://haf-haf.am/ru/ — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены\n- У магазина есть доставка через приложение [яндекс еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf)\n- https://instagram.com/haf.hafpetshop/\n- Корма в продаже: Royal Canin."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.5232,
+              40.186918
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Haf-Haf",
+            "description": "- [Магазины на карте](https://yandex.ru/maps/10262/yerevan/search/Haf-Haf/)\n-https://haf-haf.am/ru/ — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены\n- У магазина есть доставка через приложение [яндекс еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf)\n- https://instagram.com/haf.hafpetshop/\n- Корма в продаже: Royal Canin."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.518881,
+              40.17193
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Haf-Haf",
+            "description": "- [Магазины на карте](https://yandex.ru/maps/10262/yerevan/search/Haf-Haf/)\n-https://haf-haf.am/ru/ — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены\n- У магазина есть доставка через приложение [яндекс еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf)\n- https://instagram.com/haf.hafpetshop/\n- Корма в продаже: Royal Canin."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.508378,
+              40.180173
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Haf-Haf",
+            "description": "- [Магазины на карте](https://yandex.ru/maps/10262/yerevan/search/Haf-Haf/)\n-https://haf-haf.am/ru/ — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены\n- У магазина есть доставка через приложение [яндекс еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf)\n- https://instagram.com/haf.hafpetshop/\n- Корма в продаже: Royal Canin."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.443104,
+              40.166125
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Joli — зоомагазин и ветклиника",
+            "description": "- [Магазин на карте](https://yandex.ru/maps/org/veterinarny_tsentr_dzholi/135151397057/)\n- https://joli.am/ — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены.\n- https://instagram.com/joli_veterinary_center/\n- Корма в продаже: Brit, Monge."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.503577,
+              40.199035
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Kakadu",
+            "description": "- Магазины на карте —https://yandex.ru/maps/10262/yerevan/search/Kakadu/\n- https://kakadu.am — на сайте указаны адреса и контактные телефоны\n- https://facebook.com/KAKADUSshops/\n- https://instagram.com/kakadu_armenia/\n- https://instagram.com/kakadu_petshop/\n- https://instagram.com/kakadu_zooland_/\n- Корма в продаже: Monge, Acana, Orijen."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.510207,
+              40.183255
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Kakadu",
+            "description": "- Магазины на карте —https://yandex.ru/maps/10262/yerevan/search/Kakadu/\n- https://kakadu.am — на сайте указаны адреса и контактные телефоны\n- https://facebook.com/KAKADUSshops/\n- https://instagram.com/kakadu_armenia/\n- https://instagram.com/kakadu_petshop/\n- https://instagram.com/kakadu_zooland_/\n- Корма в продаже: Monge, Acana, Orijen."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.514788,
+              40.206394
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Kakadu",
+            "description": "- Магазины на карте —https://yandex.ru/maps/10262/yerevan/search/Kakadu/\n- https://kakadu.am — на сайте указаны адреса и контактные телефоны\n- https://facebook.com/KAKADUSshops/\n- https://instagram.com/kakadu_armenia/\n- https://instagram.com/kakadu_petshop/\n- https://instagram.com/kakadu_zooland_/\n- Корма в продаже: Monge, Acana, Orijen."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.494307,
+              40.195688
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Kakadu",
+            "description": "- Магазины на карте —https://yandex.ru/maps/10262/yerevan/search/Kakadu/\n- https://kakadu.am — на сайте указаны адреса и контактные телефоны\n- https://facebook.com/KAKADUSshops/\n- https://instagram.com/kakadu_armenia/\n- https://instagram.com/kakadu_petshop/\n- https://instagram.com/kakadu_zooland_/\n- Корма в продаже: Monge, Acana, Orijen."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.524262,
+              40.188697
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Nemo — интернет-магазин с доставкой",
+            "description": "- [[https://yandex.ru/maps/org/nemo/191697089221/|Магазин на карте]]\n- https://nemo.am/ — на сайте можно заказать доставку.\n- https://instagram.com/nemo_petstore/\n- Корма в продаже: Royal Canin, Acana, Purina ProPlan, Mr.Buffalo, Monge, Orijen, bonmascota и другие"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.50436,
+              40.176631
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "PetCity",
+            "description": "- [[https://yandex.ru/maps/10262/yerevan/search/PetCity/|Магазины на карте]] \n- https://petcity.am/ru/homepage-2 — на сайте можно заказать доставку.\n- https://instagram.com/pet_city.am/\n- Корма в продаже: Royal Canin, Purina ProPlan, Monge, Acana, Farmina VetLife, N&D и другие\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.561829,
+              40.215407
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "PetCity",
+            "description": "- [[https://yandex.ru/maps/10262/yerevan/search/PetCity/|Магазины на карте]] \n- https://petcity.am/ru/homepage-2 — на сайте можно заказать доставку.\n- https://instagram.com/pet_city.am/\n- Корма в продаже: Royal Canin, Purina ProPlan, Monge, Acana, Farmina VetLife, N&D и другие\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.522443,
+              40.145306
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "PetCity",
+            "description": "- [[https://yandex.ru/maps/10262/yerevan/search/PetCity/|Магазины на карте]] \n- https://petcity.am/ru/homepage-2 — на сайте можно заказать доставку.\n- https://instagram.com/pet_city.am/\n- Корма в продаже: Royal Canin, Purina ProPlan, Monge, Acana, Farmina VetLife, N&D и другие\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.520641,
+              40.212859
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Quercus — зоомагазин и ветклиника",
+            "description": "- Адрес: [ул. Казара Парпеци, 17/3](https://yandex.ru/maps/org/quercus_vet_clinic_zoosalon/181982950255/)\n- Контактный телефон: +374 10 537602\n- https://www.instagram.com/vet.clinic_quercus/\n- Корма в продаже: Monge"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.511639,
+              40.186234
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Urban Pet Shop",
+            "description": "[UrbanPetShopArmenia|https://www.facebook.com/UrbanPetShopArmenia/]]\nКорма в продаже: Royal Canin, Monge, Bonmascota, Lapa, Jackpet, Dog&dog"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.474555,
+              40.197728
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "[UrbanPetShopArmenia|https://www.facebook.com/UrbanPetShopArmenia/]]\nКорма в продаже: Royal Canin, Monge, Bonmascota, Lapa, Jackpet, Dog&dog",
+            "name": "Urban Pet Shop"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.567295,
+              40.197183
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "[UrbanPetShopArmenia|https://www.facebook.com/UrbanPetShopArmenia/]]\nКорма в продаже: Royal Canin, Monge, Bonmascota, Lapa, Jackpet, Dog&dog",
+            "name": "Urban Pet Shop"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.520877,
+              40.14239
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Zoo Mall",
+            "description": "- [[https://goo.gl/maps/a9LGfFGQkHstkQuy6|Магазин на карте]]\n- https://zoomall.am/\n- https://www.instagram.com/zoomall4/\n- Корма в продаже: Royal Canin, Monge, Acana"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.516194,
+              40.183996
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Zoo Market Zooashxarh",
+            "description": "- Адрес: [ул. Киевян, 12](https://yandex.ru/maps/org/180669891281/)\n- Адрес: [ул. Ерванда Кочара, 19/7](https://yandex.ru/maps/org/137532800215/)\n- Адрес: [ул. Грачья Ачаряна, 30](https://yandex.ru/maps/org/33139129154/)\n- Контактный телефон: +374 93 528877\n- https://zoomarket.am/\n- https://facebook.com/Zooashkharh/\n- Корма в продаже: Monge, Royal Canin\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.487961,
+              40.194577
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Zoo Market Zooashxarh",
+            "description": "- Адрес: [ул. Киевян, 12](https://yandex.ru/maps/org/180669891281/)\n- Адрес: [ул. Ерванда Кочара, 19/7](https://yandex.ru/maps/org/137532800215/)\n- Адрес: [ул. Грачья Ачаряна, 30](https://yandex.ru/maps/org/33139129154/)\n- Контактный телефон: +374 93 528877\n- https://zoomarket.am/\n- https://facebook.com/Zooashkharh/\n- Корма в продаже: Monge, Royal Canin\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.5168,
+              40.169897
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Zoo Market Zooashxarh",
+            "description": "- Адрес: [ул. Киевян, 12](https://yandex.ru/maps/org/180669891281/)\n- Адрес: [ул. Ерванда Кочара, 19/7](https://yandex.ru/maps/org/137532800215/)\n- Адрес: [ул. Грачья Ачаряна, 30](https://yandex.ru/maps/org/33139129154/)\n- Контактный телефон: +374 93 528877\n- https://zoomarket.am/\n- https://facebook.com/Zooashkharh/\n- Корма в продаже: Monge, Royal Canin\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.562322,
+              40.217328
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Zoo Shop",
+            "description": "- [[https://yandex.ru/maps/org/zoo_shop/16779486277/|Магазин на карте]]\n- https://instagram.com/zooshop_yerevan/\n- Контактный телефон: +374 95 049905\n- Корма в продаже: Royal Canin, Monge"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.508222,
+              40.185591
+            ]
+          }
+        }
+      ],
+      "_umap_options": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "id": 2480563,
+        "remoteData": {},
+        "color": "Blue",
+        "iconUrl": "https://haywiki.org/assets/icons/cart-shopping.svg",
+        "name": "Зоомагазины",
+        "iconClass": "Drop"
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "Red",
+              "fillColor": "Red"
+            },
+            "name": "Агрессивная стая собак"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  44.505519,
+                  40.196454
+                ],
+                [
+                  44.505851,
+                  40.194356
+                ],
+                [
+                  44.508394,
+                  40.194758
+                ],
+                [
+                  44.508094,
+                  40.196741
+                ],
+                [
+                  44.505519,
+                  40.196454
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Английский парк",
+            "_umap_options": {
+              "color": "Orange",
+              "fillColor": "Orange"
+            },
+            "description": "Парк для прогулок с собакой. Есть бездомные собаки с непредсказуемым поведением."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  44.508308,
+                  40.175234
+                ],
+                [
+                  44.508421,
+                  40.174693
+                ],
+                [
+                  44.508662,
+                  40.174316
+                ],
+                [
+                  44.509665,
+                  40.174082
+                ],
+                [
+                  44.508839,
+                  40.173512
+                ],
+                [
+                  44.507997,
+                  40.173119
+                ],
+                [
+                  44.507884,
+                  40.17334
+                ],
+                [
+                  44.508153,
+                  40.173729
+                ],
+                [
+                  44.507128,
+                  40.174197
+                ],
+                [
+                  44.508308,
+                  40.175234
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Ботанический сад",
+            "_umap_options": {
+              "color": "Green"
+            },
+            "description": "Отличный большой парк для прогулок с собакой. Запрещается отпускать с поводка. Время работы на вход с 9 до 20 часов. Вход платный."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  44.559517,
+                  40.208721
+                ],
+                [
+                  44.554238,
+                  40.206246
+                ],
+                [
+                  44.552157,
+                  40.209524
+                ],
+                [
+                  44.553466,
+                  40.21344
+                ],
+                [
+                  44.552221,
+                  40.214849
+                ],
+                [
+                  44.5522,
+                  40.216046
+                ],
+                [
+                  44.562263,
+                  40.215079
+                ],
+                [
+                  44.561319,
+                  40.211343
+                ],
+                [
+                  44.559388,
+                  40.209835
+                ],
+                [
+                  44.558852,
+                  40.209409
+                ],
+                [
+                  44.559517,
+                  40.208721
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Детский парк",
+            "_umap_options": {
+              "color": "Green"
+            },
+            "description": "Отличный парк для прогулок с собакой. Есть бездомные собаки, но не агрессивные."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  44.507611,
+                  40.177238
+                ],
+                [
+                  44.508394,
+                  40.176246
+                ],
+                [
+                  44.505572,
+                  40.175029
+                ],
+                [
+                  44.504875,
+                  40.175922
+                ],
+                [
+                  44.507611,
+                  40.177238
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "Red",
+              "fillColor": "Red"
+            },
+            "name": "ДОГХАНТЕРЫ",
+            "description": "9 ноября 2022 описаны множественные случаи отравления собак изониазидом. БУДЬТЕ ОСТОРОЖНЫ"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  44.564055,
+                  40.200256
+                ],
+                [
+                  44.56722,
+                  40.201141
+                ],
+                [
+                  44.568475,
+                  40.202371
+                ],
+                [
+                  44.569087,
+                  40.202305
+                ],
+                [
+                  44.570718,
+                  40.200642
+                ],
+                [
+                  44.570664,
+                  40.200273
+                ],
+                [
+                  44.570256,
+                  40.200461
+                ],
+                [
+                  44.569023,
+                  40.199642
+                ],
+                [
+                  44.568368,
+                  40.200174
+                ],
+                [
+                  44.567896,
+                  40.199961
+                ],
+                [
+                  44.567564,
+                  40.200412
+                ],
+                [
+                  44.564592,
+                  40.199511
+                ],
+                [
+                  44.564334,
+                  40.199871
+                ],
+                [
+                  44.564055,
+                  40.200256
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Закрытая площадка для прогулок",
+            "description": "Есть две закрытые зоны — для маленький и для больших собак."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.519611,
+              40.173922
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Закрытая собачья площадка"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.479136,
+              40.193791
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "Green"
+            },
+            "name": "Кольцевой бульвар",
+            "description": "Парк многолюдный, но собак воспринимают хорошо, есть газончики, можно спокойно гулять."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  44.514349,
+                  40.173016
+                ],
+                [
+                  44.514386,
+                  40.172164
+                ],
+                [
+                  44.515824,
+                  40.17218
+                ],
+                [
+                  44.51628,
+                  40.172606
+                ],
+                [
+                  44.517508,
+                  40.172848
+                ],
+                [
+                  44.518667,
+                  40.173008
+                ],
+                [
+                  44.519772,
+                  40.173348
+                ],
+                [
+                  44.520711,
+                  40.173865
+                ],
+                [
+                  44.519949,
+                  40.174504
+                ],
+                [
+                  44.51842,
+                  40.173746
+                ],
+                [
+                  44.516339,
+                  40.173283
+                ],
+                [
+                  44.514349,
+                  40.173016
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "Red",
+              "fillColor": "Red"
+            },
+            "name": "Мемориал Цицернакаберд",
+            "description": "На территории мемориала гулять с собаками запрещено! Только в дикой части."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  44.487977,
+                  40.187709
+                ],
+                [
+                  44.48523,
+                  40.184283
+                ],
+                [
+                  44.494736,
+                  40.183447
+                ],
+                [
+                  44.496496,
+                  40.185513
+                ],
+                [
+                  44.487977,
+                  40.187709
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Место для прогулок",
+            "description": "Большая и очень живописная поляна, можно вдоволь набегаться :)"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  44.836643,
+                  40.748175
+                ],
+                [
+                  44.838241,
+                  40.743168
+                ],
+                [
+                  44.843048,
+                  40.744404
+                ],
+                [
+                  44.840999,
+                  40.749078
+                ],
+                [
+                  44.836643,
+                  40.748175
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Парк имени Манушяна",
+            "description": "Хороший парк для прогулок, есть спокойные дворняги."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  44.509429,
+                  40.181693
+                ],
+                [
+                  44.509955,
+                  40.182111
+                ],
+                [
+                  44.510776,
+                  40.181558
+                ],
+                [
+                  44.510277,
+                  40.181136
+                ],
+                [
+                  44.509429,
+                  40.181693
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Парк Кахнут",
+            "description": "Хороший парк для прогулок с собакой, есть дворняги, но безопасные."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  44.491276,
+                  40.22321
+                ],
+                [
+                  44.491062,
+                  40.222989
+                ],
+                [
+                  44.492231,
+                  40.222071
+                ],
+                [
+                  44.492826,
+                  40.222182
+                ],
+                [
+                  44.493304,
+                  40.221879
+                ],
+                [
+                  44.493551,
+                  40.222055
+                ],
+                [
+                  44.491131,
+                  40.223935
+                ],
+                [
+                  44.490799,
+                  40.223783
+                ],
+                [
+                  44.491276,
+                  40.22321
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Парк победы",
+            "description": "Хорошее место для прогулок, есть неопасные бездомные."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  44.516494,
+                  40.195348
+                ],
+                [
+                  44.516784,
+                  40.194741
+                ],
+                [
+                  44.518597,
+                  40.194479
+                ],
+                [
+                  44.520217,
+                  40.193995
+                ],
+                [
+                  44.521912,
+                  40.193758
+                ],
+                [
+                  44.524927,
+                  40.194348
+                ],
+                [
+                  44.525646,
+                  40.195176
+                ],
+                [
+                  44.522427,
+                  40.195643
+                ],
+                [
+                  44.522095,
+                  40.196643
+                ],
+                [
+                  44.522374,
+                  40.197937
+                ],
+                [
+                  44.519949,
+                  40.198921
+                ],
+                [
+                  44.518232,
+                  40.197282
+                ],
+                [
+                  44.516494,
+                  40.195348
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "Orange",
+              "fillColor": "Orange"
+            },
+            "name": "Парк победы",
+            "description": "В этой части парка есть стаи, в основном безопасные, но лучше соблюдать осторожность. Также, эта часть парка более людная."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  44.52261,
+                  40.197921
+                ],
+                [
+                  44.522202,
+                  40.196585
+                ],
+                [
+                  44.522567,
+                  40.195848
+                ],
+                [
+                  44.525743,
+                  40.195331
+                ],
+                [
+                  44.526772,
+                  40.196315
+                ],
+                [
+                  44.52261,
+                  40.197921
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "Green"
+            },
+            "name": "Парк Туманяна",
+            "description": "Отличный парк для прогулок с собакой. Обычно тут гуляют с небольшими и средними породами, есть бездомные, но не агрессивные."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  44.479319,
+                  40.196356
+                ],
+                [
+                  44.480242,
+                  40.196315
+                ],
+                [
+                  44.480821,
+                  40.196503
+                ],
+                [
+                  44.481229,
+                  40.196003
+                ],
+                [
+                  44.480231,
+                  40.194823
+                ],
+                [
+                  44.480038,
+                  40.194356
+                ],
+                [
+                  44.480156,
+                  40.193356
+                ],
+                [
+                  44.481454,
+                  40.19134
+                ],
+                [
+                  44.480252,
+                  40.190447
+                ],
+                [
+                  44.478997,
+                  40.191742
+                ],
+                [
+                  44.478836,
+                  40.192635
+                ],
+                [
+                  44.479319,
+                  40.196356
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Парк Цицернакаберд",
+            "_umap_options": {
+              "fillColor": "Orange",
+              "color": "Orange"
+            },
+            "description": "Хороший парк для прогулок с большой собакой. Тут гуляют с большими собаками, есть бездомные собаки. Вечером нет освещения."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  44.481765,
+                  40.190865
+                ],
+                [
+                  44.480183,
+                  40.190082
+                ],
+                [
+                  44.481797,
+                  40.189398
+                ],
+                [
+                  44.484115,
+                  40.189377
+                ],
+                [
+                  44.488438,
+                  40.187718
+                ],
+                [
+                  44.496474,
+                  40.185759
+                ],
+                [
+                  44.499521,
+                  40.187234
+                ],
+                [
+                  44.488363,
+                  40.189791
+                ],
+                [
+                  44.481765,
+                  40.190865
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Площадка для выгула собак",
+            "description": "Закрытая площадка для выгула собак в парке"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.447776,
+              40.163723
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "Red",
+              "fillColor": "Red"
+            },
+            "name": "Прогулки с собакой запрещены"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  44.505653,
+                  40.174869
+                ],
+                [
+                  44.505964,
+                  40.174488
+                ],
+                [
+                  44.508963,
+                  40.175709
+                ],
+                [
+                  44.508625,
+                  40.176103
+                ],
+                [
+                  44.505653,
+                  40.174869
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Сквер на Комитаса",
+            "description": "Хорошее место для прогулок, дворняг не замечено."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  44.516484,
+                  40.206427
+                ],
+                [
+                  44.517556,
+                  40.206361
+                ],
+                [
+                  44.517363,
+                  40.204272
+                ],
+                [
+                  44.516258,
+                  40.204313
+                ],
+                [
+                  44.516484,
+                  40.206427
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Центральный парк",
+            "description": "Вход со стороны Налбандяна самый безопасные, есть отдельные неопасные дворняги "
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  43.834231,
+                  40.784863
+                ],
+                [
+                  43.835079,
+                  40.782321
+                ],
+                [
+                  43.83576,
+                  40.782174
+                ],
+                [
+                  43.835894,
+                  40.78388
+                ],
+                [
+                  43.836506,
+                  40.783893
+                ],
+                [
+                  43.836334,
+                  40.784827
+                ],
+                [
+                  43.835803,
+                  40.786074
+                ],
+                [
+                  43.834902,
+                  40.78557
+                ],
+                [
+                  43.834231,
+                  40.784863
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "fillColor": "Orange",
+              "color": "Orange"
+            },
+            "name": "Центральный парк",
+            "description": "В этой области есть стая! Будьте внимательны."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  43.835857,
+                  40.786094
+                ],
+                [
+                  43.836758,
+                  40.786667
+                ],
+                [
+                  43.837724,
+                  40.786618
+                ],
+                [
+                  43.837633,
+                  40.785631
+                ],
+                [
+                  43.837144,
+                  40.785619
+                ],
+                [
+                  43.836742,
+                  40.786135
+                ],
+                [
+                  43.836356,
+                  40.786114
+                ],
+                [
+                  43.836297,
+                  40.786013
+                ],
+                [
+                  43.836313,
+                  40.784997
+                ],
+                [
+                  43.835857,
+                  40.786094
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "Red",
+              "fillColor": "Red"
+            },
+            "name": "Частный сектор",
+            "description": "Есть временами агрессивная стая"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  43.832971,
+                  40.784701
+                ],
+                [
+                  43.834076,
+                  40.784815
+                ],
+                [
+                  43.83546,
+                  40.781224
+                ],
+                [
+                  43.83413,
+                  40.780988
+                ],
+                [
+                  43.832971,
+                  40.784701
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "_umap_options": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "name": "Места для прогулок",
+        "color": "Green",
+        "fillColor": "Green",
+        "iconUrl": "https://haywiki.org/assets/icons/fence.svg",
+        "id": 2480567
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "AmiryanVet",
+            "description": "- Адрес: [ул. Амиряна, 10](https://yandex.ru/maps/org/amiryanvet/209808278094/)\n- Контактный телефон: +374 95 560119\n- График работы: круглосуточно, по предварительному звонку\n- https://facebook.com/AmiryanVeterinary\n- https://instagram.com/amiryanvet/\n\n- Есть возможность сделать титры.\n- Можно сделать \"Сертификат таможенного союза\" и справки для выезда за границу.\n- Есть зоомагазин"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.509097,
+              40.180226
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "- Адрес: [ул. Паруйра Севака, 53/4](https://yandex.ru/maps/org/doktor_vet/24738688707/)\n- График работы: с 11:00 до 19:00, уточняйте по телефону\n- Контактный телефон: +374 10 289898\n- https://www.facebook.com/doctorvetveterinaryclinic\n- https://www.instagram.com/doctorvetarmenia/\n",
+            "name": "DoctorVet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.54469,
+              40.202866
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Joli  🏥 🛍️ ✂️",
+            "description": "- [Магазин на карте](https://yandex.ru/maps/org/veterinarny_tsentr_dzholi/135151397057/)\n- https://joli.am/ — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены.\n- https://instagram.com/joli_veterinary_center/\n- Корма в продаже: Brit, Monge."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.503738,
+              40.199101
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Maltese City",
+            "description": "- Адрес: [пр-кт Комитаса, 32](https://yandex.ru/maps/10262/yerevan/house/YE0YcwdjSUQCQFpqfX5xdX5lZg==/)\n- Контактный телефон: +374 94 372233 +374 91 626258 (Viber и WhatsApp)\n- График работы: с 11:00 до 21:00, уточняйте по телефону\n- https://www.facebook.com/maltesecity/\n- https://www.instagram.com/maltese_city/\n\n- Есть возможность сделать титры.\n- Можно сделать \"Сертификат таможенного союза\" и справки для выезда за границу."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.502895,
+              40.204173
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "- Адрес: [ул. Казара Парпеци, 17/3](https://yandex.ru/maps/org/quercus_vet_clinic_zoosalon/181982950255/)\n- Контактный телефон: +374 10 537602\n- График работы: пн-сб с 10:00 до 19:00, уточняйте по телефону\n- https://www.facebook.com/profile.php?id=100034328929603\n- https://www.instagram.com/vet.clinic_quercus/\n\n- Есть возможность сделать титры (97000 драмов, срок 2-3 недели).\n- Можно сделать \"Сертификат таможенного союза\" и справки для выезда за границу.\n- Есть зоомагазин",
+            "name": "Quercus"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.51165,
+              40.1863
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Vahe Mkrtchyan's Vet Clinic",
+            "description": "- Адрес: [8-я ул. Нор Ареша, 55](https://yandex.ru/maps/org/vahe_mkrtchyan_vet_clinic/106925944672/)\n- Контактный телефон: +374 10 451172\n- График работы: пн-сб с 11:00 до 20:00\n- https://facebook.com/VMPC2016\n\n- Можно сделать \"Сертификат таможенного союза\" и справки для выезда за границу.\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.516569,
+              40.140413
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Vet Vat",
+            "description": "- Адрес: ул. Мусаелян, 61\n- https://yandex.ru/maps/org/vet_vat/40293317454/\n- Контактный телефон: +37493304652\n- https://facebook.com/vetvatVeterinary\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              43.855035,
+              40.784835
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "VetExpert 🏥 🛍️ ✂️",
+            "description": "- Адрес: [просп. Азатутян, 14](https://yandex.ru/maps/org/vet_ekspert/1861952348/)\n- Адрес: [просп. Маштоца 21](https://yandex.ru/maps/10262/yerevan/house/YE0YcwZgSUMAQFpqfX15cn5kbA==/)\n- Контактный телефон: +374 10 209966, моб: +374 96 209966\n- График работы: круглосуточно, по предварительному звонку\n- https://vetexpert.am/ru/\n- https://facebook.com/vetexpertvetgroup\n- https://instagram.com/vetexpertveterinarygroup/\n\nЕсть ветеринары как домашних, так и диких/экзотических животных, а также необходимое оборудование, узи, рентген,\nгруминг, отель для животных, оформление документов на выезд в другую страну и прочие услуги.\n\n- Есть возможность сделать титры, стоимость 100000 драмов за обычный (1 месяц)\nили 135000 драмов за срочный (11-14 дней). Чтобы получить эту цену скажите что вы из\n[чата Армения с питомцем](https://t.me/armenia_pets).\n- Можно сделать \"Сертификат таможенного союза\" и справки для выезда за границу.\n- Есть зоомагазин\n\nПримерная стоимость услуг:\n- Чипирование 8000 драм;\n- Вакцинация без бешенства 12000 драм, с бешенством 15000 драм.\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.526075,
+              40.205103
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "- Адрес: [просп. Азатутян, 14](https://yandex.ru/maps/org/vet_ekspert/1861952348/)\n- Адрес: [просп. Маштоца 21](https://yandex.ru/maps/10262/yerevan/house/YE0YcwZgSUMAQFpqfX15cn5kbA==/)\n- Контактный телефон: +374 10 209966, моб: +374 96 209966\n- График работы: круглосуточно, по предварительному звонку\n- https://vetexpert.am/ru/\n- https://facebook.com/vetexpertvetgroup\n- https://instagram.com/vetexpertveterinarygroup/\n\nЕсть ветеринары как домашних, так и диких/экзотических животных, а также необходимое оборудование, узи, рентген,\nгруминг, отель для животных, оформление документов на выезд в другую страну и прочие услуги.\n\n- Есть возможность сделать титры, стоимость 100000 драмов за обычный (1 месяц)\nили 135000 драмов за срочный (11-14 дней). Чтобы получить эту цену скажите что вы из\n[чата Армения с питомцем](https://t.me/armenia_pets).\n- Можно сделать \"Сертификат таможенного союза\" и справки для выезда за границу.\n- Есть зоомагазин\n\nПримерная стоимость услуг:\n- Чипирование 8000 драм;\n- Вакцинация без бешенства 12000 драм, с бешенством 15000 драм.\n",
+            "name": "VetExpert 🏥 🛍️ ✂️"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.510057,
+              40.183177
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "VetHome",
+            "description": "- Адрес: [1-й квартал Давташен, 36/4](https://yandex.ru/maps/org/vethome/111774686048/)\n- Контактный телефон: +374 99 366788\n- График работы: пн-сб с 11:00 до 20:00\n- https://www.facebook.com/vethomeyerevan\n\n- Есть возможность сделать титры (150000 драмов).\n- Можно сделать \"Сертификат таможенного союза\" и справки для выезда за границу.\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.491217,
+              40.222354
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "VetLine 🏥 🛍️ ✂️ ",
+            "description": "- [[https://yandex.ru/maps/org/kruglosutochnaya_veterinarnaya_klinika_vetlayn/154801169156/|просп. Комитаса, 6]]\n- Контактный телефон: +374 11 279999\n- График работы: круглосуточно\n- https://www.facebook.com/vetlinearmenia/\n- https://www.instagram.com/vetline_vet.clinic/\n\n- Можно сделать \"Сертификат таможенного союза\" и справки для выезда за границу.\n- Есть зоомагазин"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.492885,
+              40.200125
+            ]
+          }
+        }
+      ],
+      "_umap_options": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "name": "Ветеринарные клиники",
+        "color": "Red",
+        "iconUrl": "/uploads/pictogram/hospital-24-white.png",
+        "id": 2480568,
+        "iconClass": "Drop"
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Diadella Pet Hotel & Grooming",
+            "description": "\n- Адрес: [улица Тпагричнери, 9](https://yandex.ru/maps/10262/yerevan/house/YE0YcwVgSUEAQFpqfX12dnVhYQ==/)\n- Контактный телефон: +37498818287 (whatsapp, viber), +37491818287\n- График работы: по предварительной записи\n- https://www.facebook.com/profile.php?id=100064109612549\n- https://www.instagram.com/diadella_/\n- Услуги: груминг, экспресс-линька, передержка (отель для животных)."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.519917,
+              40.178025
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "- Адрес: [во дворе ул. Теряна, 54](https://yandex.ru/maps/10262/yerevan/house/YE0YcwZoQUwAQFpqfX15dH9kZw==/?)\n- Контактный телефон: +37495170197 (whatsapp, viber)\n- График работы: по предварительной записи\n- https://instagram.com/snoopy_grooming_salon_studio/\n- Услуги: груминг, экспресс-линька.",
+            "name": "Snoopy grooming салон"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.519026,
+              40.185517
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "VetLine 🏥 🛍️ ✂",
+            "description": "- [[https://yandex.ru/maps/org/kruglosutochnaya_veterinarnaya_klinika_vetlayn/154801169156/|просп. Комитаса, 6]]\n- Контактный телефон: +374 11 279999\n- График работы: круглосуточно\n- https://www.facebook.com/vetlinearmenia/\n- https://www.instagram.com/vetline_vet.clinic/\n\n- Можно сделать \"Сертификат таможенного союза\" и справки для выезда за границу.\n- Есть зоомагазин"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.493095,
+              40.200191
+            ]
+          }
+        }
+      ],
+      "_umap_options": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "name": "Груминг и стрижка",
+        "color": "LavenderBlush",
+        "iconClass": "Drop",
+        "iconUrl": "✂️",
+        "id": 2480573
+      }
+    }
+  ]
+}
