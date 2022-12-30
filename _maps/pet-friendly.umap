@@ -1,6 +1,6 @@
 {
   "type": "umap",
-  "uri": "https://umap.openstreetmap.fr/en/map/map_826834",
+  "uri": "https://umap.openstreetmap.fr/ru/map/map_826834#14/40.5503/44.7852",
   "properties": {
     "easing": true,
     "tilelayersControl": null,
@@ -37,13 +37,13 @@
     "moreControl": true,
     "scaleControl": true,
     "scrollWheelZoom": true,
-    "zoom": 13
+    "zoom": 14
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      44.50861930847168,
-      40.18372588041463
+      44.78516578674317,
+      40.55033073202848
     ]
   },
   "layers": [
@@ -264,7 +264,7 @@
           "type": "Feature",
           "properties": {
             "name": "Prepa",
-            "description": "+374 95 300300\nул. Амиряна, 4/6\nпн-вс 08-23\n\nС собакой точно можно на веранду, внутрь — нужно узнавать\n\nhttps://yandex.ru/maps/org/prepa/46656616641/"
+            "description": "+374 95 300300\nул. Амиряна, 4/6\nпн-вс 08-23\n\nhttps://yandex.ru/maps/org/prepa/46656616641/"
           },
           "geometry": {
             "type": "Point",
@@ -767,7 +767,7 @@
         {
           "type": "Feature",
           "properties": {
-            "description": "[UrbanPetShopArmenia|https://www.facebook.com/UrbanPetShopArmenia/]]\nКорма в продаже: Royal Canin, Monge, Bonmascota, Lapa, Jackpet, Dog&dog",
+            "description": "[[UrbanPetShopArmenia|https://www.facebook.com/UrbanPetShopArmenia/]]\nКорма в продаже: Royal Canin, Monge, Bonmascota, Lapa, Jackpet, Dog&dog",
             "name": "Urban Pet Shop"
           },
           "geometry": {
