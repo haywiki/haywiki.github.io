@@ -70,7 +70,7 @@ layout: page
 Стоимость и набор включенных услуг сильно различается у страховых компаний, к выбору нужно отнестись очень тщательно.
 
 </div>
-<div class="card card-emoji">
+<div class="card">
 
 ## Аптеки
 
@@ -78,9 +78,10 @@ layout: page
 - 💊 [pharmacy.am](https://pharmacy.am) — поиск по аптекам Армении
 - 💊 [natalipharm.am](https://natalipharm.am/ru/) — сеть аптек
 - 💊 [alfapharm.am](https://alfapharm.am/ru/) — сеть аптек
+{: class="list-emoji"}
 
 </div>
-<div class="card card-emoji">
+<div class="card ">
 
 ## Поликлиники
 
@@ -89,9 +90,10 @@ layout: page
 - 🏥 [Медицинский центр "Канакер-Зейтун"](https://kzmc.am)
 - 🏥 [Медицинский центр "Норк-Мараш"](http://nmmc.am/ru/)
 - 🔗 [Все поликлиники](https://www.spyur.am/ru/yellow_pages/yp/430)
+{: class="list-emoji"}
 
 </div>
-<div class="card card-emoji">
+<div class="card">
 
 ## Медицинские центры и анализы
 
@@ -104,9 +106,10 @@ layout: page
 - 🏥 [PromTest](https://www.promtest.am/) - лаборатория и COVID-тесты
 - 🔗 [Все медицинские центры](https://www.spyur.am/ru/yellow_pages/yp/427)
 - 🔗 [Все стоматологические клиники](https://www.spyur.am/ru/yellow_pages/yp/424)
+{: class="list-emoji"}
 
 </div>
-<div class="card card-emoji">
+<div class="card">
 
 ## Детские поликлиники
 
@@ -118,9 +121,10 @@ layout: page
 - 🦷 [Стоматологическая поликлиника №4](https://muratsan.am/ru/departments-ru/stom4-1/) на базе кафедры детской стоматологии и ортодонтии ЕГМУ
 - 🔗 [Все детские поликлиники](https://www.spyur.am/ru/yellow_pages/yp/429)
 - 🔗 [Все детские стоматологии](https://www.spyur.am/ru/yellow_pages/yp/423)
+{: class="list-emoji"}
 
 </div>
-<div class="card card-emoji">
+<div class="card">
 
 ## Очки и контактные линзы
 
@@ -131,6 +135,7 @@ layout: page
 - 👓 [Look Optic](https://www.lookoptic.am/ru/aboutus) — оправы производства Bottega Veneta, Brioni, Balenciaga, Puma, Alexander mcQueen, Yves Saint Laurent, Gucci, Ted Baker, Versace, Swarowski, Rodenstock, Roberto Cavalli, Ray Ban, Porsche Design, Persol, Pepe Jeans, Montblanc, Mercedes-Benz, Mira Flex, Hacket, Guess, Diesel, Cacharel, Christian Lacroix и др., контактные линзы CooperVision, Dailies, Air Optics
 - 👓 [Берлин Оптикс](http://www.berlin-optic.am) — одна из крупнейших в Армении сетей салонов оптики, представленная магазинами в Ереване, Гюмри, Ванадзоре, Абовяне и Армавире, каталога на сайте нет.
 - 👓 [Optics.am](https://ru.optics.am) — бюджетные оправы, солнцезащитные очки и большой выбор контактных линз производства Alcon, Bausch & Lomb, Bella, CooperVision, Johnson & Johnson, Seed, Miru / Menicon, Maxima, Clearlab.
- 
+{: class="list-emoji"}
+
 </div>
 </div>

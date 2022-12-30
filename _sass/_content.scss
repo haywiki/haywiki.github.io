@@ -129,13 +129,6 @@
       padding: 0 1rem !important;
     }
 
-    .card-emoji {
-      ul {
-        margin-left: 0;
-        list-style: none;
-      }
-    }
-
     p {
       font-size: 0.85rem;
       color: $grey-color;
@@ -177,6 +170,11 @@
 
   .fa-link {
     color: #0F9D58;
+  }
+
+  ul.list-emoji {
+    margin-left: 0;
+    list-style: none;
   }
 }
 
