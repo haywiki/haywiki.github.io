@@ -12,6 +12,8 @@ display_toc: false
 - [Diadella](grooming.md#diadella) оказывает услуги передержки и зооняни;
 - <i class="fa-brands fa-instagram"></i> [petgarden_hotel](https://www.instagram.com/petgarden_hotel/) — гостиница для собак и кошек
 - <i class="fa-brands fa-telegram"></i> [Передержка домашних животных 🐶😸 Ереван](https://t.me/+LatyeXYS5LM5MGQy)
+- <i class="fa-brands fa-facebook-f"></i> [Guest house for CATS in Yerevan](https://www.facebook.com/KittykGuestHouse/)
+- <i class="fa-brands fa-facebook-f"></i> [Pet Hotel "Roly"](https://www.facebook.com/shnerikatunerihyuranocRolyPethotelRoly/)
 
 ### Есть пожелания и предложения?
 
