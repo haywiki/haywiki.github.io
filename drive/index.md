@@ -171,7 +171,7 @@ layout: page
 
 - [Drive Motors](https://shop.drivemotors.am/) — везут запчасти из Москвы, цены одни из лучших
 - [Emex](https://emex.am/)
-- [Tecdoc](https://tecdoc.ru/)
+- [Tecdoc](https://tecdoc.am/)
 - [Zap-ros.am](https://zap-ros.am/)
 - [Carfat.net](https://carfat.net/)
 
