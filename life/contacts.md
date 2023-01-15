@@ -190,7 +190,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Книжный клуб. Ереван](https://t.me/bookclubyerevan)
 - <i class="fa-brands fa-telegram"></i> [Relolib Армения](https://t.me/+J__AORhInF5jMWYy) — проект [relolib.com](https://relolib.com/armenia): обмен и обсуждение книг
 - <i class="fa-brands fa-telegram"></i> [Крипто, NFТ, блокчейн](https://t.me/cryptoitarmenia) — релокация капитала в Армению, токены, снятие денег, вакансии, нетворкинг, NFT, метавселенные.
-- <i class="fa-brands fa-telegram"></i> [Green Green](https://t.me/ecoyerevan_chat) — чат сообщества эко-активистов
+- <i class="fa-brands fa-telegram"></i> [Green Green](https://t.me/greengreen_chat) — чат сообщества эко-активистов
 - <i class="fa-brands fa-telegram"></i> [VIDEO PRODUCTION YEREVAN](https://t.me/synthesisyerevan)
 {: class="list-emoji"}
 
@@ -202,7 +202,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Переезд в Ванадзор](https://t.me/vanadzorchat)
 - <i class="fa-brands fa-telegram"></i> [Переезд в Дилижан](https://t.me/dilijanforlife)
 - <i class="fa-brands fa-telegram"></i> [Русскоязычный Абовян](https://t.me/ruabovyan)
-- <i class="fa-brands fa-telegram"></i> [Гюмри - Взаимопомощь](https://t.me/rossia_126)
+- <i class="fa-brands fa-telegram"></i> [Гюмри - Взаимопомощь](https://t.me/vzaimopomoshgyumri)
 {: class="list-emoji"}
 
 ## Армянский язык
@@ -214,7 +214,7 @@ display_toc: false
 ## Благотворительность
 
 - <i class="fa-brands fa-telegram"></i> [Помогаем Армении](https://t.me/+YH7-IwD1TSkzMGQy) — помощь солдатам и другим защитникам Армении.
-- <i class="fa-brands fa-telegram"></i> [Green Green](https://t.me/ecoyerevan_chat) — чат сообщества эко-активистов
+- <i class="fa-brands fa-telegram"></i> [Green Green](https://t.me/greengreen_chat) — чат сообщества эко-активистов
 - <i class="fa-brands fa-telegram"></i> [Armenian Military Portal](https://t.me/military_arm) — организовывает сбор средств и помощь солдатам Армении.
 - <i class="fa-brands fa-telegram"></i> [Фонд ВИВА](https://t.me/VIVAFound) — оснащение больниц, реабилитация раненых, медикаменты беженцам, образовательные программы для врачей, социальные программы.
 - 🔗 [VOMA Center](https://www.voma.center/) — инвестиции в образование, сплоченность, подготовленность и гражданскую осознанность нации.
