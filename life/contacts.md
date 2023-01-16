@@ -183,15 +183,21 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Армения: айти-железки](https://t.me/am_hardware) — выбор, покупка и ремонт техники и компьютерного железа
 - <i class="fa-brands fa-telegram"></i> [Relogame Армения](https://t.me/relogame_armenia) — релокация специалистов из GameDev сферы
 - <i class="fa-brands fa-telegram"></i> [Beauty / Woman Ереван](https://t.me/erevanwomen) — женское комьюнити: спорт, красота, здоровье, развлечения
-- <i class="fa-brands fa-telegram"></i> [Yerevan Bike Club](https://t.me/yerevanBikeClub) — клуб любителей велосипедов
 - <i class="fa-brands fa-telegram"></i> [Настолки в Ереване](https://t.me/boardgames_yerevan) — анонсы настольных (и не только) игр
 - <i class="fa-brands fa-telegram"></i> [НРИ Ереван Армения](https://t.me/nrierevan) — настольные ролевые игры
-- <i class="fa-brands fa-telegram"></i> [Волейбол Ереван](https://t.me/volleybollerv)
 - <i class="fa-brands fa-telegram"></i> [Книжный клуб. Ереван](https://t.me/bookclubyerevan)
 - <i class="fa-brands fa-telegram"></i> [Relolib Армения](https://t.me/+J__AORhInF5jMWYy) — проект [relolib.com](https://relolib.com/armenia): обмен и обсуждение книг
 - <i class="fa-brands fa-telegram"></i> [Крипто, NFТ, блокчейн](https://t.me/cryptoitarmenia) — релокация капитала в Армению, токены, снятие денег, вакансии, нетворкинг, NFT, метавселенные.
 - <i class="fa-brands fa-telegram"></i> [Green Green](https://t.me/greengreen_chat) — чат сообщества эко-активистов
 - <i class="fa-brands fa-telegram"></i> [VIDEO PRODUCTION YEREVAN](https://t.me/synthesisyerevan)
+{: class="list-emoji"}
+
+## Спорт и активный отдых
+
+- <i class="fa-brands fa-telegram"></i> [Yerevan RUN](https://t.me/YerevanRun) — клуб бегунов Еревана и обсуждение занятий спортом в целом
+- <i class="fa-brands fa-telegram"></i> [Yerevan Bike Club](https://t.me/yerevanBikeClub) — клуб любителей велосипедов
+- <i class="fa-brands fa-telegram"></i> [Волейбол Ереван](https://t.me/volleybollerv)
+- <i class="fa-brands fa-telegram"></i> [Водоплавающий Ереван](https://t.me/YerevanSwim) — бассейны и водный спорт
 {: class="list-emoji"}
 
 </div>
