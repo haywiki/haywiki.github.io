@@ -25,6 +25,7 @@ display_toc: false
 - [Grand Sport](https://yandex.ru/maps/org/grand_sport/176292840516/)
 - [Cross Sport Complex](https://yandex.ru/maps/org/kross_sportivny_kompleks/1697413287/) — спортивный комплекс, бассейн и зона отдыха
 - [Olympavan](https://yandex.ru/maps/org/olimpavan/117446541552/) — спортивный комплекс и бассейн
+{: class="list-emoji"}
 
 </div>
 <div class="card">
@@ -39,6 +40,7 @@ display_toc: false
 - [Cross Sport Complex](https://yandex.ru/maps/org/kross_sportivny_kompleks/1697413287/)
 - [Best Western Plus Congress Hotel](https://yandex.ru/maps/org/best_western_plus_congress_hotel/1078761583/) — бассейн с подогревом в гостинице
 - [Paradise Pool](https://yandex.ru/maps/org/paradise_pool/48314035183/) — небольшой бассейн недалеко от центра города
+{: class="list-emoji"}
 
 </div>
 <div class="card">
@@ -60,6 +62,7 @@ display_toc: false
 - [Shakti Yoga federation Armenia](https://yandex.ru/maps/org/shakti_yoga_federation_armenia/49906143726/)
 - [Luys Yoga Studio](https://yandex.ru/maps/org/luys_yoga_studio/42330101673/)
 - [Arev Yoga & Pilates Center](https://www.facebook.com/AREV74/)
+{: class="list-emoji"}
 
 </div>
 <div class="card">
@@ -69,6 +72,7 @@ display_toc: false
 - [Reebok Sports Club Armenia](https://yandex.ru/maps/org/reebok_sports_club_armenia/184147060081/) - бассейн 4 метра в глубину с 8 дорожками.
 - [Gold’s Gym](http://goldsgym.am/ru/) на Комитаса
 - [Grand Sport](https://yandex.ru/maps/org/grand_sport/176292840516/)
+{: class="list-emoji"}
 
 ### Бассейны 25 метров
 
@@ -82,6 +86,7 @@ display_toc: false
 - [Cloud7 Wellness & SPA](https://yandex.ru/maps/org/cloud7_wellness_spa/174501300118/)
 - [Olympavan](https://yandex.ru/maps/org/olimpavan/117446541552/)
 - [Бассейн Футбольной Академии](https://yandex.ru/maps/org/basseyn/169201319962/)
+{: class="list-emoji"}
 
 </div>
 </div>
