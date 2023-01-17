@@ -31,4 +31,4 @@ display_toc: false
 
 ## Источник информации
 
-- [Армения: иммиграция, легализация, банки, налоги](https://t.me/am_banking_and_residency)
+- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
