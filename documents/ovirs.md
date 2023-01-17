@@ -35,4 +35,5 @@ layout: page
 
 ## Источник информации
 
-- [Армения: иммиграция, легализация, банки, налоги](https://t.me/am_banking_and_residency)
+- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
+- [Получение соц номера в Армении](https://www.notion.so/357310af7dd54f4ab00d77301c5d0c51)
