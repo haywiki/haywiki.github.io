@@ -20,6 +20,7 @@ Disclaimer: информация на этом сайте написана не 
 <a class="btn btn-shortcut" href="/life/contacts.html"><span>🔗 💬 📞</span><br> Полезные сайты, чаты и контакты</a>
 <a class="btn btn-shortcut" href="/drive/"><span>🚘 🪪️ 🚓</span><br> Автомобили, права и штрафы</a>
 <a class="btn btn-shortcut" href="/animals/"><span>🐕 🐈 🗺️</span><br> Переезд и жизнь с питомцем</a>
+<a class="btn btn-shortcut" href="/life/healthcare.html"><span>🏥 💊 🦷 👓</span><br> Медицина и аптеки в Армении</a>
 {: style="text-align: center;"}
 
 <div class="cards index">
@@ -116,7 +117,6 @@ Disclaimer: информация на этом сайте написана не 
 
 ### Бытовые вопросы
 
-- 🏥 💊 🦷 👓 [Медицина и аптеки в Армении](/life/healthcare.md) — скорая помощь, поликлиники, частные клиники, аптеки и прочее.
 - [Спортивные залы, бассейны, йога в Ереване](/life/wellness.md)
 - [Где найти нотариуса в Ереване?](/attorneys.md)
 - [Как получить загранпаспорт РФ в Армении?](/documents/zagran.md)

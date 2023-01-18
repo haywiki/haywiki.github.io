@@ -47,4 +47,4 @@ layout: page
 
 ## Источники информации
 
-- [Армения: иммиграция, легализация, банки, налоги \| Канал](https://t.me/am_banking_and_residency)
+- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
