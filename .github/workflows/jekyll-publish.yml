@@ -35,7 +35,7 @@ jobs:
       - name: Copy result
         run: |
           mkdir "$RELEASES_DIR/$GITHUB_RUN_NUMBER"
-          cp -R "./_site/." "$RELEASES_DIR/$GITHUB_RUN_NUMBER"
+          cp -Rp "./_site/." "$RELEASES_DIR/$GITHUB_RUN_NUMBER"
       - name: Switch symlink
         run: |
           rm -Rf ${CURRENT_DIR}
