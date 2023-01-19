@@ -50,4 +50,5 @@ SWIFT переводы проходят в ограниченное количе
 
 ## Источники информации
 
-- [Армения: иммиграция, легализация, банки, налоги \| Канал](https://t.me/am_banking_and_residency)
+- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
+- [Переводы денег из банков РА в банки в РФ](https://www.notion.so/eeccf41c9fb048ac9eaafda9673ba4fa)
