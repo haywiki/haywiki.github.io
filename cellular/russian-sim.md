@@ -20,4 +20,4 @@ parent_url: /cellular.html
 
 - [Инструкция для мегафона](https://moscow.megafon.ru/help/faq/chto_takoe_vowi_fi.html)
 - [Инструкция для МТС](https://moskva.mts.ru/personal/tehnologii/vowifi)
-- [Инструкция для Билайна](https://moskva.beeline.ru/customers/products/vowifi/) (не открывается из Армении без [российского vpn](./life/russian-vpn.md))
+- [Инструкция для Билайна](https://moskva.beeline.ru/customers/products/vowifi/) (не открывается из Армении без [российского vpn](../life/russian-vpn.md))

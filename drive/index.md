@@ -198,7 +198,7 @@ layout: page
 - [Автосервис Bosch](https://yandex.ru/maps/org/avtoservis_bosh/140208137362/)
 - [Ovne](https://ovne.am/ru/content/2/)
 - [@vladimir_iq_chip](https://t.me/vladimir_iq_chip) — чип тюнинг, диагностика легковых автомобилей.
-- [DGservice](autogaz.am) — установка ГБО, [отзыв одного из участников чата](https://t.me/am_autoclub/1937).
+- [DGservice](https://autogaz.am/) — установка ГБО, [отзыв одного из участников чата](https://t.me/am_autoclub/1937).
 
 ### Перевозка автомобилей автовозом
 
