@@ -21,3 +21,8 @@ parent_url: /cellular.html
 - [Инструкция для мегафона](https://moscow.megafon.ru/help/faq/chto_takoe_vowi_fi.html)
 - [Инструкция для МТС](https://moskva.mts.ru/personal/tehnologii/vowifi)
 - [Инструкция для Билайна](https://moskva.beeline.ru/customers/products/vowifi/) (не открывается из Армении без [российского vpn](../life/russian-vpn.md))
+
+### Потеря российской сим-карты в Армении
+
+При потере сим-карты билайн можно связаться с поддержкой (у билайна есть [отдельный номер](https://moskva.beeline.ru/customers/pomosh/mobile/mobilnyj-internet/nashi-kontakty/kak-svyazatsya-s-operatorom-bilayn-napryamuyu/) для звонков не из РФ)
+и дистанционно оформить e-sim. Для оформления потребовалось отправить им на почту фото паспорта.
