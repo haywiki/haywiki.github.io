@@ -79,6 +79,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [2022 Relocation Армения](https://t.me/armrelo2022)
 - <i class="fa-brands fa-telegram"></i> [Ковчег Армения](https://t.me/+C8I5SyknObsyZTky)
 - <i class="fa-brands fa-telegram"></i> [Автомобилисты в Армении](https://t.me/am_autoclub) — чат для переехавших в Армению с собственным автомобилем.
+- <i class="fa-brands fa-telegram"></i> [Получение загранпаспорта РФ в Армении](https://t.me/zagranerevan)
 {: class="list-emoji"}
 
 ## Переезд и жизнь с питомцем
@@ -99,6 +100,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Курс драма (МИР/Rate.am/SAS)](https://t.me/armeniaCurrency) — отслеживание курсов армянского драма и самых выгодных способов обмена валюты.
 - <i class="fa-brands fa-telegram"></i> [Банки в Армении](https://t.me/+s2_G3BHv0E4xNjNi)
 - <i class="fa-brands fa-telegram"></i> [Открытие юрлица в Армении](https://t.me/+TG55UcS6PjViOThi) — обсуждение вопросов открытия и ведения юрлиц (ип и ооо) в Армении.
+- <i class="fa-brands fa-telegram"></i> [Счета резидентов РФ за рубежом](https://t.me/+fVDnu0bGaqNiYTVi) ([канал](https://t.me/+RE0haAqcKiIyMmYy))
 {: class="list-emoji"}
 
 </div>
@@ -190,6 +192,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Крипто, NFТ, блокчейн](https://t.me/cryptoitarmenia) — релокация капитала в Армению, токены, снятие денег, вакансии, нетворкинг, NFT, метавселенные.
 - <i class="fa-brands fa-telegram"></i> [Green Green](https://t.me/greengreen_chat) — чат сообщества эко-активистов
 - <i class="fa-brands fa-telegram"></i> [VIDEO PRODUCTION YEREVAN](https://t.me/synthesisyerevan)
+- <i class="fa-brands fa-telegram"></i> [Баня REDHAT](https://t.me/banya_erevan) — клуб любителей русской бани
 {: class="list-emoji"}
 
 ## Спорт и активный отдых
@@ -198,6 +201,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Yerevan Bike Club](https://t.me/yerevanBikeClub) — клуб любителей велосипедов
 - <i class="fa-brands fa-telegram"></i> [Волейбол Ереван](https://t.me/volleybollerv)
 - <i class="fa-brands fa-telegram"></i> [Водоплавающий Ереван](https://t.me/YerevanSwim) — бассейны и водный спорт
+- <i class="fa-brands fa-telegram"></i> [Скалолазные и треккинговые выходные](https://t.me/+GYYbq1WtoopiNGEy)
 {: class="list-emoji"}
 
 </div>
@@ -207,8 +211,11 @@ display_toc: false
 
 - <i class="fa-brands fa-telegram"></i> [Переезд в Ванадзор](https://t.me/vanadzorchat)
 - <i class="fa-brands fa-telegram"></i> [Переезд в Дилижан](https://t.me/dilijanforlife)
+- <i class="fa-brands fa-telegram"></i> [Dilijan Care](https://t.me/Dilicare) встречи, инициативы, волонтерство и забота о городе 🌿
 - <i class="fa-brands fa-telegram"></i> [Русскоязычный Абовян](https://t.me/ruabovyan)
 - <i class="fa-brands fa-telegram"></i> [Гюмри - Взаимопомощь](https://t.me/vzaimopomoshgyumri)
+- <i class="fa-brands fa-telegram"></i> [Переезд в Гюмри](https://t.me/lifeingyumri)
+- <i class="fa-brands fa-telegram"></i> [IT в Гюмри](https://t.me/GyumriIT)
 {: class="list-emoji"}
 
 ## Армянский язык

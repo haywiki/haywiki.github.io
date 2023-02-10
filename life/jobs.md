@@ -29,3 +29,4 @@ display_toc: false
 - [Вакансии в Армении](https://t.me/rabotavarmenii)
 - [IT вакансии в Армении](https://t.me/itjobsinam)
 - [Вакансии в Армении для русскоязычных](https://t.me/ThereAreWorksInArmenia)
+- [Работа в Армении](https://t.me/yourjobhaya)

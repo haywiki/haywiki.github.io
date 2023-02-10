@@ -19,6 +19,8 @@ layout: page
 - **[Lusine Tsaturyan](https://t.me/Lusine_Tsaturyan)** — цены выше среднего, но очень развернутые консультации.
 - **Андреас** develex.info@gmail.com +37477225062
 - **Artyom Ghazaryan** - +37477765552, бухгалтер, также может помочь с регистрацией бизнеса.
+- **[Lusy Petrosyan](https://t.me/Lusy555)**
+- **[Maria Azatyan](https://t.me/Mariagenry)**
 
 ## Источник информации
 
