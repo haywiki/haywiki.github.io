@@ -128,6 +128,43 @@ Swift RUB VO: 99090
 
 [Источник информации](https://t.me/am_banking_and_relocation_chat/16422?thread=16207)
 
+### Перевод в рублях из Inecobank в банк РФ
+
+В Инеко Онлайн https://online.inecobank.am/ выберите "Transactions" -> "Transfer in RUB".
+
+Форму заполняйте кириллицей
+
+```
+Payment Type: Standard
+Transfer from: (выбрать свой рублёвый счёт)
+Amount: (сумма перевода)
+Transfer type: International transfer
+Commission type: (заполняется автоматом)
+Charge from account: (выбрать счет для списания комиссии)
+
+Beneficiary (59)
+Transfer to: (номер счёта в банке рф)
+Beneficiary: (имя получателя на русском)
+Address: (адрес получателя)
+City: (город получателя)
+INN: (ИНН получателя)
+
+Beneficiary bank (57)
+Поля Bank Code, Bank Name, Bank Address, Bank City заполняются автоматом, если выбрать Tinkoff в каталоге, открывающемся в Bank Code
+Bank Code: TICSRUMMXXX
+Bank Name: 'TINKOFF' 'BANK'
+Bank Address: 123060 'MOSCOW' 1'ST' 'VOLOKOLAMSKY' 'PROEZD' 10 'BLD'.1
+Bank City: 'MOSCOW'
+
+Эти поля взяты из раздела "реквизиты" в тинькофф банке
+Bank BIC: 044525974 (БИК)
+Bank Account: 30101810145250000974 (Корсчет)
+
+Details: Перевод собственных средств (ваше ФИО). НДС не облагается
+```
+
+После заполнения полей надо нажать на кнопку "Transliterate from Russian to English" внизу формы. И отправляйте форму.
+
 ### Перевод в рублях из Unibank в банк РФ
 
 Прикладываем, [официальную инструкцию по переводу от Unibank](/assets/money/am-ru-unibank-example.pdf).
