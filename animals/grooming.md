@@ -6,24 +6,25 @@ parent_url: /animals/
 display_toc: false
 ---
 
-<div class="cards vet">
+<div class="cards list-emoji">
 <div class="card">
 
-### Snoopy grooming салон
+### Polly Grooming
 
-- <i class="fa-brands fa-instagram"></i> [snoopy_grooming_salon_studio](https://instagram.com/snoopy_grooming_salon_studio/)
-- Адрес: [во дворе ул. Теряна, 54](https://yandex.ru/maps/10262/yerevan/house/YE0YcwZoQUwAQFpqfX15dH9kZw==/)
-- Телефон: +37495170197 (whatsapp, viber)
-- График работы: по предварительной записи
+- 🏆 Лучший груминг в Ереване по мнению сообщества!
+- <i class="fa-brands fa-instagram"></i> [polly_grooming](https://www.instagram.com/polly_grooming/)
+- 📍 [проспект Комитаса, 30](https://yandex.ru/maps/org/forest_voices_zoomagazin/99596547688/)
 - Услуги: груминг, экспресс-линька.
 
 </div>
 <div class="card">
 
-### Polly Grooming
+### Snoopy grooming салон
 
-- <i class="fa-brands fa-instagram"></i> [polly_grooming](https://www.instagram.com/polly_grooming/)
-- График работы: по предварительной записи через инстаграм, услуги пока оказываются на дому.
+- <i class="fa-brands fa-instagram"></i> [snoopy_grooming_salon_studio](https://instagram.com/snoopy_grooming_salon_studio/)
+- 📍 [во дворе ул. Теряна, 54](https://yandex.ru/maps/10262/yerevan/house/YE0YcwZoQUwAQFpqfX15dH9kZw==/)
+- 📞 +37495170197 (whatsapp, viber)
+- Услуги: груминг, экспресс-линька.
 
 </div>
 <div class="card">
@@ -31,9 +32,8 @@ display_toc: false
 ### Diadella Pet Hotel & Grooming {#diadella}
 
 - <i class="fa-brands fa-facebook-f"></i> [Diadella](https://www.facebook.com/profile.php?id=100064109612549) &nbsp; <i class="fa-brands fa-instagram"></i> [diadella_](https://instagram.com/diadella_/)
-- Адрес: [улица Тпагричнери, 9](https://yandex.ru/maps/10262/yerevan/house/YE0YcwVgSUEAQFpqfX12dnVhYQ==/)
-- Телефон: +37498818287 (whatsapp, viber), +37491818287
-- График работы: по предварительной записи
+- 📍 [улица Тпагричнери, 9](https://yandex.ru/maps/10262/yerevan/house/YE0YcwVgSUEAQFpqfX12dnVhYQ==/)
+- 📞 +37498818287 (whatsapp, viber), +37491818287
 - Услуги: груминг, экспресс-линька, передержка (отель для животных).
 
 </div>
@@ -42,8 +42,8 @@ display_toc: false
 ### VetExpert
 
 - <i class="fa-solid fa-link"></i> [vetexpert.am](https://vetexpert.am/ru/) &nbsp; <i class="fa-brands fa-facebook-f"></i> [vetexpertvetgroup](https://facebook.com/vetexpertvetgroup) &nbsp; <nobr markdown="span"><i class="fa-brands fa-instagram"></i> [vetexpertveterinarygroup](https://instagram.com/vetexpertveterinarygroup/)</nobr>
-- Адрес: [просп. Азатутян, 14](https://yandex.ru/maps/org/vet_ekspert/1861952348/)
-- Телефон: +37410209966, моб: +37496209966
+- 📍 [просп. Азатутян, 14](https://yandex.ru/maps/org/vet_ekspert/1861952348/)
+- 📞 +374 10 209966, моб: +374 96 209966
 
 </div>
 <div class="card">
@@ -51,8 +51,8 @@ display_toc: false
 ### VetLine
 
 - <i class="fa-brands fa-facebook-f"></i> [vetlinearmenia](https://facebook.com/vetlinearmenia/) &nbsp; <i class="fa-brands fa-instagram"></i> [vetline_vet.clinic](https://instagram.com/vetline_vet.clinic/)
-- Адрес: [просп. Комитаса, 6](https://yandex.ru/maps/org/kruglosutochnaya_veterinarnaya_klinika_vetlayn/154801169156/)
-- Телефон: +374 11 279999
+- 📍 [просп. Комитаса, 6](https://yandex.ru/maps/org/kruglosutochnaya_veterinarnaya_klinika_vetlayn/154801169156/)
+- 📞 +374 11 279999
 
 </div>
 <div class="card">
@@ -60,7 +60,7 @@ display_toc: false
 ### Joli
 
 - <i class="fa-solid fa-link"></i> [joli.am](https://joli.am/) &nbsp; <i class="fa-brands fa-instagram"></i> [joli_veterinary_center](https://instagram.com/joli_veterinary_center/)
-- [ул. Авета Аветисяна, 112/2](https://yandex.ru/maps/org/veterinarny_tsentr_dzholi/135151397057/)
+- 📍 [ул. Авета Аветисяна, 112/2](https://yandex.ru/maps/org/veterinarny_tsentr_dzholi/135151397057/)
 
 </div>
 </div>

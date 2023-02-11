@@ -10,14 +10,14 @@ display_toc: false
 
 ## Клиники в Ереване {#yerevan}
 
-<div class="cards vet">
+<div class="cards">
 <div class="card">
 
 ### VetExpert 🏥 🛍️ ✂️ {#vetexpert}
 
-- Адрес: [просп. Азатутян, 14](https://yandex.ru/maps/org/vet_ekspert/1861952348/)
-- Адрес: [просп. Маштоца 21](https://yandex.ru/maps/10262/yerevan/house/YE0YcwZgSUMAQFpqfX15cn5kbA==/)
-- Контактный телефон: +37410209966, моб: +37496209966
+- 📍 [просп. Азатутян, 14](https://yandex.ru/maps/org/vet_ekspert/1861952348/)
+- 📍 [просп. Маштоца 21](https://yandex.ru/maps/10262/yerevan/house/YE0YcwZgSUMAQFpqfX15cn5kbA==/)
+- 📞 +37410209966, моб: +37496209966
 - График работы: круглосуточно, по предварительному звонку
 - Сайт: [vetexpert.am](https://vetexpert.am/ru/) [facebook](https://facebook.com/vetexpertvetgroup) [instagram](https://instagram.com/vetexpertveterinarygroup/)
 - Услуги: [титры](rabies-titers.md), зоомагазин, справки для путешествий, груминг, передержка (отель для животных).
@@ -36,24 +36,34 @@ display_toc: false
 
 ### Vahe Mkrtchyan's Vet Clinic 🏥
 
-- Адрес: [8-я ул. Нор Ареша, 55](https://yandex.ru/maps/org/vahe_mkrtchyan_vet_clinic/106925944672/)
-- Контактный телефон: +374 10 451172
+- 📍 [8-я ул. Нор Ареша, 55](https://yandex.ru/maps/org/vahe_mkrtchyan_vet_clinic/106925944672/)
+- 📞 +374 10 451172
 - График работы: пн-сб с 11:00 до 20:00
 - [facebook](https://facebook.com/VMPC2016)
 - Услуги: справки для путешествий.
+- 🏆 Одна из лучших клиник в Ереване️ по мнению сообщества
+
+### Oscar Vet Clinic 🏥
+
+- 📍 [ул. Алабяна, 19](https://yandex.com/maps/org/oscar_vet_vetclinic/206303141762/)
+- 📞 +374 96 209008
+- [facebook](https://www.facebook.com/Oscarvetclinic/)
 
 ### VetLine 🏥 🛍️ ✂️️
 
-- Адрес: [просп. Комитаса, 6](https://yandex.ru/maps/org/kruglosutochnaya_veterinarnaya_klinika_vetlayn/154801169156/)
-- Контактный телефон: +374 11 279999
+- 📍 [просп. Комитаса, 6](https://yandex.ru/maps/org/kruglosutochnaya_veterinarnaya_klinika_vetlayn/154801169156/)
+- 📞 +374 11 279999
 - График работы: круглосуточно
 - [facebook](https://facebook.com/vetlinearmenia/) [instagram](https://instagram.com/vetline_vet.clinic/)
 - Услуги: зоомагазин, справки для путешествий, груминг.
 
+</div>
+<div class="card">
+
 ### Quercus 🏥 🛍️
 
-- Адрес: [ул. Казара Парпеци, 17/3](https://yandex.ru/maps/org/quercus_vet_clinic_zoosalon/181982950255/)
-- Контактный телефон: +374 10 537602
+- 📍 [ул. Казара Парпеци, 17/3](https://yandex.ru/maps/org/quercus_vet_clinic_zoosalon/181982950255/)
+- 📞 +374 10 537602
 - График работы: пн-сб с 10:00 до 19:00, уточняйте по телефону
 - [facebook](https://facebook.com/profile.php?id=100034328929603) [instagram](https://instagram.com/vet.clinic_quercus/)
 - Услуги: [титры](rabies-titers.md) (97000 драмов, срок 2-3 недели), зоомагазин, справки для путешествий.
@@ -74,8 +84,8 @@ display_toc: false
 
 ### VetHome 🏥
 
-- Адрес: [1-й квартал Давташен, 36/4](https://yandex.ru/maps/org/vethome/111774686048/)
-- Контактный телефон: +374 99 366788
+- 📍 [1-й квартал Давташен, 36/4](https://yandex.ru/maps/org/vethome/111774686048/)
+- 📞 +374 99 366788
 - График работы: пн-сб с 11:00 до 20:00
 - [facebook](https://facebook.com/vethomeyerevan)
 - Услуги: [титры](rabies-titers.md) (150000 драмов), справки для путешествий.
@@ -85,8 +95,8 @@ display_toc: false
 
 ### Maltese City 🏥
 
-- Адрес: [пр-кт Комитаса, 32](https://yandex.ru/maps/10262/yerevan/house/YE0YcwdjSUQCQFpqfX5xdX5lZg==/)
-- Контактный телефон: +374 94 372233 +374 91 626258 (Viber и WhatsApp)
+- 📍 [пр-кт Комитаса, 32](https://yandex.ru/maps/10262/yerevan/house/YE0YcwdjSUQCQFpqfX5xdX5lZg==/)
+- 📞 +374 94 372233 +374 91 626258 (Viber и WhatsApp)
 - График работы: с 11:00 до 21:00, уточняйте по телефону
 - [facebook](https://facebook.com/maltesecity/) [instagram](https://instagram.com/maltese_city/)
 - Услуги: [титры](rabies-titers.md).
@@ -96,9 +106,9 @@ display_toc: false
 
 ### DoctorVet 🏥
 
-- Адрес: [ул. Паруйра Севака, 53/4](https://yandex.ru/maps/org/doktor_vet/24738688707/)
+- 📍 [ул. Паруйра Севака, 53/4](https://yandex.ru/maps/org/doktor_vet/24738688707/)
 - График работы: с 11:00 до 19:00, уточняйте по телефону
-- Контактный телефон: +374 10 289898
+- 📞 +374 10 289898
 - [facebook](https://facebook.com/doctorvetveterinaryclinic) [instagram](https://instagram.com/doctorvetarmenia/)
 
 </div>
@@ -106,10 +116,10 @@ display_toc: false
 
 ### AmiryanVet 🏥 🛍️
 
-**Про клинику много отзывов, что навязывают дополнительные дорогостоящие анализы, будьте внимательны!**
+**⚠️ Про клинику много отзывов, что навязывают дополнительные дорогостоящие анализы, будьте внимательны!**
 
-- Адрес: [ул. Амиряна, 10](https://yandex.ru/maps/org/amiryanvet/209808278094/)
-- Контактный телефон: +374 95 560119
+- 📍 [ул. Амиряна, 10](https://yandex.ru/maps/org/amiryanvet/209808278094/)
+- 📞 +374 95 560119
 - График работы: круглосуточно, по предварительному звонку
 - [facebook](https://facebook.com/AmiryanVeterinary) [instagram](https://instagram.com/amiryanvet/)
 - Услуги: [титры](rabies-titers.md), зоомагазин, справки для путешествий.
@@ -126,8 +136,8 @@ display_toc: false
 ### Вет Ват 🏥
 
 - <i class="fa-brands fa-facebook-f"></i> [vetvatVeterinary](https://facebook.com/vetvatVeterinary)
-- Адрес: [ул. Мусаелян, 61](https://yandex.ru/maps/org/vet_vat/40293317454/)
-- Контактный телефон: +37493304652
+- 📍 [ул. Мусаелян, 61](https://yandex.ru/maps/org/vet_vat/40293317454/)
+- 📞 +37493304652
 - Услуги: [титры](rabies-titers.md).
 
 ## Клиники в других городах Армении

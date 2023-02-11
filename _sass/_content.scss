@@ -122,54 +122,45 @@
       @include col("xs", 12);
       @include col("md", 6);
       padding: 0 1rem !important;
+      margin-bottom: 1rem;
     }
 
     .card-wide {
       @include col("xs", 12);
       padding: 0 1rem !important;
-    }
-
-    p {
-      font-size: 0.85rem;
-      color: $grey-color;
+      margin-bottom: 1rem;
     }
 
     li {
-      font-size: 0.85rem;
-      color: $grey-color;
-      a, strong {
-        font-size: 1rem;
-      }
-      strong {
-        color: black;
-        font-weight: normal;
-      }
+      font-size: 1rem;
+      color: $text-color;
     }
 
-    &.vet {
+    &.custom1 {
+      p {
+        font-size: 0.85rem;
+        color: $grey-color;
+      }
+
       li {
-        font-size: 1rem;
-        color: $text-color;
+        font-size: 0.85rem;
+        color: $grey-color;
+        a, strong {
+          font-size: 1rem;
+        }
+        strong {
+          color: black;
+          font-weight: normal;
+        }
       }
     }
-  }
 
-  .fa-telegram {
-    color: #2AABEE;
-    font-size: 1.15rem;
-  }
-
-  .fa-instagram {
-    color: #E1306C;
-    margin-bottom: -1px;
-  }
-
-  .fa-facebook-f {
-    color: #4267B2;
-  }
-
-  .fa-link {
-    color: #0F9D58;
+    &.list-emoji {
+      ul {
+        margin-left: 0;
+        list-style: none;
+      }
+    }
   }
 
   ul.list-emoji {
