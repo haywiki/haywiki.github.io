@@ -12,7 +12,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Водоплавающий Ереван](https://t.me/YerevanSwim) — бассейны и водный спорт
 {: class="list-emoji"}
 
-<div class="cards">
+<div class="cards custom1">
 <div class="card">
 
 ### Фитнес-клубы и спортзалы

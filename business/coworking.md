@@ -6,7 +6,7 @@ display_toc: false
 
 ## Коворкинги
 
-<div class="cards vet">
+<div class="cards custom1">
 <div class="card">
 
 ### Buro
@@ -152,7 +152,7 @@ display_toc: false
 
 ## Другие места для работы
 
-<div class="cards vet">
+<div class="cards custom1">
 <div class="card">
 
 ### AEON — антикафе и коворкинг
