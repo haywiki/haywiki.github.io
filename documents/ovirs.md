@@ -15,16 +15,16 @@ layout: page
 
 - Кентрон: [ул. Симона Врацана, 90](https://www.spyur.am/ru/companies/central-passport-department-of-passport-and-visa-office/24157) (вход с задней стороны здания)
 - Арабкир: [ул. Мамиконянц, 1](https://www.spyur.am/ru/companies/arabkir-passport-group-of-passport-and-visa-office/24154)
-- Давташен: [ул. Тигран Петросян, 31/2](https://www.spyur.am/ru/companies/davtashen-passport-department-of-passport-and-visa-office/26917) - [не рекоммендуем обращаться в него за соцкартой](social-number.md)
+- Давташен: [ул. Тиграна Петросяна, 31/2](https://www.spyur.am/ru/companies/davtashen-passport-department-of-passport-and-visa-office/26917) - [не рекоммендуем обращаться в него за соцкартой](social-number.md)
 - Нор Норк: [ул. Борян, 1](https://www.spyur.am/ru/companies/nor-nork-passport-department-of-passport-and-visa-office/24176)
 - Ачапняк: [ул. Шинарарнери, 10/1](https://www.spyur.am/ru/companies/mashtots-passport-department-of-passport-and-visa-office/24159)
-- Канакер-Зейтун: [ул. Агаронян, 3](https://www.spyur.am/ru/companies/kanaker-zeytun-passport-department-of-passport-and-visa-office/24178)
-- Эребуни: [ул. Мовсес Хоренацу, 162а](https://www.spyur.am/ru/companies/erebuni-passport-department-of-passport-and-visa-office/24156)
-- Малатия: [ул. Ара Саргсян, 22](https://www.spyur.am/ru/companies/malatia-passport-department-of-passport-and-visa-office/24158)
+- Канакер-Зейтун: [ул. Агароняна, 3](https://www.spyur.am/ru/companies/kanaker-zeytun-passport-department-of-passport-and-visa-office/24178)
+- Эребуни: [ул. Мовсеса Хоренаци, 162а](https://www.spyur.am/ru/companies/erebuni-passport-department-of-passport-and-visa-office/24156)
+- Малатия-Себастия: [ул. Ара Саргсян, 22](https://www.spyur.am/ru/companies/malatia-passport-department-of-passport-and-visa-office/24158)
 - Шенгавит: [ул. Гарегин Нжде, 27](https://www.spyur.am/ru/companies/shengavit-passport-department-of-passport-and-visa-office/24177)
 - Мараш: [ул. Каджазнуну, 11](https://www.spyur.am/ru/companies/marash-passport-group-of-passport-and-visa-office/26928)
 - Аван: [участок Исаакян, 2](https://www.spyur.am/ru/companies/avan-passport-department-of-passport-and-visa-office/24905)
-- Чарбах: [ул. Шираки, 56](https://www.spyur.am/ru/companies/charbakh-passport-group-of-passport-and-visa-office/26918)
+- Чарбах: [ул. Ширака, 56](https://www.spyur.am/ru/companies/charbakh-passport-group-of-passport-and-visa-office/26918)
 - Нубарашен: [14-я улица, 17](https://www.spyur.am/ru/companies/nubarashen-passport-group-of-passport-and-visa-office/26926)
 
 ## Как понять, к какому району относится ваш дом?
