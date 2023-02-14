@@ -6,8 +6,9 @@ layout: page
 ## Помощь в регистрации бизнеса
 
 - [@NonDisclosureAgreement00001](https://t.me/NonDisclosureAgreement00001) — Георгий, юрист по корпоративному и налоговому праву.
-- [@Armenia_business_integration](https://t.me/Armenia_business_integration) — Акоб, юрист, помогает в открытии ИП и ООО, открытии счетов, 
 - **+37441213537 Виктор**, юрист. ИП, ООО, ВНЖ, паспорт, банковские счета.
+
+[//]: # (- [@Armenia_business_integration]&#40;https://t.me/Armenia_business_integration&#41; — Акоб, юрист, помогает в открытии ИП и ООО, открытии счетов, )
 
 ## Проверенные бухгалтеры
 
