@@ -17,11 +17,12 @@ layout: page
 - **[Nune F](https://t.me/naxsh123)**
 - **[Размик](https://t.me/trustmeiamaaccountant)**
 - **[Safe Invest](https://t.me/safe_invest_accounting)**
-- **[Lusine Tsaturyan](https://t.me/Lusine_Tsaturyan)** — цены выше среднего, но очень развернутые консультации.
 - **Андреас** develex.info@gmail.com +37477225062
 - **Artyom Ghazaryan** - +37477765552, бухгалтер, также может помочь с регистрацией бизнеса.
 - **[Lusy Petrosyan](https://t.me/Lusy555)**
 - **[Maria Azatyan](https://t.me/Mariagenry)**
+
+[//]: # (- **[Lusine Tsaturyan]&#40;https://t.me/Lusine_Tsaturyan&#41;** — цены выше среднего, но очень развернутые консультации. удалено по просьбе)
 
 ## Источник информации
 
