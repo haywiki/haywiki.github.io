@@ -49,5 +49,4 @@ layout: page
 - [Информация юриста об уведомлении налоговой](https://t.me/arturdulkarnaev/103)
 - **[Пошаговая инструкция по уведомлению о счетах](/files/account-notification-manual.pdf)**
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Как уведомить ФНС РФ о счетах за рубежом](https://www.notion.so/6ebb8793fef84b07a05966c0c40c7517)

@@ -64,5 +64,4 @@ layout: page
 
 ## Источники информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Требования банков для открытия счетов ФЛ](https://www.notion.so/8d219cc1c9304f91852c6e98abbbf02b)

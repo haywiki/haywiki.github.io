@@ -70,5 +70,4 @@ layout: page
 
 ## Источники информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Выписки (bank statements) в банках Армении](https://www.notion.so/72ccfdc5da314978ac74e90282eb29a7)

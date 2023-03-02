@@ -54,5 +54,4 @@ layout: page
 
 ## Источники информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Банки в Армении: FAQ для иммигрантов и туристов](https://bit.ly/armenian-banks-faq)

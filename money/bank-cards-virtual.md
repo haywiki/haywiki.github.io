@@ -59,5 +59,4 @@ Converse Bank предлагает карты [Visa Virtual](https://www.convers
 
 ## Источники информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Цифровые карты в банках РА](https://www.notion.so/095e0ba783044194b36524aad433015e)

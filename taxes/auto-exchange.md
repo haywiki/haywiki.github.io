@@ -62,5 +62,4 @@ parent_url: /taxes.html
 
 ## Источники информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Автоматический обмен финансовой информацией между РА и РФ](https://www.notion.so/7daf89d3ed4b495a835f2ce28414d57a)

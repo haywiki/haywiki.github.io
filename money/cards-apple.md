@@ -67,5 +67,4 @@ Apple ID и терпят неудачу. Дело в том, что **регио
 
 ### Источник информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Привязка карты банка РА к аккаунту iCloud](https://www.notion.so/a84aaf76e7554a3db433a85e6bc05a3d)

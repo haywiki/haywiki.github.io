@@ -28,7 +28,7 @@ layout: page
 - [@Dv227](https://t.me/Dv227) — Давид
 
 Эти перевозчики проверены опытом чатов [Взаимопомощь](https://t.me/+szFNNJqf1J42Zjhi) и
-[Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency).
+[Армения: доставки, посылки, растаможка](https://t.me/am_delivery).
 
 ## Беспошлинный порог в Армении {#taxes}
 

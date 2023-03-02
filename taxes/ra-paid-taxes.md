@@ -46,5 +46,4 @@ parent_url: /taxes.html
 
 ## Источники информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Получение справки о доходах и налогах в РА](https://telegra.ph/Poluchenie-spravki-o-dohodah-i-nalogah-v-RA-11-22)

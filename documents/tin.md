@@ -14,5 +14,4 @@ layout: page
 
 ## Источники информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Как узнать ваш номер налогоплательщика](https://www.notion.so/99aea3837744412c8146664ff46687ae)

@@ -82,5 +82,4 @@ iCloud Drive, OneDrive, и так далее.
 
 ## Источник информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Как открыть ИП в Армении без посредников](https://www.notion.so/24deb1810d064c3280501dd3444e19c7)

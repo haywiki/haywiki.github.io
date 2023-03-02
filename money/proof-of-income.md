@@ -57,5 +57,4 @@ layout: page
 
 ## Источники информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Подтверждение легального дохода](https://www.notion.so/7c748623a93d4f5da5c3f015ec044a50)

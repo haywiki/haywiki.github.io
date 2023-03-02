@@ -50,5 +50,4 @@ layout: page
 
 ## Источники информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Адрес клиента в банке](https://www.notion.so/914dc5980f964cebaccd9a7c3240ec68)

@@ -232,5 +232,4 @@ Bank of Georgia используется как один из вариантов
 
 ## Источники информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Переводы денег в RUB из банков РФ в банки РА](https://www.notion.so/b3de4dcdf68e4614ad960f3d83ddb8db)

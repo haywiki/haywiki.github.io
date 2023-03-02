@@ -91,7 +91,6 @@ layout: page
 
 ## Источники информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Обзор способов легального долгосрочного проживания в РА](https://www.notion.so/69fe8c10c7e945c490b245314dfa8cce)
 - [Долгосрочное легальное пребывание в РА без загранпаспорта](https://www.notion.so/a5895af1f06348ed82ae22efaed9a62f)
 - [faq.bari-galust.am](https://faq.bari-galust.am)

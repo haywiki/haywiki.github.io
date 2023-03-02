@@ -114,5 +114,4 @@ layout: page
 
 ## Источник информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Как получить ВНЖ через работу в найме](https://www.notion.so/53a43ca41b8443469e1b05488a20d7d5)

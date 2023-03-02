@@ -33,5 +33,4 @@ layout: page
 
 ## Источники информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Подтверждение планов проживания для банков Армении](https://www.notion.so/8b82d9d3150c471493acbb580b405e0e)

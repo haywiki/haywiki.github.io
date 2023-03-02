@@ -100,5 +100,4 @@ layout: page
 
 ## Источники информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Подтверждение происхождения средств](https://www.notion.so/01abd73e16554cdea70c78c5e43797b7)

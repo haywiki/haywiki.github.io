@@ -48,5 +48,4 @@ layout: page
 
 ## Источники информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Требования банков для открытия счетов ИП](https://www.notion.so/16fc16efe88c43d08c952ea5535b7722)

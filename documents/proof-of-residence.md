@@ -55,5 +55,4 @@ layout: page
 
 ## Источник информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Proof of Residency в Армении и Proof of Address: что это и какие документы подойдут?](https://www.notion.so/412a87af69fe4db4b26e17b9d4f76446)

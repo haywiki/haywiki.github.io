@@ -32,5 +32,4 @@ parent_url: /money/bank-accounts.html
 
 ## Источники информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Перевод денег между банками в РА](https://www.notion.so/fc6dc57f01d34f30a937e450c7d9bbed)

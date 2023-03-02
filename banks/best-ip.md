@@ -49,5 +49,4 @@ layout: page
 
 ## Источники информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Рекомендации банков для счетов ИП](https://www.notion.so/100868750c524c89a03a1c612343de54)

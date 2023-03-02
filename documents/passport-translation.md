@@ -42,5 +42,4 @@ layout: page
 
 ## Источник информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
 - [Нотариально заверенный перевод паспорта](https://www.notion.so/2f368b51f2bf446990972410bc97a604)
