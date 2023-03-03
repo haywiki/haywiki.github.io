@@ -22,28 +22,6 @@
   }
 }
 
-.site-header {
-  border-top: .25rem solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
-
-  // Positioning context for the mobile navigation icon
-  position: relative;
-
-  .site-title {
-    font-size: 1.625rem;
-    font-weight: 300;
-    letter-spacing: -1px;
-    padding: .5rem 0;
-    margin-bottom: 0;
-    float: left;
-
-    &,
-    &:visited {
-      color: $grey-color-dark;
-    }
-  }
-}
-
 .wrapper {
   max-width: $content-width;
   margin-right: auto;

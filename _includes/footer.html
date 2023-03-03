@@ -7,6 +7,10 @@
     </div>
 {% endif %}
 
+<div style="text-align: center; font-size: 0.9em; color: grey;">
+    Страница обновлена {{ page.last_modified_at | date: "%d.%m.%Y"  }}
+</div>
+
 <footer class="site-footer darken">
     <div class="wrapper">
         <div class="row">
@@ -23,7 +27,8 @@
                 </p>
             </div>
             <div class="footer-col">
-                Не пропускайте новости и обновления нашего сайта, подпишитесь на telegram-канал
+                <h2 class="footer-heading">Подпишитесь на нас!</h2>
+                Не пропускайте новости и обновления, подпишитесь на
                 <nobr><i class="fa-brands fa-telegram"></i> <a href="https://t.me/haywiki">Путеводитель по переезду в Армению</a></nobr>.
                 В чате этого канала вы можете связаться с авторами сайта.
             </div>
