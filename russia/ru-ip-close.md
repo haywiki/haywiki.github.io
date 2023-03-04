@@ -31,4 +31,4 @@ display_toc: false
 
 ## Источник информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
+- [Удаленное закрытие ИП в РФ без ЭЦП](https://am-banking-and-immigration.notion.site/am-banking-and-immigration/f5668736e84242e6a6dc43177aee0082)

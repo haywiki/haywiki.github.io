@@ -45,4 +45,4 @@ layout: page
 
 ## Источники информации
 
-- [Армения: ВНЖ, банки, налоги](https://t.me/am_banking_and_residency)
+- [Как происходит покупка недвижимости в РА?](https://am-banking-and-immigration.notion.site/6216a2e0c6aa4ec68a604c1a53559422)
