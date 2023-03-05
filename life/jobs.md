@@ -30,3 +30,4 @@ display_toc: false
 - [IT вакансии в Армении](https://t.me/itjobsinam)
 - [Вакансии в Армении для русскоязычных](https://t.me/ThereAreWorksInArmenia)
 - [Работа в Армении](https://t.me/yourjobhaya)
+- [АРМЕНИЯ работа | Ереван](https://t.me/armenia_rabota)

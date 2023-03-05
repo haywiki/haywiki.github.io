@@ -54,6 +54,7 @@ display_toc: false
 
 ## Такси и транспорт
 
+- 📲 [Transit.am](http://transit.am) ([app store](https://apps.apple.com/am/app/transit-am/id1517843568), [google play](https://play.google.com/store/apps/details?id=am.mobile.transit)) — общественный транспорт в Ереване
 - 📲 [Яндекс Такси](https://taxi.yandex.ru) ([app store](https://apps.apple.com/app/id472650686), [google play](https://play.google.com/store/apps/details?id=ru.yandex.taxi)) — можно оплачивать российскими картами visa и mc.
 - 📲 [GG](https://www.ggtaxi.com/) ([app store](https://apps.apple.com/app/id852874923), [google play](https://play.google.com/store/apps/details?id=am.ggtaxi.main)) — местный конкурент, оплата международными картами или наличкой, есть шаттлы (газельки) для совместных поездок между городами.
 - 📲 [Ев Ев (և՛ և՛)](https://www.instagram.com/evev_armenia/) ([app store](https://apps.apple.com/app/id1564473555), [google play](https://play.google.com/store/apps/details?id=com.yevyev&hl=ru&gl=US)) — очень недорогие междугородние перевозки на микроавтобусах
@@ -70,6 +71,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Armenian Military Portal](https://t.me/military_arm) — освещает состояние вооружённых сил Армении и Арцаха, а также баланс сил в регионе, организовывает помощь для армии.
 - <i class="fa-brands fa-telegram"></i> [Armenian Life](https://t.me/Armenian_Life)
 - <i class="fa-brands fa-telegram"></i> [Armenia Today](https://t.me/armtoday)
+- <i class="fa-brands fa-telegram"></i> [Жизнь в Армении](https://t.me/livinginarmenia)
 {: class="list-emoji"}
 
 </div>
@@ -82,6 +84,8 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Ковчег Армения](https://t.me/+C8I5SyknObsyZTky)
 - <i class="fa-brands fa-telegram"></i> [Автомобилисты в Армении](https://t.me/am_autoclub) — чат для переехавших в Армению с собственным автомобилем.
 - <i class="fa-brands fa-telegram"></i> [Получение загранпаспорта РФ в Армении](https://t.me/zagranerevan)
+- <i class="fa-brands fa-telegram"></i> [Получение шенгенских виз в Армении](https://t.me/shengen_am)
+- <i class="fa-brands fa-telegram"></i> [Пограничный контроль](https://t.me/+yHACAsBxEXo4OGEy) — отчеты о пересечении границы РФ
 {: class="list-emoji"}
 
 ## Переезд и жизнь с питомцем
@@ -100,6 +104,7 @@ display_toc: false
 - 🔗 [rate.am](https://rate.am) — все курсы валют в банках и обменниках
 - <i class="fa-brands fa-telegram"></i> [Курс драма (МИР/Rate.am/SAS)](https://t.me/armeniaCurrency) — отслеживание курсов армянского драма и самых выгодных способов обмена валюты.
 - <i class="fa-brands fa-telegram"></i> [Банки в Армении](https://t.me/+s2_G3BHv0E4xNjNi)
+- <i class="fa-brands fa-telegram"></i> [Армения Обмен Валют / Armenia exchange](https://t.me/armenia_exchanger)
 - <i class="fa-brands fa-telegram"></i> [Открытие юрлица в Армении](https://t.me/+TG55UcS6PjViOThi) — обсуждение вопросов открытия и ведения юрлиц (ип и ооо) в Армении.
 - <i class="fa-brands fa-telegram"></i> [Счета резидентов РФ за рубежом](https://t.me/+fVDnu0bGaqNiYTVi) ([канал](https://t.me/+RE0haAqcKiIyMmYy))
 {: class="list-emoji"}
@@ -114,6 +119,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Армения: доставки, посылки, растаможка](https://t.me/am_delivery) — обсуждение покупок через интернет, отправки и получения посылок, прохождения таможни.
 - <i class="fa-brands fa-telegram"></i> [Передачи: Армения <--> Россия](https://t.me/armrustransfer) — группа с просьбами или предложениями о передаче (перевозке) разрешенных вещей между Арменией и Россией.
 - <i class="fa-brands fa-telegram"></i> [Попутчики Армения, Грузия](https://t.me/blablacararm) — поиск попутчиков, трансферов, передача посылок.
+- <i class="fa-brands fa-telegram"></i> [Перевозки Ереван - Тбилиси](https://t.me/Tbilisi_Yerevan_transfer)
 {: class="list-emoji"}
 
 </div>
@@ -123,6 +129,7 @@ display_toc: false
 
 - 📄 [Медицина и аптеки в Армении](healthcare.md) — законы, скорая помощь, поликлиники, частные клиники, аптеки и прочее.
 - <i class="fa-brands fa-telegram"></i> [Медицина в Армении](https://t.me/armenianmedicine)
+- <i class="fa-brands fa-telegram"></i> [Врачи из России, практикующие в Армении.](https://t.me/armrusmed)
 {: class="list-emoji"}
 
 </div>
@@ -136,6 +143,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Русскоязычные школы в Армении](https://t.me/ru_schools_armenia)
 - <i class="fa-brands fa-telegram"></i> [Армения с детьми](https://t.me/kids_am)
 - <i class="fa-brands fa-telegram"></i> [Няни Еревана](https://t.me/nanny_yerevan)
+- <i class="fa-brands fa-telegram"></i> [Ереван дети, чат родителей](https://t.me/erevan_deti)
 {: class="list-emoji"}
 
 </div>
@@ -169,15 +177,25 @@ display_toc: false
 </div>
 <div class="card">
 
+## Отзывы о местах в Армении
+
+- <i class="fa-brands fa-telegram"></i> [Куда пойдем в Ереване?](https://t.me/review_armenia) — гастрономические обзоры, дайджест-афиша по четвергам и отзывчивое комьюнити в комментариях.
+- <i class="fa-brands fa-telegram"></i> [Понаприехали!](https://t.me/offtoarmenia) — О вкусной и интересной жизни в Армении!
+- <i class="fa-brands fa-telegram"></i> [Гастронавты Еревана](https://t.me/gastroneersYerevan) — место, где можно поделиться своими гастрономическими открытиями в Ереване и узнать про новые места, где можно вкусно поесть.
+- <i class="fa-brands fa-telegram"></i> [Настя, это где?](https://t.me/nastyawhere)
+{: class="list-emoji"}
+
+</div>
+<div class="card">
+
 ## Отдых в Армении
 
+- <i class="fa-brands fa-telegram"></i> [Куда съездить в Армении?](https://t.me/+azIZSPnLs0oxOWZi) — найдите свой групповой тур на выходные или задайте вопрос по путешествиям в Армении.
 - <i class="fa-brands fa-telegram"></i> [Беспечный Ереван](https://t.me/jaunty_yerevan) — чат для поиска тусовальщиков, организации тусований и рекомендаций баров.
 - <i class="fa-brands fa-telegram"></i> [Живой Ереван](https://t.me/YerevanAlive4) — тут можно приобрести новые и классные знакомства, и найти чем бы заняться, где бы потусить.
 - <i class="fa-brands fa-telegram"></i> [Yerevan Vibes](https://t.me/yerevanvibes) — чат для общения и поиска друзей.
-- <i class="fa-brands fa-telegram"></i> [Куда пойдем в Ереване?](https://t.me/review_armenia) — гастрономические обзоры, дайджест-афиша по четвергам и отзывчивое комьюнити в комментариях.
 - <i class="fa-brands fa-telegram"></i> [Urban ARMENIA](https://t.me/urbanarmenia) — нестандартные экскурсии.
-- <i class="fa-brands fa-telegram"></i> [Гастронавты Еревана](https://t.me/gastroneersYerevan) — место, где можно поделиться своими гастрономическими открытиями в Ереване и узнать про новые места, где можно вкусно поесть.
-- <i class="fa-brands fa-telegram"></i> [Понаприехали!](https://t.me/offtoarmenia) — О вкусной и интересной жизни в Армении!
+- <i class="fa-brands fa-telegram"></i> [TUF news](https://t.me/tuftuftuftsh)
 {: class="list-emoji"}
 
 </div>
@@ -192,12 +210,21 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Настолки в Ереване](https://t.me/boardgames_yerevan) — анонсы настольных (и не только) игр
 - <i class="fa-brands fa-telegram"></i> [НРИ Ереван Армения](https://t.me/nrierevan) — настольные ролевые игры
 - <i class="fa-brands fa-telegram"></i> [Книжный клуб. Ереван](https://t.me/bookclubyerevan)
+- <i class="fa-brands fa-telegram"></i> [Киноклуб Ереван](https://t.me/YerevanKino)
 - <i class="fa-brands fa-telegram"></i> [Relolib Армения](https://t.me/+J__AORhInF5jMWYy) — проект [relolib.com](https://relolib.com/armenia): обмен и обсуждение книг
 - <i class="fa-brands fa-telegram"></i> [Крипто, NFТ, блокчейн](https://t.me/cryptoitarmenia) — релокация капитала в Армению, токены, снятие денег, вакансии, нетворкинг, NFT, метавселенные.
 - <i class="fa-brands fa-telegram"></i> [Green Green](https://t.me/greengreen_chat) — чат сообщества эко-активистов
 - <i class="fa-brands fa-telegram"></i> [VIDEO PRODUCTION YEREVAN](https://t.me/synthesisyerevan)
 - <i class="fa-brands fa-telegram"></i> [Баня REDHAT](https://t.me/banya_erevan) — клуб любителей русской бани
+- <i class="fa-brands fa-telegram"></i> [BANNOST’ — баня в Ереване](https://t.me/bannost)
+- <i class="fa-brands fa-telegram"></i> [Музыканты понаехавшие в Ереван](https://t.me/erevanmusic)
+- <i class="fa-brands fa-telegram"></i> [Урбанисты Еревана](https://t.me/UrbanYerevan)
+- <i class="fa-brands fa-telegram"></i> [Hacker Embassy](http://t.me/hacker_embassy)
+- <i class="fa-brands fa-telegram"></i> [ПолиАрмения](https://t.me/+go4jKrnA-gA5Yjcy) — чат поли-сообщества в Армении
 {: class="list-emoji"}
+
+</div>
+<div class="card">
 
 ## Спорт и активный отдых
 
@@ -206,6 +233,8 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Волейбол Ереван](https://t.me/volleybollerv)
 - <i class="fa-brands fa-telegram"></i> [Водоплавающий Ереван](https://t.me/YerevanSwim) — бассейны и водный спорт
 - <i class="fa-brands fa-telegram"></i> [Скалолазные и треккинговые выходные](https://t.me/+GYYbq1WtoopiNGEy)
+- <i class="fa-brands fa-telegram"></i> [Спортивный Ереван](https://t.me/yerevan_sport)
+- <i class="fa-brands fa-telegram"></i> [Armenian camp](https://t.me/armeniancamp) — всесезонный лагерь активного досуга на Севане
 {: class="list-emoji"}
 
 </div>
@@ -226,7 +255,11 @@ display_toc: false
 
 - <i class="fa-brands fa-telegram"></i> [Armenian with Alyssa](https://t.me/armenian_with_alyssa) — о разговорном армянском языке.
 - <i class="fa-brands fa-telegram"></i> [Armenian Alphabet](https://t.me/armenianalphabet) — изучение армянского алфавита.
+- <i class="fa-brands fa-telegram"></i> [Армянский язык](https://t.me/learnarmenianfrom0)
 {: class="list-emoji"}
+
+</div>
+<div class="card">
 
 ## Благотворительность
 
@@ -243,9 +276,27 @@ display_toc: false
 Все эти фонды и каналы проверены авторами гайда, действуют достаточно давно и имеют положительную репутацию.
 
 </div>
+<div class="card">
+
+## Официальные каналы
+
+- <i class="fa-brands fa-telegram"></i> [Правительство РА](https://t.me/arm_gov)
+- <i class="fa-brands fa-telegram"></i> [Министерство экономики](https://t.me/ministryofeconomyRA)
+- <i class="fa-brands fa-telegram"></i> [Министерство высокотехнологической промышленности](https://t.me/HTI_Armenia)
+- <i class="fa-brands fa-telegram"></i> [Министерство здравоохранения](https://t.me/s/MinistryofhealthofArmenia)
+- <i class="fa-brands fa-telegram"></i> [Министерство иностранных дел](https://t.me/MFAofArmenia)
+- <i class="fa-brands fa-telegram"></i> [Министерство обороны](https://t.me/mil_armenia)
+- <i class="fa-brands fa-telegram"></i> [Российско-Армянский университет](https://t.me/RAU_uni)
+- <i class="fa-brands fa-telegram"></i> [Государственный Институт физической культуры и спорта Армении](https://t.me/asipcs)
+- <i class="fa-brands fa-telegram"></i> [Национальный политехнический университет Армении (Политех)](https://t.me/polytech_am)
+{: class="list-emoji"}
+
+</div>
 <div class="card-wide">
 
 ## Полезные услуги
+
+- <i class="fa-brands fa-telegram"></i> [Специалисты Армения](https://t.me/Armeniaspecialists)
 
 ### Клининг и уборка квартир и домов
 
@@ -266,3 +317,24 @@ display_toc: false
 
 </div>
 </div>
+
+[//]: # (Список спамных групп не включенных в список)
+[//]: # (- [Гид по Еревану | Новости-Армения]&#40;https://t.me/guideyerevan&#41;)
+[//]: # (- [Отзывы Ереван]&#40;https://t.me/youropinionmattersyerevan&#41;)
+[//]: # (- [Армения | Медицина]&#40;https://t.me/armeniya_medicina&#41;)
+[//]: # (- [Карты, Визы, Два гражданства 💳🌐]&#40;https://t.me/cards_residents_2citizenships&#41;)
+[//]: # (- [Ереван чат | Армения]&#40;https://t.me/erevan_360&#41;)
+[//]: # (- [Ереван чат | WomanChat]&#40;https://t.me/erevan_woman&#41;)
+[//]: # (- [Армения По-Русски Чат / Переезд, релокация.]&#40;https://t.me/RelocaterInfo_am_chat&#41;)
+[//]: # (- [Ереван | время есть]&#40;https://t.me/yerevan_food&#41;)
+[//]: # (- [ЕРЕВАН | туса 🐾]&#40;https://t.me/erevan_tusa&#41;)
+[//]: # (- [Must have Ереван]&#40;https://t.me/musthaveyerevan&#41;)
+[//]: # (- [🇦🇲 Армения чат]&#40;https://t.me/forum_armenia&#41;)
+[//]: # (- [Армения По-Русски Чат / Переезд, релокация.]&#40;https://t.me/RelocaterInfo_am_chat&#41;)
+
+[//]: # (### Репатриация)
+[//]: # (- [Репатриация в Армению]&#40;https://t.me/repatriant_arm&#41;)
+[//]: # (- [Репат Армения]&#40;https://t.me/repatarmeniaru&#41;)
+[//]: # (- [РепатриантARM]&#40;https://t.me/repatriantarm&#41;)
+[//]: # (- [РЕПАТРИАЦИЯ]&#40;https://t.me/alwaysarmenian&#41;)
+[//]: # (- [Birthright Armenia & AVC]&#40;https://t.me/birthrightarm&#41;)

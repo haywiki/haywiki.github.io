@@ -153,3 +153,4 @@ Disclaimer: информация на этом сайте написана не 
 
 - ["История Армении" (Фильм кинокомпании HAYK)](https://youtu.be/w6M5bD2J5hs) — очень советуем посмотреть!
 - [Самоучитель Армянского языка от HAYK](https://www.youtube.com/watch?v=FxWdEqqAC1o)
+- [Что делать при землетрясении?](https://help.move2armenia.am/docs/chto-delat-pri-zemletryasenii)
