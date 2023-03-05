@@ -11,7 +11,7 @@ layout: page
 
 ## Адреса миграционных отделений
 
-Список миграционных отделений можно найти в сервисе [Spyur](https://www.spyur.am/ru/yellow_pages/yp/1031):
+Список миграционных отделений можно найти на [официальном сайте полиции](https://avv.police.am/hy/territorial-passport-services) или в сервисе [Spyur](https://www.spyur.am/ru/yellow_pages/yp/1031):
 
 - Кентрон: [ул. Симона Врацана, 90](https://www.spyur.am/ru/companies/central-passport-department-of-passport-and-visa-office/24157) (вход с задней стороны здания)
 - Арабкир: [ул. Мамиконянц, 1](https://www.spyur.am/ru/companies/arabkir-passport-group-of-passport-and-visa-office/24154)

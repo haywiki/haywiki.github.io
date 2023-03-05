@@ -262,6 +262,7 @@ display_toc: false
 ### Другие контакты
 
 - **+37491225549 Амбарцум** — водопроводчик. звоните по вопросам замены текущих труб, кранов и т.п.
+- **[Euro Master](https://yandex.ru/maps/org/euro_master/182919799988/)** ([google](https://goo.gl/maps/RYgCsVd3QVgnUPuCA)) — служба химчистки обуви
 
 </div>
 </div>

@@ -29,6 +29,11 @@ display_toc: false
 - [VPN Наоборот](https://vpn-naoborot.online/) (OpenVPN клиент с предоставляемыми shared серверами в РФ)
 - [размещение Outline Manager](https://getoutline.org/ru/get-started/#step-1) на собственном компьютере или виртуальном сервере в РФ с последующим подключением с помощью приложения [Outline Client](https://getoutline.org/ru/get-started/#step-3)
 
+## HiLoad VPN
+
+С помощью сервиса можно получить бесплатный доступ к серверам в РФ. Официальный сайт сервиса [hi-l.im](https://hi-l.im/), официальный канал в телеграме [@highloadofficial](https://t.me/highloadofficial).
+Есть инструкции по настройке сервиса для [различных устройств](https://telegra.ph/HighLoad-VPN-Poshagovaya-instrukciya-06-08-2).
+
 ## Дешевле и ограниченнее: HTTP/SOCKS5 прокси
 
 Более дешевой, но в более ограниченной альтернативой VPN будет прокси для браузера. Стоят такие прокси в разы дешевле,
