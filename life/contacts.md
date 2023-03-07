@@ -72,6 +72,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Armenian Life](https://t.me/Armenian_Life)
 - <i class="fa-brands fa-telegram"></i> [Armenia Today](https://t.me/armtoday)
 - <i class="fa-brands fa-telegram"></i> [Жизнь в Армении](https://t.me/livinginarmenia)
+- <i class="fa-brands fa-telegram"></i> [Сегодня видно Арарат](https://t.me/theark_armenia) — новостной канал от Ковчега
 {: class="list-emoji"}
 
 </div>

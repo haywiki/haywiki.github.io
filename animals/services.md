@@ -14,6 +14,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Передержка домашних животных 🐶😸 Ереван](https://t.me/+LatyeXYS5LM5MGQy)
 - <i class="fa-brands fa-facebook-f"></i> [Guest house for CATS in Yerevan](https://www.facebook.com/KittykGuestHouse/)
 - <i class="fa-brands fa-facebook-f"></i> [Pet Hotel "Roly"](https://www.facebook.com/shnerikatunerihyuranocRolyPethotelRoly/)
+- <i class="fa-brands fa-instagram"></i> [Dog Walk Armenia](https://www.instagram.com/dogwalkarmenia/) — выгул и передержка собак
 
 ### Есть пожелания и предложения?
 
