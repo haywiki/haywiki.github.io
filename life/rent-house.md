@@ -57,7 +57,7 @@ layout: page
 - [https://t.me/relocationArmenia](https://t.me/relocationArmenia)
 - [https://t.me/standardrealty](https://t.me/standardrealty)
 - [https://t.me/rentarmenia](https://t.me/rentarmenia)
-- [Ереван | Аренда | Можно с животными!](https://t.me/yerealty_pets)
+- [Ереван - Аренда - Можно с животными!](https://t.me/yerealty_pets)
 - [https://t.me/armenmarket](https://t.me/armenmarket)
 - [Агентство недвижимости АРМА](https://t.me/armarealty)
 - [https://t.me/posutkaerevan](https://t.me/posutkaerevan)
@@ -65,7 +65,7 @@ layout: page
 - [https://t.me/jilyoerevan35](https://t.me/jilyoerevan35)
 - [https://t.me/rent_yerevan](https://t.me/rent_yerevan)
 - [Аренда квартир в Ереване🏠](https://t.me/GreenHouseTel)
-- [Аренда чат / Россияне в Армении](https://t.me/rent_armenia_chat)
+- [Аренда чат - Россияне в Армении](https://t.me/rent_armenia_chat)
 
 ### Жилье в Ванадзоре
 
