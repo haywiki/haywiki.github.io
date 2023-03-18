@@ -97,7 +97,7 @@ intermediary банке не требуется**, хотя сотрудники
 
 ### Unibank (Юнибанк)
 
-Банк публикует актуальные реквизиты в **официальной группе** в [telegram](https://t.me/+JuFqoFdZKzZlY2Fi).
+Актуальные реквизиты на 1 марта 2023 года [здесь](/assets/banks/unibank-01.03.23.pdf).
 
 - Beneficiary's Bank: UNIBANK OJSC
 - SWIFT Code: UNIJAM22
