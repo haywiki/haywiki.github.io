@@ -211,7 +211,6 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Книжный клуб. Ереван](https://t.me/bookclubyerevan)
 - <i class="fa-brands fa-telegram"></i> [Киноклуб Ереван](https://t.me/YerevanKino)
 - <i class="fa-brands fa-telegram"></i> [Relolib Армения](https://t.me/+J__AORhInF5jMWYy) — проект [relolib.com](https://relolib.com/armenia): обмен и обсуждение книг
-- <i class="fa-brands fa-telegram"></i> [Green Green](https://t.me/greengreen_chat) — чат сообщества эко-активистов
 - <i class="fa-brands fa-telegram"></i> [VIDEO PRODUCTION YEREVAN](https://t.me/synthesisyerevan)
 - <i class="fa-brands fa-telegram"></i> [Баня REDHAT](https://t.me/banya_erevan) — клуб любителей русской бани
 - <i class="fa-brands fa-telegram"></i> [BANNOST’ — баня в Ереване](https://t.me/bannost)
@@ -271,7 +270,7 @@ display_toc: false
 </div>
 <div class="card">
 
-## Благотворительность
+## Благотворительность и активизм
 
 - <i class="fa-brands fa-telegram"></i> [Помогаем Армении](https://t.me/+tUe8alMmADU4Yjli) — помощь солдатам и другим защитникам Армении.
 - <i class="fa-brands fa-telegram"></i> [Green Green](https://t.me/greengreen_chat) — чат сообщества эко-активистов
