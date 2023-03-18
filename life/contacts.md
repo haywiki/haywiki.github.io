@@ -84,10 +84,11 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [2022 Relocation Армения](https://t.me/armrelo2022)
 - <i class="fa-brands fa-telegram"></i> [Ковчег Армения](https://t.me/+C8I5SyknObsyZTky)
 - <i class="fa-brands fa-telegram"></i> [Автомобилисты в Армении](https://t.me/am_autoclub) — чат для переехавших в Армению с собственным автомобилем.
-- <i class="fa-brands fa-telegram"></i> [Получение загранпаспорта РФ в Армении](https://t.me/zagranerevan)
 - <i class="fa-brands fa-telegram"></i> [Получение шенгенских виз в Армении](https://t.me/shengen_am)
 - <i class="fa-brands fa-telegram"></i> [Пограничный контроль](https://t.me/+yHACAsBxEXo4OGEy) — отчеты о пересечении границы РФ
 {: class="list-emoji"}
+
+[//]: # (- <i class="fa-brands fa-telegram"></i> [Получение загранпаспорта РФ в Армении]&#40;https://t.me/zagranerevan&#41;)
 
 ## Переезд и жизнь с питомцем
 
@@ -193,7 +194,7 @@ display_toc: false
 
 - <i class="fa-brands fa-telegram"></i> [Куда съездить в Армении?](https://t.me/+azIZSPnLs0oxOWZi) — найдите свой групповой тур на выходные или задайте вопрос по путешествиям в Армении.
 - <i class="fa-brands fa-telegram"></i> [Беспечный Ереван](https://t.me/jaunty_yerevan) — чат для поиска тусовальщиков, организации тусований и рекомендаций баров.
-- <i class="fa-brands fa-telegram"></i> [Живой Ереван](https://t.me/YerevanAlive4) — тут можно приобрести новые и классные знакомства, и найти чем бы заняться, где бы потусить.
+- <i class="fa-brands fa-telegram"></i> [Живой Ереван](https://t.me/YerevanAlive) — тут можно приобрести новые и классные знакомства, и найти чем бы заняться, где бы потусить.
 - <i class="fa-brands fa-telegram"></i> [Yerevan Vibes](https://t.me/yerevanvibes) — чат для общения и поиска друзей.
 - <i class="fa-brands fa-telegram"></i> [Urban ARMENIA](https://t.me/urbanarmenia) — нестандартные экскурсии.
 - <i class="fa-brands fa-telegram"></i> [TUF news](https://t.me/tuftuftuftsh)
@@ -204,24 +205,32 @@ display_toc: false
 
 ## Сообщества по интересам
 
-- <i class="fa-brands fa-telegram"></i> [IT в Ереване](https://t.me/iterevan) — общение IT специалистов
-- <i class="fa-brands fa-telegram"></i> [Армения: айти-железки](https://t.me/am_hardware) — выбор, покупка и ремонт техники и компьютерного железа
-- <i class="fa-brands fa-telegram"></i> [Relogame Армения](https://t.me/relogame_armenia) — релокация специалистов из GameDev сферы
 - <i class="fa-brands fa-telegram"></i> [Beauty / Woman Ереван](https://t.me/erevanwomen) — женское комьюнити: спорт, красота, здоровье, развлечения
 - <i class="fa-brands fa-telegram"></i> [Настолки в Ереване](https://t.me/boardgames_yerevan) — анонсы настольных (и не только) игр
 - <i class="fa-brands fa-telegram"></i> [НРИ Ереван Армения](https://t.me/nrierevan) — настольные ролевые игры
 - <i class="fa-brands fa-telegram"></i> [Книжный клуб. Ереван](https://t.me/bookclubyerevan)
 - <i class="fa-brands fa-telegram"></i> [Киноклуб Ереван](https://t.me/YerevanKino)
 - <i class="fa-brands fa-telegram"></i> [Relolib Армения](https://t.me/+J__AORhInF5jMWYy) — проект [relolib.com](https://relolib.com/armenia): обмен и обсуждение книг
-- <i class="fa-brands fa-telegram"></i> [Крипто, NFТ, блокчейн](https://t.me/cryptoitarmenia) — релокация капитала в Армению, токены, снятие денег, вакансии, нетворкинг, NFT, метавселенные.
 - <i class="fa-brands fa-telegram"></i> [Green Green](https://t.me/greengreen_chat) — чат сообщества эко-активистов
 - <i class="fa-brands fa-telegram"></i> [VIDEO PRODUCTION YEREVAN](https://t.me/synthesisyerevan)
 - <i class="fa-brands fa-telegram"></i> [Баня REDHAT](https://t.me/banya_erevan) — клуб любителей русской бани
 - <i class="fa-brands fa-telegram"></i> [BANNOST’ — баня в Ереване](https://t.me/bannost)
 - <i class="fa-brands fa-telegram"></i> [Музыканты понаехавшие в Ереван](https://t.me/erevanmusic)
 - <i class="fa-brands fa-telegram"></i> [Урбанисты Еревана](https://t.me/UrbanYerevan)
-- <i class="fa-brands fa-telegram"></i> [Hacker Embassy](http://t.me/hacker_embassy)
 - <i class="fa-brands fa-telegram"></i> [ПолиАрмения](https://t.me/+go4jKrnA-gA5Yjcy) — чат поли-сообщества в Армении
+- <i class="fa-brands fa-telegram"></i> [Фотографы - Видеографы (визажисты, стилисты, модели , ретушеры)](https://t.me/photographers_armenia_erevan)
+{: class="list-emoji"}
+
+</div>
+<div class="card">
+
+## Айтишники и крипта
+
+- <i class="fa-brands fa-telegram"></i> [IT в Ереване](https://t.me/iterevan) — общение IT специалистов
+- <i class="fa-brands fa-telegram"></i> [Relogame Армения](https://t.me/relogame_armenia) — релокация специалистов из GameDev сферы
+- <i class="fa-brands fa-telegram"></i> [Крипто, NFТ, блокчейн](https://t.me/cryptoitarmenia) — релокация капитала в Армению, токены, снятие денег, вакансии, нетворкинг, NFT, метавселенные.
+- <i class="fa-brands fa-telegram"></i> [Crypto Armenia 🇦🇲 Крипто Армения](https://t.me/CryptoandblockchainArmenia)
+- <i class="fa-brands fa-telegram"></i> [Hacker Embassy](http://t.me/hacker_embassy)
 {: class="list-emoji"}
 
 </div>
@@ -264,7 +273,7 @@ display_toc: false
 
 ## Благотворительность
 
-- <i class="fa-brands fa-telegram"></i> [Помогаем Армении](https://t.me/+YH7-IwD1TSkzMGQy) — помощь солдатам и другим защитникам Армении.
+- <i class="fa-brands fa-telegram"></i> [Помогаем Армении](https://t.me/+tUe8alMmADU4Yjli) — помощь солдатам и другим защитникам Армении.
 - <i class="fa-brands fa-telegram"></i> [Green Green](https://t.me/greengreen_chat) — чат сообщества эко-активистов
 - <i class="fa-brands fa-telegram"></i> [Armenian Military Portal](https://t.me/military_arm) — организовывает сбор средств и помощь солдатам Армении.
 - <i class="fa-brands fa-telegram"></i> [Фонд ВИВА](https://t.me/VIVAFound) — оснащение больниц, реабилитация раненых, медикаменты беженцам, образовательные программы для врачей, социальные программы.
@@ -298,6 +307,7 @@ display_toc: false
 ## Полезные услуги
 
 - <i class="fa-brands fa-telegram"></i> [Специалисты Армения](https://t.me/Armeniaspecialists)
+- 🔗 [Tun Service - Home Maintenance Services](https://www.tunservice.com/Eng/Tun-Service.html) — электрики, сантехники и мелкие работы по дому
 
 ### Клининг и уборка квартир и домов
 
