@@ -238,6 +238,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Крипто, NFТ, блокчейн](https://t.me/cryptoitarmenia) — релокация капитала в Армению, токены, снятие денег, вакансии, нетворкинг, NFT, метавселенные.
 - <i class="fa-brands fa-telegram"></i> [Crypto Armenia 🇦🇲 Крипто Армения](https://t.me/CryptoandblockchainArmenia)
 - <i class="fa-brands fa-telegram"></i> [Hacker Embassy](http://t.me/hacker_embassy)
+- <i class="fa-brands fa-telegram"></i> [Bitcoin Armenia](https://t.me/bitcoinarmenian) — проверенный криптообменник
 {: class="list-emoji"}
 
 </div>
