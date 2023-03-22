@@ -225,7 +225,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [BANNOST’ — баня в Ереване](https://t.me/bannost)
 - <i class="fa-brands fa-telegram"></i> [Урбанисты Еревана](https://t.me/UrbanYerevan)
 - <i class="fa-brands fa-telegram"></i> [ПолиАрмения](https://t.me/+go4jKrnA-gA5Yjcy) — чат поли-сообщества в Армении
-- <i class="fa-brands fa-telegram"></i> [](https://t.me/goholidayam)
+- <i class="fa-brands fa-telegram"></i> [GoHoliday.AM](https://t.me/goholidayam) — дешевые билеты из Армении, а также отели, страховки, визы и многое другое
 {: class="list-emoji"}
 
 </div>
