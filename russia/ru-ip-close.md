@@ -52,4 +52,4 @@ display_toc: false
 
 - [Как закрыть ИП: пошаговая инструкция](https://e-kontur.ru/enquiry/59)
 - [Как закрыть ИП из-за границы](https://e-kontur.ru/enquiry/1864/kak-zakryt-ip-iz-za-granicy)
-- [Удаленное закрытие ИП в РФ без ЭЦП](https://am-banking-and-immigration.notion.site/am-banking-and-immigration/f5668736e84242e6a6dc43177aee0082)
+- [Армения: ВНЖ, банки, налоги](https://www.notion.so/f5668736e84242e6a6dc43177aee0082)

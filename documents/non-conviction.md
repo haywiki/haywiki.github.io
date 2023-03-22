@@ -65,4 +65,4 @@ display_toc: false
 
 ## Источники информации
 
-- [Армения: ВНЖ, банки, налоги](https://am-banking-and-immigration.notion.site/am-banking-and-immigration/948a559ea5e045dd82800a415776d497)
+- [Армения: ВНЖ, банки, налоги](https://www.notion.so/948a559ea5e045dd82800a415776d497)

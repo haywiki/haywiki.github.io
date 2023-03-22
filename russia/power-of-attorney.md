@@ -92,4 +92,4 @@ layout: page
 
 ## Источник информации
 
-- [Армения: ВНЖ, банки, налоги](https://am-banking-and-immigration.notion.site/am-banking-and-immigration/cbee4edefb6c47fca91b3d9aec56b0df)
+- [Армения: ВНЖ, банки, налоги](https://www.notion.so/cbee4edefb6c47fca91b3d9aec56b0df)

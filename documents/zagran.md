@@ -26,3 +26,8 @@ display_toc: false
 - kdmid.ru: [gist.github.com](https://gist.github.com/dez64ru/18cb57940430c3822693b9cbaff1ad37)
 
 Автор скриптов [@Dez64ru](https://t.me/Dez64ru).
+
+https://am-banking-and-immigration.notion.site/am-banking-and-immigration/d642733334e441889c10219e1268fabc
+https://am-banking-and-immigration.notion.site/am-banking-and-immigration/ece5dbcba56d480d80ee64579277412a
+https://am-banking-and-immigration.notion.site/am-banking-and-immigration/aef1225226404a228362ab737aaceebd
+https://t.me/zagranerevan
