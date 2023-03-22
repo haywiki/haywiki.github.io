@@ -203,21 +203,29 @@ display_toc: false
 </div>
 <div class="card">
 
+## Искусство и творчество
+
+- <i class="fa-brands fa-telegram"></i> [Киноклуб Ереван](https://t.me/YerevanKino) — кинопоказы, театральные выступления и другие интересные события!
+- <i class="fa-brands fa-telegram"></i> [VIDEO PRODUCTION YEREVAN](https://t.me/synthesisyerevan)
+- <i class="fa-brands fa-telegram"></i> [Фотографы - Видеографы (визажисты, стилисты, модели , ретушеры)](https://t.me/photographers_armenia_erevan)
+- <i class="fa-brands fa-telegram"></i> [Музыканты понаехавшие в Ереван](https://t.me/erevanmusic)
+- <i class="fa-brands fa-telegram"></i> [Intelligence Music Yerevan](https://t.me/intelligencemusicyerevan) — сообщество профессиональных музыкантов: общение и анонсы выступлений.
+
+</div>
+<div class="card">
+
 ## Сообщества по интересам
 
 - <i class="fa-brands fa-telegram"></i> [Beauty / Woman Ереван](https://t.me/erevanwomen) — женское комьюнити: спорт, красота, здоровье, развлечения
 - <i class="fa-brands fa-telegram"></i> [Настолки в Ереване](https://t.me/boardgames_yerevan) — анонсы настольных (и не только) игр
 - <i class="fa-brands fa-telegram"></i> [НРИ Ереван Армения](https://t.me/nrierevan) — настольные ролевые игры
 - <i class="fa-brands fa-telegram"></i> [Книжный клуб. Ереван](https://t.me/bookclubyerevan)
-- <i class="fa-brands fa-telegram"></i> [Киноклуб Ереван](https://t.me/YerevanKino)
 - <i class="fa-brands fa-telegram"></i> [Relolib Армения](https://t.me/+J__AORhInF5jMWYy) — проект [relolib.com](https://relolib.com/armenia): обмен и обсуждение книг
-- <i class="fa-brands fa-telegram"></i> [VIDEO PRODUCTION YEREVAN](https://t.me/synthesisyerevan)
 - <i class="fa-brands fa-telegram"></i> [Баня REDHAT](https://t.me/banya_erevan) — клуб любителей русской бани
 - <i class="fa-brands fa-telegram"></i> [BANNOST’ — баня в Ереване](https://t.me/bannost)
-- <i class="fa-brands fa-telegram"></i> [Музыканты понаехавшие в Ереван](https://t.me/erevanmusic)
 - <i class="fa-brands fa-telegram"></i> [Урбанисты Еревана](https://t.me/UrbanYerevan)
 - <i class="fa-brands fa-telegram"></i> [ПолиАрмения](https://t.me/+go4jKrnA-gA5Yjcy) — чат поли-сообщества в Армении
-- <i class="fa-brands fa-telegram"></i> [Фотографы - Видеографы (визажисты, стилисты, модели , ретушеры)](https://t.me/photographers_armenia_erevan)
+- <i class="fa-brands fa-telegram"></i> [](https://t.me/goholidayam)
 {: class="list-emoji"}
 
 </div>
@@ -305,7 +313,7 @@ display_toc: false
 
 ## Полезные услуги
 
-- <i class="fa-brands fa-telegram"></i> [Специалисты Армения](https://t.me/Armeniaspecialists)
+- <i class="fa-brands fa-telegram"></i> [Специалисты Армения](https://t.me/Armeniaspecialists) — чат поиска специалистов: докторов, нянь, тренеров, фотографов, сантехников, парикмахеров и других
 - 🔗 [Tun Service - Home Maintenance Services](https://www.tunservice.com/Eng/Tun-Service.html) — электрики, сантехники и мелкие работы по дому
 
 ### Клининг и уборка квартир и домов
