@@ -27,7 +27,8 @@ display_toc: false
 
 Автор скриптов [@Dez64ru](https://t.me/Dez64ru).
 
-https://am-banking-and-immigration.notion.site/am-banking-and-immigration/d642733334e441889c10219e1268fabc
-https://am-banking-and-immigration.notion.site/am-banking-and-immigration/ece5dbcba56d480d80ee64579277412a
-https://am-banking-and-immigration.notion.site/am-banking-and-immigration/aef1225226404a228362ab737aaceebd
-https://t.me/zagranerevan
+## Инструкции по оформлению заграна от сообщества
+
+- [Получение или замена биометрического загранпаспорта РФ в Армении](https://www.notion.so/d642733334e441889c10219e1268fabc)
+- [Подтверждение записи на подачу на загранпаспорт в Гюмри](https://www.notion.so/ece5dbcba56d480d80ee64579277412a)
+- [Проверка состояния заявки на загранпаспорт РФ](https://www.notion.so/aef1225226404a228362ab737aaceebd)
