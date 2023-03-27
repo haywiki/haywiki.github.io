@@ -19,14 +19,6 @@ display_toc: false
 </div>
 <div class="card">
 
-### Ирина. Грумер в Ереване
-
-- <i class="fa-brands fa-instagram"></i> [irina_dmitruk_grooming](https://instagram.com/irina_dmitruk_grooming/)
-- Услуги: груминг, экспресс-линька.
-
-</div>
-<div class="card">
-
 ### Snoopy grooming салон
 
 - <i class="fa-brands fa-instagram"></i> [snoopy_grooming_salon_studio](https://instagram.com/snoopy_grooming_salon_studio/)

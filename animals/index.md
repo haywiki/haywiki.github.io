@@ -7,11 +7,11 @@ layout: page
 <a class="btn btn-shortcut" href="/animals/shops.html"><span>🛍️ 🥫</span><br> Зоомагазины и корма</a>
 <a class="btn btn-shortcut" href="/animals/vetclinics.html"><span>🏥</span><br> Ветклиники</a>
 <a class="btn btn-shortcut" href="/animals/grooming.html"><span>✂️️</span><br> Груминг и стрижка</a>
+<a class="btn btn-shortcut" href="/animals/services.html"><span>🏨️</span><br> Выгул, ситтинг и передержки</a>
 {: style="text-align: center;"}
 
 - <i class="fa-brands fa-telegram"></i> [Армения: Переезд с питомцем](https://t.me/am_pets) — чат, в котором можно обсудить все вопросы о жизни и переезде в Армению. Именно в этом чате обитают авторы этого гайда.
 - <i class="fa-brands fa-telegram"></i> [Dilijan Pets](https://t.me/dilijan_pets)
-- 🏨 [Зоогостиницы и передержки](services.md#zoohotel)
 - 🐺 [Помощь бродячим животным](stray-help.md)
 {: class="list-emoji"}
 
