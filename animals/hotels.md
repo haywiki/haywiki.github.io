@@ -11,7 +11,7 @@ display_toc: false
 Обратите внимание, могут быть ограничения на вес и количество животных, а также дополнительная плата. Эту информацию можно
 узнать только в самой гостинице.
 
-## Отели, допускающие проживание с животными
+## Отели Еревана, допускающие проживание с животными
 
 - [Ереван Плейс](https://yandex.ru/maps/org/yerevan_pleys/6494473678/) (раньше назывался Hyatt Place) — ул. Вазгена Саргсяна, 26/1; телефон +37411221234;
 - [Режинэ](https://yandex.ru/maps/org/rezhine/28907706121/) — ул. Норки Айгинер, 235/1; телефон +37410655939;
@@ -25,7 +25,7 @@ display_toc: false
 - [Ibis Ереван центр](https://yandex.ru/maps/org/ibis_yerevan_tsentr/1748657808/) — Северный проспект 5/1; телефон +37410595959.
 - [Albert House](https://yandex.ru/maps/org/albert_house/224294205229/) - ул. Заваряна, 12/1; телефон +374 0561114
 
-### Отели и гостевые дома за городом
+### Дог-френдли отели в Дилижане и окрестностях
 
 - [Бутик-отель Овер](https://yandex.ru/maps/org/butik_otel_over/179643072999/) — город Дилижан; телефон +37495920091.
 - [Тун Армени](https://yandex.ru/maps/org/tun_armeni/15945983303/) — город Дилижан; сайт [toonarmeni.am](https://www.toonarmeni.am).
@@ -34,8 +34,12 @@ display_toc: false
 - [DiliVita Rest House](https://yandex.ru/maps/org/dilivita_rest_house/236966451280/) — село Гош, неподалеку от Дилижана; телефон +37498776477.
 - [Отель и ресторан Дилиджаз](https://yandex.ru/maps/org/32685331959) — село Техут, неподалеку от Дилижана.
 - [glampingpark.am](https://yandex.ru/maps/org/glamping_park/60923708256/) — неподалеку от Ванадзора; инстаграм [glampingpark.am](https://www.instagram.com/glampingpark.am/)
+
+### Отели и гостевые дома в других местах
+
 - [Grand Resort Jermuk](https://yandex.ru/maps/org/grand_resort_jermuk/202669564876/) — город Джермук, сайт [grandresortjermuk.com](https://www.grandresortjermuk.com/ru/).
 - [Harsnadzor Eco Resort](https://yandex.ru/maps/org/harsnadzor_eco_resort/148323819074/) — село Татев; телефон +37477062032.
+- [Communa Guest House](https://yandex.ru/maps/org/communa/224566142076/) — город Гюмри; instagram [communagyumri](https://www.instagram.com/communagyumri/)
 
 ### Ищете зоогостиницы или передержку?
 

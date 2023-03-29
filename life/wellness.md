@@ -15,6 +15,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Armenian camp](https://t.me/armeniancamp) — всесезонный лагерь активного досуга на Севане
 - <i class="fa-brands fa-telegram"></i> [We Hike](https://t.me/hikeam) — ходите в горы, чтобы стать лучше и увидеть настоящую Армению!
 - <i class="fa-brands fa-instagram"></i> [Paddling in Armenia](https://www.instagram.com/supman.armenia/) — сап-туры в Армении
+- <i class="fa-brands fa-instagram"></i> [Hiking Авантюра](https://t.me/hiking_avantura) — организаторы походов
 {: class="list-emoji"}
 
 <div class="cards custom1">

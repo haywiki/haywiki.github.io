@@ -174,6 +174,7 @@ layout: page
 
 - [Ovne](https://ovne.am/ru/content/2/) — автомойка и автосервис. О мойке очень хорошие отзывы.
 - [Детейлинг на парковке Россия Молла](https://www.facebook.com/parkingcarwasham/) — хорошие отзывы, удобное расположение.
+- [eliteavtolvacakayan](https://instagram.com/eliteavtolvacakayan) — детейлинг/мойка на проспекте Арцаха.
 
 ### Сервисы и услуги
 

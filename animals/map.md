@@ -59,7 +59,7 @@ display_toc: false
 - [Aygi](https://yandex.ru/maps/org/156929111478) ул. Фрика, 5
 - [Borsch](https://yandex.ru/maps/org/114885573520) ул. Мовсеса Хоренаци, 9
 - [Пэу](https://yandex.ru/maps/org/191667120007) ул. Сармена, 72
-- [Letters and Numbers](https://yandex.ru/maps/org/36999248479) ул. Туманяна, 36
+- [Letters and Numbers](https://yandex.ru/maps/org/36999248479) ул. Туманяна, 35г
 - [Coffeel](https://yandex.ru/maps/org/182282830528) ул. Туманяна, 2
 - [Mir](https://yandex.ru/maps/org/41678188129) ул Чаренца, 41
 - [Vochluys Vochmut](https://yandex.ru/maps/org/voch_luys_voch_mut/69418624553/) ул. Сарьяна, 16
