@@ -22,7 +22,7 @@ layout: page
 - Эребуни: [ул. Мовсеса Хоренаци, 162а](https://www.spyur.am/ru/companies/erebuni-passport-department-of-passport-and-visa-office/24156)
 - Малатия-Себастия: [ул. Ара Саргсян, 22](https://www.spyur.am/ru/companies/malatia-passport-department-of-passport-and-visa-office/24158)
 - Шенгавит: [ул. Гарегин Нжде, 27](https://www.spyur.am/ru/companies/shengavit-passport-department-of-passport-and-visa-office/24177)
-- Мараш: [ул. Каджазнуну, 11](https://www.spyur.am/ru/companies/marash-passport-group-of-passport-and-visa-office/26928)
+- Мараш, Айгестан: [ул. Каджазнуну, 11](https://www.spyur.am/ru/companies/marash-passport-group-of-passport-and-visa-office/26928)
 - Аван: [участок Исаакян, 2](https://www.spyur.am/ru/companies/avan-passport-department-of-passport-and-visa-office/24905)
 - Чарбах: [ул. Ширака, 56](https://www.spyur.am/ru/companies/charbakh-passport-group-of-passport-and-visa-office/26918)
 - Нубарашен: [14-я улица, 17](https://www.spyur.am/ru/companies/nubarashen-passport-group-of-passport-and-visa-office/26926)

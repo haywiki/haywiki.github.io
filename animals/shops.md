@@ -142,6 +142,17 @@ display_toc: false
 </div>
 <div class="card">
 
+### Mimi Zoo Market
+
+- <i class="fa-brands fa-facebook-f"></i> [mimiarmenia2021](https://www.facebook.com/mimiarmenia2021)
+- 📍 [ул. Вагарша Вагаршяна, 18](https://yandex.ru/maps/org/zoo_market_mimi/176898969628/) 📞+37444411343
+- Корма в продаже: Monge (в т.ч. BeWild), Royal Canin, Pro Plan, Gemon, ProBalance, Acana, Bonmascota, Select, Chat&Chat, Dog&Dog, Dog Chow.
+- 📍 [ул. Арно Бабаджаняна, 123/1](https://yandex.ru/maps/10262/yerevan/house/YE0YcgNjSk0CQFpqfX13cnllZw==/) 📞+37444411342
+- Корма в продаже: Monge, Josera, Royal Canin
+
+</div>
+<div class="card">
+
 ### AmiryanVet — зоомагазин и ветклиника
 
 - <i class="fa-brands fa-instagram"></i> [amiryanvet](https://instagram.com/amiryanvet/)
