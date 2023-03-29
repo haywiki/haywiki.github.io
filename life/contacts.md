@@ -253,6 +253,8 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Скалолазные и треккинговые выходные](https://t.me/+GYYbq1WtoopiNGEy)
 - <i class="fa-brands fa-telegram"></i> [Спортивный Ереван](https://t.me/yerevan_sport)
 - <i class="fa-brands fa-telegram"></i> [Armenian camp](https://t.me/armeniancamp) — всесезонный лагерь активного досуга на Севане
+- <i class="fa-brands fa-telegram"></i> [We Hike](https://t.me/hikeam) — ходите в горы, чтобы стать лучше и увидеть настоящую Армению!
+- <i class="fa-brands fa-instagram"></i> [Paddling in Armenia](https://www.instagram.com/supman.armenia/) — сап-туры в Армении
 {: class="list-emoji"}
 
 </div>
