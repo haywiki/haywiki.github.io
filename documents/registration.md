@@ -149,6 +149,3 @@ layout: page
 
 - [Регистрация по адресу: что она дает и почему её важно сделать](https://www.notion.so/5408fe1d0ec54d8280d72c711156c8db)
 - [faq.bari-galust.am](https://faq.bari-galust.am)
-
-
-
