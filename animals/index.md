@@ -39,8 +39,6 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [We Hike](https://t.me/hikeam) — походы в горы Армении, можно с собакой!
 {: class="list-emoji"}
 
-23. Supman Armenia
-
 ## Где гулять? Куда сходить с собакой?
 
 {%- include animals-map.md layers="2480593,2480567" -%}
