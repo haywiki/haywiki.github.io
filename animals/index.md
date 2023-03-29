@@ -34,7 +34,7 @@ display_toc: false
 
 ## Чем заняться с собакой в Армении?
 
-- 🔗 [@dogfatherart](https://dogfatherart.notion.site/0f82ebcfa0c644da9e3cebff0aa32b6d) — кинолог Павел и его собачий бассейн в Ереване! ([небольшой клип с занятия](https://www.youtube.com/watch?v=CSWQisSAhJg))
+- 🔗 [@dogfatherart](https://dogfatherart.notion.site/0f82ebcfa0c644da9e3cebff0aa32b6d) — кинолог [Павел Соколов](https://t.me/Pavelsok) и его собачий бассейн в Ереване! ([небольшой клип с занятия](https://www.youtube.com/watch?v=CSWQisSAhJg))
 - <i class="fa-brands fa-telegram"></i> [Armenian camp](https://t.me/armeniancamp) — всесезонный лагерь активного досуга на Севане, можно с собакой!
 - <i class="fa-brands fa-telegram"></i> [We Hike](https://t.me/hikeam) — походы в горы Армении, можно с собакой!
 {: class="list-emoji"}
