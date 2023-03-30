@@ -14,15 +14,6 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Dogfriendly Ереван](https://t.me/dogfriendly_yerevan) — чат собачников Еревана. Здесь тоже обитают авторы гайда :)
 - <i class="fa-brands fa-telegram"></i> [Dilijan Pets](https://t.me/dilijan_pets) — чат владельцев животных в Дилижане
 {: class="list-emoji"}
-  
-  Это ссылка на чат
-
-Это на табличку
-https://bit.ly/petsitters_armenia
-
-Telegram (https://t.me/dogfriendly_yerevan)
-
-{: class="list-emoji"}
 
 ## Переезд с питомцем в Армению
 
