@@ -11,8 +11,16 @@ display_toc: false
 <a class="btn btn-shortcut" href="/animals/services.html"><span>🏨️</span><br> <small>Выгул, ситтинг,<br> передержки</small></a>
 
 - <i class="fa-brands fa-telegram"></i> [Армения: Переезд с питомцем](https://t.me/am_pets) — обсуждение любых вопросов о жизни и переезде в Армению с питомцем. Здесь обитают авторы гайда.
+- <i class="fa-brands fa-telegram"></i> [Dogfriendly Ереван](https://t.me/dogfriendly_yerevan) — чат собачников Еревана. Здесь тоже обитают авторы гайда :)
 - <i class="fa-brands fa-telegram"></i> [Dilijan Pets](https://t.me/dilijan_pets) — чат владельцев животных в Дилижане
 {: class="list-emoji"}
+  
+  Это ссылка на чат
+
+Это на табличку
+https://bit.ly/petsitters_armenia
+
+Telegram (https://t.me/dogfriendly_yerevan)
 
 {: class="list-emoji"}
 

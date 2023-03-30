@@ -31,4 +31,4 @@ display_toc: false
 - <i class="fa-brands fa-facebook-f"></i> [Guest house for CATS in Yerevan](https://www.facebook.com/KittykGuestHouse/) — домашняя передержка для кошек в Ереване
 - <i class="fa-brands fa-facebook-f"></i> [Pet Hotel "Roly"](https://www.facebook.com/shnerikatunerihyuranocRolyPethotelRoly/) — домашняя передержка для собак в Ереване
 
-**Не забудьте написать свой отзыв или предложить пополнение списка в комментариях!**
+Использованы материалы [таблицы ситтеров](https://bit.ly/petsitters_armenia) чата [Dogfriendly Ереван](https://t.me/dogfriendly_yerevan). **Не забудьте написать свой отзыв или предложить пополнение списка в комментариях!**
