@@ -13,7 +13,16 @@ display_toc: false
 
 - 🏆 Лучший груминг в Ереване по мнению сообщества!
 - <i class="fa-brands fa-instagram"></i> [polly_grooming](https://www.instagram.com/polly_grooming/)
-- 📍 [проспект Комитаса, 30](https://yandex.ru/maps/org/forest_voices_zoomagazin/99596547688/)
+- 📍 [ул. Абовяна, 36](https://yandex.ru/maps/org/forest_voices_zoomagazin/57855023163/)
+- Услуги: груминг, экспресс-линька.
+
+</div>
+<div class="card">
+
+### Grooming House Armenia
+
+- <i class="fa-brands fa-instagram"></i> [groominghousearmenia](https://www.instagram.com/groominghousearmenia/)
+- 📍 [проспект Аршакуняц, 2](https://yandex.ru/maps/10262/yerevan/house/YE0YcwdnSUQEQFpqfX12cHplbA==/)
 - Услуги: груминг, экспресс-линька.
 
 </div>
