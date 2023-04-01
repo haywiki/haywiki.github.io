@@ -12,22 +12,6 @@
       font-size: 1.75rem;
     }
 
-    .post-list {
-      margin-left: 0;
-      list-style: none;
-
-      .post-link {
-        font-size: 1.3rem;
-      }
-
-      .more {
-        text-align: right;
-      }
-
-      > li {
-        margin-bottom: 1rem;
-      }
-    }
   }
 
   .cards {
@@ -38,5 +22,22 @@
     li {
       font-size: 1rem;
     }
+  }
+}
+
+.post-list {
+  margin-left: 0;
+  list-style: none;
+
+  .post-link {
+    font-size: 1.3rem;
+  }
+
+  .more {
+    text-align: right;
+  }
+
+  > li {
+    margin-bottom: 1rem;
   }
 }

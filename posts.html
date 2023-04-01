@@ -1,0 +1,15 @@
+---
+title: История обновлений сайта
+layout: page
+display_comments: false
+display_toc: false
+---
+
+<ul>
+    {%- for post in site.posts -%}
+    <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> ({{ post.date | date: date_format }})
+    </li>
+    {%- endfor -%}
+</ul>
