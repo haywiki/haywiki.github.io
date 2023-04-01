@@ -21,7 +21,9 @@ Disclaimer: информация на этом сайте написана не 
 <a class="btn btn-shortcut" href="/drive/"><span>🚘 🪪️ 🚓</span><br> Автомобили, права и штрафы</a>
 <a class="btn btn-shortcut" href="/animals/"><span>🐕 🐈 🗺️</span><br> Переезд и жизнь с питомцем</a>
 <a class="btn btn-shortcut" href="/life/healthcare.html"><span>🏥 💊 🦷 👓</span><br> Медицина и аптеки в Армении</a>
-{: style="text-align: center;"}
+<a class="btn btn-shortcut" href="/life/children.html"><span>🚸 🏫 🎢</span><br> Дети: образование и развлечения</a>
+<a class="btn btn-shortcut" href="/life/wellness.html"><span>🏋️‍♀️ 🚲️ 🏊 🥾</span><br> Спорт, бассейны, йога, походы</a>
+{: class="shortcuts"}
 
 <div class="cards index">
 <div class="card">
@@ -124,11 +126,10 @@ Disclaimer: информация на этом сайте написана не 
 ### Бытовые вопросы
 
 - [Основы налогообложения для иммигрантов](/taxes.md)
-- [Спортивные залы, бассейны, йога в Ереване](/life/wellness.md)
-- [Переезд с ребенком: сады, школы, университеты, развлечения](/life/children.md)
 - [Где найти нотариуса в Ереване?](/attorneys.md)
 - [Покупка недвижимости в Армении](/life/buying-home.md)
 - [Предварительная запись в банки и госорганы через EarlyOne](/life/earlyone.md)
+- ♻️ [Экологичный Ереван](https://darkened-dodo-386.notion.site/b3b90ecff8d14a82ac99f5036ea0b10e) — сортировка мусора, сэкондхэнды и прочее.
 
 </div>
 <div class="card">
