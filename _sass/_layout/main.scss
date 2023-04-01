@@ -80,3 +80,14 @@
     }
   }
 }
+
+.shortcuts {
+  text-align: center;
+
+  .btn-shortcut {
+    width: 350px;
+    @media #{$breakpoint-sm-up} { width: 270px; }
+    @media #{$breakpoint-md-up} { width: 270px; }
+    @media #{$breakpoint-xl-up} { width: 270px; }
+  }
+}

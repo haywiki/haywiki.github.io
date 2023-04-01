@@ -58,6 +58,8 @@ parent_url: /drive/
 
 <script async src="https://telegram.org/js/telegram-widget.js?21" data-telegram-post="am_autoclub/1465" data-width="100%"></script>
 
+<script async src="https://telegram.org/js/telegram-widget.js?21" data-telegram-post="am_autoclub/16664" data-width="100%"></script>
+
 ### История о получении прав в Гюмри
 
 > Сдавал сегодня теорию в Гюмри. Первый квест - найти, где же в Гюмри сдавать на права :). Т.е. записаться не сложно,

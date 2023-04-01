@@ -186,8 +186,10 @@ layout: page
 
 - [Автосервис Bosch](https://yandex.ru/maps/org/avtoservis_bosh/140208137362/)
 - [Ovne](https://ovne.am/ru/content/2/)
-- [@vladimir_iq_chip](https://t.me/vladimir_iq_chip) — чип тюнинг, диагностика и ремонт легковых автомобилей. Адрес: [проспект Адмирала Исакова, 22/3](https://yandex.ru/maps/10262/yerevan/house/YE0YcgFkT0YOQFpqfX10eXRlZw==/)
+- [@vladimir_iq_chip](https://t.me/vladimir_iq_chip) — чип тюнинг, диагностика и ремонт легковых автомобилей. Адрес: [пр-кт Адмирала Исакова, 22/3](https://yandex.ru/maps/10262/yerevan/house/YE0YcgFkT0YOQFpqfX10eXRlZw==/)
 - [DGservice](https://autogaz.am/) — установка ГБО, [отзыв одного из участников чата](https://t.me/am_autoclub/1937).
+- **+374 99 225025** Автосервис на ул. Ростовян 9/4. Владелец Грант, занимается запчастями и ремонтов японских авто. [Рекомендация](https://t.me/am_autoclub/16495).
+- **+374 94 461600** Арман. Занимается тонировкой авто. [Рекомендация](https://t.me/am_autoclub/16188).
 
 ### Перевозка автомобилей автовозом
 
