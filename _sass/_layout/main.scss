@@ -85,9 +85,9 @@
   text-align: center;
 
   .btn-shortcut {
-    width: 350px;
-    @media #{$breakpoint-sm-up} { width: 270px; }
-    @media #{$breakpoint-md-up} { width: 270px; }
-    @media #{$breakpoint-xl-up} { width: 270px; }
+    display: block;
+    @media #{$breakpoint-sm-up} { display: inline-block; width: 270px; }
+    @media #{$breakpoint-md-up} { display: inline-block; width: 270px; }
+    @media #{$breakpoint-xl-up} { display: inline-block; width: 270px; }
   }
 }
