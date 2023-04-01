@@ -86,6 +86,10 @@ Disclaimer: информация на этом сайте написана не 
 
 - [Инвестиции и брокерские счета в Армении](./money/investment.md)
 - [Ограничения на вывоз наличных из Армении](./moving/out-money.md)
+  
+### Интернет в Армении
+
+- [Провайдеры ШПД](./internet/internet-providers.md)
 
 </div>
 <div class="card-wide">
