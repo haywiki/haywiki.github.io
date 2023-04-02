@@ -15,7 +15,7 @@ layout: page
 
 <a class="btn btn-shortcut" href="https://bit.ly/am-banks"><span>📋</span><br> Таблица с условиями банков</a>
 <a class="btn btn-shortcut" href="best-fl.html"><span>🧑 💳</span><br> Рекомендации для физлиц</a>
-<a class="btn btn-shortcut" href="requirements-ip.html"><span>🧑‍💼 💼</span><br> Рекомендации для ИП и ООО</a>
+<a class="btn btn-shortcut" href="best-ip.html"><span>🧑‍💼 💼</span><br> Рекомендации для ИП и ООО</a>
 
 <div class="cards custom1">
 <div class="card">
