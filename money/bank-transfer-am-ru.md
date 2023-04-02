@@ -2,7 +2,7 @@
 title: Способы перевода денег из Армении в Россию
 layout: page
 parent_title: Банки Армении
-parent_url: /money/bank-accounts.html
+parent_url: /banks/
 ---
 
 ## 1. Переводы с карты ArCa (или Arca Мир) на карты Мир

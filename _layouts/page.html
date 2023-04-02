@@ -20,7 +20,7 @@ layout: default
 
     {% if page.display_toc %}
       <div class="post-toc">
-        {% include toc.html html=content sanitize=true %}
+        {% include toc.html html=content sanitize=true h_max=2 %}
       </div>
     {% endif %}
 

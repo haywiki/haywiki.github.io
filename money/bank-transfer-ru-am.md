@@ -2,7 +2,7 @@
 title: Способы перевода денег из банков РФ в банки Армении
 layout: page
 parent_title: Банки Армении
-parent_url: /money/bank-accounts.html
+parent_url: /banks/
 ---
 
 ## Переводы через платежные системы
