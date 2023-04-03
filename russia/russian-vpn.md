@@ -34,10 +34,6 @@ display_toc: false
 - [TouchVPN](https://touchvpn.net/)
 - [X VPN](https://xvpn.io/)
 
-Чуть сложнее в настройке:
-
-- [VPN Наоборот](https://vpn-naoborot.online/) (OpenVPN клиент с предоставляемыми shared серверами в РФ)
-
 ## Источники информации
 
 - [Армения: ВНЖ, банки, налоги](https://www.notion.so/03b9f6c3dbe24615a49e0812a36fb42d)
