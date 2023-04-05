@@ -205,6 +205,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Фотографы - Видеографы (визажисты, стилисты, модели , ретушеры)](https://t.me/photographers_armenia_erevan)
 - <i class="fa-brands fa-telegram"></i> [Музыканты понаехавшие в Ереван](https://t.me/erevanmusic)
 - <i class="fa-brands fa-telegram"></i> [Intelligence Music Yerevan](https://t.me/intelligencemusicyerevan) — сообщество профессиональных музыкантов: общение и анонсы выступлений.
+{: class="list-emoji"}
 
 </div>
 <div class="card">
