@@ -22,8 +22,9 @@ display_toc: false
 - [Dave Hotel Yerevan](https://yandex.ru/maps/org/dave_hotel_yerevan/198326053456/) — ул. Прошяна, 4; телефон +37460707575;
 - [Кросс Резорт Ереван](https://yandex.ru/maps/org/kross_rezort_yerevan/1193096505/) — ш. Аштараки, 50-1; телефон +37494777077;
 - [Отель Република](https://yandex.ru/maps/org/otel_republika_yerevan/141128342239/) - ул. Амиряна, 7/1; телефон +37411990000;
-- [Ibis Ереван центр](https://yandex.ru/maps/org/ibis_yerevan_tsentr/1748657808/) — Северный проспект 5/1; телефон +37410595959.
-- [Albert House](https://yandex.ru/maps/org/albert_house/224294205229/) - ул. Заваряна, 12/1; телефон +374 0561114
+- [Ibis Ереван центр](https://yandex.ru/maps/org/ibis_yerevan_tsentr/1748657808/) — Северный проспект 5/1; телефон +37410595959;
+- [Albert House](https://yandex.ru/maps/org/albert_house/224294205229/) - ул. Заваряна, 12/1; телефон +37410561114;
+- [Best Western Plus Congress Hotel](https://yandex.ru/maps/org/best_western_plus_congress_hotel/1078761583/) - ул. Италии, 1; телефон +37410591199.
 
 ### Дог-френдли отели в Дилижане и окрестностях
 

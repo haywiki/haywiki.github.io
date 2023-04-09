@@ -76,6 +76,7 @@ display_toc: false
 - [Paul Armenia](https://yandex.ru/maps/org/paul_armenia/209546981995/) ул. Абовяна, 8
 - [Set](https://yandex.ru/maps/org/set/57055157719/) ул. Сарьяна, 17
 - [Aeon](https://yandex.ru/maps/org/aeon/17546564979/) ул. Байрона, 8
+- [Odd Fashioned](https://yandex.ru/maps/org/odd_fashioned/165727752672/) ул. Микаэла Налбандяна, 37. Сказали, что пускают с собаками всех размеров, дают миску с водой.
 
 ### Дилижан
 
