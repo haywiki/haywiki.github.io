@@ -34,3 +34,4 @@ display_toc: false
 
 - <i class="fa-brands fa-telegram"></i> [Это БУУЗЫ! домашняя заморозка](https://t.me/erevanbuuz) — замороженные Буузы, Хуушуры, пельмени и другое.
 - <i class="fa-brands fa-facebook-f"></i> [Bountiful Market](https://www.facebook.com/groups/274732839916698/) — фермеры выкладывают объявления о продаже собственной продукции, очень выгодные цены.
+{: class="list-emoji"}
