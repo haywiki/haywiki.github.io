@@ -124,7 +124,7 @@ Disclaimer: информация на этом сайте написана не 
 - [Где найти нотариуса в Ереване?](/attorneys.md)
 - [Покупка недвижимости в Армении](/life/buying-home.md)
 - [Предварительная запись в банки и госорганы через EarlyOne](/life/earlyone.md)
-- ♻️ [Экологичный Ереван](https://darkened-dodo-386.notion.site/b3b90ecff8d14a82ac99f5036ea0b10e) — сортировка мусора, сэкондхэнды и прочее.
+- ♻️ [Экологичный Ереван](https://vik-rarog.notion.site/vik-rarog/d0121f47bb4d4353b599bdc8e1af9322) — сортировка мусора, сэкондхэнды и прочее.
 
 </div>
 <div class="card">
@@ -156,3 +156,4 @@ Disclaimer: информация на этом сайте написана не 
 - ["История Армении" (Фильм кинокомпании HAYK)](https://youtu.be/w6M5bD2J5hs) — очень советуем посмотреть!
 - [Самоучитель Армянского языка от HAYK](https://www.youtube.com/watch?v=FxWdEqqAC1o)
 - [Что делать при землетрясении?](https://help.move2armenia.am/docs/chto-delat-pri-zemletryasenii)
+- [Карта достопримечательной Армении](https://www.google.com/maps/d/viewer?mid=1_QHx2ZM6v8kOrEmTZk41odW94mIIwyk) — составлена [@Varg29A](https://t.me/Varg29A)
