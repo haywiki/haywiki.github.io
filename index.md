@@ -18,6 +18,7 @@ Disclaimer: информация на этом сайте написана не 
 {: style="text-align: center; font-size: 0.9rem; margin-bottom: 1rem"}
 
 <a class="btn btn-shortcut" href="/life/contacts.html"><span>🔗 💬 📞</span><br> Полезные сайты, чаты и контакты</a>
+<a class="btn btn-shortcut" href="/life/grocery.html"><span>🏬 🥫 🥕 🛵</span><br> Продукты, доставки, еда</a>
 <a class="btn btn-shortcut" href="/drive/"><span>🚘 🪪️ 🚓</span><br> Автомобили, права и штрафы</a>
 <a class="btn btn-shortcut" href="/animals/"><span>🐕 🐈 🗺️</span><br> Переезд и жизнь с питомцем</a>
 <a class="btn btn-shortcut" href="/life/healthcare.html"><span>🏥 💊 🦷 👓</span><br> Медицина и аптеки в Армении</a>
