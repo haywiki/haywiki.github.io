@@ -156,7 +156,7 @@ display_toc: false
 ### Zoovet.am
 
 - <i class="fa-solid fa-link"></i> [zoovet.am](https://zoovet.am)
-- 📞 +374 93 577177
+- 📞 +374 55 133719
 - 📍 [ул. Вагарша Вагаршяна, 20](https://yandex.ru/maps/org/zoovet/9352431732/)
 - Корма в продаже: Monge, Acana, Brit, Bonmascota, Royal Canin, Purina, Orijen
 
