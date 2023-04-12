@@ -35,8 +35,10 @@ parent_url: /internet/
 Предложения Ucom хуже с точки зрения цены за фиксированный интернет, при этом сравнение дополнительных сервисов - роутеры, каналы ТВ и их количество, количество минут на включенных сим-картах, не производилось, возможно по этим параметрам лидерами будут не те предложения, которые перечислены выше.
 
 ## Быстрые ссылки на тарифы:
-* Тарифы Team Combo https://www.telecomarmenia.am/ru/combo
-* Тарифы Team Cosmo https://www.telecomarmenia.am/ru/cosmo
-* Тарифы Ucom Unet (только интернет) https://www.ucom.am/ru/personal/home-services/unetx/u-net/
-* Тарифы Ucom Unity (пакеты услуг с быстрым и интернетом) https://unity.ucom.am/
-* Тарифы Ростелеком https://rostelecom.am/ru/for-home - Mono - Только интернет, R-Max - пакеты
+* [Тарифы Team Combo](https://www.telecomarmenia.am/ru/combo)  
+* [Тарифы Team Cosmo](https://www.telecomarmenia.am/ru/cosmo)  
+* [Тарифы Ucom Unet (только интернет)](https://www.ucom.am/ru/personal/home-services/unetx/u-net/)  
+* [Тарифы Ucom Unity (пакеты услуг с быстрым и интернетом)](https://unity.ucom.am/)  
+* [Тарифы Ростелеком](https://rostelecom.am/ru/for-home - Mono - Только интернет, R-Max - пакеты)  
+* [Тарифы Arpinet](https://arpinet.am/internet)
+* [Тарифы VTelecom](https://vtelecom.am/%D5%8F%D5%A1%D5%B6-%D5%80%D5%A1%D5%B4%D5%A1%D6%80/%D4%BB%D5%B6%D5%BF%D5%A5%D6%80%D5%B6%D5%A5%D5%BF)
