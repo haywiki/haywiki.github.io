@@ -113,7 +113,7 @@ parent_url: /drive/
 
 Отдельно отмечалось, что это допустимо только при использовании ТС в личных целях.
 
-**На ноябрь 2022-го года, Конституционный суд РФ считал, что да:** [источник #1](https://www.advgazeta.ru/novosti/ks-postanovil-konkretizirovat-sroki-zameny-inostrannogo-voditelskogo-udostovereniya-rossiyskimi), [источник #2](https://www.kommersant.ru/doc/5646215)
+**На ноябрь 2022-го года, Конституционный суд РФ считал, что да:** [источник #1](https://www.advgazeta.ru/novosti/ks-postanovil-konkretizirovat-sroki-zameny-inostrannogo-voditelskogo-udostovereniya-rossiyskimi/), [источник #2](https://www.kommersant.ru/doc/5646215)
 
 При этом в позиции КС РФ говорится, что это допустимо, пока не будут приняты поправки к существующему законодательству, которые обяжут граждан РФ обменивать ВУ других стран для управления автомобилями даже в личных целях. На момент выпуска постановления КС эти поправки находились в очереди на рассмотрение в Госдуме РФ.
 
