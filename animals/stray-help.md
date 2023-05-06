@@ -9,6 +9,7 @@ display_toc: false
 - [Stray Animals Center](https://www.facebook.com/profile.php?id=100063538604933) — государственная служба по отлову, вакцинации и стерилизации животных;
 - <i class="fa-brands fa-telegram"></i> [Приют для бездомных животных "Рекс"](https://t.me/reksshelterarmenia)
 - [DINGO Team](https://www.facebook.com/dingoteam) — приют и помощь бездомным животным.
+- [Собакены Гюмри](https://www.instagram.com/sobaki_gyumri/) — организованная иммигрантами помощь уличным собакам Гюмри.
 - [Centaur Animal Assisted Therapy Center](https://centaur.im) [fb](https://www.facebook.com/i.am.centaur/) — центр зоотерапии с собаками и лошадьми, а также собачий приют.
 - [Dingo որդեգրման էջ](https://www.facebook.com/Dingo-որդեգրման-էջ-103312678886867/) — группа с собаками ожидающими пристройства
 - [Stray Dogs of Armenia](https://facebook.com/straydogsofarmenia)
