@@ -92,6 +92,7 @@ display_toc: false
 - [Cloud7 Wellness & SPA](https://yandex.ru/maps/org/cloud7_wellness_spa/174501300118/)
 - [Olympavan](https://yandex.ru/maps/org/olimpavan/117446541552/)
 - [Бассейн Футбольной Академии](https://yandex.ru/maps/org/basseyn/169201319962/)
+- [Бассейн спортивной школы "Свиммер" (бывш.Дельфин)](https://yandex.ru/maps/-/CCUo5HbMOA)
 {: class="list-emoji"}
 
 </div>
