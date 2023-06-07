@@ -206,7 +206,7 @@ display_toc: false
 
 ## Сообщества по интересам
 
-- <i class="fa-brands fa-telegram"></i> [Beauty / Woman Ереван](https://t.me/erevanwomen) — женское комьюнити: спорт, красота, здоровье, развлечения
+- <i class="fa-brands fa-telegram"></i> [Beauty / Woman Ереван](https://t.me/erevamwoomen) — женское комьюнити: спорт, красота, здоровье, развлечения
 - <i class="fa-brands fa-telegram"></i> [Настолки в Ереване](https://t.me/boardgames_yerevan) — анонсы настольных (и не только) игр
 - <i class="fa-brands fa-telegram"></i> [НРИ Ереван Армения](https://t.me/nrierevan) — настольные ролевые игры
 - <i class="fa-brands fa-telegram"></i> [Книжный клуб. Ереван](https://t.me/bookclubyerevan)
@@ -214,10 +214,11 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Баня REDHAT](https://t.me/banya_erevan) — клуб любителей русской бани
 - <i class="fa-brands fa-telegram"></i> [BANNOST’ — баня в Ереване](https://t.me/bannost)
 - <i class="fa-brands fa-telegram"></i> [Урбанисты Еревана](https://t.me/UrbanYerevan)
-- <i class="fa-brands fa-telegram"></i> [ПолиАрмения](https://t.me/+go4jKrnA-gA5Yjcy) — чат поли-сообщества в Армении
 - <i class="fa-brands fa-telegram"></i> [GoHoliday.AM](https://t.me/goholidayam) — дешевые билеты из Армении, а также отели, страховки, визы и многое другое
 - <i class="fa-brands fa-telegram"></i> [MishMash events](https://t.me/mishmash_events) — книжный клуб в Ковчеге.
 {: class="list-emoji"}
+
+[//]: # (https://t.me/noshelest)
 
 </div>
 <div class="card">
@@ -248,6 +249,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Переезд в Дилижан](https://t.me/dilijanforlife)
 - <i class="fa-brands fa-telegram"></i> [Dilijan Care](https://t.me/Dilicare) встречи, инициативы, волонтерство и забота о городе 🌿
 - <i class="fa-brands fa-telegram"></i> [Русскоязычный Абовян](https://t.me/ruabovyan)
+- <i class="fa-brands fa-telegram"></i> [Гюмри новостной](https://t.me/gyumrinews)
 - <i class="fa-brands fa-telegram"></i> [Гюмри - Взаимопомощь](https://t.me/vzaimopomoshgyumri)
 - <i class="fa-brands fa-telegram"></i> [Переезд в Гюмри](https://t.me/lifeingyumri)
 - <i class="fa-brands fa-telegram"></i> [IT в Гюмри](https://t.me/GyumriIT)
