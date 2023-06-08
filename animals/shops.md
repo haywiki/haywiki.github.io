@@ -113,9 +113,10 @@ display_toc: false
 ### Zoo Shop
 
 - <i class="fa-brands fa-instagram"></i> [zooshop_yerevan](https://instagram.com/zooshop_yerevan/)
-- 📞 +374 95 049905
+- 📞 +374 95 049905 📞 +374 10 534271
 - 📍 [ул Пушкина, 51](https://yandex.ru/maps/org/zoo_shop/16779486277/)
 - Корма в продаже: Royal Canin, Monge
+- Кинологический клуб Аспар
 
 </div>
 <div class="card">
@@ -159,6 +160,34 @@ display_toc: false
 - 📞 +374 55 133719
 - 📍 [ул. Вагарша Вагаршяна, 20](https://yandex.ru/maps/org/zoovet/9352431732/)
 - Корма в продаже: Monge, Acana, Brit, Bonmascota, Royal Canin, Purina, Orijen
+
+</div>
+<div class="card">
+
+### Фани Дог Хаус
+
+- <i class="fa-brands fa-instagram"></i> [_dog_house](https://www.instagram.com/_dog_house/)
+- 📞 +374 93 635202
+- 📍 [ул. Вардананц, 15/3](https://yandex.ru/maps/org/fani_dog_khaus/207873306407/)
+- Корма в продаже: нет информации
+
+</div>
+<div class="card">
+
+### Royal Canin в Дилижане
+
+- 📞 +374 96 966346
+- 📍 [г. Дилижан, ул. Шаумяна 28/3](https://yandex.ru/maps/org/royal_canin/125821415154/)
+- Корма в продаже: только Royal Canin
+
+</div>
+<div class="card">
+
+### Мир Хвостатых в Гюмри
+
+- 📞 +374 95 900505
+- 📍 [ул. Максима Горького, 57, Гюмри](https://yandex.ru/maps/org/mir_khvostatykh/17380324135/)
+- Корма в продаже: Brit, Monge, Royal Canin
 
 </div>
 <div class="card">

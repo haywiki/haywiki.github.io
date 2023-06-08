@@ -32,7 +32,7 @@ display_toc: false
 
 ### Grooming Room
 
-- 🔗 [groomingroom.biz](https://www.groomingroom.biz)
+- 🔗 [groomingroom.biz](https://www.groomingroom.biz) <i class="fa-brands fa-instagram"></i> [mygroomingroom](https://www.instagram.com/mygroomingroom/)
 - 📍 [ул. Сурб Григора Лусаворича, 12](https://yandex.ru/maps/org/grooming_room/77335829117/)
 - Услуги: груминг, экспресс-линька.
 

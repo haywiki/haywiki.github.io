@@ -16,7 +16,6 @@ display_toc: false
 ### VetExpert 🏥 🛍️ ✂️ {#vetexpert}
 
 - 📍 [просп. Азатутян, 14](https://yandex.ru/maps/org/vet_ekspert/1861952348/)
-- 📍 [просп. Маштоца 21](https://yandex.ru/maps/10262/yerevan/house/YE0YcwZgSUMAQFpqfX15cn5kbA==/)
 - 📞 +37410209966, моб: +37496209966
 - График работы: круглосуточно, по предварительному звонку
 - Сайт: [vetexpert.am](https://vetexpert.am/ru/) [facebook](https://facebook.com/vetexpertvetgroup) [instagram](https://instagram.com/vetexpertveterinarygroup/)
@@ -58,7 +57,7 @@ display_toc: false
 </div>
 <div class="card">
 
-### Quercus 🏥 🛍️
+### Quercus 🏥 🛍
 
 - 📍 [ул. Казара Парпеци, 17/3](https://yandex.ru/maps/org/quercus_vet_clinic_zoosalon/181982950255/)
 - 📞 +374 10 537602
@@ -69,7 +68,7 @@ display_toc: false
 </div>
 <div class="card">
 
-### Joli 🏥 🛍️ ✂️ {#joli}
+### Joli 🏥 🛍 ✂️ {#joli}
 
 - [ул. Авета Аветисяна, 112/2](https://yandex.ru/maps/org/veterinarny_tsentr_dzholi/135151397057/)
 - [joli.am](https://joli.am/) — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены.
@@ -108,6 +107,35 @@ display_toc: false
 - График работы: с 11:00 до 19:00, уточняйте по телефону
 - 📞 +374 10 289898
 - [facebook](https://facebook.com/doctorvetveterinaryclinic) [instagram](https://instagram.com/doctorvetarmenia/)
+
+</div>
+<div class="card">
+
+### AlphaVet 🏥 🛍
+
+- 📍 [ул. Раффи, 53/20](https://goo.gl/maps/sxc6Ftf1EXKDkdsp8)
+- 📞 +374 98 532099
+- <i class="fa-brands fa-instagram"></i> [alphavet_clinic](https://instagram.com/alphavet_clinic/)
+- Услуги: зоомагазин.
+
+</div>
+<div class="card">
+
+### Клиника Аграрного университета 🏥
+
+- 📍 [ул. Эребуни, 10](https://yandex.ru/maps/org/6_y_korpus_natsionalnogo_agrarnogo_universiteta_armenii/44669593317/)
+- 📞 +374 95 417977
+- <i class="fa-brands fa-instagram"></i> [alphavet_clinic](https://instagram.com/vet_clinic_anau/)
+
+</div>
+<div class="card">
+
+### Yanvet Clinic 🏥 🛍
+
+- 📍 [просп. Азатутян, 9А](https://yandex.ru/maps/org/yanvet_clinic/14410132829/)
+- 📞 +374 93 720088
+- 🔗 [yanvet.am](https://yanvet.am)
+- Услуги: зоомагазин.
 
 </div>
 <div class="card">

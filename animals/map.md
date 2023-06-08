@@ -77,6 +77,8 @@ display_toc: false
 - [Set](https://yandex.ru/maps/org/set/57055157719/) ул. Сарьяна, 17
 - [Aeon](https://yandex.ru/maps/org/aeon/17546564979/) ул. Байрона, 8
 - [Odd Fashioned](https://yandex.ru/maps/org/odd_fashioned/165727752672/) ул. Микаэла Налбандяна, 37. Сказали, что пускают с собаками всех размеров, дают миску с водой.
+- [Pinsa!](https://yandex.ru/maps/org/pinsa_/192135477698/) ул. Анрапетутян, 78. Точно пускают на веранду, сказали что внутрь тоже можно.
+- [Философия Т](https://yandex.ru/maps/org/filosofiya_t/130549637020/) ул. Таманяна, 2. Только веранда.
 
 ### Дилижан
 
@@ -91,6 +93,10 @@ display_toc: false
 ### Ванадзор
 
 - [Shamam’s Macarons](https://yandex.ru/maps/org/shamam_s_macarons/180319484829/) ул. Мясникяна, 19
+
+### Гюмри
+
+- [Назук](https://yandex.ru/maps/org/nazuk/233693679120/) просп. Тиграна Меца, 8
 
 ## Знаете еще места?
 

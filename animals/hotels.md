@@ -41,6 +41,7 @@ display_toc: false
 - [Grand Resort Jermuk](https://yandex.ru/maps/org/grand_resort_jermuk/202669564876/) — город Джермук, сайт [grandresortjermuk.com](https://www.grandresortjermuk.com/ru/).
 - [Harsnadzor Eco Resort](https://yandex.ru/maps/org/harsnadzor_eco_resort/148323819074/) — село Татев; телефон +37477062032.
 - [Communa Guest House](https://yandex.ru/maps/org/communa/224566142076/) — город Гюмри; instagram [communagyumri](https://www.instagram.com/communagyumri/)
+- [Апага Резорт](https://yandex.ru/maps/org/apaga_rezort/74778723297/) — неподалеку от Иджевана, сайт [apaga.info](http://www.apaga.info/)
 
 ### Ищете зоогостиницы или передержку?
 
