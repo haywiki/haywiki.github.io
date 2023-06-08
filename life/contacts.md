@@ -218,6 +218,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Урбанисты Еревана](https://t.me/UrbanYerevan)
 - <i class="fa-brands fa-telegram"></i> [GoHoliday.AM](https://t.me/goholidayam) — дешевые билеты из Армении, а также отели, страховки, визы и многое другое
 - <i class="fa-brands fa-telegram"></i> [MishMash events](https://t.me/mishmash_events) — книжный клуб в Ковчеге.
+- <i class="fa-brands fa-telegram"></i> [Цветочный Ереван](https://t.me/fitoErevan)
 {: class="list-emoji"}
 
 [//]: # (https://t.me/noshelest)
