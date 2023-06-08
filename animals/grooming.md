@@ -16,6 +16,8 @@ display_toc: false
 - 📍 [ул. Абовяна, 36](https://yandex.ru/maps/org/forest_voices_zoomagazin/57855023163/)
 - Услуги: груминг, экспресс-линька.
 
+Также работают мастера: <i class="fa-brands fa-instagram"></i> [finya_grooming](https://www.instagram.com/finya_grooming/)
+
 </div>
 <div class="card">
 
@@ -28,11 +30,10 @@ display_toc: false
 </div>
 <div class="card">
 
-### Snoopy grooming салон
+### Grooming Room
 
-- <i class="fa-brands fa-instagram"></i> [snoopy_grooming_salon_studio](https://instagram.com/snoopy_grooming_salon_studio/)
-- 📍 [во дворе ул. Теряна, 54](https://yandex.ru/maps/10262/yerevan/house/YE0YcwZoQUwAQFpqfX15dH9kZw==/)
-- 📞 +37495170197 (whatsapp, viber)
+- 🔗 [groomingroom.biz](https://www.groomingroom.biz)
+- 📍 [ул. Сурб Григора Лусаворича, 12](https://yandex.ru/maps/org/grooming_room/77335829117/)
 - Услуги: груминг, экспресс-линька.
 
 </div>
@@ -44,6 +45,16 @@ display_toc: false
 - 📍 [улица Тпагричнери, 9](https://yandex.ru/maps/10262/yerevan/house/YE0YcwVgSUEAQFpqfX12dnVhYQ==/)
 - 📞 +37498818287 (whatsapp, viber), +37491818287
 - Услуги: груминг, экспресс-линька, передержка (отель для животных).
+
+</div>
+<div class="card">
+
+### Snoopy grooming салон
+
+- <i class="fa-brands fa-instagram"></i> [snoopy_grooming_salon_studio](https://instagram.com/snoopy_grooming_salon_studio/)
+- 📍 [во дворе ул. Теряна, 54](https://yandex.ru/maps/10262/yerevan/house/YE0YcwZoQUwAQFpqfX15dH9kZw==/)
+- 📞 +37495170197 (whatsapp, viber)
+- Услуги: груминг, экспресс-линька.
 
 </div>
 <div class="card">
