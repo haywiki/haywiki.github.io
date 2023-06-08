@@ -54,7 +54,7 @@ layout: page
 
 Вот некоторые:
 - [@Ruzanna_ru_guide](https://t.me/Ruzanna_ru_guide) (можно с питомцем!)
-- [@transferErevanTbilisi](https://t.me/transferErevanTbilisi) 
+- [@transferErevanTbilisi](https://t.me/transferErevanTbilisi)
 - [@Yerevan_Tbilisi_Transfer](https://t.me/Yerevan_Tbilisi_Transfer)
 
 ## Благодарности

@@ -199,6 +199,8 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Фотографы - Видеографы (визажисты, стилисты, модели , ретушеры)](https://t.me/photographers_armenia_erevan)
 - <i class="fa-brands fa-telegram"></i> [Музыканты понаехавшие в Ереван](https://t.me/erevanmusic)
 - <i class="fa-brands fa-telegram"></i> [Intelligence Music Yerevan](https://t.me/intelligencemusicyerevan) — сообщество профессиональных музыкантов: общение и анонсы выступлений.
+- <i class="fa-brands fa-telegram"></i> [Yerevan Concerts](https://t.me/yerevanrock) — Rock & metal shows in Yerevan, Armenia.
+- <i class="fa-brands fa-telegram"></i> [Rock Metal Yerevan](https://t.me/yerevanmetal) — Fans of rock & metal music in Yerevan, Armenia.
 {: class="list-emoji"}
 
 </div>
