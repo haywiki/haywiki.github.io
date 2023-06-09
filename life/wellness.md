@@ -31,6 +31,7 @@ display_toc: false
 - [Grand Sport](https://yandex.ru/maps/org/grand_sport/176292840516/)
 - [Cross Sport Complex](https://yandex.ru/maps/org/kross_sportivny_kompleks/1697413287/) — спортивный комплекс, бассейн и зона отдыха
 - [Olympavan](https://yandex.ru/maps/org/olimpavan/117446541552/) — спортивный комплекс и бассейн
+- [Теннисный клуб Давтяна](https://yandex.ru/maps/org/52755768849/) — два корта с хард-покрытием и два грунтовых. Тренер **Григор Давтян +374 99 153040**. 10000 драмов в час за тренировку с арендой корта.
 {: class="list-emoji"}
 
 </div>
@@ -53,6 +54,8 @@ display_toc: false
 
 ### Йога и пилатес
 
+- [Pure Pilates Studio](https://instagram.com/purepilates.evn) — преподают по системе basi, и оборудование тоже basi. Тренеры супер внимательные, даже на групповом занятии много внимания каждому человеку)
+- [REFORM PILATES STUDIO](https://instagram.com/reformpilates.am) — более силовая тренировка, но так же хорошие отзывы.
 - [Yoga Federation of Armenia](https://yandex.ru/maps/org/yoga_federation_of_armenia_/124320917399/)
 - [AURA Wellness Yerevan](https://yandex.ru/maps/org/aura_tsentr_zdorovya_i_krasoty/71447384657/) — оздоровительный центр, в том числе йога, пилатес и спа-салон.
 - [Shoonch yoga studio & SPA](https://yandex.ru/maps/org/tsentr_yogi_shunch/48967953154/) — студия йоги и тайский спа-салон
