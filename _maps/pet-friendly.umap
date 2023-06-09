@@ -1,6 +1,6 @@
 {
   "type": "umap",
-  "uri": "https://umap.openstreetmap.fr/ru/map/map_826834#14/40.5503/44.7852",
+  "uri": "https://umap.openstreetmap.fr/ru/map/map_826834",
   "properties": {
     "easing": true,
     "tilelayersControl": null,
@@ -12,7 +12,9 @@
     "searchControl": null,
     "datalayersControl": true,
     "zoomControl": true,
+    "permanentCreditBackground": true,
     "slideshow": {},
+    "captionMenus": true,
     "captionBar": false,
     "limitBounds": {
       "east": null,
@@ -20,6 +22,7 @@
       "north": null,
       "south": null
     },
+    "overlay": {},
     "tilelayer": {
       "tms": false,
       "name": "OSM Street (jawgmaps)",
@@ -29,7 +32,7 @@
       "url_template": "https://tile.jawg.io/{z}/{x}/{y}.png?api-key=community"
     },
     "licence": "",
-    "description": "Обновлена 30.12.2022",
+    "description": "Обновлена 9.06.2023",
     "name": "Карта мест для животных в Армении",
     "onLoadPanel": "none",
     "displayPopupFooter": false,
@@ -37,19 +40,61 @@
     "moreControl": true,
     "scaleControl": true,
     "scrollWheelZoom": true,
-    "zoom": 14
+    "zoom": 13
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      44.78516578674317,
-      40.55033073202848
+      44.50861930847168,
+      40.18372588041463
     ]
   },
   "layers": [
     {
       "type": "FeatureCollection",
       "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/118647874728\n\nул. Абовяна, 26\n",
+            "name": "202°f"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.519278,
+              40.183767
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/bar_pab_2022/190846691013/\n\nпросп. Маштоца, 15/3",
+            "name": "Бар 2022"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.507627,
+              40.182185
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Бар Мир",
+            "description": "https://yandex.ru/maps/org/41678188129\n\nул Чаренца, 41\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.527851,
+              40.17848
+            ]
+          }
+        },
         {
           "type": "Feature",
           "properties": {
@@ -95,6 +140,34 @@
         {
           "type": "Feature",
           "properties": {
+            "description": "https://yandex.ru/maps/org/set/57055157719/\n\nул. Сарьяна, 17",
+            "name": "Кофейня Set"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.508126,
+              40.186164
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/the_spot/186394169592/\n\nул. Гетапня, 10\n",
+            "name": "Кофейня Spot"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.854082,
+              40.738555
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "description": "+374 41 886010\nул. Мясникяна, 37/3\n\nhttps://yandex.ru/maps/org/kchuch/108116108720/",
             "name": "Кчуч"
           },
@@ -103,6 +176,62 @@
             "coordinates": [
               44.866576,
               40.739104
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/nazuk/233693679120/\n\nпросп. Тиграна Меца, 8\n",
+            "name": "Назук"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              43.849617,
+              40.791013
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/32685331959\n\nсело Техут",
+            "name": "Отель и ресторан Дилиджаз"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.926062,
+              40.778027
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Пэу",
+            "description": "https://yandex.ru/maps/org/191667120007\n\nул. Сармена, 72"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.509778,
+              40.192951
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/90638762767\n\nул. Мясникяна, 38",
+            "name": "Ресторан Hovk"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.869119,
+              40.739132
             ]
           }
         },
@@ -123,6 +252,48 @@
         {
           "type": "Feature",
           "properties": {
+            "description": "https://yandex.ru/maps/org/sofist/11726122465/\n\nул. Таманяна, 1\n",
+            "name": "Софист"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.514965,
+              40.188828
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Сыроварня",
+            "description": "https://yandex.ru/maps/org/syrovarnya_yerevan/98271868081/\n\nСеверный пр-кт, 5"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.515325,
+              40.182078
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Философия Т",
+            "description": "https://yandex.ru/maps/org/filosofiya_t/130549637020/\n\nул. Таманяна, 2. Только веранда.\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.515722,
+              40.188984
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "name": "Чайный Домик",
             "description": "+374 96 272701\nДетский Парк\nпн-вс: 10-24\n\nС собакой можно на веранду\n\nhttps://yandex.ru/maps/org/chayny_domik/167587794622/"
           },
@@ -137,6 +308,20 @@
         {
           "type": "Feature",
           "properties": {
+            "description": "https://yandex.ru/maps/org/aeon/17546564979/\n\nул. Байрона, 8",
+            "name": "Aeon"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.518238,
+              40.186267
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "description": "+374 11 779977\nул. Мартироса Сарьяна, 2/2\nпн-вс: 09-01\n\nhttps://yandex.ru/maps/org/avocado_queen_yerevan/59200775827/",
             "name": "Avocado Queen"
           },
@@ -145,6 +330,90 @@
             "coordinates": [
               44.509279,
               40.187267
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Aygi",
+            "description": "https://yandex.ru/maps/org/156929111478\n\nул. Фрика, 5"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.504789,
+              40.185173
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/bagel_shop/91574702352/\n\nул. Московян, 27\n",
+            "name": "Bagel shop"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.518522,
+              40.187562
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Barev Cafe",
+            "description": "https://yandex.ru/maps/org/barev_cafe/118542998137/\n\nул. Абовяна, 32"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.520957,
+              40.185152
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Borsch",
+            "description": "https://yandex.ru/maps/org/114885573520\n\nул. Мовсеса Хоренаци, 9"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.507166,
+              40.17834
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Coffeel",
+            "description": "https://yandex.ru/maps/org/182282830528\n\nул. Туманяна, 2\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.516156,
+              40.189201
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/kompot_bar_i_gril_sad/242280889756/\n\nул. Заробяна, 38/1",
+            "name": "Compote"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.512278,
+              40.191783
             ]
           }
         },
@@ -179,6 +448,20 @@
         {
           "type": "Feature",
           "properties": {
+            "description": "https://yandex.ru/maps/org/eden_by_verev/43346376324/\n\nул. Таманяна, 1\n",
+            "name": "Eden by Verev"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.514965,
+              40.189099
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "name": "Green lanj",
             "description": "+374 93 715303\nул. Алабяна, 2/2\nпн-вс: 12-24\n\nКафе в парке\n\nhttps://yandex.ru/maps/org/green_lanj/54281041477/"
           },
@@ -193,6 +476,20 @@
         {
           "type": "Feature",
           "properties": {
+            "description": "https://yandex.ru/maps/org/greenpoint/142756023274/\n\nул. Вардананц, 11",
+            "name": "Greenpoint"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.519219,
+              40.177045
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "description": "+37441325000\nул. Мартироса Сарьяна, 1\nпн-вс 08-24\n\nhttps://yandex.ru/maps/org/ground_zero/187272188529/",
             "name": "Ground Zero"
           },
@@ -201,6 +498,20 @@
             "coordinates": [
               44.509934,
               40.187197
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/grow_time/230182055605/\n\nул. Амиряна, 24",
+            "name": "Grow time"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.506645,
+              40.182484
             ]
           }
         },
@@ -235,6 +546,20 @@
         {
           "type": "Feature",
           "properties": {
+            "name": "Juli’s",
+            "description": "https://yandex.ru/maps/org/218294597176\n\nул. Пушкина, 39"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.510314,
+              40.184173
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "name": "Julios",
             "description": "ул. Московян, 36\nпн-вс 09-24\n\nМожно с собакой, приносят воду в миске.\n\nhttps://yandex.ru/maps/org/julios/100091795357/"
           },
@@ -243,6 +568,34 @@
             "coordinates": [
               44.510379,
               40.187804
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/laboratory_specialty_coffee/83652368598/\n\nпросп. Маштоца, 29",
+            "name": "Laboratory Specialty Coffee"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.511677,
+              40.184587
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/36999248479\n\nул. Туманяна, 36",
+            "name": "Letters and Numbers"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.509939,
+              40.186619
             ]
           }
         },
@@ -263,6 +616,48 @@
         {
           "type": "Feature",
           "properties": {
+            "description": "ул. Микаэла Налбандяна, 37\n\nhttps://yandex.ru/maps/org/odd_fashioned/165727752672/",
+            "name": "Odd Fashioned"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.52247,
+              40.183304
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/paul_armenia/209546981995/\n\nул. Абовяна, 8",
+            "name": "Paul Armenia"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.5154,
+              40.180513
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Pinsa!",
+            "description": "https://yandex.ru/maps/org/pinsa_/192135477698/\n\nул. Анрапетутян, 78. Точно пускают на веранду, сказали что внутрь тоже можно.\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.521832,
+              40.178959
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "name": "Prepa",
             "description": "+374 95 300300\nул. Амиряна, 4/6\nпн-вс 08-23\n\nhttps://yandex.ru/maps/org/prepa/46656616641/"
           },
@@ -271,6 +666,76 @@
             "coordinates": [
               44.510658,
               40.179918
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/shamam_s_macarons/180319484829/\n\nул. Мясникяна, 19, Ванадзор",
+            "name": "Shamam’s macarons"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.490793,
+              40.80603
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/the_kliver_wineshop_bar_1/120952389606/\n\nул. Калинина 236\n",
+            "name": "The Kliver Wineshop & Bar № 1"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.839067,
+              40.741185
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Tuntegh",
+            "description": "https://yandex.ru/maps/org/tun_tekh/76749201043/\n\nпросп. Маштоца, 5/4"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.504778,
+              40.179254
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/198954613842\n\nул. Чайковского, 30\n",
+            "name": "Vajrapar"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.517712,
+              40.174385
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Vochluys Vochmut",
+            "description": "https://yandex.ru/maps/org/voch_luys_voch_mut/69418624553/\n\nул. Сарьяна, 16\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.50723,
+              40.185841
             ]
           }
         }
@@ -288,6 +753,20 @@
     {
       "type": "FeatureCollection",
       "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Апага Резорт",
+            "description": "https://yandex.ru/maps/org/apaga_rezort/74778723297/\n\nhttp://www.apaga.info/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              45.078943,
+              40.915738
+            ]
+          }
+        },
         {
           "type": "Feature",
           "properties": {
@@ -389,6 +868,20 @@
         {
           "type": "Feature",
           "properties": {
+            "description": "https://yandex.ru/maps/org/32685331959\n\nсело Техут\n",
+            "name": "Отель и ресторан Дилиджаз"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.926239,
+              40.778019
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "name": "Отель Република Ереван",
             "description": "ул. Амиряна, 7/1; телефон +37411990000;"
           },
@@ -397,6 +890,20 @@
             "coordinates": [
               44.509247,
               40.179361
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/tun_armeni/15945983303/\n\nсайт toonarmeni.am\n",
+            "name": "Тун Армени"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.872831,
+              40.743091
             ]
           }
         },
@@ -417,6 +924,34 @@
         {
           "type": "Feature",
           "properties": {
+            "name": "Best Western Plus Congress Hotel",
+            "description": "ул. Италии, 1\n\nhttps://yandex.ru/maps/org/best_western_plus_congress_hotel/1078761583/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.508839,
+              40.175369
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/communa/224566142076/\n\nhttps://www.instagram.com/communagyumri/\n",
+            "name": "Communa Guest House"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              43.839961,
+              40.787914
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "name": "DiliVita Rest House",
             "description": "[DiliVita Rest House](https://yandex.ru/maps/org/dilivita_rest_house/236966451280/) — село Гош, неподалеку от Дилижана; телефон +37498776477.\n"
           },
@@ -425,6 +960,34 @@
             "coordinates": [
               45.004699,
               40.731755
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/glamping_park/60923708256/\n\nинстаграм https://www.instagram.com/glampingpark.am/\n",
+            "name": "glampingpark.am"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.581103,
+              40.776894
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/grand_resort_jermuk/202669564876/\n\nсайт https://www.grandresortjermuk.com/ru/",
+            "name": "Grand Resort Jermuk"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              45.666282,
+              39.839197
             ]
           }
         },
@@ -469,6 +1032,34 @@
               40.189271
             ]
           }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/rest_house_dilijan/34777147882/\n\nтелефон +37498020950.",
+            "name": "Rest house Dilijan"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.82917,
+              40.744115
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/verin_tun/53711938211/\n\nтелефон +37443050077",
+            "name": "Verin Tun"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.893296,
+              40.751162
+            ]
+          }
         }
       ],
       "_umap_options": {
@@ -487,7 +1078,7 @@
         {
           "type": "Feature",
           "properties": {
-            "name": "Мих хвостатых",
+            "name": "Мир хвостатых",
             "description": "https://yandex.ru/maps/org/mir_khvostatykh/17380324135/\n\nЕсть корма Monge, Brit"
           },
           "geometry": {
@@ -495,6 +1086,20 @@
             "coordinates": [
               43.843786,
               40.787475
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Фани Дог Хаус",
+            "description": " 📞 +374 93 635202\n 📍 ул. Вардананц, 15/3\n\nhttps://yandex.ru/maps/org/fani_dog_khaus/207873306407/\n\nhttps://www.instagram.com/_dog_house/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.521392,
+              40.174373
             ]
           }
         },
@@ -607,6 +1212,34 @@
             "coordinates": [
               44.443104,
               40.166125
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "[[https://yandex.ru/maps/10262/yerevan/house/YE0YcwZpT0EEQFpqfX5wdXxkZA==/|улица Капанцяна, 1/3]]\n\n- [[https://hafo.am|hafo.am]] [[https://facebook.com/hafoam1|hafoam1]]\n- Контактный телефон: +374 93 577177\n- Корма в продаже: Monge, Mr.Buffalo, Acana, Orijen",
+            "name": "Hafo.am"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.519573,
+              40.214083
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "IV Kusto ZOOmarket",
+            "description": "[[https://yandex.com/maps/org/iv_kusto_zoomarket/202741363289/|ул. Мовсеса Хоренаци, 8]]\nhttps://www.facebook.com/ivkustozoomarket\n\n- Контактный телефон: +374 44 045550\n- Корма в продаже: Monge, Royal Canin, Simba"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.50679,
+              40.178127
             ]
           }
         },
@@ -753,8 +1386,22 @@
         {
           "type": "Feature",
           "properties": {
+            "description": " 📞 +374 96 966346\n 📍 г. Дилижан, ул. Шаумяна 28/3\n\nhttps://yandex.ru/maps/org/royal_canin/125821415154/",
+            "name": "Royal Canin в Дилижане"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.896649,
+              40.753694
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "name": "Urban Pet Shop",
-            "description": "[UrbanPetShopArmenia|https://www.facebook.com/UrbanPetShopArmenia/]]\nКорма в продаже: Royal Canin, Monge, Bonmascota, Lapa, Jackpet, Dog&dog"
+            "description": "https://www.facebook.com/UrbanPetShopArmenia/\n\nКорма в продаже: Royal Canin, Monge, Bonmascota, Lapa, Jackpet, Dog&dog"
           },
           "geometry": {
             "type": "Point",
@@ -859,6 +1506,48 @@
             "coordinates": [
               44.508222,
               40.185591
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Zoovet.am",
+            "description": "📞 +374 93 577177\n📍 ул. Вагарша Вагаршяна, 20\n\nhttps://yandex.ru/maps/org/zoovet/9352431732/\n\nКорма в продаже: Monge, Acana, Brit, Bonmascota, Royal Canin, Purina, Orijen\n\nhttps://zoovet.am"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.499403,
+              40.202182
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Джоли — зоомагазин",
+            "description": "📍 просп. Азатутян, 8\n\nhttps://yandex.ru/maps/org/dzholi/236619928303/\n\nhttps://joli.am\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.522084,
+              40.201121
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "📍 ул. Аветика Исаакяна, 41\n\nhttps://yandex.ru/maps/org/zu_market/119280468507/\n\nhttps://joli.am\n",
+            "name": "Джоли — зоомагазин"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.518045,
+              40.188787
             ]
           }
         }
@@ -1395,6 +2084,106 @@
         {
           "type": "Feature",
           "properties": {
+            "description": "Хороший парк для прогулки с собакой\n\nhttps://yandex.ru/maps/org/park_materinstva/227346907734/",
+            "name": "парк Материнства"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  44.447384,
+                  40.182919
+                ],
+                [
+                  44.447116,
+                  40.181005
+                ],
+                [
+                  44.447513,
+                  40.180968
+                ],
+                [
+                  44.448254,
+                  40.18282
+                ],
+                [
+                  44.447384,
+                  40.182919
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "парк Нор Арабкир",
+            "description": "Хороший парк для прогулок с собакой\n\nhttps://yandex.ru/maps/org/park_nor_arabkir/12050630354/"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  44.498271,
+                  40.20988
+                ],
+                [
+                  44.497483,
+                  40.209667
+                ],
+                [
+                  44.497445,
+                  40.20988
+                ],
+                [
+                  44.496893,
+                  40.209966
+                ],
+                [
+                  44.49751,
+                  40.211142
+                ],
+                [
+                  44.498057,
+                  40.2114
+                ],
+                [
+                  44.498684,
+                  40.211261
+                ],
+                [
+                  44.499382,
+                  40.21147
+                ],
+                [
+                  44.500052,
+                  40.211417
+                ],
+                [
+                  44.49921,
+                  40.210478
+                ],
+                [
+                  44.498132,
+                  40.21004
+                ],
+                [
+                  44.498127,
+                  40.21004
+                ],
+                [
+                  44.498271,
+                  40.20988
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "name": "Парк победы",
             "description": "Хорошее место для прогулок, есть неопасные бездомные."
           },
@@ -1707,6 +2496,36 @@
         {
           "type": "Feature",
           "properties": {
+            "name": "Треугольный сад",
+            "description": "Хороший парк для прогулок с собакой\n\nhttps://yandex.ru/maps/org/treugolny_sad/52550939863/"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  44.504027,
+                  40.194663
+                ],
+                [
+                  44.503137,
+                  40.193725
+                ],
+                [
+                  44.504387,
+                  40.193954
+                ],
+                [
+                  44.504027,
+                  40.194663
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "name": "Центральный парк",
             "description": "Вход со стороны Налбандяна самый безопасные, есть отдельные неопасные дворняги "
           },
@@ -1868,6 +2687,34 @@
         {
           "type": "Feature",
           "properties": {
+            "name": "Клиника Аграрного университета",
+            "description": "📍 ул. Эребуни, 10\n 📞 +374 95 417977\n\nhttps://yandex.ru/maps/org/6_y_korpus_natsionalnogo_agrarnogo_universiteta_armenii/44669593317/\n\nhttps://instagram.com/vet_clinic_anau/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.517176,
+              40.141845
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "AlphaVet",
+            "description": "📍 ул. Раффи, 53/20\n📞 +374 98 532099\n\nhttps://goo.gl/maps/sxc6Ftf1EXKDkdsp8\n\nhttps://instagram.com/alphavet_clinic/\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.443061,
+              40.173139
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "name": "AmiryanVet",
             "description": "- Адрес: [ул. Амиряна, 10](https://yandex.ru/maps/org/amiryanvet/209808278094/)\n- Контактный телефон: +374 95 560119\n- График работы: круглосуточно, по предварительному звонку\n- https://facebook.com/AmiryanVeterinary\n- https://instagram.com/amiryanvet/\n\n- Есть возможность сделать титры.\n- Можно сделать \"Сертификат таможенного союза\" и справки для выезда за границу.\n- Есть зоомагазин"
           },
@@ -1918,6 +2765,20 @@
             "coordinates": [
               44.502895,
               40.204173
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Oscar Vet Vetclinic",
+            "description": "[[https://yandex.com/maps/org/oscar_vet_vetclinic/206303141762/|ул. Алабяна, 19]]\n📞 +374 96 209008\nhttps://www.facebook.com/Oscarvetclinic/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.478482,
+              40.194229
             ]
           }
         },
@@ -2018,6 +2879,20 @@
               40.200125
             ]
           }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Yanvet Clinic",
+            "description": " 📍 просп. Азатутян, 9А\n 📞 +374 93 720088\n\nhttps://yandex.ru/maps/org/yanvet_clinic/14410132829/\n\nhttps://yanvet.am"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.522014,
+              40.20276
+            ]
+          }
         }
       ],
       "_umap_options": {
@@ -2045,6 +2920,20 @@
             "coordinates": [
               44.519917,
               40.178025
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Grooming Room",
+            "description": " 📍 ул. Сурб Григора Лусаворича, 12\n\nhttps://yandex.ru/maps/org/grooming_room/77335829117/\n\n- Услуги: груминг, экспресс-линька.\n\nhttps://www.groomingroom.biz\n\nhttps://www.instagram.com/mygroomingroom/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.503968,
+              40.177295
             ]
           }
         },

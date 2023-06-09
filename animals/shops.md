@@ -203,10 +203,12 @@ display_toc: false
 </div>
 <div class="card">
 
-### Joli — зоомагазин и ветклиника
+### Joli — зоомагазины и ветклиника
 
 - <i class="fa-solid fa-link"></i> [joli.am](https://joli.am/) &nbsp; <i class="fa-brands fa-instagram"></i> [joli_veterinary_center](https://instagram.com/joli_veterinary_center/)
-- 📍 [ул Авета Аветисяна, 112/2](https://yandex.ru/maps/org/veterinarny_tsentr_dzholi/135151397057/)
+- 📍 [ул Авета Аветисяна, 112/2](https://yandex.ru/maps/org/veterinarny_tsentr_dzholi/135151397057/) — ветеринарный центр
+- 📍 [просп. Азатутян, 8](https://yandex.ru/maps/org/dzholi/236619928303/) — зоомагазин
+- 📍 [ул. Аветика Исаакяна, 41](https://yandex.ru/maps/org/zu_market/119280468507/) — зоомагазин
 - Есть доставка через [menu.am](https://menu.am/ru/shops/joli-moskovyan)
 - Корма в продаже: Brit, Monge.
 
