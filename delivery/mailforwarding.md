@@ -1,5 +1,5 @@
 ---
-title: Заказ из онлайн магазинов через Onex и Globbing
+title: Покупка за рубежом с помощью посредников в Армении
 layout: page
 parent_title: Доставка в Армению
 parent_url: /delivery/
