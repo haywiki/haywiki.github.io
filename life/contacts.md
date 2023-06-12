@@ -211,17 +211,24 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Beauty / Woman Ереван](https://t.me/erevamwoomen) — женское комьюнити: спорт, красота, здоровье, развлечения
 - <i class="fa-brands fa-telegram"></i> [Настолки в Ереване](https://t.me/boardgames_yerevan) — анонсы настольных (и не только) игр
 - <i class="fa-brands fa-telegram"></i> [НРИ Ереван Армения](https://t.me/nrierevan) — настольные ролевые игры
-- <i class="fa-brands fa-telegram"></i> [Книжный клуб. Ереван](https://t.me/bookclubyerevan)
-- <i class="fa-brands fa-telegram"></i> [Relolib Армения](https://t.me/+J__AORhInF5jMWYy) — проект [relolib.com](https://relolib.com/armenia): обмен и обсуждение книг
 - <i class="fa-brands fa-telegram"></i> [Баня REDHAT](https://t.me/banya_erevan) — клуб любителей русской бани
 - <i class="fa-brands fa-telegram"></i> [BANNOST’ — баня в Ереване](https://t.me/bannost)
 - <i class="fa-brands fa-telegram"></i> [Урбанисты Еревана](https://t.me/UrbanYerevan)
 - <i class="fa-brands fa-telegram"></i> [GoHoliday.AM](https://t.me/goholidayam) — дешевые билеты из Армении, а также отели, страховки, визы и многое другое
-- <i class="fa-brands fa-telegram"></i> [MishMash events](https://t.me/mishmash_events) — книжный клуб в Ковчеге.
 - <i class="fa-brands fa-telegram"></i> [Цветочный Ереван](https://t.me/fitoErevan)
 {: class="list-emoji"}
 
 [//]: # (https://t.me/noshelest)
+
+</div>
+<div class="card">
+
+## Книги и книжные клубы
+
+- <i class="fa-brands fa-telegram"></i> [Книжный клуб. Ереван](https://t.me/bookclubyerevan)
+- <i class="fa-brands fa-telegram"></i> [Relolib Армения](https://t.me/+J__AORhInF5jMWYy) — проект [relolib.com](https://relolib.com/armenia): обмен и обсуждение книг
+- <i class="fa-brands fa-telegram"></i> [MishMash events](https://t.me/mishmash_events) — книжный клуб в Ковчеге.
+- 🔗 [Архивариус](https://archivarius.store/books/yerevan) — сервис подписки на бумажные книги. Как библиотека, только с доставкой.
 
 </div>
 <div class="card">
@@ -272,6 +279,7 @@ display_toc: false
 
 - <i class="fa-brands fa-telegram"></i> [Помогаем Армении](https://t.me/+tUe8alMmADU4Yjli) — помощь солдатам и другим защитникам Армении.
 - <i class="fa-brands fa-telegram"></i> [Green Green](https://t.me/greengreen_chat) — чат сообщества эко-активистов
+- 🔗 [armaqi.org](https://armaqi.org/) - Сообщество энтузиастов за чистый воздух в городах Армении - устанавливают датчики для измерения качества воздуха
 - <i class="fa-brands fa-telegram"></i> [Armenian Military Portal](https://t.me/military_arm) — организовывает сбор средств и помощь солдатам Армении.
 - <i class="fa-brands fa-telegram"></i> [Фонд ВИВА](https://t.me/VIVAFound) — оснащение больниц, реабилитация раненых, медикаменты беженцам, образовательные программы для врачей, социальные программы.
 - 🔗 [VOMA Center](https://www.voma.center/) — инвестиции в образование, сплоченность, подготовленность и гражданскую осознанность нации.
