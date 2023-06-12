@@ -1,5 +1,5 @@
 ---
-title: Провайдеры ШПД
+title: Провайдеры домашнего интернета в Армении
 layout: page
 parent_title: Интернет в Армении
 parent_url: /internet/

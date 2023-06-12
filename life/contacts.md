@@ -111,6 +111,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Армения Обмен Валют / Armenia exchange](https://t.me/armenia_exchanger)
 - <i class="fa-brands fa-telegram"></i> [Открытие юрлица в Армении](https://t.me/+TG55UcS6PjViOThi) — обсуждение вопросов открытия и ведения юрлиц (ип и ооо) в Армении.
 - <i class="fa-brands fa-telegram"></i> [Счета резидентов РФ за рубежом](https://t.me/+fVDnu0bGaqNiYTVi) ([канал](https://t.me/+RE0haAqcKiIyMmYy))
+- 📄 [Криптовалюты и крипто-обменники в Армении](../money/crypto.md)
 {: class="list-emoji"}
 
 [//]: # (- <i class="fa-brands fa-telegram"></i> [Армения: ВНЖ, банки, налоги]&#40;https://t.me/am_banking_and_residency&#41; — канал для переезжающих, развернутая информация и новости о легализации в Армении, работе с банками для переехавших, налогообложение и другие вопросы. У канала есть [чат]&#40;https://t.me/am_banking_and_relocation_chat&#41; для обсуждений.)
@@ -233,14 +234,11 @@ display_toc: false
 </div>
 <div class="card">
 
-## Айтишники и крипта
+## Айтишники
 
 - <i class="fa-brands fa-telegram"></i> [IT в Ереване](https://t.me/iterevan) — общение IT специалистов
 - <i class="fa-brands fa-telegram"></i> [Relogame Армения](https://t.me/relogame_armenia) — релокация специалистов из GameDev сферы
-- <i class="fa-brands fa-telegram"></i> [Крипто, NFТ, блокчейн](https://t.me/cryptoitarmenia) — релокация капитала в Армению, токены, снятие денег, вакансии, нетворкинг, NFT, метавселенные.
-- <i class="fa-brands fa-telegram"></i> [Crypto Armenia 🇦🇲 Крипто Армения](https://t.me/CryptoandblockchainArmenia)
 - <i class="fa-brands fa-telegram"></i> [Hacker Embassy](http://t.me/hacker_embassy)
-- <i class="fa-brands fa-telegram"></i> [Bitcoin Armenia](https://t.me/bitcoinarmenian) — проверенный криптообменник
 {: class="list-emoji"}
 
 </div>
