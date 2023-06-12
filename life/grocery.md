@@ -35,4 +35,5 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Это БУУЗЫ! домашняя заморозка](https://t.me/erevanbuuz) — замороженные Буузы, Хуушуры, пельмени и другое.
 - <i class="fa-brands fa-facebook-f"></i> [Bountiful Market](https://www.facebook.com/groups/274732839916698/) — фермеры выкладывают объявления о продаже собственной продукции, очень выгодные цены.
 - <i class="fa-brands fa-telegram"></i> [ТUT и ТАМ](https://t.me/tut8tam) — современная домашняя кухня в Ереване.
+- <i class="fa-brands fa-telegram"></i> [Love&Piece](https://t.me/love_and_piece_am) — Доставка домашней еды в Ереване.
 {: class="list-emoji"}
