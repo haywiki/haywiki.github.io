@@ -54,7 +54,7 @@ display_toc: false
 
 ### Йога и пилатес
 
-- [Pure Pilates Studio](https://instagram.com/purepilates.evn) — преподают по системе basi, и оборудование тоже basi. Тренеры супер внимательные, даже на групповом занятии много внимания каждому человеку)
+- [Pure Pilates Studio](https://instagram.com/purepilates.evn) — преподают по системе basi, и оборудование тоже basi. Тренеры супер внимательные, даже на групповом занятии много внимания каждому человеку.
 - [REFORM PILATES STUDIO](https://instagram.com/reformpilates.am) — более силовая тренировка, но так же хорошие отзывы.
 - [Yoga Federation of Armenia](https://yandex.ru/maps/org/yoga_federation_of_armenia_/124320917399/)
 - [AURA Wellness Yerevan](https://yandex.ru/maps/org/aura_tsentr_zdorovya_i_krasoty/71447384657/) — оздоровительный центр, в том числе йога, пилатес и спа-салон.
