@@ -41,6 +41,7 @@ defaults:
     values:
       display_toc: true
       display_comments: true
+      content_class: ""
   - scope:
       path: ""
       type: "posts"
@@ -51,4 +52,4 @@ defaults:
 
 # Content variables
 
-mir_cards_date: "12.06.2023"
+mir_cards_date: "22.06.2023"

@@ -26,6 +26,14 @@
 .post-content {
   margin-bottom: 1rem;
   @extend .content;
+
+  &.bank-examples {
+    ul {
+      li { font-size: 0.95rem; }
+    }
+
+    code { font-family: $base-font-family; white-space: nowrap; }
+  }
 }
 
 .post-toc {
