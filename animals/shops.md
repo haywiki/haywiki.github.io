@@ -146,9 +146,13 @@ display_toc: false
 ### Mimi Zoo Market
 
 - <i class="fa-brands fa-facebook-f"></i> [mimiarmenia2021](https://www.facebook.com/mimiarmenia2021)
-- 📍 [ул. Вагарша Вагаршяна, 18](https://yandex.ru/maps/org/zoo_market_mimi/176898969628/) 📞+37444411343
-- Корма в продаже: Monge (в т.ч. BeWild), Royal Canin, Pro Plan, Gemon, ProBalance, Acana, Bonmascota, Select, Chat&Chat, Dog&Dog, Dog Chow.
-- 📍 [ул. Арно Бабаджаняна, 123/1](https://yandex.ru/maps/10262/yerevan/house/YE0YcgNjSk0CQFpqfX13cnllZw==/) 📞+37444411342
+- 📍 [ул. Вагарша Вагаршяна, 18](https://yandex.ru/maps/org/zoo_market_mimi/176898969628/)
+- 📍 [ул. Анрапетутян, 58](https://goo.gl/maps/6vv289a4FFaQ31Ny6)
+- 📞 +374 43 411344
+- Корма в продаже: Monge (в т.ч. BeWild), Royal Canin, Pro Plan, Gemon, ProBalance, Acana, Bonmascota, Select, Chat&Chat, Dog&Dog, Dog Chow, Josera.
+
+- 📍 [ул. Арно Бабаджаняна, 123/1](https://yandex.ru/maps/10262/yerevan/house/YE0YcgNjSk0CQFpqfX13cnllZw==/)
+- 📞 +374 44 411342
 - Корма в продаже: Monge, Josera, Royal Canin
 
 </div>
@@ -159,7 +163,7 @@ display_toc: false
 - <i class="fa-solid fa-link"></i> [zoovet.am](https://zoovet.am)
 - 📞 +374 55 133719
 - 📍 [ул. Вагарша Вагаршяна, 20](https://yandex.ru/maps/org/zoovet/9352431732/)
-- Корма в продаже: Monge, Acana, Brit, Bonmascota, Royal Canin, Purina, Orijen
+- Корма в продаже: Monge, Acana, Brit, Bonmascota, Royal Canin, Purina, Orijen,Club4Paws, Chat&Chat, Dog&Dog, Farmina N&D, Gemon
 
 </div>
 <div class="card">

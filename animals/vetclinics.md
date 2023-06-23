@@ -93,7 +93,7 @@ display_toc: false
 
 ### Maltese City 🏥
 
-- 📍 [пр-кт Комитаса, 32](https://yandex.ru/maps/10262/yerevan/house/YE0YcwdjSUQCQFpqfX5xdX5lZg==/)
+- 📍 [пр-кт Комитаса, 26](https://yandex.ru/maps/org/maltez_siti/32700886211/)
 - 📞 +374 94 372233 +374 91 626258 (Viber и WhatsApp)
 - График работы: с 11:00 до 21:00, уточняйте по телефону
 - [facebook](https://facebook.com/maltesecity/) [instagram](https://instagram.com/maltese_city/)
