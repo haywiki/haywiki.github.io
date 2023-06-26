@@ -9,14 +9,24 @@ display_toc: false
 <div class="cards list-emoji">
 <div class="card">
 
-### Polly Grooming
+### Woof Grooming Salon
 
-- 🏆 Лучший груминг в Ереване по мнению сообщества!
-- <i class="fa-brands fa-instagram"></i> [polly_grooming](https://www.instagram.com/polly_grooming/)
-- 📍 [ул. Абовяна, 36](https://yandex.ru/maps/org/forest_voices_zoomagazin/57855023163/)
+- <i class="fa-brands fa-instagram"></i> [woof.grooming.yerevan](https://www.instagram.com/woof.grooming.yerevan/)
+- 📍 [ул. Бабаяна, 6/Г](https://yandex.ru/maps/org/woof/222409553566/)
 - Услуги: груминг, экспресс-линька.
 
-Также работают мастера: <i class="fa-brands fa-instagram"></i> [finya_grooming](https://www.instagram.com/finya_grooming/)
+Работают мастера:
+- <i class="fa-brands fa-instagram"></i> [polly_grooming](https://www.instagram.com/polly_grooming/) 🏆 Один из лучших грумеров Еревана по мнению сообщества.
+- <i class="fa-brands fa-instagram"></i> [finya_grooming](https://www.instagram.com/finya_grooming/)
+
+</div>
+<div class="card">
+
+### Grooming House Armenia
+
+- <i class="fa-brands fa-instagram"></i> [groominghousearmenia](https://www.instagram.com/groominghousearmenia/)
+- 📍 [проспект Аршакуняц, 2](https://yandex.ru/maps/10262/yerevan/house/YE0YcwdnSUQEQFpqfX12cHplbA==/)
+- Услуги: груминг, экспресс-линька.
 
 </div>
 <div class="card">
@@ -39,7 +49,17 @@ display_toc: false
 </div>
 <div class="card">
 
-### Diadella Pet Hotel & Grooming {#diadella}
+### BB Grooming Yerevan
+
+- <i class="fa-brands fa-instagram"></i> [bb_grooming_yerevan](https://instagram.com/bb_grooming_yerevan)
+- 📍 [улица Гюльбенкяна, 39Б](https://yandex.ru/maps/10262/yerevan/house/YE0Ycg5kSUUCQFpqfX5xc3hqZg==/)
+- 📞 +374 55 105411
+- Услуги: груминг, экспресс-линька.
+
+</div>
+<div class="card">
+
+### Diadella Pet Hotel & Grooming
 
 - <i class="fa-brands fa-facebook-f"></i> [Diadella](https://www.facebook.com/profile.php?id=100064109612549) &nbsp; <i class="fa-brands fa-instagram"></i> [diadella_](https://instagram.com/diadella_/)
 - 📍 [улица Тпагричнери, 9](https://yandex.ru/maps/10262/yerevan/house/YE0YcwVgSUEAQFpqfX12dnVhYQ==/)
