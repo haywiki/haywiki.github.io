@@ -6,6 +6,8 @@ parent_url: /animals/
 display_toc: false
 ---
 
+{%- include animals-map.md layers="2480573" location="13/40.1857/44.5145" -%}
+
 <div class="cards list-emoji">
 <div class="card">
 
@@ -13,11 +15,11 @@ display_toc: false
 
 - <i class="fa-brands fa-instagram"></i> [woof.grooming.yerevan](https://www.instagram.com/woof.grooming.yerevan/)
 - 📍 [ул. Бабаяна, 6/Г](https://yandex.ru/maps/org/woof/222409553566/)
-- Услуги: груминг, экспресс-линька.
+- 📞 +374 98 389977
 
 #### Работают мастера:
 
-- <i class="fa-brands fa-instagram"></i> [polly_grooming](https://www.instagram.com/polly_grooming/) 🏆 Один из лучших грумеров Еревана по мнению сообщества.
+- <i class="fa-brands fa-instagram"></i> [polly_grooming](https://www.instagram.com/polly_grooming/)<br><small>🏆 Полина — один из лучших грумеров Еревана.</small>
 - <i class="fa-brands fa-instagram"></i> [finya_grooming](https://www.instagram.com/finya_grooming/)
 
 </div>
@@ -46,7 +48,6 @@ display_toc: false
 - <i class="fa-brands fa-instagram"></i> [bb_grooming_yerevan](https://instagram.com/bb_grooming_yerevan)
 - 📍 [улица Гюльбенкяна, 39Б](https://yandex.ru/maps/10262/yerevan/house/YE0Ycg5kSUUCQFpqfX5xc3hqZg==/)
 - 📞 +374 55 105411
-- Услуги: груминг, экспресс-линька.
 
 </div>
 <div class="card">
@@ -56,7 +57,6 @@ display_toc: false
 - <i class="fa-brands fa-facebook-f"></i> [Diadella](https://www.facebook.com/profile.php?id=100064109612549) &nbsp; <i class="fa-brands fa-instagram"></i> [diadella_](https://instagram.com/diadella_/)
 - 📍 [улица Тпагричнери, 9](https://yandex.ru/maps/10262/yerevan/house/YE0YcwVgSUEAQFpqfX12dnVhYQ==/)
 - 📞 +37498818287 (whatsapp, viber), +37491818287
-- Услуги: груминг, экспресс-линька, передержка (отель для животных).
 
 </div>
 <div class="card">
@@ -66,7 +66,6 @@ display_toc: false
 - <i class="fa-brands fa-instagram"></i> [snoopy_grooming_salon_studio](https://instagram.com/snoopy_grooming_salon_studio/)
 - 📍 [во дворе ул. Теряна, 54](https://yandex.ru/maps/10262/yerevan/house/YE0YcwZoQUwAQFpqfX15dH9kZw==/)
 - 📞 +37495170197 (whatsapp, viber)
-- Услуги: груминг, экспресс-линька.
 
 </div>
 <div class="card">
