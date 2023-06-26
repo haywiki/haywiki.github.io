@@ -15,18 +15,10 @@ display_toc: false
 - 📍 [ул. Бабаяна, 6/Г](https://yandex.ru/maps/org/woof/222409553566/)
 - Услуги: груминг, экспресс-линька.
 
-Работают мастера:
+#### Работают мастера:
+
 - <i class="fa-brands fa-instagram"></i> [polly_grooming](https://www.instagram.com/polly_grooming/) 🏆 Один из лучших грумеров Еревана по мнению сообщества.
 - <i class="fa-brands fa-instagram"></i> [finya_grooming](https://www.instagram.com/finya_grooming/)
-
-</div>
-<div class="card">
-
-### Grooming House Armenia
-
-- <i class="fa-brands fa-instagram"></i> [groominghousearmenia](https://www.instagram.com/groominghousearmenia/)
-- 📍 [проспект Аршакуняц, 2](https://yandex.ru/maps/10262/yerevan/house/YE0YcwdnSUQEQFpqfX12cHplbA==/)
-- Услуги: груминг, экспресс-линька.
 
 </div>
 <div class="card">
