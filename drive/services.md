@@ -34,7 +34,7 @@ parent_url: /drive/
 
 ## Запчасти
 
-- [Drive Motors](https://shop.drivemotors.am/) — везут запчасти из Москвы, цены одни из лучших
+- [Drive Motors](https://shop.drivemotors.am/) — везут запчасти из Москвы, Европы и Эмиратов. Цены одни из лучших. Есть успешный опыт заказа как мелких деталей и расходников (сальники, тормозные колодки, ремни, etc.), так и крупных -- например, топливного бака.
 - [Tecdoc](https://tecdoc.am/)
 - [Zap-ros.am](https://zap-ros.am/)
 - [Carfat.net](https://carfat.net/)
