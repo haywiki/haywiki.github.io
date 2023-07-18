@@ -13,7 +13,7 @@ parent_url: /drive/
 - [economycarrentals.com](https://www.economycarrentals.com)
 - [hertz.am](https://hertz.am/)
 - [Sergey Rent Car 🇦🇲 SherCars 🇦🇲](https://t.me/rentcararmenia) — частная сдача автомобиля в аренду, представитель [есть в чате автомобилистов](https://t.me/am_autoclub/27261).
-- [Артур](t.me/PadreArtur) (+37498383904) -- Ford Expedition и VW Passat Turbo. Оффроуд за дополнительную плату. Депозит 300 USD.
+- [Артур](https://t.me/PadreArtur) (+37498383904) -- Ford Expedition и VW Passat Turbo. Оффроуд за дополнительную плату. Депозит 300 USD.
 
 Частники сдают автомобили в аренду на сервисе [list.am](https://www.list.am/). Например:
 
