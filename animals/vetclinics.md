@@ -126,7 +126,7 @@ display_toc: false
 
 - 📍 [ул. Эребуни, 10](https://yandex.ru/maps/org/6_y_korpus_natsionalnogo_agrarnogo_universiteta_armenii/44669593317/)
 - 📞 +374 95 417977
-- <i class="fa-brands fa-instagram"></i> [alphavet_clinic](https://instagram.com/vet_clinic_anau/)
+- <i class="fa-brands fa-instagram"></i> [vet_clinic_anau](https://instagram.com/vet_clinic_anau/)
 
 </div>
 <div class="card">

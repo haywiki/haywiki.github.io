@@ -72,6 +72,16 @@ display_toc: false
 - Корма в продаже: Royal Canin, Acana, Purina ProPlan, Mr.Buffalo, Monge, Orijen, bonmascota и другие
 
 </div>
+<div class="card">
+
+### Darphin’s Store — зоомагазин и кото-отель
+
+- <i class="fa-brands fa-instagram"></i> [darphins_store](https://instagram.com/darphins_store)
+- 📞 +374 94 517333
+- 📍 [улица Алабяна, 39](https://yandex.ru/maps/10262/yerevan/house/YE0YcgBoTEwOQFpqfX14eXpkYg==)
+- Корма в продаже: Royal Canin, Acana, Monge, Orijen и другие
+
+</div>
 </div>
 
 ## Другие зоомагазины
@@ -173,6 +183,16 @@ display_toc: false
 - <i class="fa-brands fa-instagram"></i> [_dog_house](https://www.instagram.com/_dog_house/)
 - 📞 +374 93 635202
 - 📍 [ул. Вардананц, 15/3](https://yandex.ru/maps/org/fani_dog_khaus/207873306407/)
+- Корма в продаже: нет информации
+
+</div>
+<div class="card">
+
+### Animal Care Center
+
+- <i class="fa-brands fa-instagram"></i> [_animal_care__center](https://www.instagram.com/animal_care__center/)
+- 📞 +374 33 554409
+- 📍 [улица Сарьяна, 28/4](https://yandex.ru/maps/10262/yerevan/house/YE0YcwdkTEYEQFpqfX15c3ljYw==/)
 - Корма в продаже: нет информации
 
 </div>
