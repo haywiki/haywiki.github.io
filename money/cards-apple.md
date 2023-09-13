@@ -5,7 +5,7 @@ layout: page
 
 ## Добавление карт к Apple Wallet и Apple Pay
 
-Карты всех крупных банков Армении кроме ABB [поддерживают Apple Pay](https://bit.ly/am-banks).
+Карты всех крупных банков Армении [поддерживают Apple Pay](https://bit.ly/am-banks).
 
 Если карта Visa или MasterCard банка РА не добавляется в Apple Wallet для оплаты с помощью Apple Pay, как правило дело в одной из двух причин:
 
