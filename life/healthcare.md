@@ -87,10 +87,11 @@ layout: page
 ## Аптеки
 
 - 💊 [med911.am](https://www.med911.am) — онлайн-аптека с доставкой
-- 💊 [pharmacy.am](https://pharmacy.am) — поиск по аптекам Армении
-- 💊 [natalipharm.am](https://natalipharm.am/ru/) — сеть аптек
 - 💊 [alfapharm.am](https://alfapharm.am/ru/) — сеть аптек
+- 💊 [natalipharm.am](https://natalipharm.am/ru/) — сеть аптек
 {: class="list-emoji"}
+
+[//]: # (- 💊 [pharmacy.am]&#40;https://pharmacy.am&#41; — поиск по аптекам Армении)
 
 </div>
 <div class="card ">
