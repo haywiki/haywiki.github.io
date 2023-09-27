@@ -37,6 +37,7 @@ display_toc: false
 - [Отель и ресторан Дилиджаз](https://yandex.ru/maps/org/32685331959) — село Техут, неподалеку от Дилижана.
 - [glampingpark.am](https://yandex.ru/maps/org/glamping_park/60923708256/) — неподалеку от Ванадзора; инстаграм [glampingpark.am](https://www.instagram.com/glampingpark.am/)
 - [Matevosyan's Rest House](https://yandex.ru/maps/org/matevosyan_s_rest_house/194029366022/) — неподалеку от Ванадзора, [бронирование здесь](https://www.booking.com/hotel/am/matevosyan-s-rest-house.en-gb.html).
+- [Концепт-отель by Coaf](https://yandex.ru/maps/org/kontsept_otel_by_coaf/72601532586/) — село Дебет. [Сайт](https://concepthotel.am).
 
 ## Дог-френдли места у Севана
 
