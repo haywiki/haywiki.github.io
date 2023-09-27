@@ -11,10 +11,12 @@ display_toc: false
 - 🟢 <i class="fa-brands fa-instagram"></i> [petgarden_hotel](https://www.instagram.com/petgarden_hotel/) — гостиница для собак и кошек. Хорошие отзывы.
 - 🟢 [Diadella](grooming.md#diadella) оказывает услуги передержки и зооняни. Хорошие отзывы.
 - 🟢 Ветеринарная клиника [VetExpert](vetclinics.md#vetexpert) оказывает услуги передержки, животные при этом содержатся дома у сотрудников клиники. Хорошие отзывы.
+- 🟢 <i class="fa-brands fa-facebook-f"></i> [Dog House Armenia](https://www.facebook.com/profile.php?id=61550053770501) <i class="fa-brands fa-instagram"></i> [Dog House Armenia](https://www.instagram.com/doghousearmenia/)
 - 🟡 [Pet sitter](https://www.pet-sitter.ru) ([telegram](https://t.me/petsitter_online)) — сервис ситтинга для собак и кошек. Не рекомендуем, т.к. проверяют сотрудников недостаточно тщательно.
 - <i class="fa-brands fa-instagram"></i> [Dog Walk Armenia](https://www.instagram.com/dogwalkarmenia/) — выгул и передержка собак
 - <i class="fa-brands fa-facebook-f"></i> [Guest house for CATS in Yerevan](https://www.facebook.com/KittykGuestHouse/) — домашняя передержка для кошек в Ереване
 - <i class="fa-brands fa-facebook-f"></i> [Pet Hotel "Roly"](https://www.facebook.com/shnerikatunerihyuranocRolyPethotelRoly/) — домашняя передержка для собак в Ереване
+- <i class="fa-brands fa-instagram"></i> [darphins_store](https://instagram.com/darphins_store) — зоомагазин и кото-отель
 
 ### Частные мастера
 

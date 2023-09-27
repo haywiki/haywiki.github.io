@@ -22,9 +22,10 @@ display_toc: false
 - [Dave Hotel Yerevan](https://yandex.ru/maps/org/dave_hotel_yerevan/198326053456/) — ул. Прошяна, 4; телефон +37460707575;
 - [Кросс Резорт Ереван](https://yandex.ru/maps/org/kross_rezort_yerevan/1193096505/) — ш. Аштараки, 50-1; телефон +37494777077;
 - [Отель Република](https://yandex.ru/maps/org/otel_republika_yerevan/141128342239/) - ул. Амиряна, 7/1; телефон +37411990000;
-- [Ibis Ереван центр](https://yandex.ru/maps/org/ibis_yerevan_tsentr/1748657808/) — Северный проспект 5/1; телефон +37410595959;
+- [Ibis Ереван центр](https://yandex.ru/maps/org/ibis_yerevan_tsentr/1748657808/) — Северный проспект 5/1; телефон +37410595959; Доплата за животное 5000 драмов.
 - [Albert House](https://yandex.ru/maps/org/albert_house/224294205229/) - ул. Заваряна, 12/1; телефон +37410561114;
-- [Best Western Plus Congress Hotel](https://yandex.ru/maps/org/best_western_plus_congress_hotel/1078761583/) - ул. Италии, 1; телефон +37410591199.
+- [Best Western Plus Congress Hotel](https://yandex.ru/maps/org/best_western_plus_congress_hotel/1078761583/) - ул. Италии, 1; телефон +37410591199. Максимальный вес питомца — 5 кг. Не очень френдли.
+- [Holiday Inn Republic Square](https://yandex.ru/maps/org/holiday_inn_yerevan/19291316374/) - ул. Амиряна, 2; телефон +37460833000. Недельная плата за животное 50000 драм, даже если бронирование на одну ночь.
 
 ### Дог-френдли отели в Дилижане и окрестностях
 
@@ -35,6 +36,12 @@ display_toc: false
 - [DiliVita Rest House](https://yandex.ru/maps/org/dilivita_rest_house/236966451280/) — село Гош, неподалеку от Дилижана; телефон +37498776477.
 - [Отель и ресторан Дилиджаз](https://yandex.ru/maps/org/32685331959) — село Техут, неподалеку от Дилижана.
 - [glampingpark.am](https://yandex.ru/maps/org/glamping_park/60923708256/) — неподалеку от Ванадзора; инстаграм [glampingpark.am](https://www.instagram.com/glampingpark.am/)
+- [Matevosyan's Rest House](https://yandex.ru/maps/org/matevosyan_s_rest_house/194029366022/) — неподалеку от Ванадзора, [бронирование здесь](https://www.booking.com/hotel/am/matevosyan-s-rest-house.en-gb.html).
+
+## Дог-френдли места у Севана
+
+- [WishUp Shore](https://yandex.ru/maps/org/vishap_plyazh/5810108409/) — палаточный лагерь и есть несколько домиков. Бронирование [через инстаграм](https://instagram.com/wishupshore).
+- [Armenian Camp](https://yandex.ru/maps/org/armenian_camp/134656821372/)
 
 ### Отели и гостевые дома в других местах
 

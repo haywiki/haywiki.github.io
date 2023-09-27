@@ -37,7 +37,6 @@ display_toc: false
 
 ### Ереван
 
-- [Бар TUF](https://www.tuf.su) ул. Арама, 42
 - [Грин Бин](https://yandex.ru/maps/org/grin_bin/33792362159/) ул. Исаакяна, 38
 - [Чайный Домик](https://yandex.ru/maps/org/chayny_domik/167587794622/) Детский Парк (только веранда)
 - [Ground Zero](https://yandex.ru/maps/org/ground_zero/187272188529/) ул. Сарьяна, 1
@@ -52,8 +51,8 @@ display_toc: false
 - [Prepa](https://yandex.ru/maps/org/prepa/46656616641/) ул. Амиряна, 4/6
 - [Prepa](https://yandex.ru/maps/org/prepa/16686535936/) ул. Туманяна, 21
 - [Кофейня Звездочка](https://yandex.ru/maps/org/zvyozdochka/97600615491/) ул. Кохбаци, 1
+- [Кофейня Звездочка](https://yandex.ru/maps/org/zvyozdochka/46251805689/) улица Грачья Кочара, 16/6
 - [Barev Cafe](https://yandex.ru/maps/org/118542998137) ул. Абовяна, 32
-- [202°f](https://yandex.ru/maps/org/118647874728) ул. Абовяна, 26
 - [Vajrapar](https://yandex.ru/maps/org/198954613842) ул. Чайковского, 30
 - [Juli’s](https://yandex.ru/maps/org/218294597176) ул. Пушкина, 39
 - [Aygi](https://yandex.ru/maps/org/156929111478) ул. Фрика, 5
@@ -68,7 +67,6 @@ display_toc: false
 - [Софист](https://yandex.ru/maps/org/sofist/11726122465/) ул. Таманяна, 1
 - [Бар 2022](https://yandex.ru/maps/org/bar_pab_2022/190846691013/) просп. Маштоца, 15/3
 - [Bagel shop](https://yandex.ru/maps/org/bagel_shop/91574702352/) ул. Московян, 27
-- [Compote](https://yandex.ru/maps/org/kompot_bar_i_gril_sad/242280889756/) ул. Заробяна, 38/1
 - [Eden by Verev](https://yandex.ru/maps/org/eden_by_verev/43346376324/) ул. Таманяна, 1
 - [Greenpoint](https://yandex.ru/maps/org/greenpoint/142756023274/) ул. Вардананц, 11
 - [Grow time](https://yandex.ru/maps/org/grow_time/230182055605/) ул. Амиряна, 24
@@ -79,6 +77,17 @@ display_toc: false
 - [Odd Fashioned](https://yandex.ru/maps/org/odd_fashioned/165727752672/) ул. Микаэла Налбандяна, 37. Сказали, что пускают с собаками всех размеров, дают миску с водой.
 - [Pinsa!](https://yandex.ru/maps/org/pinsa_/192135477698/) ул. Анрапетутян, 78. Точно пускают на веранду, сказали что внутрь тоже можно.
 - [Философия Т](https://yandex.ru/maps/org/filosofiya_t/130549637020/) ул. Таманяна, 2. Только веранда.
+- [Sola](https://yandex.ru/maps/org/sola/142981253078/) ул. Александра Таманяна, 1А
+- [CoffBerry](https://yandex.ru/maps/org/coffberry/98314495335/) ул. Езника Кохбаци, 51
+- [Бамбак гастро бистро](https://yandex.ru/maps/org/bambak_gastro_bistro/182415070258/) ул. Езника Кохбаци, 16
+- [Гадюка](https://yandex.ru/maps/org/gadyuka/128711950705/) ул. Вардананц, 78
+- [Vooka](https://yandex.ru/maps/org/vuka/101240953494/) ул. Александра Таманяна, 1
+- [Gala Cidrerie](https://yandex.ru/maps/org/gala_cidrerie/215204009320/) ул. Мартироса Сарьяна, 4
+- [Vertigo Craft](https://yandex.ru/maps/org/65667654893) ул. Теряна, 65 (уже частично не дог-френдли, возможно исчезнет из списка)
+
+[//]: # (- [Бар TUF]&#40;https://www.tuf.su&#41; ул. Арама, 42)
+[//]: # (- [Compote]&#40;https://yandex.ru/maps/org/kompot_bar_i_gril_sad/242280889756/&#41; ул. Заробяна, 38/1)
+[//]: # (- [202°f]&#40;https://yandex.ru/maps/org/118647874728&#41; ул. Абовяна, 26)
 
 ### Дилижан
 

@@ -39,7 +39,7 @@ display_toc: false
 - <i class="fa-solid fa-link"></i> [haf-haf.am](https://haf-haf.am/ru/) &nbsp; <i class="fa-brands fa-instagram"></i> [haf.hafpetshop](https://instagram.com/haf.hafpetshop/)
 - 📍 [Сеть магазинов на карте](https://yandex.ru/maps/10262/yerevan/search/Haf-Haf/)
 - Есть доставка через [Яндекс Еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf) и [menu.am](https://menu.am/ru/shops/haf-haf)
-- Корма в продаже: Royal Canin.
+- Корма в продаже: Royal Canin, Belcando, Leonardo.
 
 </div>
 <div class="card">
@@ -248,3 +248,9 @@ display_toc: false
 
 </div>
 </div>
+
+
+Представитель Royal Canin
+(010) 534271
+Адрес - Пушкина 51
+Работают до 6-и вечера. По воскресеньям, кажется, закрыты.
