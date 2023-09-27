@@ -56,20 +56,6 @@
         {
           "type": "Feature",
           "properties": {
-            "description": "https://yandex.ru/maps/org/118647874728\n\nул. Абовяна, 26\n",
-            "name": "202°f"
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              44.519278,
-              40.183767
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
             "description": "https://yandex.ru/maps/org/bar_pab_2022/190846691013/\n\nпросп. Маштоца, 15/3",
             "name": "Бар 2022"
           },
@@ -92,20 +78,6 @@
             "coordinates": [
               44.527851,
               40.17848
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "name": "Бар TUF",
-            "description": "+37491183231\nулица Арама, 42\nпт-вс 18:00 – 01:00\n\nhttps://www.tuf.su"
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              44.512423,
-              40.180611
             ]
           }
         },
@@ -400,20 +372,6 @@
             "coordinates": [
               44.516156,
               40.189201
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "description": "https://yandex.ru/maps/org/kompot_bar_i_gril_sad/242280889756/\n\nул. Заробяна, 38/1",
-            "name": "Compote"
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              44.512278,
-              40.191783
             ]
           }
         },
@@ -738,16 +696,146 @@
               40.185841
             ]
           }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Sola",
+            "description": "https://yandex.ru/maps/org/sola/142981253078/\n\nул. Александра Таманяна, 1А"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.514928,
+              40.188664
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/zvyozdochka/46251805689/\n\nулица Грачья Кочара, 16/6",
+            "name": "Кофейня Звездочка"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.500047,
+              40.200301
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/coffberry/98314495335/\n\nул. Езника Кохбаци, 51",
+            "name": "CoffBerry"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.51179,
+              40.182537
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/bambak_gastro_bistro/182415070258/\n\nул. Езника Кохбаци, 16\n",
+            "name": "Бамбак гастро бистро"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.509789,
+              40.180287
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Гадюка",
+            "description": "https://yandex.ru/maps/org/gadyuka/128711950705/\n\nул. Вардананц, 78\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.521794,
+              40.173815
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/vuka/101240953494/\n\nул. Александра Таманяна, 1\n",
+            "name": "Vooka"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.514745,
+              40.189238
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/gala_cidrerie/215204009320/\n\nул. Мартироса Сарьяна, 4\n",
+            "name": "Gala Cidrerie"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.508829,
+              40.187308
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/65667654893\n\nул. Теряна, 65\n\n(уже частично не дог-френдли, возможно исчезнет из списка)\n",
+            "name": "Vertigo Craft"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.518093,
+              40.18605
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/holiday_inn_yerevan/19291316374/\n\nул. Амиряна, 2; телефон +37460833000\n\nНедельная плата за животное 50000 драм, даже если бронирование на одну ночь.\n",
+            "name": "Holiday Inn Republic Square"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.51128,
+              40.178771
+            ]
+          }
         }
       ],
       "_umap_options": {
         "displayOnLoad": true,
         "browsable": true,
+        "editMode": "advanced",
         "remoteData": {},
         "name": "Pet-friendly рестораны и кафе",
         "id": 2480593,
         "iconUrl": "/uploads/pictogram/bar-24_1.png",
-        "color": "Fuchsia"
+        "color": "Fuchsia",
+        "permissions": {
+          "edit_status": 0
+        }
       }
     },
     {
@@ -925,7 +1013,7 @@
           "type": "Feature",
           "properties": {
             "name": "Best Western Plus Congress Hotel",
-            "description": "ул. Италии, 1\n\nhttps://yandex.ru/maps/org/best_western_plus_congress_hotel/1078761583/"
+            "description": "ул. Италии, 1\n\nhttps://yandex.ru/maps/org/best_western_plus_congress_hotel/1078761583/\n\nМаксимальный вес питомца — 5 кг. Не очень френдли."
           },
           "geometry": {
             "type": "Point",
@@ -1009,7 +1097,7 @@
           "type": "Feature",
           "properties": {
             "name": "Ibis Ереван центр",
-            "description": "Северный проспект 5/1; телефон +37410595959."
+            "description": "Северный проспект 5/1; телефон +37410595959.\n\nДоплата за животное 5000 драмов."
           },
           "geometry": {
             "type": "Point",
@@ -1060,21 +1148,95 @@
               40.751162
             ]
           }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/matevosyan_s_rest_house/194029366022/\n\nhttps://www.booking.com/hotel/am/matevosyan-s-rest-house.en-gb.html\n",
+            "name": "Matevosyan's Rest House"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.612893,
+              40.769801
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/vishap_plyazh/5810108409/\n\nПалаточный лагерь и есть несколько домиков. Бронирование через инстаграм\n\nhttps://instagram.com/wishupshore\n",
+            "name": "WishUp Shore"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              45.250347,
+              40.504092
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/armenian_camp/134656821372/\n",
+            "name": "Armenian Camp"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              45.366905,
+              40.486469
+            ]
+          }
         }
       ],
       "_umap_options": {
         "displayOnLoad": true,
         "browsable": true,
+        "editMode": "advanced",
         "remoteData": {},
         "name": "Pet-friendly гостиницы",
         "color": "Khaki",
         "iconUrl": "/uploads/pictogram/commercial-24.png",
-        "id": 2480575
+        "id": 2480575,
+        "permissions": {
+          "edit_status": 0
+        }
       }
     },
     {
       "type": "FeatureCollection",
       "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Джоли — зоомагазин",
+            "description": "📍 просп. Азатутян, 8\n\nhttps://yandex.ru/maps/org/dzholi/236619928303/\n\nhttps://joli.am\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.522084,
+              40.201121
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "📍 ул. Аветика Исаакяна, 41\n\nhttps://yandex.ru/maps/org/zu_market/119280468507/\n\nhttps://joli.am\n",
+            "name": "Джоли — зоомагазин"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.518045,
+              40.188787
+            ]
+          }
+        },
         {
           "type": "Feature",
           "properties": {
@@ -1316,6 +1478,20 @@
         {
           "type": "Feature",
           "properties": {
+            "name": "Kakadu",
+            "description": "просп. Азатутян, 23\n\nhttps://yandex.ru/maps/org/kakadu_/121408506787/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.527958,
+              40.208229
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "name": "Nemo — интернет-магазин с доставкой",
             "description": "- [[https://yandex.ru/maps/org/nemo/191697089221/|Магазин на карте]]\n- https://nemo.am/ — на сайте можно заказать доставку.\n- https://instagram.com/nemo_petstore/\n- Корма в продаже: Royal Canin, Acana, Purina ProPlan, Mr.Buffalo, Monge, Orijen, bonmascota и другие"
           },
@@ -1526,28 +1702,28 @@
         {
           "type": "Feature",
           "properties": {
-            "name": "Джоли — зоомагазин",
-            "description": "📍 просп. Азатутян, 8\n\nhttps://yandex.ru/maps/org/dzholi/236619928303/\n\nhttps://joli.am\n"
+            "description": "https://instagram.com/darphins_store\n\n+374 94 517333\nулица Алабяна, 39\n\nhttps://yandex.ru/maps/10262/yerevan/house/YE0YcgBoTEwOQFpqfX14eXpkYg==\n",
+            "name": "Darphin’s Store — зоомагазин и кото-отель"
           },
           "geometry": {
             "type": "Point",
             "coordinates": [
-              44.522084,
-              40.201121
+              44.478654,
+              40.198691
             ]
           }
         },
         {
           "type": "Feature",
           "properties": {
-            "description": "📍 ул. Аветика Исаакяна, 41\n\nhttps://yandex.ru/maps/org/zu_market/119280468507/\n\nhttps://joli.am\n",
-            "name": "Джоли — зоомагазин"
+            "description": "https://www.instagram.com/animal_care__center\n\n- 📞 +374 33 554409\n- 📍 улица Сарьяна, 28/4\n\nhttps://yandex.ru/maps/10262/yerevan/house/YE0YcwdkTEYEQFpqfX15c3ljYw==/\n",
+            "name": "Animal Care Center"
           },
           "geometry": {
             "type": "Point",
             "coordinates": [
-              44.518045,
-              40.188787
+              44.504542,
+              40.182443
             ]
           }
         }
@@ -1555,12 +1731,16 @@
       "_umap_options": {
         "displayOnLoad": true,
         "browsable": true,
+        "editMode": "advanced",
         "id": 2480563,
         "remoteData": {},
         "color": "Blue",
         "iconUrl": "https://haywiki.org/assets/icons/cart-shopping.svg",
         "name": "Зоомагазины",
-        "iconClass": "Drop"
+        "iconClass": "Drop",
+        "permissions": {
+          "edit_status": 0
+        }
       }
     },
     {
@@ -2673,6 +2853,7 @@
       "_umap_options": {
         "displayOnLoad": true,
         "browsable": true,
+        "editMode": "advanced",
         "remoteData": {},
         "name": "Места для прогулок",
         "color": "Green",
@@ -2758,13 +2939,13 @@
           "type": "Feature",
           "properties": {
             "name": "Maltese City",
-            "description": "- Адрес: [пр-кт Комитаса, 32](https://yandex.ru/maps/10262/yerevan/house/YE0YcwdjSUQCQFpqfX5xdX5lZg==/)\n- Контактный телефон: +374 94 372233 +374 91 626258 (Viber и WhatsApp)\n- График работы: с 11:00 до 21:00, уточняйте по телефону\n- https://www.facebook.com/maltesecity/\n- https://www.instagram.com/maltese_city/\n\n- Есть возможность сделать титры.\n- Можно сделать \"Сертификат таможенного союза\" и справки для выезда за границу."
+            "description": "пр-кт Комитаса, 26\n\nhttps://yandex.ru/maps/org/maltez_siti/32700886211/\n\n- Контактный телефон: +374 94 372233 +374 91 626258 (Viber и WhatsApp)\n- График работы: с 11:00 до 21:00, уточняйте по телефону\n- https://www.facebook.com/maltesecity/\n- https://www.instagram.com/maltese_city/\n"
           },
           "geometry": {
             "type": "Point",
             "coordinates": [
-              44.502895,
-              40.204173
+              44.50046,
+              40.203239
             ]
           }
         },
@@ -2898,6 +3079,7 @@
       "_umap_options": {
         "displayOnLoad": true,
         "browsable": true,
+        "editMode": "advanced",
         "remoteData": {},
         "name": "Ветеринарные клиники",
         "color": "Red",
@@ -2909,6 +3091,20 @@
     {
       "type": "FeatureCollection",
       "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "BB Grooming Yerevan",
+            "description": "📍 улица Гюльбенкяна, 39Б\n📞 +374 55 105411\n\nhttps://instagram.com/bb_grooming_yerevan\n\nhttps://yandex.ru/maps/10262/yerevan/house/YE0Ycg5kSUUCQFpqfX5xc3hqZg==/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.494028,
+              40.202526
+            ]
+          }
+        },
         {
           "type": "Feature",
           "properties": {
@@ -2964,17 +3160,35 @@
               40.200191
             ]
           }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Woof Grooming Salon",
+            "description": "📍 ул. Бабаяна, 6/Г\n📞 +374 98 389977\n\nhttps://www.instagram.com/woof.grooming.yerevan/\n\nhttps://yandex.ru/maps/org/woof/222409553566/\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.521907,
+              40.197892
+            ]
+          }
         }
       ],
       "_umap_options": {
         "displayOnLoad": true,
         "browsable": true,
+        "editMode": "advanced",
         "remoteData": {},
         "name": "Груминг и стрижка",
         "color": "LavenderBlush",
         "iconClass": "Drop",
         "iconUrl": "✂️",
-        "id": 2480573
+        "id": 2480573,
+        "permissions": {
+          "edit_status": 0
+        }
       }
     }
   ]
