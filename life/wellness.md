@@ -16,6 +16,8 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [We Hike](https://t.me/hikeam) — ходите в горы, чтобы стать лучше и увидеть настоящую Армению!
 - <i class="fa-brands fa-instagram"></i> [Paddling in Armenia](https://www.instagram.com/supman.armenia/) — сап-туры в Армении
 - <i class="fa-brands fa-instagram"></i> [Hiking Авантюра](https://t.me/hiking_avantura) — организаторы походов
+- <i class="fa-brands fa-telegram"></i> [🏓 Table Tennis Yerevan](https://t.me/TennisYerevan)
+- <i class="fa-brands fa-instagram"></i> [Сапбординг в Ереване](https://www.instagram.com/sup_yrn/)
 {: class="list-emoji"}
 
 <div class="cards custom1">
@@ -95,7 +97,7 @@ display_toc: false
 - [Cloud7 Wellness & SPA](https://yandex.ru/maps/org/cloud7_wellness_spa/174501300118/)
 - [Olympavan](https://yandex.ru/maps/org/olimpavan/117446541552/)
 - [Бассейн Футбольной Академии](https://yandex.ru/maps/org/basseyn/169201319962/)
-- [Бассейн спортивной школы "Свиммер" (бывш.Дельфин)](https://yandex.ru/maps/-/CCUo5HbMOA)
+- [Бассейн спортивной школы "Свиммер" (бывший Дельфин)](https://yandex.ru/maps/-/CCUo5HbMOA)
 {: class="list-emoji"}
 
 </div>

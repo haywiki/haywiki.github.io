@@ -202,6 +202,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Intelligence Music Yerevan](https://t.me/intelligencemusicyerevan) — сообщество профессиональных музыкантов: общение и анонсы выступлений.
 - <i class="fa-brands fa-telegram"></i> [Yerevan Concerts](https://t.me/yerevanrock) — Rock & metal shows in Yerevan, Armenia.
 - <i class="fa-brands fa-telegram"></i> [Rock Metal Yerevan](https://t.me/yerevanmetal) — Fans of rock & metal music in Yerevan, Armenia.
+- <i class="fa-brands fa-telegram"></i> [Мастер-классы по рисованию и не только в Армении](https://t.me/risovaniye_armeniya) — занятия по рисованию, лепке, вязанию и подобное.
 {: class="list-emoji"}
 
 </div>
@@ -217,7 +218,11 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Урбанисты Еревана](https://t.me/UrbanYerevan)
 - <i class="fa-brands fa-telegram"></i> [GoHoliday.AM](https://t.me/goholidayam) — дешевые билеты из Армении, а также отели, страховки, визы и многое другое
 - <i class="fa-brands fa-telegram"></i> [Цветочный Ереван](https://t.me/fitoErevan)
+- <i class="fa-brands fa-telegram"></i> [Curly Yerevan](https://t.me/curly_yerevan) — сообщество кудрявых в Ереване
+- <i class="fa-brands fa-telegram"></i> [FPV Armenia (ru+am)](https://t.me/fpv_armenia) — сообщество пилотов FPV-дронов
+- <i class="fa-brands fa-telegram"></i> [Чайный клуб в Ереване](https://t.me/moychayarmenia)
 {: class="list-emoji"}
+
 
 [//]: # (https://t.me/noshelest)
 
@@ -251,16 +256,25 @@ display_toc: false
 </div>
 <div class="card">
 
+## Чаты и каналы Гюмри
+
+- <i class="fa-brands fa-telegram"></i> [Гюмри новостной](https://t.me/gyumrinews)
+- <i class="fa-brands fa-telegram"></i> [Гюмри - Взаимопомощь](https://t.me/vzaimopomoshgyumri)
+- <i class="fa-brands fa-telegram"></i> [Переезд в Гюмри](https://t.me/lifeingyumri)
+- <i class="fa-brands fa-telegram"></i> [IT в Гюмри](https://t.me/GyumriIT)
+- <i class="fa-brands fa-telegram"></i> [Гюмри новостной](https://t.me/gyumrinews)
+- <i class="fa-brands fa-telegram"></i> [Жизнь в Гюмри](https://t.me/gyumrilive)
+{: class="list-emoji"}
+
+</div>
+<div class="card">
+
 ## Чаты по регионам
 
 - <i class="fa-brands fa-telegram"></i> [Переезд в Ванадзор](https://t.me/vanadzorchat)
 - <i class="fa-brands fa-telegram"></i> [Переезд в Дилижан](https://t.me/dilijanforlife)
 - <i class="fa-brands fa-telegram"></i> [Dilijan Care](https://t.me/Dilicare) встречи, инициативы, волонтерство и забота о городе 🌿
 - <i class="fa-brands fa-telegram"></i> [Русскоязычный Абовян](https://t.me/ruabovyan)
-- <i class="fa-brands fa-telegram"></i> [Гюмри новостной](https://t.me/gyumrinews)
-- <i class="fa-brands fa-telegram"></i> [Гюмри - Взаимопомощь](https://t.me/vzaimopomoshgyumri)
-- <i class="fa-brands fa-telegram"></i> [Переезд в Гюмри](https://t.me/lifeingyumri)
-- <i class="fa-brands fa-telegram"></i> [IT в Гюмри](https://t.me/GyumriIT)
 {: class="list-emoji"}
 
 ## Армянский язык
@@ -275,7 +289,6 @@ display_toc: false
 
 ## Благотворительность и активизм
 
-- <i class="fa-brands fa-telegram"></i> [Помогаем Армении](https://t.me/+tUe8alMmADU4Yjli) — помощь солдатам и другим защитникам Армении.
 - <i class="fa-brands fa-telegram"></i> [Green Green](https://t.me/greengreen_chat) — чат сообщества эко-активистов
 - 🔗 [armaqi.org](https://armaqi.org/) - Сообщество энтузиастов за чистый воздух в городах Армении - устанавливают датчики для измерения качества воздуха
 - <i class="fa-brands fa-telegram"></i> [Armenian Military Portal](https://t.me/military_arm) — организовывает сбор средств и помощь солдатам Армении.
@@ -312,6 +325,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Специалисты Армения](https://t.me/Armeniaspecialists) — чат поиска специалистов: докторов, нянь, тренеров, фотографов, сантехников, парикмахеров и других.
 - 🔗 [Tun Service - Home Maintenance Services](https://www.tunservice.com/Eng/Tun-Service.html) — электрики, сантехники и мелкие работы по дому.
 - **+37491570954 Дмитрий** — электромонтажные, сантехнические, общестроительные работы. От «мастера на час» до ремонта комнаты, санузла (штукатурка, шпаклевка, обои, покраска, плитка, работа с гипсокартоном).
+- **+37496354825 Ерванд** — сантехнические работы: монтаж водоснабжение, котлов, отопления.
 
 ### Клининг и уборка квартир и домов
 
@@ -325,10 +339,17 @@ display_toc: false
 - **+37495202036 Эрик** — цены у него чуть выше чем по рынку, но его порекомендовал человек, который до этого сменил троих «регулировщиков», этот сделал как надо
 - **+37477332774 Артур** — тоже хороший настройщик проверенный многими людьми из чата
 
+### 3D-печать в Ереване {#3d}
+
+- <i class="fa-brands fa-instagram"></i> [3d_printing__vava](https://www.instagram.com/3d_printing__vava/) — 3д-печать, сканирование, моделирование. Телефоны: +37498216200 +37499216211. 
+- <i class="fa-brands fa-telegram"></i> [AsyaA_3d](https://t.me/AsyaA_3d) — может помочь и с печатью и с созданием модели
+{: class="list-emoji"}
+
 ### Другие контакты
 
 - **+37491225549 Амбарцум** — водопроводчик. звоните по вопросам замены текущих труб, кранов и т.п.
 - **[Euro Master](https://yandex.ru/maps/org/euro_master/182919799988/)** ([google](https://goo.gl/maps/RYgCsVd3QVgnUPuCA)) — служба химчистки обуви
+- **+37493552713 Данила** — мастер по изготовлению мебели. 
 
 </div>
 </div>

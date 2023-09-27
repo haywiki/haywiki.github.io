@@ -64,3 +64,7 @@ parent_url: /delivery/
 
 - [Растаможка посылок почты HayPost и EMS](customs/haypost.md)                                             
 - [Растаможка посылок в карго-терминале аэропорта Звартноц](customs/cargo.md)
+
+## Полезные ссылки
+
+- [Гайд по ввозу Flipper (и аналогичных товаров)](https://hackmd.io/@himura/r1bjV0VJo)

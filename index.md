@@ -101,6 +101,7 @@ Disclaimer: информация на этом сайте написана не 
 - [Получение справки о несудимости в Армении](/documents/non-conviction.md)
 - [Получение ИНН (номера налогоплательщика) в Армении](/documents/tin.md)
 - [Подтверждение суммарного времени нахождения в Армении](/documents/proof-of-time.md)
+- [Получение справки о доходах и налогах в Армении](https://telegra.ph/Poluchenie-spravki-o-dohodah-i-nalogah-v-RA-11-22)
 
 </div>
 <div class="card">
