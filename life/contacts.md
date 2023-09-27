@@ -341,8 +341,10 @@ display_toc: false
 
 ### 3D-печать в Ереване {#3d}
 
+- 🔗 **[Detal.am](http://detal.am)** — [адрес](https://yandex.ru/maps/org/detal_eyem/45479175228/).
 - <i class="fa-brands fa-instagram"></i> [3d_printing__vava](https://www.instagram.com/3d_printing__vava/) — 3д-печать, сканирование, моделирование. Телефоны: +37498216200 +37499216211. 
 - <i class="fa-brands fa-telegram"></i> [AsyaA_3d](https://t.me/AsyaA_3d) — может помочь и с печатью и с созданием модели
+- 📞 +37491216211 **3D Printing Armenia** в [Garage Masters Mall](https://yandex.ru/maps/org/garazh_masters_moll/234583991942/)
 {: class="list-emoji"}
 
 ### Другие контакты
