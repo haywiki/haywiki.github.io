@@ -85,6 +85,7 @@ display_toc: false
 - [Gala Cidrerie](https://yandex.ru/maps/org/gala_cidrerie/215204009320/) ул. Мартироса Сарьяна, 4
 - [Vertigo Craft](https://yandex.ru/maps/org/65667654893) ул. Теряна, 65 (уже частично не дог-френдли, возможно исчезнет из списка)
 - [Art Lounge](https://yandex.ru/maps/org/art_launzh/150338432746/) ул. Вардананц, 18/2 (точно можно с Корги, неизвестно про собак большего размера)
+- [Frank by Баста](https://yandex.ru/maps/org/frank_by_basta/113039833181/) ул. Павстоса Бюзанда, 5
 
 [//]: # (- [Бар TUF]&#40;https://www.tuf.su&#41; ул. Арама, 42)
 [//]: # (- [Compote]&#40;https://yandex.ru/maps/org/kompot_bar_i_gril_sad/242280889756/&#41; ул. Заробяна, 38/1)

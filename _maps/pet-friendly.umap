@@ -1,6 +1,6 @@
 {
   "type": "umap",
-  "uri": "https://umap.openstreetmap.fr/ru/map/map_826834",
+  "uri": "https://umap.openstreetmap.fr/ru/map/map_826834#17/40.17582/44.51534",
   "properties": {
     "easing": true,
     "tilelayersControl": null,
@@ -56,6 +56,20 @@
         {
           "type": "Feature",
           "properties": {
+            "description": "https://yandex.ru/maps/org/bambak_gastro_bistro/182415070258/\n\nул. Езника Кохбаци, 16\n",
+            "name": "Бамбак гастро бистро"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.509789,
+              40.180287
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "description": "https://yandex.ru/maps/org/bar_pab_2022/190846691013/\n\nпросп. Маштоца, 15/3",
             "name": "Бар 2022"
           },
@@ -84,6 +98,20 @@
         {
           "type": "Feature",
           "properties": {
+            "name": "Гадюка",
+            "description": "https://yandex.ru/maps/org/gadyuka/128711950705/\n\nул. Вардананц, 78\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.521794,
+              40.173815
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "description": "+374 55 529277\nул. Аветика Исаакяна, 38\nпн-вс 08:30-00:00\n\nhttps://yandex.ru/maps/org/grin_bin/33792362159/",
             "name": "Грин Бин"
           },
@@ -106,6 +134,20 @@
             "coordinates": [
               44.864919,
               40.739474
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/zvyozdochka/46251805689/\n\nулица Грачья Кочара, 16/6",
+            "name": "Кофейня Звездочка"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.500047,
+              40.200301
             ]
           }
         },
@@ -294,6 +336,20 @@
         {
           "type": "Feature",
           "properties": {
+            "description": "https://yandex.ru/maps/org/art_launzh/150338432746/\n\nул. Вардананц, 18/2\n\nточно можно с Корги, неизвестно про собак большего размера\n",
+            "name": "Art Lounge"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.519922,
+              40.17541
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "description": "+374 11 779977\nул. Мартироса Сарьяна, 2/2\nпн-вс: 09-01\n\nhttps://yandex.ru/maps/org/avocado_queen_yerevan/59200775827/",
             "name": "Avocado Queen"
           },
@@ -364,6 +420,20 @@
         {
           "type": "Feature",
           "properties": {
+            "description": "https://yandex.ru/maps/org/coffberry/98314495335/\n\nул. Езника Кохбаци, 51",
+            "name": "CoffBerry"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.51179,
+              40.182537
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "name": "Coffeel",
             "description": "https://yandex.ru/maps/org/182282830528\n\nул. Туманяна, 2\n"
           },
@@ -414,6 +484,20 @@
             "coordinates": [
               44.514965,
               40.189099
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/gala_cidrerie/215204009320/\n\nул. Мартироса Сарьяна, 4\n",
+            "name": "Gala Cidrerie"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.508829,
+              40.187308
             ]
           }
         },
@@ -484,6 +568,20 @@
             "coordinates": [
               44.508984,
               40.187365
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/holiday_inn_yerevan/19291316374/\n\nул. Амиряна, 2; телефон +37460833000\n\nНедельная плата за животное 50000 драм, даже если бронирование на одну ночь.\n",
+            "name": "Holiday Inn Republic Square"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.51128,
+              40.178771
             ]
           }
         },
@@ -644,6 +742,20 @@
         {
           "type": "Feature",
           "properties": {
+            "name": "Sola",
+            "description": "https://yandex.ru/maps/org/sola/142981253078/\n\nул. Александра Таманяна, 1А"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.514928,
+              40.188664
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "description": "https://yandex.ru/maps/org/the_kliver_wineshop_bar_1/120952389606/\n\nул. Калинина 236\n",
             "name": "The Kliver Wineshop & Bar № 1"
           },
@@ -686,6 +798,20 @@
         {
           "type": "Feature",
           "properties": {
+            "description": "https://yandex.ru/maps/org/65667654893\n\nул. Теряна, 65\n\n(уже частично не дог-френдли, возможно исчезнет из списка)\n",
+            "name": "Vertigo Craft"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.518093,
+              40.18605
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "name": "Vochluys Vochmut",
             "description": "https://yandex.ru/maps/org/voch_luys_voch_mut/69418624553/\n\nул. Сарьяна, 16\n"
           },
@@ -694,76 +820,6 @@
             "coordinates": [
               44.50723,
               40.185841
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "name": "Sola",
-            "description": "https://yandex.ru/maps/org/sola/142981253078/\n\nул. Александра Таманяна, 1А"
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              44.514928,
-              40.188664
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "description": "https://yandex.ru/maps/org/zvyozdochka/46251805689/\n\nулица Грачья Кочара, 16/6",
-            "name": "Кофейня Звездочка"
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              44.500047,
-              40.200301
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "description": "https://yandex.ru/maps/org/coffberry/98314495335/\n\nул. Езника Кохбаци, 51",
-            "name": "CoffBerry"
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              44.51179,
-              40.182537
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "description": "https://yandex.ru/maps/org/bambak_gastro_bistro/182415070258/\n\nул. Езника Кохбаци, 16\n",
-            "name": "Бамбак гастро бистро"
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              44.509789,
-              40.180287
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "name": "Гадюка",
-            "description": "https://yandex.ru/maps/org/gadyuka/128711950705/\n\nул. Вардананц, 78\n"
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              44.521794,
-              40.173815
             ]
           }
         },
@@ -784,42 +840,14 @@
         {
           "type": "Feature",
           "properties": {
-            "description": "https://yandex.ru/maps/org/gala_cidrerie/215204009320/\n\nул. Мартироса Сарьяна, 4\n",
-            "name": "Gala Cidrerie"
+            "description": "https://yandex.ru/maps/org/frank_by_basta/113039833181/\n\nул. Павстоса Бюзанда, 5\n",
+            "name": "Frank by Баста"
           },
           "geometry": {
             "type": "Point",
             "coordinates": [
-              44.508829,
-              40.187308
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "description": "https://yandex.ru/maps/org/65667654893\n\nул. Теряна, 65\n\n(уже частично не дог-френдли, возможно исчезнет из списка)\n",
-            "name": "Vertigo Craft"
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              44.518093,
-              40.18605
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "description": "https://yandex.ru/maps/org/holiday_inn_yerevan/19291316374/\n\nул. Амиряна, 2; телефон +37460833000\n\nНедельная плата за животное 50000 драм, даже если бронирование на одну ночь.\n",
-            "name": "Holiday Inn Republic Square"
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              44.51128,
-              40.178771
+              44.512734,
+              40.179136
             ]
           }
         }
@@ -928,6 +956,20 @@
         {
           "type": "Feature",
           "properties": {
+            "description": "https://yandex.ru/maps/org/kontsept_otel_by_coaf/72601532586/\n\nhttps://concepthotel.am\n",
+            "name": "Концепт-отель by Coaf"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.64016,
+              40.925689
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "name": "Кросс Резорт Ереван",
             "description": "- [Кросс Резорт Ереван](https://yandex.ru/maps/org/kross_rezort_yerevan/1193096505/) — ш. Аштараки, 50-1; телефон +37494777077;\n"
           },
@@ -1006,6 +1048,20 @@
             "coordinates": [
               44.514064,
               40.166622
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://yandex.ru/maps/org/armenian_camp/134656821372/\n",
+            "name": "Armenian Camp"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              45.366905,
+              40.486469
             ]
           }
         },
@@ -1110,6 +1166,20 @@
         {
           "type": "Feature",
           "properties": {
+            "description": "https://yandex.ru/maps/org/matevosyan_s_rest_house/194029366022/\n\nhttps://www.booking.com/hotel/am/matevosyan-s-rest-house.en-gb.html\n",
+            "name": "Matevosyan's Rest House"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.612893,
+              40.769801
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "name": "Opera Suite Hotel",
             "description": "- [Opera Suite Hotel](https://yandex.ru/maps/org/opera_suite_hotel/147894966895/) — улица Рафаэла Лемкина, 1; телефон +37411201000;\n"
           },
@@ -1152,20 +1222,6 @@
         {
           "type": "Feature",
           "properties": {
-            "description": "https://yandex.ru/maps/org/matevosyan_s_rest_house/194029366022/\n\nhttps://www.booking.com/hotel/am/matevosyan-s-rest-house.en-gb.html\n",
-            "name": "Matevosyan's Rest House"
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              44.612893,
-              40.769801
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
             "description": "https://yandex.ru/maps/org/vishap_plyazh/5810108409/\n\nПалаточный лагерь и есть несколько домиков. Бронирование через инстаграм\n\nhttps://instagram.com/wishupshore\n",
             "name": "WishUp Shore"
           },
@@ -1174,20 +1230,6 @@
             "coordinates": [
               45.250347,
               40.504092
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "description": "https://yandex.ru/maps/org/armenian_camp/134656821372/\n",
-            "name": "Armenian Camp"
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              45.366905,
-              40.486469
             ]
           }
         }
@@ -1276,6 +1318,34 @@
             "coordinates": [
               44.509209,
               40.180164
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://www.instagram.com/animal_care__center\n\n- 📞 +374 33 554409\n- 📍 улица Сарьяна, 28/4\n\nhttps://yandex.ru/maps/10262/yerevan/house/YE0YcwdkTEYEQFpqfX15c3ljYw==/\n",
+            "name": "Animal Care Center"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.504542,
+              40.182443
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "https://instagram.com/darphins_store\n\n+374 94 517333\nулица Алабяна, 39\n\nhttps://yandex.ru/maps/10262/yerevan/house/YE0YcgBoTEwOQFpqfX14eXpkYg==\n",
+            "name": "Darphin’s Store — зоомагазин и кото-отель"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              44.478654,
+              40.198691
             ]
           }
         },
@@ -1696,34 +1766,6 @@
             "coordinates": [
               44.499403,
               40.202182
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "description": "https://instagram.com/darphins_store\n\n+374 94 517333\nулица Алабяна, 39\n\nhttps://yandex.ru/maps/10262/yerevan/house/YE0YcgBoTEwOQFpqfX14eXpkYg==\n",
-            "name": "Darphin’s Store — зоомагазин и кото-отель"
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              44.478654,
-              40.198691
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "description": "https://www.instagram.com/animal_care__center\n\n- 📞 +374 33 554409\n- 📍 улица Сарьяна, 28/4\n\nhttps://yandex.ru/maps/10262/yerevan/house/YE0YcwdkTEYEQFpqfX15c3ljYw==/\n",
-            "name": "Animal Care Center"
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              44.504542,
-              40.182443
             ]
           }
         }
