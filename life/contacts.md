@@ -171,10 +171,10 @@ display_toc: false
 
 ## Отзывы о местах в Армении
 
-- <i class="fa-brands fa-telegram"></i> [Куда пойдем в Ереване?](https://t.me/review_armenia) — гастрономические обзоры, дайджест-афиша по четвергам и отзывчивое комьюнити в комментариях.
 - <i class="fa-brands fa-telegram"></i> [Понаприехали!](https://t.me/offtoarmenia) — О вкусной и интересной жизни в Армении!
 - <i class="fa-brands fa-telegram"></i> [Гастронавты Еревана](https://t.me/gastroneersYerevan) — место, где можно поделиться своими гастрономическими открытиями в Ереване и узнать про новые места, где можно вкусно поесть.
 - <i class="fa-brands fa-telegram"></i> [Настя, это где?](https://t.me/nastyawhere)
+- <i class="fa-brands fa-telegram"></i> [UPTOWN:Куда пойдем в Ереване?](https://t.me/uptown_yerevan)
 {: class="list-emoji"}
 
 </div>
@@ -185,7 +185,6 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Куда съездить в Армении?](https://t.me/+azIZSPnLs0oxOWZi) — найдите свой групповой тур на выходные или задайте вопрос по путешествиям в Армении.
 - <i class="fa-brands fa-telegram"></i> [Беспечный Ереван](https://t.me/jaunty_yerevan) — чат для поиска тусовальщиков, организации тусований и рекомендаций баров.
 - <i class="fa-brands fa-telegram"></i> [Живой Ереван](https://t.me/YerevanAlive) — тут можно приобрести новые и классные знакомства, и найти чем бы заняться, где бы потусить.
-- <i class="fa-brands fa-telegram"></i> [Yerevan Vibes](https://t.me/yerevanvibes) — чат для общения и поиска друзей.
 - <i class="fa-brands fa-telegram"></i> [Urban ARMENIA](https://t.me/urbanarmenia) — нестандартные экскурсии.
 - <i class="fa-brands fa-telegram"></i> [TUF news](https://t.me/tuftuftuftsh)
 {: class="list-emoji"}
@@ -210,12 +209,12 @@ display_toc: false
 
 ## Сообщества по интересам
 
-- <i class="fa-brands fa-telegram"></i> [Beauty / Woman Ереван](https://t.me/erevamwoomen) — женское комьюнити: спорт, красота, здоровье, развлечения
+- <i class="fa-brands fa-telegram"></i> [Yerevan Women](https://t.me/YerevanWow) — женское комьюнити: спорт, красота, здоровье, развлечения
 - <i class="fa-brands fa-telegram"></i> [Настолки в Ереване](https://t.me/boardgames_yerevan) — анонсы настольных (и не только) игр
 - <i class="fa-brands fa-telegram"></i> [НРИ Ереван Армения](https://t.me/nrierevan) — настольные ролевые игры
 - <i class="fa-brands fa-telegram"></i> [Баня REDHAT](https://t.me/banya_erevan) — клуб любителей русской бани
 - <i class="fa-brands fa-telegram"></i> [BANNOST’ — баня в Ереване](https://t.me/bannost)
-- <i class="fa-brands fa-telegram"></i> [Урбанисты Еревана](https://t.me/UrbanYerevan)
+- <i class="fa-brands fa-telegram"></i> [Урбанисты Еревана](https://t.me/UrbanYVN)
 - <i class="fa-brands fa-telegram"></i> [GoHoliday.AM](https://t.me/goholidayam) — дешевые билеты из Армении, а также отели, страховки, визы и многое другое
 - <i class="fa-brands fa-telegram"></i> [Цветочный Ереван](https://t.me/fitoErevan)
 - <i class="fa-brands fa-telegram"></i> [Curly Yerevan](https://t.me/curly_yerevan) — сообщество кудрявых в Ереване
