@@ -7,7 +7,7 @@ display_toc: false
 ## Телеграм-чаты о спорте и активном отдыхе
 
 - <i class="fa-brands fa-telegram"></i> [Yerevan RUN](https://t.me/YerevanRun) — клуб бегунов Еревана и обсуждение занятий спортом в целом
-- <i class="fa-brands fa-telegram"></i> [Yerevan Bike Club](https://t.me/yerevanBikeClub) — клуб любителей велосипедов
+- <i class="fa-brands fa-telegram"></i> [Yerevan Bike Club](https://t.me/ybcChat) — клуб любителей велосипедов
 - <i class="fa-brands fa-telegram"></i> [Волейбол Ереван](https://t.me/volleybollerv)
 - <i class="fa-brands fa-telegram"></i> [Водоплавающий Ереван](https://t.me/YerevanSwim) — бассейны и водный спорт
 - <i class="fa-brands fa-telegram"></i> [Скалолазные и треккинговые выходные](https://t.me/+GYYbq1WtoopiNGEy)

@@ -9,9 +9,7 @@ layout: page
 - <i class="fa-brands fa-telegram"></i> [МАМСКАЯ ПОМОЩЬ. Армения](https://t.me/mamskayapomosch)
 - <i class="fa-brands fa-telegram"></i> [Дети в Армении](https://t.me/detiarmeniya)
 - <i class="fa-brands fa-telegram"></i> [Русскоязычные школы в Армении](https://t.me/ru_schools_armenia)
-- <i class="fa-brands fa-telegram"></i> [Армения с детьми](https://t.me/kids_am)
 - <i class="fa-brands fa-telegram"></i> [Няни Еревана](https://t.me/nanny_yerevan)
-- <i class="fa-brands fa-telegram"></i> [Ереван дети - чат родителей](https://t.me/erevan_deti)
 {: class="list-emoji"}
 
 ## Детские сады
