@@ -12,7 +12,7 @@ display_toc: false
 
 ## Сайты по поиску работы в Армении
 
-- [list.am](https://list.am/) — аналог Авито, крупнейшая площадка по жилью, продаже товаров и поиску работы.
+- [list.am](https://www.list.am/ru/category/29) — аналог Авито, крупнейшая площадка по жилью, продаже товаров и поиску работы.
 - [staff.am](https://staff.am) — главный сайт по поиску работы
 - [job.am](https://job.am)
 - [myjob.am](https://myjob.am)
@@ -33,3 +33,10 @@ display_toc: false
 - [АРМЕНИЯ работа - Ереван](https://t.me/armenia_rabota)
 - [Best Job in Armenia](https://t.me/bestjobinarmenia)
 - [Работа в Армении Աշխատանք Հայաստանում](https://t.me/move2armenia_career)
+
+## О работе курьером в службах доставки (Яндекс, Меню, Глово)
+
+- [Из Петербурга в Ереван: впечатления курьера после релокации](https://telegra.ph/Iz-Peterburga-v-Erevan-vpechatleniya-kurera-posle-relokacii-07-02)
+- [Русские курьеры в Ереване](https://telegra.ph/Russkie-kurery-v-Erevane-09-04)
+- [@vvllchan](https://t.me/vvllchan) — блог о курьерских буднях
+- [Чат взаимопомощи курьеров в Ереване](https://t.me/+SaTM0MWJYm8wM2Uy)

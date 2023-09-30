@@ -30,10 +30,12 @@ display_toc: false
 - [InSport Wellness Center](https://yandex.ru/maps/org/insport_wellness_center/117553556152/)
 - [Cloud7 Wellness & SPA](https://yandex.ru/maps/org/cloud7_wellness_spa/174501300118/) — фитнес-клуб, тренажерный зал, бассейн и спа
 - [Orange Fitness premium](https://yandex.ru/maps/org/fitnes_tsentr_orange_fitness/1698075629/)
-- [Grand Sport](https://yandex.ru/maps/org/grand_sport/176292840516/)
+- [Grand Sport](https://yandex.ru/maps/org/grand_sport/176292840516/) [официальный сайт](https://grandsport.am/ru/)
+- [Площадка для сквоша](http://www.squash.am/ru/home.html) на базе Grand Sport
 - [Cross Sport Complex](https://yandex.ru/maps/org/kross_sportivny_kompleks/1697413287/) — спортивный комплекс, бассейн и зона отдыха
 - [Olympavan](https://yandex.ru/maps/org/olimpavan/117446541552/) — спортивный комплекс и бассейн
 - [Теннисный клуб Давтяна](https://yandex.ru/maps/org/52755768849/) — два корта с хард-покрытием и два грунтовых. Тренер **Григор Давтян +374 99 153040**. 10000 драмов в час за тренировку с арендой корта.
+- [Alex Fitness](https://alex-fitness.am) — новый фитнес-зал в Ереване, не имеет отношения к российской сети.
 {: class="list-emoji"}
 
 </div>
