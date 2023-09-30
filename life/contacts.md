@@ -76,6 +76,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Сегодня видно Арарат](https://t.me/theark_armenia) — новостной канал от Ковчега
 - <i class="fa-brands fa-telegram"></i> [Русские в Армении](https://t.me/rusekvarmenia) — авторский канал о жизни в Армении
 - <i class="fa-brands fa-telegram"></i> [Ереван - Афиша, анонсы](https://t.me/ErevanRus)
+- <i class="fa-brands fa-telegram"></i> [ЕреваныЧ](https://t.me/yerevanch)
 {: class="list-emoji"}
 
 </div>
@@ -86,11 +87,12 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Переезд в Армению - Взаимопомощь](https://t.me/+szFNNJqf1J42Zjhi)
 - <i class="fa-brands fa-telegram"></i> [2022 Relocation Армения](https://t.me/armrelo2022)
 - <i class="fa-brands fa-telegram"></i> [Ковчег Армения](https://t.me/+C8I5SyknObsyZTky)
-- <i class="fa-brands fa-telegram"></i> [Автомобилисты в Армении](https://t.me/am_autoclub) — чат для переехавших в Армению с собственным автомобилем.
-- <i class="fa-brands fa-telegram"></i> [Получение шенгенских виз в Армении](https://t.me/shengen_am)
-- <i class="fa-brands fa-telegram"></i> [Испанская виза: опыт и советы](https://t.me/+f7tCaipBngswZDUy)
+- <i class="fa-brands fa-telegram"></i> [Автомобилисты в Армении](https://t.me/am_autoclub) — чат для переехавших в Армению автомобилистов.
 - <i class="fa-brands fa-telegram"></i> [Пограничный контроль](https://t.me/+yHACAsBxEXo4OGEy) — отчеты о пересечении границы РФ
 - <i class="fa-brands fa-telegram"></i> [Получение загранпаспорта РФ в Армении](https://t.me/zagranerevan)
+- <i class="fa-brands fa-telegram"></i> [Получение шенгенских виз в Армении](https://t.me/shengen_am)
+- <i class="fa-brands fa-telegram"></i> [Испанская виза: опыт и советы](https://t.me/+f7tCaipBngswZDUy)
+- <i class="fa-brands fa-telegram"></i> [Армения. Шенгенские визы](https://t.me/+ugu4XWmyacEyZGMy)
 {: class="list-emoji"}
 
 </div>
@@ -199,6 +201,7 @@ display_toc: false
 ## Искусство и творчество
 
 - <i class="fa-brands fa-telegram"></i> [Киноклуб Ереван](https://t.me/YerevanKino) — кинопоказы, театральные выступления и другие интересные события!
+- <i class="fa-brands fa-telegram"></i> [CAMERATA](https://t.me/cmrta) — организаторы ивентов в Армении
 - <i class="fa-brands fa-telegram"></i> [VIDEO PRODUCTION YEREVAN](https://t.me/synthesisyerevan)
 - <i class="fa-brands fa-telegram"></i> [Фотографы - Видеографы (визажисты, стилисты, модели , ретушеры)](https://t.me/photographers_armenia_erevan)
 - <i class="fa-brands fa-telegram"></i> [Музыканты понаехавшие в Ереван](https://t.me/erevanmusic)
@@ -224,6 +227,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Чайный клуб в Ереване](https://t.me/moychayarmenia)
 - <i class="fa-brands fa-telegram"></i> [KAVeKON](https://t.me/kavekonart) — любители глины
 - <i class="fa-brands fa-telegram"></i> [Место глины](https://t.me/mestoglini)
+- <i class="fa-brands fa-telegram"></i> [Anime Yerevan](https://t.me/AnimeYerevan)
 {: class="list-emoji"}
 
 </div>
@@ -280,6 +284,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Armenian with Alyssa](https://t.me/armenian_with_alyssa) — о разговорном армянском языке.
 - <i class="fa-brands fa-telegram"></i> [Armenian Alphabet](https://t.me/armenianalphabet) — изучение армянского алфавита.
 - <i class="fa-brands fa-telegram"></i> [Армянский язык](https://t.me/learnarmenianfrom0)
+- <i class="fa-brands fa-telegram"></i> [Армянский язык հայերեն @armeniam](https://t.me/armeniam)
 {: class="list-emoji"}
 
 </div>

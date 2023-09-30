@@ -31,3 +31,5 @@ display_toc: false
 - [Вакансии в Армении для русскоязычных](https://t.me/ThereAreWorksInArmenia)
 - [Работа в Армении](https://t.me/yourjobhaya)
 - [АРМЕНИЯ работа - Ереван](https://t.me/armenia_rabota)
+- [Best Job in Armenia](https://t.me/bestjobinarmenia)
+- [Работа в Армении | Աշխատանք Հայաստանում](https://t.me/move2armenia_career)
