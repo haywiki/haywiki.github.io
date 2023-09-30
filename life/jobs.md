@@ -32,4 +32,4 @@ display_toc: false
 - [Работа в Армении](https://t.me/yourjobhaya)
 - [АРМЕНИЯ работа - Ереван](https://t.me/armenia_rabota)
 - [Best Job in Armenia](https://t.me/bestjobinarmenia)
-- [Работа в Армении | Աշխատանք Հայաստանում](https://t.me/move2armenia_career)
+- [Работа в Армении Աշխատանք Հայաստանում](https://t.me/move2armenia_career)
