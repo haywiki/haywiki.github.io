@@ -34,7 +34,7 @@ display_toc: false
 - [American Airlines](https://www.aa.com/i18n/travel-info/special-assistance/pets.jsp)
 - [Belavia](https://belavia.by/perevozka-zhivotnyh/)
 - [Copa Airlines](https://www.copaair.com/en/web/gs/pets)
-- [Cyprus Airways](https://promo.cyprusairways.com/info1/pets)
+- [Cyprus Airways](https://www.cyprusairways.com/home/info/travelling-with-pets)
 - [Delta](https://www.delta.com/us/en/pet-travel/overview)
 - [Etihad](https://www.etihad.com/en/fly-etihad/baggage/travelling-with-pets)
 - [Emirates](https://www.emirates.com/english/help/forms/pets-travel/)

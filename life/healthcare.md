@@ -40,7 +40,7 @@ layout: page
 В Ереване бригады скорой помощи разделены на: линейные, реанимационные и психиатрические. В остальных регионах республики на вызов приезжают только линейные бригады.
 
 Кроме этого, в Ереване можно вызвать платную скорую помощь:
-- [Медицинский центр «Эребуни»](https://www.erebunimed.com/rus/department/108) - номер телефона для вызова – 8119 или 374 10 47 70 70 (круглосуточно);
+- [Медицинский центр «Эребуни»](https://www.erebunimed.com/rus/clinic/emergency-medical-service) - номер телефона для вызова – 8119 или 374 10 47 70 70 (круглосуточно);
 - [Медицинский центр «Армения»](http://armeniamedicalcenter.am/arm/text/14/) - номер телефона для вызова – 8103 или 8844 (круглосуточно);
 - [Медицинский центр «СВЯТОЙ ГРИГОРИЙ ПРОСВЕТИТЕЛЬ»](https://spyur.am/saintgregory) - номер телефона для вызова – 8115.
 - [Медицинский центр "Наири"](https://www.nairimed.com/ru) — номер телефона для вызова — 8900 (+37410546000)
@@ -130,7 +130,7 @@ layout: page
 - 🏥 [Клиника педиатрии №1](https://muratsan.am/ru/departments-ru/pediatrics1-1/)
 - 🏥 [Институт здоровья детей и подростков «Арабкир»](https://arabkirmc.am/index.php?l=ru)
 - 🏥 [Филиалы центра Арабкир в регионах](https://arabkirmc.am/index.php/how/contact?l=ru&p=how&id=contact) (Арташат, Джрамбар, Гавар, Иджеван)
-- 🏥 [Австрийская больница матери и ребенка](http://oks.am) (Гюмри)
+- 🏥 [Австрийская больница матери и ребенка](https://www.spyur.am/ru/companies/austrian-childrens-hospital-of-gyumri/1595) (Гюмри)
 - 🏥 [Медицинский центр "Норк-Мараш"](http://nmmc.am/ru/)
 - 🏥 [Поликлиника «Мурацан»](http://muratsan.am/ru/departments-ru/polyclinic-1/)
 - 🏥 [Медицинский центр «Сурб Аствацамайр»](https://www.yerevan.am/ru/sourb-astvatsamayr-mc/)
@@ -145,7 +145,7 @@ layout: page
 ## Очки и контактные линзы
 
 - 👓 [iLense](http://ilense.am/ru/) — интернет-магазин. бренды: Adore, Adria, Avizor International, Bausch & Lomb, Ciba Vision/Alcon, CooperVision, Eyelens Inc., FreshLook, Johnson & Johnson. Доставка линз по Еревану бесплатная, в течение 24 часов, средства по уходу за контактными линзами доставляются только за отдельную плату.
-- 👓 [Lumiere Optics](https://lumiere.am/index.php?route=common/home) ([магазины](https://lumiere.am/index.php?route=information/contact)) — медицинские оправы, солнцезащитные очки и контактные линзы.
+- 👓 [Lumiere Optics](https://lumiere.am/) ([магазины](https://lumiere.am/ru/about/shops/)) — медицинские оправы, солнцезащитные очки и контактные линзы.
 - 👓 [Luys Optic](https://www.luysoptic.am/ru/магазин/) — оправы известных брендов: Emporio Armani, Police, Pepe Jeans, Christian Lacroix, Hacket, Persol, Ted Baker, Versace, Vogue и др., а также контактные линзы Adore, Alcon, Clear Lab, CooperVision, Maxima, Seed.
 - 👓 [Линз Оптик](https://linzoptic.com) — оправы производства Bvlgari, Emporio Armani, POLO, Prada, Ray-Ban, STARK, Valentino, Versace, Vogue
 - 👓 [Look Optic](https://www.lookoptic.am/ru/aboutus) — оправы производства Bottega Veneta, Brioni, Balenciaga, Puma, Alexander mcQueen, Yves Saint Laurent, Gucci, Ted Baker, Versace, Swarowski, Rodenstock, Roberto Cavalli, Ray Ban, Porsche Design, Persol, Pepe Jeans, Montblanc, Mercedes-Benz, Mira Flex, Hacket, Guess, Diesel, Cacharel, Christian Lacroix и др., контактные линзы CooperVision, Dailies, Air Optics
