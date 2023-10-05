@@ -54,6 +54,7 @@ parent_url: /drive/
 - [Automax](https://automax.am/ru/)
 - [Шип-Шип](https://erevan.ship-ship.ru/)
 - [Avtoshem](https://avtoshem.am/) — помимо продажи, принимают шины на утилизацию
+- [ZX Garage](https://zxgarage.am/ru)
 
 ## Прочие магазины
 
