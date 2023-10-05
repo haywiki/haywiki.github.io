@@ -12,6 +12,11 @@ parent_url: /drive/
 - [localrent.com](https://localrent.com)
 - [economycarrentals.com](https://www.economycarrentals.com)
 - [hertz.am](https://hertz.am/)
+- [Sixt](https://sixt.am/)
+- [TravelCar](https://travelcar.am/rent-a-car-in-yerevan)
+- [Caravan](https://caravan.am)
+- [Swift Rent](https://swift.rent/vehicles)
+- [RentCar1](https://rentcar1.am/ru/cars)
 - [Sergey Rent Car 🇦🇲 SherCars 🇦🇲](https://t.me/rentcararmenia) — частная сдача автомобиля в аренду, представитель [есть в чате автомобилистов](https://t.me/am_autoclub/27261).
 - [Артур](https://t.me/PadreArtur) (+37498383904) -- Ford Expedition и VW Passat Turbo. Оффроуд за дополнительную плату. Депозит 300 USD.
 
