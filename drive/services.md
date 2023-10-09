@@ -7,10 +7,9 @@ parent_url: /drive/
 
 ## Автомобильные сервисы
 
-- [Автосервис Ovne](http://ovne.am/ru)
 - [@vladimir_iq_chip](https://t.me/vladimir_iq_chip) — чип-тюнинг, диагностика и любой ремонт легковых автомобилей, кроме кузовных работ. Адрес: [пр-кт Адмирала Исакова, 22/3](https://yandex.ru/maps/10262/yerevan/house/YE0YcgFkT0YOQFpqfX10eXRlZw==/). Очень хорошие отзывы от участников [нашего чата](https://t.me/am_autoclub).
 - [Autosan](http://www.autosan.am) — сход-развал, слесарный ремонт. Адрес: [ул. Давид-Бека 106/4](https://yandex.ru/maps/-/CCUHM6VB-A).
-- **+374 99 225025** — автосервис на ул. Ростовян 9/4 (Грант). Сервис занимается доставкой запчастей и ремонтов японских авто. [Отзыв участника чата](https://t.me/am_autoclub/16495).
+- [Japan Parts](https://yandex.ru/maps/org/japan_parts/104997213917/) — автосервис и магазин запчастей для японских автомобилей на ул. Ростовян 9/4. **+374 99 225025** (Грант). [Отзыв участника чата](https://t.me/am_autoclub/16495).
 - [COOL SERVICE](http://www.list.am/item/17643118) — заправка и ремонт кондиционеров в Ереване. Адрес: Давташен, 2-й квартал, 26/11 [Рекомендация](https://t.me/am_autoclub/3814).
 - **+374 93 850030** и **+374 93 467900** — ремонт/переборка рулевых реек (Георгий). [Рекомендация](https://t.me/am_autoclub/18105).
 - [Субару Моторс](https://yandex.ru/maps/org/subaru_motors_armeniya/235953357399/) — неофициальный сервис со специализацией на Subaru. Телефоны: +37494010181 +37498593573. [Обсуждение](https://t.me/am_autoclub/55155)
@@ -19,6 +18,9 @@ parent_url: /drive/
 - [Сервис по электромобилям и гибридам](https://yandex.com/maps/10262/yerevan/house/YE0YcwFiQEMOQFpqfX5wdX1nYQ==/) +37499280201, мастер Артак. [Отзывы](https://t.me/am_autoclub/45638)
 - [Автосервис на Манташяна](https://yandex.com/maps/org/uto_service/98827945161/). [Отзыв](https://t.me/am_autoclub/45248).
 - Частный мастер по автомобилям Volvo — [Ованнес](https://t.me/VolvoYerevan). [Отзыв](https://t.me/am_autoclub/53237).
+- [Сервис автосигнализаций Pandora](https://yandex.ru/maps/org/pandora/135876427927/) +374 98 223464 (Арташес)
+- [DAS-Auto](https://yandex.com/maps/org/100009487098) — сервис для автомобилей Volkswagen. Мастер Армен +374 98 099303
+- [Автосервис Ovne](http://ovne.am/ru) — в последнее время появились противоречивые отзывы.
 
 ### Черный список сервисов
 

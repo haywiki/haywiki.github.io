@@ -228,6 +228,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [KAVeKON](https://t.me/kavekonart) — любители глины
 - <i class="fa-brands fa-telegram"></i> [Место глины](https://t.me/mestoglini)
 - <i class="fa-brands fa-telegram"></i> [Anime Yerevan](https://t.me/AnimeYerevan)
+- <i class="fa-brands fa-telegram"></i> [Английский разговорный клуб](https://t.me/English202355) и [клуб для начинающий](https://t.me/Englishforyerevan)
 {: class="list-emoji"}
 
 </div>

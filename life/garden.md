@@ -17,6 +17,7 @@ display_toc: false
 - [Hrashq](https://hrashq.am/ru)
 - [Зеленый мир](https://www.yell.am/МАГАЗИН-РАСТЕНИЙ-ЗЕЛЕНЫЙ-МИР--60681)
 - [Landshaft](https://landshaft.am/ru)
+- [plant_them_all_](https://www.instagram.com/plant_them_all_/) — частный продавец домашних растений
 
 ## Рассада и семена
 
