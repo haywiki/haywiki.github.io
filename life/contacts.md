@@ -67,10 +67,7 @@ display_toc: false
 ## Новости Армении
 
 - <i class="fa-brands fa-telegram"></i> [Новости-Армения](https://t.me/novostiarmenia)
-- <i class="fa-brands fa-telegram"></i> [Баграмян 26](https://t.me/bagramyan26) — новости политической жизни Армении.
 - <i class="fa-brands fa-telegram"></i> [Economy of Armenia](https://t.me/economyofarmenia) — экономические новости Армении, а также много другого интересного из жизни Армении и диаспоры.
-- <i class="fa-brands fa-telegram"></i> [Armenian Military Portal](https://t.me/military_arm) — освещает состояние вооружённых сил Армении и Арцаха, а также баланс сил в регионе, организовывает помощь для армии.
-- <i class="fa-brands fa-telegram"></i> [Armenian Life](https://t.me/Armenian_Life)
 - <i class="fa-brands fa-telegram"></i> [Armenia Today](https://t.me/armtoday)
 - <i class="fa-brands fa-telegram"></i> [Жизнь в Армении](https://t.me/livinginarmenia)
 - <i class="fa-brands fa-telegram"></i> [Сегодня видно Арарат](https://t.me/theark_armenia) — новостной канал от Ковчега
@@ -78,6 +75,10 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Ереван - Афиша, анонсы](https://t.me/ErevanRus)
 - <i class="fa-brands fa-telegram"></i> [ЕреваныЧ](https://t.me/yerevanch)
 {: class="list-emoji"}
+
+[//]: # (- <i class="fa-brands fa-telegram"></i> [Баграмян 26]&#40;https://t.me/bagramyan26&#41; — новости политической жизни Армении.)
+[//]: # (- <i class="fa-brands fa-telegram"></i> [Armenian Military Portal]&#40;https://t.me/military_arm&#41; — освещает состояние вооружённых сил Армении и Арцаха, а также баланс сил в регионе, организовывает помощь для армии.)
+[//]: # (- <i class="fa-brands fa-telegram"></i> [Armenian Life]&#40;https://t.me/Armenian_Life&#41;)
 
 </div>
 <div class="card">
@@ -343,7 +344,7 @@ display_toc: false
 - **+37495202036 Эрик** — цены у него чуть выше чем по рынку, но его порекомендовал человек, который до этого сменил троих «регулировщиков», этот сделал как надо
 - **+37477332774 Артур** — тоже хороший настройщик проверенный многими людьми из чата
 
-### 3D-печать в Ереване {#3d}
+### 3D-печать в Ереване {#print-3d}
 
 - 🔗 **[Detal.am](http://detal.am)** — [адрес](https://yandex.ru/maps/org/detal_eyem/45479175228/).
 - <i class="fa-brands fa-instagram"></i> [3d_printing__vava](https://www.instagram.com/3d_printing__vava/) — 3д-печать, сканирование, моделирование. Телефоны: +37498216200 +37499216211. 
