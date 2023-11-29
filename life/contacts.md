@@ -70,7 +70,6 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Economy of Armenia](https://t.me/economyofarmenia) — экономические новости Армении, а также много другого интересного из жизни Армении и диаспоры.
 - <i class="fa-brands fa-telegram"></i> [Armenia Today](https://t.me/armtoday)
 - <i class="fa-brands fa-telegram"></i> [Жизнь в Армении](https://t.me/livinginarmenia)
-- <i class="fa-brands fa-telegram"></i> [Сегодня видно Арарат](https://t.me/theark_armenia) — новостной канал от Ковчега
 - <i class="fa-brands fa-telegram"></i> [Русские в Армении](https://t.me/rusekvarmenia) — авторский канал о жизни в Армении
 - <i class="fa-brands fa-telegram"></i> [Ереван - Афиша, анонсы](https://t.me/ErevanRus)
 - <i class="fa-brands fa-telegram"></i> [ЕреваныЧ](https://t.me/yerevanch)
@@ -79,6 +78,7 @@ display_toc: false
 [//]: # (- <i class="fa-brands fa-telegram"></i> [Баграмян 26]&#40;https://t.me/bagramyan26&#41; — новости политической жизни Армении.)
 [//]: # (- <i class="fa-brands fa-telegram"></i> [Armenian Military Portal]&#40;https://t.me/military_arm&#41; — освещает состояние вооружённых сил Армении и Арцаха, а также баланс сил в регионе, организовывает помощь для армии.)
 [//]: # (- <i class="fa-brands fa-telegram"></i> [Armenian Life]&#40;https://t.me/Armenian_Life&#41;)
+[//]: # (- <i class="fa-brands fa-telegram"></i> [Сегодня видно Арарат]&#40;https://t.me/theark_armenia&#41; — новостной канал от Ковчега)
 
 </div>
 <div class="card">
@@ -87,7 +87,6 @@ display_toc: false
 
 - <i class="fa-brands fa-telegram"></i> [Переезд в Армению - Взаимопомощь](https://t.me/+szFNNJqf1J42Zjhi)
 - <i class="fa-brands fa-telegram"></i> [2022 Relocation Армения](https://t.me/armrelo2022)
-- <i class="fa-brands fa-telegram"></i> [Ковчег Армения](https://t.me/+C8I5SyknObsyZTky)
 - <i class="fa-brands fa-telegram"></i> [Автомобилисты в Армении](https://t.me/am_autoclub) — чат для переехавших в Армению автомобилистов.
 - <i class="fa-brands fa-telegram"></i> [Пограничный контроль](https://t.me/+yHACAsBxEXo4OGEy) — отчеты о пересечении границы РФ
 - <i class="fa-brands fa-telegram"></i> [Получение загранпаспорта РФ в Армении](https://t.me/zagranerevan)
@@ -95,6 +94,8 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Испанская виза: опыт и советы](https://t.me/+f7tCaipBngswZDUy)
 - <i class="fa-brands fa-telegram"></i> [Армения. Шенгенские визы](https://t.me/+ugu4XWmyacEyZGMy)
 {: class="list-emoji"}
+
+[//]: # (- <i class="fa-brands fa-telegram"></i> [Ковчег Армения]&#40;https://t.me/+C8I5SyknObsyZTky&#41;)
 
 </div>
 <div class="card">
