@@ -49,7 +49,3 @@ defaults:
       display_toc: false
       display_comments: true
       more_text: Читать далее
-
-# Content variables
-
-mir_cards_date: "8.10.2023"
