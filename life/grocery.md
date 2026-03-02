@@ -41,13 +41,11 @@ display_toc: false
 
 ## Заказ еды через социальные сети
 
-[//]: # (- <i class="fa-brands fa-telegram"></i> [Это БУУЗЫ! домашняя заморозка]&#40;https://t.me/erevanbuuz&#41; — замороженные Буузы, Хуушуры, пельмени и другое.)
 - <i class="fa-brands fa-facebook-f"></i> [Bountiful Market](https://www.facebook.com/groups/274732839916698/) — фермеры выкладывают объявления о продаже собственной продукции, очень выгодные цены.
-- <i class="fa-brands fa-telegram"></i> [ТUT и ТАМ](https://t.me/tut8tam) — современная домашняя кухня в Ереване.
-- <i class="fa-brands fa-telegram"></i> [Love&Piece](https://t.me/love_and_piece_am) — Доставка домашней еды в Ереване.
-- <i class="fa-brands fa-telegram"></i> [WeFood](https://t.me/WeFood_am) — Доставка домашней еды в Ереване и Абовяне.
+- <i class="fa-brands fa-telegram"></i> [SOYA KIM Ереван](https://t.me/soya_evn) — японская кухня.
+- <i class="fa-brands fa-instagram"></i> [TarTu & Co](https://www.instagram.com/tartucorporation) и [TarTu Qaghcratun](https://www.instagram.com/tartu_qaghcratun) — доставка питания для офисов и школ, кондитерская и кафе; тёплая и сытная кухня с опытом более 10 лет.
+- <i class="fa-brands fa-instagram"></i> [Kruzhok](https://www.instagram.com/kruzhok.worldwide/) — кафе современной растительной кухни, доставка, организация фуршетов.
 - <i class="fa-brands fa-instagram"></i> [Eda Yerevan](https://www.instagram.com/eda_yerevan) — домашняя еда, рацион на три дня.
-- <i class="fa-brands fa-facebook-f"></i> [GGArmenia](https://www.facebook.com/GGArmenia)
 - <i class="fa-brands fa-facebook-f"></i> [shaqe.meat](https://www.facebook.com/shaqe.meat)
 {: class="list-emoji"}
 

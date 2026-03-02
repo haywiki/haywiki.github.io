@@ -1,3 +1,7 @@
+@use "sass:color";
+@use "theme-vars" as *;
+@use "flexboxgrid/main" as *;
+
 .content {
   p a, li a, td a {
     text-decoration: underline;
@@ -57,21 +61,21 @@
     margin-bottom: 1rem;
     width: 100%;
     text-align: left;
-    color: lighten($text-color, 18%);
+    color: color.adjust($text-color, $lightness: 18%);
     border-collapse: collapse;
     border: 1px solid $grey-color-light;
     tr {
       &:nth-child(even) {
-        background-color: lighten($grey-color-light, 6%);
+        background-color: color.adjust($grey-color-light, $lightness: 6%);
       }
     }
     th, td {
       padding: .3rem .5rem;
     }
     th {
-      background-color: lighten($grey-color-light, 3%);
-      border: 1px solid darken($grey-color-light, 4%);
-      border-bottom-color: darken($grey-color-light, 12%);
+      background-color: color.adjust($grey-color-light, $lightness: 3%);
+      border: 1px solid color.adjust($grey-color-light, $lightness: -4%);
+      border-bottom-color: color.adjust($grey-color-light, $lightness: -12%);
     }
     td {
       border: 1px solid $grey-color-light;

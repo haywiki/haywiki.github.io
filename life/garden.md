@@ -6,6 +6,12 @@ display_toc: false
 
 Список составлен в чате <i class="fa-brands fa-telegram"></i> [Цветочный Ереван](https://t.me/fitoErevan).
 
+## Сообщества любителей растений
+
+- <i class="fa-brands fa-telegram"></i> [Plants&People community](https://t.me/plantsnpeople) — сообщество любителей растений.
+- <i class="fa-brands fa-telegram"></i> [Yerevan Plants](https://t.me/Yerevanplants) — любители растений, регулярные цветочные свопы.
+{: class="list-emoji"}
+
 ## Садовые центры и магазины домашних растений
 
 - [Абио](https://abio.am/ru) — магазин растений, семян и всего сопутствующего; аналог садового отдела Леруа; [карта](https://yandex.ru/maps/org/183476905690)

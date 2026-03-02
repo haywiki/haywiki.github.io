@@ -1,3 +1,7 @@
+@use "../theme-vars" as *;
+@use "../flexboxgrid/main" as *;
+@use "../base";
+
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: 1rem 0 5rem 0;

@@ -1,4 +1,5 @@
 // mixins/main.scss
-
-@import "visibility-mixins";
-@import "grid-mixins";
+@forward "visibility-mixins";
+@forward "grid-mixins";
+@use "visibility-mixins" as *;
+@use "grid-mixins" as *;

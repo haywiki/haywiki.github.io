@@ -1,3 +1,6 @@
+@use "../theme-vars" as *;
+@use "../content";
+
 .home {
   @extend .content;
 
