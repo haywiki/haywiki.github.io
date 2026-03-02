@@ -43,7 +43,7 @@ display_toc: false
 
 - <i class="fa-brands fa-facebook-f"></i> [Bountiful Market](https://www.facebook.com/groups/274732839916698/) — фермеры выкладывают объявления о продаже собственной продукции, очень выгодные цены.
 - <i class="fa-brands fa-telegram"></i> [SOYA KIM Ереван](https://t.me/soya_evn) — японская кухня.
-- <i class="fa-brands fa-instagram"></i> [TarTu & Co](https://www.instagram.com/tartucorporation) и [TarTu Qaghcratun](https://www.instagram.com/tartu_qaghcratun) — доставка питания для офисов и школ, кондитерская и кафе; тёплая и сытная кухня с опытом более 10 лет.
+- <i class="fa-brands fa-telegram"></i> [Vera Slavwik](https://t.me/Verikslavwik) — готовим для офисов, школ, детских садов и компаний полноценные завтраки и обеды, организуем фуршеты, опыт более 10 лет.
 - <i class="fa-brands fa-instagram"></i> [Kruzhok](https://www.instagram.com/kruzhok.worldwide/) — кафе современной растительной кухни, доставка, организация фуршетов.
 - <i class="fa-brands fa-instagram"></i> [Eda Yerevan](https://www.instagram.com/eda_yerevan) — домашняя еда, рацион на три дня.
 - <i class="fa-brands fa-facebook-f"></i> [shaqe.meat](https://www.facebook.com/shaqe.meat)
