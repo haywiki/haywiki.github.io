@@ -1,3 +1,7 @@
+@use "../theme-vars" as *;
+@use "../content";
+@use "../flexboxgrid/variables/main" as *;
+
 .post-meta {
   font-size: 0.8rem;
   line-height: 1;

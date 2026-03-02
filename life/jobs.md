@@ -25,14 +25,11 @@ display_toc: false
 
 ## Telegram-каналы с вакансиями
 
-- [АРМЕНИЯ объявления барахолка работа](https://t.me/armeniya_avito)
-- [Вакансии в Армении](https://t.me/rabotavarmenii)
 - [IT вакансии в Армении](https://t.me/itjobsinam)
 - [Вакансии в Армении для русскоязычных](https://t.me/ThereAreWorksInArmenia)
-- [Работа в Армении](https://t.me/yourjobhaya)
 - [АРМЕНИЯ работа - Ереван](https://t.me/armenia_rabota)
 - [Best Job in Armenia](https://t.me/bestjobinarmenia)
-- [Работа в Армении Աշխատանք Հայաստանում](https://t.me/move2armenia_career)
+- [Вакансии в Армении / Jobs in Armenia](https://t.me/jobs_inarmenia) — Сервис по поиску работы и сотрудников в Армении.
 
 ## О работе курьером в службах доставки (Яндекс, Меню, Глово)
 

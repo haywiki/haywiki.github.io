@@ -11,20 +11,18 @@ Disclaimer: информация на этом сайте написана не 
 иммигрантами, которые собрали свой опыт, чтобы в будущем упростить переезд другим. Хотя мы стараемся
 проверять всю публикуемую информацию, ответственность за любые принятые решения вы несете самостоятельно.
 
-[![Состояние работы платежных карт в Армении](/files/cards-status.jpg){: .cards-status}](/money/russian-cards.html)
-
-Карты МИР работают нормально (по состоянию на {{ site.mir_cards_date }}).<br> Подробнее о
-[покупках](/money/russian-cards.md#mir) и о [снятии наличных](/money/russian-cards.md#cash) с карт МИР.
+Российские карты Visa и MasterCard не работают.<br>**Карты МИР с 30 марта 2024 работают только в банкоматах ВТБ**.<br> Подробнее о
+[работе российских карт в Армении](/money/russian-cards.md).
 {: style="text-align: center; font-size: 0.9rem; margin-bottom: 1rem"}
 
 <a class="btn btn-shortcut" href="/life/contacts.html"><span>🔗 💬 📞</span><br> Полезные сайты, чаты и контакты</a>
 <a class="btn btn-shortcut" href="/life/grocery.html"><span>🏬 🥫 🥕 🛵</span><br> Продукты, доставки, еда</a>
-<a class="btn btn-shortcut" href="/drive/"><span>🚘 🪪️ 🚓</span><br> Автомобили, права и штрафы</a>
+<a class="btn btn-shortcut" href="/drive/"><span>🚘 🆔 🚓</span><br> Автомобили, права и штрафы</a>
 <a class="btn btn-shortcut" href="/animals/"><span>🐕 🐈 🗺️</span><br> Переезд и жизнь с питомцем</a>
 <a class="btn btn-shortcut" href="/delivery/"><span>📦 🚚 🌍</span><br> Посылки, грузы, маркетплейсы</a>
 <a class="btn btn-shortcut" href="/life/healthcare.html"><span>🏥 💊 🦷 👓</span><br> Медицина и аптеки в Армении</a>
 <a class="btn btn-shortcut" href="/life/children.html"><span>🚸 🏫 🎢</span><br> Дети: образование и развлечения</a>
-<a class="btn btn-shortcut" href="/life/wellness.html"><span>🏋️‍♀️ 🚲️ 🏊 🥾</span><br> Спорт, бассейны, йога, походы</a>
+<a class="btn btn-shortcut" href="/life/wellness.html"><span>💪 🚲 🏊 🥾</span><br> Спорт, бассейны, йога, походы</a>
 {: class="shortcuts"}
 
 <div class="cards index">
@@ -115,7 +113,8 @@ Disclaimer: информация на этом сайте написана не 
 - ♻️ [Экологичный Ереван](https://vik-rarog.notion.site/vik-rarog/d0121f47bb4d4353b599bdc8e1af9322) — сортировка мусора, сэкондхэнды и прочее.
 - [Садовые центры, домашние растения, цветы и семена в Ереване](/life/garden.md)
 - [Провайдеры домашнего интернета в Армении](./internet/internet-providers.md)
-
+- [Ремонт в квартире/доме, покупка мебели](/home/)
+  
 </div>
 <div class="card">
 

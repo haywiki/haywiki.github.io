@@ -1,3 +1,6 @@
+@use "sass:color";
+@use "theme-vars" as *;
+
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -69,7 +72,7 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: color.adjust($brand-color, $lightness: -15%);
   }
 
   &:hover {
@@ -86,4 +89,17 @@ p a, li a, td a {
   content: "";
   display: table;
   clear: both;
+}
+
+.alert {
+  padding: 0.75rem 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: 0.375rem;
+}
+
+.alert-warning {
+  color: #856404;
+  background-color: #fff3cd;
+  border-color: #ffeaa7;
 }

@@ -55,8 +55,8 @@ display_toc: false
 
 ## Такси и транспорт
 
-- 📲 [Transit.am](http://transit.am) ([app store](https://apps.apple.com/am/app/transit-am/id1517843568), [google play](https://play.google.com/store/apps/details?id=am.mobile.transit)) — общественный транспорт в Ереване
-- 📲 [Яндекс Такси](https://taxi.yandex.ru) ([app store](https://apps.apple.com/app/id472650686), [google play](https://play.google.com/store/apps/details?id=ru.yandex.taxi)) — можно оплачивать российскими картами visa и mc.
+- 📲 [Transit.am](http://transit.am) ([app store](https://apps.apple.com/am/app/transit-am/id1517843568), [google play](https://play.google.com/store/apps/details?id=am.mobile.transit)) — общественный транспорт в Ереване.
+- 📲 [Яндекс Такси](https://taxi.yandex.ru) ([app store](https://apps.apple.com/app/id472650686), [google play](https://play.google.com/store/apps/details?id=ru.yandex.taxi)) — можно оплачивать российскими картами.
 - 📲 [GG](https://www.ggtaxi.com/) ([app store](https://apps.apple.com/app/id852874923), [google play](https://play.google.com/store/apps/details?id=am.ggtaxi.main)) — местный конкурент, оплата международными картами или наличкой, есть шаттлы (газельки) для совместных поездок между городами.
 - 📲 [Ев Ев (և՛ և՛)](https://www.instagram.com/evev_armenia/) ([app store](https://apps.apple.com/app/id1564473555), [google play](https://play.google.com/store/apps/details?id=com.yevyev&hl=ru&gl=US)) — очень недорогие междугородние перевозки на микроавтобусах
 {: class="list-emoji"}
@@ -67,13 +67,13 @@ display_toc: false
 ## Новости Армении
 
 - <i class="fa-brands fa-telegram"></i> [Новости-Армения](https://t.me/novostiarmenia)
-- <i class="fa-brands fa-telegram"></i> [Баграмян 26](https://t.me/bagramyan26) — новости политической жизни Армении.
 - <i class="fa-brands fa-telegram"></i> [Economy of Armenia](https://t.me/economyofarmenia) — экономические новости Армении, а также много другого интересного из жизни Армении и диаспоры.
-- <i class="fa-brands fa-telegram"></i> [Armenian Military Portal](https://t.me/military_arm) — освещает состояние вооружённых сил Армении и Арцаха, а также баланс сил в регионе, организовывает помощь для армии.
-- <i class="fa-brands fa-telegram"></i> [Armenian Life](https://t.me/Armenian_Life)
 - <i class="fa-brands fa-telegram"></i> [Armenia Today](https://t.me/armtoday)
+- <i class="fa-brands fa-telegram"></i> [Russian team in Armenia](https://t.me/russianteaminarmenia)
+- <i class="fa-brands fa-telegram"></i> [Lava Media — Армения глазами релокантов](https://t.me/lavamediaarm)
+- <i class="fa-brands fa-telegram"></i> [Yerevan community](https://t.me/yerevancommunity) — канал про Ереван: важные новости, события, проблемы, афиша и многое другое.
+- <i class="fa-brands fa-telegram"></i> [Armenian Global Community](https://t.me/armeniangc) — интересный контент и новости Армении.
 - <i class="fa-brands fa-telegram"></i> [Жизнь в Армении](https://t.me/livinginarmenia)
-- <i class="fa-brands fa-telegram"></i> [Сегодня видно Арарат](https://t.me/theark_armenia) — новостной канал от Ковчега
 - <i class="fa-brands fa-telegram"></i> [Русские в Армении](https://t.me/rusekvarmenia) — авторский канал о жизни в Армении
 - <i class="fa-brands fa-telegram"></i> [Ереван - Афиша, анонсы](https://t.me/ErevanRus)
 - <i class="fa-brands fa-telegram"></i> [ЕреваныЧ](https://t.me/yerevanch)
@@ -85,15 +85,15 @@ display_toc: false
 ## Взаимопомощь иммигрантов
 
 - <i class="fa-brands fa-telegram"></i> [Переезд в Армению - Взаимопомощь](https://t.me/+szFNNJqf1J42Zjhi)
-- <i class="fa-brands fa-telegram"></i> [2022 Relocation Армения](https://t.me/armrelo2022)
-- <i class="fa-brands fa-telegram"></i> [Ковчег Армения](https://t.me/+C8I5SyknObsyZTky)
 - <i class="fa-brands fa-telegram"></i> [Автомобилисты в Армении](https://t.me/am_autoclub) — чат для переехавших в Армению автомобилистов.
+- <i class="fa-brands fa-telegram"></i> [Природоманы и любители грязного](https://t.me/+_CDEZDR_Fqg1Y2My) — чат любителей выездов на бездорожье.
 - <i class="fa-brands fa-telegram"></i> [Пограничный контроль](https://t.me/+yHACAsBxEXo4OGEy) — отчеты о пересечении границы РФ
 - <i class="fa-brands fa-telegram"></i> [Получение загранпаспорта РФ в Армении](https://t.me/zagranerevan)
 - <i class="fa-brands fa-telegram"></i> [Получение шенгенских виз в Армении](https://t.me/shengen_am)
-- <i class="fa-brands fa-telegram"></i> [Испанская виза: опыт и советы](https://t.me/+f7tCaipBngswZDUy)
 - <i class="fa-brands fa-telegram"></i> [Армения. Шенгенские визы](https://t.me/+ugu4XWmyacEyZGMy)
 {: class="list-emoji"}
+
+[//]: # (- <i class="fa-brands fa-telegram"></i> [Ковчег Армения]&#40;https://t.me/+C8I5SyknObsyZTky&#41;)
 
 </div>
 <div class="card">
@@ -118,7 +118,6 @@ display_toc: false
 - 🔗 [rate.am](https://rate.am) — все курсы валют в банках и обменниках
 - <i class="fa-brands fa-telegram"></i> [Курс драма (МИР/Rate.am/SAS)](https://t.me/armeniaCurrency) — отслеживание курсов армянского драма и самых выгодных способов обмена валюты.
 - <i class="fa-brands fa-telegram"></i> [Банки в Армении](https://t.me/+s2_G3BHv0E4xNjNi)
-- <i class="fa-brands fa-telegram"></i> [Армения Обмен Валют / Armenia exchange](https://t.me/armenia_exchanger)
 - <i class="fa-brands fa-telegram"></i> [Открытие юрлица в Армении](https://t.me/+TG55UcS6PjViOThi) — обсуждение вопросов открытия и ведения юрлиц (ип и ооо) в Армении.
 - <i class="fa-brands fa-telegram"></i> [Счета резидентов РФ за рубежом](https://t.me/+fVDnu0bGaqNiYTVi) ([канал](https://t.me/+RE0haAqcKiIyMmYy))
 - 📄 [Криптовалюты и крипто-обменники в Армении](../money/crypto.md)
@@ -143,7 +142,6 @@ display_toc: false
 ## Медицина и аптеки
 
 - 📄 [Медицина и аптеки в Армении](healthcare.md) — законы, скорая помощь, поликлиники, частные клиники, аптеки и прочее.
-- <i class="fa-brands fa-telegram"></i> [Медицина в Армении](https://t.me/armenianmedicine)
 {: class="list-emoji"}
 
 </div>
@@ -193,6 +191,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Куда съездить в Армении?](https://t.me/+azIZSPnLs0oxOWZi) — найдите свой групповой тур на выходные или задайте вопрос по путешествиям в Армении.
 - <i class="fa-brands fa-telegram"></i> [Беспечный Ереван](https://t.me/jaunty_yerevan) — чат для поиска тусовальщиков, организации тусований и рекомендаций баров.
 - <i class="fa-brands fa-telegram"></i> [Urban ARMENIA](https://t.me/urbanarmenia) — нестандартные экскурсии.
+- <i class="fa-brands fa-telegram"></i> [Трупопутешествия](https://t.me/troop_travels) — канал с интересными местами и координатами.
 {: class="list-emoji"}
 
 </div>
@@ -200,8 +199,6 @@ display_toc: false
 
 ## Искусство и творчество
 
-- <i class="fa-brands fa-telegram"></i> [Киноклуб Ереван](https://t.me/YerevanKino) — кинопоказы, театральные выступления и другие интересные события!
-- <i class="fa-brands fa-telegram"></i> [CAMERATA](https://t.me/cmrta) — организаторы ивентов в Армении
 - <i class="fa-brands fa-telegram"></i> [VIDEO PRODUCTION YEREVAN](https://t.me/synthesisyerevan)
 - <i class="fa-brands fa-telegram"></i> [Фотографы - Видеографы (визажисты, стилисты, модели , ретушеры)](https://t.me/photographers_armenia_erevan)
 - <i class="fa-brands fa-telegram"></i> [Музыканты понаехавшие в Ереван](https://t.me/erevanmusic)
@@ -221,14 +218,15 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Баня REDHAT](https://t.me/banya_erevan) — клуб любителей русской бани
 - <i class="fa-brands fa-telegram"></i> [BANNOST’ — баня в Ереване](https://t.me/bannost)
 - <i class="fa-brands fa-telegram"></i> [Урбанисты Еревана](https://t.me/UrbanYVN)
-- <i class="fa-brands fa-telegram"></i> [Цветочный Ереван](https://t.me/fitoErevan)
-- <i class="fa-brands fa-telegram"></i> [Curly Yerevan](https://t.me/curly_yerevan) — сообщество кудрявых в Ереване
+- <i class="fa-brands fa-telegram"></i> [Plants&People community](https://t.me/plantsnpeople) — сообщество любителей растений
+- <i class="fa-brands fa-telegram"></i> [Yerevan Plants](https://t.me/Yerevanplants) — любители растений, регулярные цветочные свопы
 - <i class="fa-brands fa-telegram"></i> [FPV Armenia (ru+am)](https://t.me/fpv_armenia) — сообщество пилотов FPV-дронов
 - <i class="fa-brands fa-telegram"></i> [Чайный клуб в Ереване](https://t.me/moychayarmenia)
 - <i class="fa-brands fa-telegram"></i> [KAVeKON](https://t.me/kavekonart) — любители глины
 - <i class="fa-brands fa-telegram"></i> [Место глины](https://t.me/mestoglini)
 - <i class="fa-brands fa-telegram"></i> [Anime Yerevan](https://t.me/AnimeYerevan)
 - <i class="fa-brands fa-telegram"></i> [Английский разговорный клуб](https://t.me/English202355) и [клуб для начинающий](https://t.me/Englishforyerevan)
+- <i class="fa-brands fa-telegram"></i> [TRIGLINKI YEREVAN](https://t.me/triglinkiyerevan)
 {: class="list-emoji"}
 
 </div>
@@ -236,10 +234,8 @@ display_toc: false
 
 ## Книги и книжные клубы
 
+- <i class="fa-brands fa-telegram"></i> [Little city book club](https://t.me/littlecitybookclub) — уютный книжный клуб со встречами каждые две недели.
 - <i class="fa-brands fa-telegram"></i> [Книжный клуб. Ереван](https://t.me/bookclubyerevan)
-- <i class="fa-brands fa-telegram"></i> [Relolib Армения](https://t.me/+J__AORhInF5jMWYy) — проект [relolib.com](https://relolib.com/armenia): обмен и обсуждение книг
-- <i class="fa-brands fa-telegram"></i> [MishMash events](https://t.me/mishmash_events) — книжный клуб в Ковчеге.
-- 🔗 [Архивариус](https://archivarius.store/books/yerevan) — сервис подписки на бумажные книги. Как библиотека, только с доставкой.
 
 </div>
 <div class="card">
@@ -293,13 +289,13 @@ display_toc: false
 
 ## Благотворительность и активизм
 
+- <i class="fa-brands fa-telegram"></i> [Качество воздуха в Армении](https://t.me/ArmeniaAirQuality) — ежедневные сводки о качестве воздуха в Ереване и других городах Армении.
 - <i class="fa-brands fa-telegram"></i> [Green Green](https://t.me/greengreen_chat) — чат сообщества эко-активистов
-- 🔗 [armaqi.org](https://armaqi.org/) - Сообщество энтузиастов за чистый воздух в городах Армении - устанавливают датчики для измерения качества воздуха
-- <i class="fa-brands fa-telegram"></i> [Armenian Military Portal](https://t.me/military_arm) — организовывает сбор средств и помощь солдатам Армении.
 - <i class="fa-brands fa-telegram"></i> [Фонд ВИВА](https://t.me/VIVAFound) — оснащение больниц, реабилитация раненых, медикаменты беженцам, образовательные программы для врачей, социальные программы.
 - 🔗 [VOMA Center](https://www.voma.center/) — инвестиции в образование, сплоченность, подготовленность и гражданскую осознанность нации.
 - 🩸 [Донорство крови](https://blood.am/rus/blood-donors) — Ереван ул. Грачья Нерсисяна д. 7, с 9:00 до 12:30 (кроме выходных и праздников), [есть противопоказания](https://blood.am/rus/blood-donors/information).
 - <i class="fa-brands fa-telegram"></i> [Dopomoga.am](https://t.me/dopomoga_am_chat) — помощь Украинцам в Армении.
+- <i class="fa-brands fa-telegram"></i> [Armenian Military Portal](https://t.me/military_arm) — организовывает сбор средств и помощь солдатам Армении.
 - 🐕 🐈 [Помощь бродячим собакам и кошкам](../animals/index.md#stray)
 {: class="list-emoji"}
 
@@ -329,7 +325,8 @@ display_toc: false
 - 🔗 [Tun Service - Home Maintenance Services](https://www.tunservice.com/Eng/Tun-Service.html) — электрики, сантехники и мелкие работы по дому.
 - **+37491570954 Дмитрий** — электромонтажные, сантехнические, общестроительные работы. От «мастера на час» до ремонта комнаты, санузла (штукатурка, шпаклевка, обои, покраска, плитка, работа с гипсокартоном).
 - **+37491225549 Амбарцум** — водопроводчик. звоните по вопросам замены текущих труб, кранов, проблем с котлами и т.п.
-[//]: # (- **+37496354825 Ерванд** — сантехнические работы: монтаж водоснабжение, котлов, отопления.)
+- **+37441129200 Денис** [@MicsicPicsic](https://t.me/MicsicPicsic) — мойка домашних кондиционеров, электрика, сантехника, ремонт и регулировка пластиковых окон.
+- **+37496647373 Юра** — сантехник. Профессионал, обычно занят на 2-3 дня вперёд.
 
 ### Клининг и уборка квартир и домов
 
@@ -342,8 +339,9 @@ display_toc: false
 
 - **+37495202036 Эрик** — цены у него чуть выше чем по рынку, но его порекомендовал человек, который до этого сменил троих «регулировщиков», этот сделал как надо
 - **+37477332774 Артур** — тоже хороший настройщик проверенный многими людьми из чата
+- **+37441129200 Денис** [@MicsicPicsic](https://t.me/MicsicPicsic) — регулировка и ремонт пластиковых окон. Качественная работа, быстрая коммуникация в Telegram. 4 окна/7 створок за 25 000 драм.
 
-### 3D-печать в Ереване {#3d}
+### 3D-печать в Ереване {#print-3d}
 
 - 🔗 **[Detal.am](http://detal.am)** — [адрес](https://yandex.ru/maps/org/detal_eyem/45479175228/).
 - <i class="fa-brands fa-instagram"></i> [3d_printing__vava](https://www.instagram.com/3d_printing__vava/) — 3д-печать, сканирование, моделирование. Телефоны: +37498216200 +37499216211. 

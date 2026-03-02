@@ -178,6 +178,14 @@ display_toc: false
 - Художественный салон, книжный магазин, библиотека, выставочное пространство, антикварная лавка и кафе
 
 </div>
+<div class="card">
+
+### Sky Space Coworking
+
+- [ул. Левона Хечояна, 15](https://yandex.ru/maps/org/136343151572/)
+- Сайт: [skyspace.am](https://skyspace.am/)
+
+</div>
 </div>
 
 Обратите внимание на библиотеки города. В [Национальной библиотеке](http://www.google.com/url?q=http%3A%2F%2Fnla.am%2Fru%2F&sa=D&sntz=1&usg=AOvVaw2fXDaDOWWtlIxaQvbyO5vd),

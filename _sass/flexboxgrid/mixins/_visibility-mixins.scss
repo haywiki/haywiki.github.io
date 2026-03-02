@@ -1,3 +1,5 @@
+@use "../variables/main" as *;
+
 @mixin show($breakpoint, $row) {
   @if $breakpoint == "xs" {
     @if $row == "true" or $row == "row" {

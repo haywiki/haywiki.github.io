@@ -1,4 +1,10 @@
-@import "layout", "home", "post", "breadcrumb";
+@use "../theme-vars" as *;
+@use "../flexboxgrid/variables/main" as *;
+
+@use "layout";
+@use "home";
+@use "post";
+@use "breadcrumb";
 
 .site-header {
   border-top: .25rem solid $grey-color-dark;

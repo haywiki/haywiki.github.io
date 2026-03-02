@@ -1,4 +1,7 @@
 
+@use "theme-vars" as *;
+@use "base";
+
 .highlight {
   background: #fff;
   @extend %vertical-rhythm;

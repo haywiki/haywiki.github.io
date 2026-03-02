@@ -12,6 +12,8 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Водоплавающий Ереван](https://t.me/YerevanSwim) — бассейны и водный спорт
 - <i class="fa-brands fa-telegram"></i> [Скалолазные и треккинговые выходные](https://t.me/+GYYbq1WtoopiNGEy)
 - <i class="fa-brands fa-telegram"></i> [Спортивный Ереван](https://t.me/yerevan_sport)
+- <i class="fa-brands fa-telegram"></i> [Цахкадзор — катаемся](https://t.me/TsaghkadzorKataem) — кооперация для поездок на горнолыжный курорт Цахкадзор, поиск попутчиков и такси
+- <i class="fa-brands fa-telegram"></i> [Myler Resort Official Group](https://t.me/myler_community) — официальная группа горнолыжного курорта Myler
 - <i class="fa-brands fa-telegram"></i> [Armenian camp](https://t.me/armeniancamp) — всесезонный лагерь активного досуга на Севане
 - <i class="fa-brands fa-telegram"></i> [We Hike](https://t.me/hikeam) — ходите в горы, чтобы стать лучше и увидеть настоящую Армению!
 - <i class="fa-brands fa-instagram"></i> [Paddling in Armenia](https://www.instagram.com/supman.armenia/) — сап-туры в Армении

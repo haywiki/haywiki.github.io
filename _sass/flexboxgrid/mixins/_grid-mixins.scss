@@ -1,3 +1,6 @@
+@use "sass:meta";
+@use "../variables/main" as *;
+
 @mixin row($full-width: "false") {
   box-sizing: border-box;
   margin: 0 auto;
@@ -10,7 +13,7 @@
   flex-wrap: wrap;
   // // Overrides flexbox's default behavior of making all children equal height
   // align-items: flex-start; // If this was not in place it would require two classes to make a row full of unequal height columns aligned top, middle, bottom
-  @if type-of($content-well-max-width) == number and $content-well-max-width != 0 and $full-width == "false"{
+  @if meta.type-of($content-well-max-width) == number and $content-well-max-width != 0 and $full-width == "false"{
     max-width: $content-well-max-width;
   }
 }
@@ -33,7 +36,7 @@
 
 // Condition to run inside of the col mixin * not for developer use *
 @mixin col-condition($col-number) {
-  @if type-of($col-number) == number {
+  @if meta.type-of($col-number) == number {
     @if $col-number > $grid-columns or $col-number == 0 {
       @warn "Column number must be greater than 0 and less than or equal to total number of columns in the grid (#{$grid-columns})";
     } @else {
@@ -57,7 +60,7 @@
 
 @mixin col($breakpoint: "xs", $col-number: "auto") {
   // If no breakpoint is passed and a col number is just use the first arg as the col number and act like xs
-  @if type-of($breakpoint) == number {
+  @if meta.type-of($breakpoint) == number {
     $col-number: $breakpoint;
     @include col-condition($col-number);
   } @else if $breakpoint == "xs" {
@@ -85,7 +88,7 @@
 
 // Condition to run inside of the col-offset mixin * not for developer use *
 @mixin col-offset-condition($offset-number) {
-  @if type-of($offset-number) != number {
+  @if meta.type-of($offset-number) != number {
     @warn "Column offset number must be a number (only arg or second arg in the col mixin)";
   } @else if $offset-number == 0 {
     @warn "Column offset number must be greater than 0 and less than or equal to total number of columns in the grid (#{$grid-columns})";
@@ -98,7 +101,7 @@
 
 @mixin col-offset($breakpoint: "xs", $offset-number: 0) {
   // If no breakpoint is passed and a col number is just use the first arg as the col number and act like xs
-  @if type-of($breakpoint) == number {
+  @if meta.type-of($breakpoint) == number {
     $offset-number: $breakpoint;
     @include col-offset-condition($offset-number);
   } @else if $breakpoint == "xs" {
