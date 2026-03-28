@@ -7,13 +7,13 @@
 
 {%- include header.html -%}
 
-{% unless page.url contains '/drive/' or page.url == '/' or page.url contains '/life/contacts' %}
+{% if page.display_stale_warning %}
 <div class="wrapper" style="margin-top: 1rem;">
     <div class="alert alert-warning">
         <strong>⚠️ Обратите внимание!</strong> Информация на этом сайте давно не обновлялась. Пожалуйста, перепроверяйте актуальность данных перед использованием.
     </div>
 </div>
-{% endunless %}
+{% endif %}
 
 <main class="page-content" aria-label="Content">
     {{ content }}

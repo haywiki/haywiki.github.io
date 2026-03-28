@@ -2,6 +2,7 @@
 title: Велосипед и вело-сообщества в Армении
 layout: page
 display_toc: true
+display_stale_warning: false
 ---
 
 Страница составлена по материалам [FAQ «Велосипедисты в Армении»](https://ybcchat.notion.site/FAQ-262b026c060648309da0cac86e9d33bb) (Notion-сайт [Yerevan Bike Club](https://t.me/ybcChat)). Там же есть [англоязычная версия](https://ybcchat.notion.site/a02fd4019cd247608d228f0fb514294e?pvs=25).

@@ -2,6 +2,7 @@
 title: Танцы в Ереване
 layout: page
 display_toc: true
+display_stale_warning: false
 ---
 
 Контакты чатов и преподавателей по партнерским и сольным танцам на основании гайда [Танцы в Ереване](https://www.notion.so/f8b60aa1c5bd42bb919cb652547beec4).

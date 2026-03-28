@@ -3,6 +3,7 @@ title: Оформление обязательной страховки ОСАГ
 layout: page
 parent_title: Авто в Армении
 parent_url: /drive/
+display_stale_warning: false
 ---
 
 ## Покупка ОСАГО

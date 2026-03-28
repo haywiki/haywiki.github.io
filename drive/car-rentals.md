@@ -3,6 +3,7 @@ title: Где взять автомобиль в аренду в Армении?
 layout: page
 parent_title: Авто в Армении
 parent_url: /drive/
+display_stale_warning: false
 ---
 
 Обсудить актуальные вопросы об аренде можно в [нашем чате автомобилистов](https://t.me/am_autoclub).

@@ -3,6 +3,7 @@ title: Проверенные автосервисы, шиномонтаж, ку
 layout: page
 parent_title: Авто в Армении
 parent_url: /drive/
+display_stale_warning: false
 ---
 
 ## Лучшие автосервисы

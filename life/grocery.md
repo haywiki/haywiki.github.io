@@ -2,6 +2,7 @@
 title: Продуктовые магазины, доставки, еда
 layout: page
 display_toc: false
+display_stale_warning: false
 ---
 
 ## Крупнейшие сетевые магазины Еревана

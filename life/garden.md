@@ -2,6 +2,7 @@
 title: Садовые центры, домашние растения, цветы и семена в Ереване
 layout: page
 display_toc: false
+display_stale_warning: false
 ---
 
 Список составлен в чате <i class="fa-brands fa-telegram"></i> [Цветочный Ереван](https://t.me/fitoErevan).

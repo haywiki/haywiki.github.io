@@ -3,6 +3,7 @@ title: Может ли гражданин РФ с армянскими прав�
 layout: page
 parent_title: Авто в Армении
 parent_url: /drive/
+display_stale_warning: false
 ---
 
 **⚠️ Автор этого текста не является квалифицированным юристом ⚠️**

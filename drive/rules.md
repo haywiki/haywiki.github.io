@@ -3,6 +3,7 @@ title: Правила дорожного движения и проверка ш
 layout: page
 parent_title: Авто в Армении
 parent_url: /drive/
+display_stale_warning: false
 ---
 
 Правила практически идентичны российским.

@@ -1,6 +1,7 @@
 ---
 layout: home
 display_comments: false
+display_stale_warning: false
 ---
 
 ![Флаг Армении на фоне Арарата](/files/ararat.jpg){: .default}

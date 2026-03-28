@@ -3,6 +3,7 @@ title: Учетно-экзаменационные подразделения Д
 layout: page
 parent_title: Авто в Армении
 parent_url: /drive/
+display_stale_warning: false
 ---
 
 | Наименование подразделения                                                                                 | Адрес                                        | Телефоны                                                                   | Примечание                                                    |

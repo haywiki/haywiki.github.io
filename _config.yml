@@ -40,6 +40,7 @@ defaults:
       type: "pages"
     values:
       display_toc: true
+      display_stale_warning: true
       display_comments: true
       content_class: ""
   - scope:
@@ -47,5 +48,6 @@ defaults:
       type: "posts"
     values:
       display_toc: false
+      display_stale_warning: true
       display_comments: true
       more_text: Читать далее
