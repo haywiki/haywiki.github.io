@@ -178,12 +178,28 @@ display_toc: false
 </div>
 <div class="card">
 
+### Equus.am
+
+- <i class="fa-solid fa-link"></i> [equus.am](https://equus.am)
+- 📍 [ул. Севастополян 1/1, Ереван](https://yandex.com/maps/org/93090948216/?)
+
+</div>
+<div class="card">
+
 ### Фани Дог Хаус
 
 - <i class="fa-brands fa-instagram"></i> [_dog_house](https://www.instagram.com/_dog_house/)
 - 📞 +374 93 635202
 - 📍 [ул. Вардананц, 15/3](https://yandex.ru/maps/org/fani_dog_khaus/207873306407/)
-- Корма в продаже: нет информации
+
+</div>
+<div class="card">
+
+### Dog and Cat
+
+- 📞 +374 10 521571
+- 📍 [ул. Микаэла Налбандяна 50/179, Ереван](https://yandex.com/maps/org/32016828047/) (рядом с площадью Республики)
+- По отзывам: заметный выбор ветпрепаратов (Bravecto, Simparica, Milbemax и др.), регулярные поставки свежих позиций
 
 </div>
 <div class="card">
@@ -193,7 +209,6 @@ display_toc: false
 - <i class="fa-brands fa-instagram"></i> [_animal_care__center](https://www.instagram.com/animal_care__center/)
 - 📞 +374 33 554409
 - 📍 [улица Сарьяна, 28/4](https://yandex.ru/maps/10262/yerevan/house/YE0YcwdkTEYEQFpqfX15c3ljYw==/)
-- Корма в продаже: нет информации
 
 </div>
 <div class="card">
@@ -203,6 +218,17 @@ display_toc: false
 - 📞 +374 96 966346
 - 📍 [г. Дилижан, ул. Шаумяна 28/3](https://yandex.ru/maps/org/royal_canin/125821415154/)
 - Корма в продаже: только Royal Canin
+
+</div>
+<div class="card">
+
+### ZAZOO petshop в Дилижане
+
+- <i class="fa-brands fa-instagram"></i> [zazoopetshop](https://www.instagram.com/zazoopetshop/)
+- 📞 +374 94 288199 (WhatsApp, Telegram)
+- 📍 [г. Дилижан, ул. Гетапня 6/1](https://yandex.com/maps/org/144795320236/)
+- Корма в продаже: Royal Canin, Monge, Acana, Josera, Bonmascota и др.
+- Также: мелкие животные, попугаи, аквариумы, рыбки и сопутствующие товары
 
 </div>
 <div class="card">

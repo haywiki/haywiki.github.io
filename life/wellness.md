@@ -16,6 +16,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Myler Resort Official Group](https://t.me/myler_community) — официальная группа горнолыжного курорта Myler
 - <i class="fa-brands fa-telegram"></i> [Armenian camp](https://t.me/armeniancamp) — всесезонный лагерь активного досуга на Севане
 - <i class="fa-brands fa-telegram"></i> [We Hike](https://t.me/hikeam) — ходите в горы, чтобы стать лучше и увидеть настоящую Армению!
+- <i class="fa-brands fa-telegram"></i> [Открытые прогулки \| походы Ереван](https://t.me/open_walks_yerevan) — чат для анонсов и обсуждения совместных прогулок и походов; объединяют людей, которым интересны общение и природа; участие в мероприятиях бесплатное
 - <i class="fa-brands fa-instagram"></i> [Paddling in Armenia](https://www.instagram.com/supman.armenia/) — сап-туры в Армении
 - <i class="fa-brands fa-instagram"></i> [Hiking Авантюра](https://t.me/hiking_avantura) — организаторы походов
 - <i class="fa-brands fa-telegram"></i> [🏓 Table Tennis Yerevan](https://t.me/TennisYerevan)
