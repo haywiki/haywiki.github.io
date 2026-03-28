@@ -213,35 +213,6 @@ display_toc: false
 </div>
 <div class="card">
 
-### Royal Canin в Дилижане
-
-- 📞 +374 96 966346
-- 📍 [г. Дилижан, ул. Шаумяна 28/3](https://yandex.ru/maps/org/royal_canin/125821415154/)
-- Корма в продаже: только Royal Canin
-
-</div>
-<div class="card">
-
-### ZAZOO petshop в Дилижане
-
-- <i class="fa-brands fa-instagram"></i> [zazoopetshop](https://www.instagram.com/zazoopetshop/)
-- 📞 +374 94 288199 (WhatsApp, Telegram)
-- 📍 [г. Дилижан, ул. Гетапня 6/1](https://yandex.com/maps/org/144795320236/)
-- Корма в продаже: Royal Canin, Monge, Acana, Josera, Bonmascota и др.
-- Также: мелкие животные, попугаи, аквариумы, рыбки и сопутствующие товары
-
-</div>
-<div class="card">
-
-### Мир Хвостатых в Гюмри
-
-- 📞 +374 95 900505
-- 📍 [ул. Максима Горького, 57, Гюмри](https://yandex.ru/maps/org/mir_khvostatykh/17380324135/)
-- Корма в продаже: Brit, Monge, Royal Canin
-
-</div>
-<div class="card">
-
 ### AmiryanVet — зоомагазин и ветклиника
 
 - <i class="fa-brands fa-instagram"></i> [amiryanvet](https://instagram.com/amiryanvet/)
@@ -271,6 +242,46 @@ display_toc: false
 - 📞 +374 10 537602
 - 📍 [ул Казара Парпеци, 17/3](https://yandex.ru/maps/org/quercus_vet_clinic_zoosalon/181982950255/)
 - Корма в продаже: Monge
+
+</div>
+<div class="card">
+
+### Royal Canin в Дилижане
+
+- 📞 +374 96 966346
+- 📍 [г. Дилижан, ул. Шаумяна 28/3](https://yandex.ru/maps/org/royal_canin/125821415154/)
+- Корма в продаже: только Royal Canin
+
+</div>
+<div class="card">
+
+### ZAZOO petshop в Дилижане
+
+- <i class="fa-brands fa-instagram"></i> [zazoopetshop](https://www.instagram.com/zazoopetshop/)
+- 📞 +374 94 288199 (WhatsApp, Telegram)
+- 📍 [г. Дилижан, ул. Гетапня 6/1](https://yandex.com/maps/org/144795320236/)
+- Корма в продаже: Royal Canin, Monge, Acana, Josera, Bonmascota и др.
+- Также: мелкие животные, попугаи, аквариумы, рыбки и сопутствующие товары
+
+</div>
+<div class="card">
+
+### Мир Хвостатых в Гюмри
+
+- 📞 +374 95 900505
+- 📍 [ул. Максима Горького, 57, Гюмри](https://yandex.ru/maps/org/mir_khvostatykh/17380324135/)
+- Корма в продаже: Brit, Monge, Royal Canin
+
+</div>
+<div class="card">
+
+### Zoo Pharmacy в Иджеване
+
+- <i class="fa-brands fa-instagram"></i> [zoopharmacy_ijevan](https://www.instagram.com/zoopharmacy_ijevan/)
+- 📞 +374 93 707717
+- 📍 [г. Иджеван, ул. Арцахян 40](https://yandex.com/maps/org/zoo_pharmacy/124600987313/)
+- Часы: ежедневно 9:00–18:00
+- Ветаптека и зоотовары: лекарства и витамины, корма и лакомства, аксессуары
 
 </div>
 </div>
