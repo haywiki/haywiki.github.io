@@ -205,6 +205,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Yerevan Concerts](https://t.me/yerevanrock) — Rock & metal shows in Yerevan, Armenia.
 - <i class="fa-brands fa-telegram"></i> [Rock Metal Yerevan](https://t.me/yerevanmetal) — Fans of rock & metal music in Yerevan, Armenia.
 - <i class="fa-brands fa-telegram"></i> [Мастер-классы по рисованию и не только в Армении](https://t.me/risovaniye_armeniya) — занятия по рисованию, лепке, вязанию и подобное.
+- 💃 [Танцы в Ереване](dancing.md) — WCS, танго, джаз, zouk, контемп и др.
 {: class="list-emoji"}
 
 </div>

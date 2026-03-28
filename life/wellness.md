@@ -21,6 +21,7 @@ display_toc: false
 - <i class="fa-brands fa-instagram"></i> [Hiking Авантюра](https://t.me/hiking_avantura) — организаторы походов
 - <i class="fa-brands fa-telegram"></i> [🏓 Table Tennis Yerevan](https://t.me/TennisYerevan)
 - <i class="fa-brands fa-instagram"></i> [Сапбординг в Ереване](https://www.instagram.com/sup_yrn/)
+- 💃 [Танцы в Ереване](dancing.md) — WCS, танго, джаз, zouk, контемп и др.
 {: class="list-emoji"}
 
 <div class="cards custom1">
