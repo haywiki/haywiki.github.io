@@ -30,6 +30,7 @@ parent_url: /drive/
 - [Автосервис на Багратуняц](https://yandex.ru/maps/org/217716411245) — специализация на американских автомобилях (Ford, Chevrolet и др.), ремонт ретро автомобилей. Адрес: [ул. Багратуняц, 2/11](https://yandex.ru/maps/org/217716411245). [Отзыв](https://t.me/am_autoclub/59951).
 - [Автосервис Ovne](http://ovne.am/ru) — в последнее время появились противоречивые отзывы.
 - [Мир автостекла на Нар-Доса](https://yandex.ru/maps/org/mir_avtostekol/102722719773/) и [Мир автостекла на Арцаха](https://yandex.ru/maps/org/avtoapakineri_ashkhar/140515207660/) — ремонт сколов на лобовом стекле и продажа автостекол. [facebook](https://www.facebook.com/AvtoapakinerAshxarh), [отзыв](https://t.me/am_autoclub/55694), [отзыв](https://t.me/am_autoclub/54899).
+- [RESTART](https://yandex.ru/maps/-/CPuJNC8k) — автосервис; **BMW** в приоритете, с другими марками тоже справляются по отзыву. **+374 55 699300**, **+374 77 699300**.
 
 ### Черный список сервисов
 
