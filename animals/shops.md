@@ -180,7 +180,7 @@ display_toc: false
 
 ### Equus.am
 
-- <i class="fa-solid fa-link"></i> [equus.am](https://equus.am)
+- <i class="fa-solid fa-link"></i> [equus.am](https://www.instagram.com/equus.am/)
 - 📍 [ул. Севастополян 1/1, Ереван](https://yandex.com/maps/org/93090948216/?)
 
 </div>
