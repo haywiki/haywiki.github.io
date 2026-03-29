@@ -229,6 +229,7 @@ display_stale_warning: false
 - <i class="fa-brands fa-telegram"></i> [Anime Yerevan](https://t.me/AnimeYerevan)
 - <i class="fa-brands fa-telegram"></i> [Английский разговорный клуб](https://t.me/English202355) и [клуб для начинающий](https://t.me/Englishforyerevan)
 - <i class="fa-brands fa-telegram"></i> [TRIGLINKI YEREVAN](https://t.me/triglinkiyerevan)
+- <i class="fa-brands fa-telegram"></i> [станция | station](https://t.me/station_evn) — библиотека и мастерская
 {: class="list-emoji"}
 
 </div>
