@@ -4,6 +4,7 @@ layout: page
 parent_title: Жизнь с питомцем
 parent_url: /animals/
 display_toc: false
+display_stale_warning: false
 ---
 
 - [Stray Animals Center](https://www.facebook.com/profile.php?id=100063538604933) — государственная служба по отлову, вакцинации и стерилизации животных;
