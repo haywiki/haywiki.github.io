@@ -56,6 +56,7 @@ display_stale_warning: false
 - [DGservice](https://autogaz.am/) — установка ГБО. [Отзыв участника чата](https://t.me/am_autoclub/1937).
 - [Smart Gas](https://yandex.ru/maps/org/smart_gas/118292290421) — установка и обслуживание ГБО. Адрес: [отзыв](https://t.me/am_autoclub/97466). Качественная и продуманная установка, настраивают авто на ходу, работают на результат.
 - [Сервис на Тбилисян](https://yandex.ru/maps/10262/yerevan/house/YE0YcwJlSUIEQFpqfX5ydHxqZg==/) — установка ГБО попроще и подешевле. Нужно следить чтобы не косячили. [Отзыв](https://t.me/am_autoclub/55250).
+- [Сервис на Гая] (https://yandex.com/maps/-/CPbZy61h) - 099290986 Вилен, ставят и ремонтируют ГБО. Используют ЭБУ 4save, редуктор sigma, форсунки gemini. Из чата было успешно обслужено больше 4 человек, как с полной установкой, так и с ремонтом. [отзыв](https://t.me/am_autoclub/256610).
 
 ## Шиномонтаж
 
