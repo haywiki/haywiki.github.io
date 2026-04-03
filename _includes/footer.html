@@ -2,7 +2,10 @@
     <div class="site-footer">
         <div class="wrapper">
             <h2 class="footer-heading">Есть вопросы или дополнения? Пишите комментарий!</h2>
-            <div id="anycomment-app"></div>
+            <div id="remark42"></div>
+            <p>
+                Раньше здесь был AnyComment, но он к сожалению закрылся вместе со всеми комментариями. Теперь мы используем собственный сервер для комментариев.
+            </p>
         </div>
     </div>
 {% endif %}
@@ -56,12 +59,11 @@
 {%- endif -%}
 
 {% if page.display_comments %}
-    <script type="text/javascript">
-        AnyComment = window.AnyComment || []; AnyComment.Comments = [];
-        AnyComment.Comments.push({ "root": "anycomment-app", "app_id": 4537, "language": "ru" })
-        var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
-        s.src = "https://widget.anycomment.io/comment/embed.js";
-        var sa = document.getElementsByTagName("script")[0];
-        sa.parentNode.insertBefore(s, s.nextSibling);
+    <script>
+    var remark_config = {
+        host: 'https://comments.dv-dev.ru',
+        site_id: 'haywiki',
+    };
+    !function(e,n){for(var o=0;o<e.length;o++){var r=n.createElement("script"),c=".js",d=n.head||n.body;"noModule"in r?(r.type="module",c=".mjs"):r.async=!0,r.defer=!0,r.src=remark_config.host+"/web/"+e[o]+c,d.appendChild(r)}}(remark_config.components||["embed"],document);
     </script>
 {% endif %}
