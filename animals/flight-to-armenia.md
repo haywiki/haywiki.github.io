@@ -18,7 +18,7 @@ parent_url: /animals/
 
 - [Станции по борьбе с болезнями животных по Москве](https://mos-obvet.ru/clinics/)
 - [Станции по борьбе с болезнями животных по Санкт-Петербургу](http://www.spbvet.ru/structure/stationall/)
-- **[Список СББЖ и пунктов ветконтроля с ОТЗЫВАМИ](https://bit.ly/3SyGHfs)**
+- **[Список СББЖ и пунктов ветконтроля с ОТЗЫВАМИ](https://docs.google.com/spreadsheets/d/12oqowau1KzJuechJk94Sz4SLpasqoOS4lExCric6Iiw/view)**
 
 ### Нужны ли титры антител к бешенству?
 
