@@ -3,6 +3,7 @@ title: Возвращение питомца в Россию
 layout: page
 parent_title: Жизнь с питомцем
 parent_url: /animals/
+display_stale_warning: false
 ---
 
 Правила по прививкам и идентификации точно такие же как и для выезда из России.

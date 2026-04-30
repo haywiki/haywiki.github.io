@@ -2,6 +2,7 @@
 title: Жизнь с собакой или кошкой в Армении
 layout: page
 display_toc: false
+display_stale_warning: false
 ---
 
 <a class="btn btn-shortcut" href="/animals/map.html"><span>🗺</span><br> Pet-friendly карта</a>

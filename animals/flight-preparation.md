@@ -3,6 +3,7 @@ title: Как подготовить питомца и себя к перелё�
 layout: page
 parent_title: Перелет с питомцем
 parent_url: /animals/flight-to-armenia.html
+display_stale_warning: false
 ---
 
 **Золотое правило звучит так: чем спокойнее вы, тем спокойнее ваш питомец.**

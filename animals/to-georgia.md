@@ -3,6 +3,7 @@ title: Поездка с питомцем в Грузию
 layout: page
 parent_title: Жизнь с питомцем
 parent_url: /animals/
+display_stale_warning: false
 ---
 
 Для поездки в Грузию потребуются следующие документы:
