@@ -4,11 +4,17 @@ layout: page
 parent_title: Жизнь с питомцем
 parent_url: /animals/
 display_toc: false
+display_stale_warning: false
 ---
 
 {%- include animals-map.md layers="2480568,2480573" location="11/40.2012/44.5199" -%}
 
 ## Клиники в Ереване {#yerevan}
+
+В Ереване открылось множество маленьких частных клиник, мы решили не добавлять сюда все подряд, а только те на которые
+уже есть отзывы в сообществе. Если вы хотите добавить клинику, то напишите в [чат «Армения: Переезд с питомцем»](https://t.me/am_pets).
+
+**Примечание:** даже если клиника работает круглосуточно, ночью некоторые врачи или услуги могут быть недоступны — рекомендуем всегда заранее уточнять всё по телефону.
 
 <div class="cards">
 <div class="card">
@@ -19,7 +25,7 @@ display_toc: false
 - 📞 +37410209966, моб: +37496209966
 - График работы: круглосуточно, по предварительному звонку
 - Сайт: [vetexpert.am](https://vetexpert.am/ru/) [facebook](https://facebook.com/vetexpertvetgroup) [instagram](https://instagram.com/vetexpertveterinarygroup/)
-- Услуги: [титры](rabies-titers.md), зоомагазин, справки для путешествий, груминг, передержка (отель для животных).
+- Услуги: [титры](rabies-titers.md), **Рентген**, **УЗИ**, зоомагазин, справки для путешествий.
 
 Примерная стоимость услуг:
 - Чипирование 8000 драм;
@@ -37,7 +43,27 @@ display_toc: false
 - 📞 +374 43 209966
 - График работы: пн–сб 10:00–20:00, вс 9:00–12:00
 - Сайт: [vetexpress.am](https://vetexpress.am/ru/)
-- Услуги: лабораторная диагностика, вакцинация, стоматология, груминг, передержка, зоотакси, зоомагазин и аптека.
+- Услуги: **УЗИ**, лабораторная диагностика, вакцинация, стоматология.
+
+</div>
+<div class="card">
+
+### VetFamily 🏥 🛍️
+
+- 📍 [ул. Овсепа Эмина, 91](https://yandex.com/maps/org/217703649329/)
+- 📞 +374 96 577 588
+- Услуги: **УЗИ**, зоомагазин.
+
+</div>
+<div class="card">
+
+### VetLine 🏥 🛍️ ✂️️
+
+- 📍 [просп. Комитаса, 6](https://yandex.ru/maps/org/kruglosutochnaya_veterinarnaya_klinika_vetlayn/154801169156/)
+- 📞 +374 11 279999
+- График работы: круглосуточно
+- [facebook](https://facebook.com/vetlinearmenia/) [instagram](https://instagram.com/vetline_vet.clinic/)
+- Услуги: **УЗИ**, зоомагазин, справки для путешествий.
 
 </div>
 <div class="card">
@@ -48,22 +74,18 @@ display_toc: false
 - 📞 +374 10 451172
 - График работы: пн-сб с 11:00 до 20:00
 - [facebook](https://facebook.com/VMPC2016)
-- Услуги: справки для путешествий.
+- Услуги: **Рентген**, **УЗИ**, справки для путешествий.
 - 🏆 Одна из лучших клиник в Ереване️ по мнению сообщества
+
+</div>
+<div class="card">
 
 ### Oscar Vet Clinic 🏥
 
 - 📍 [ул. Алабяна, 19](https://yandex.com/maps/org/oscar_vet_vetclinic/206303141762/)
 - 📞 +374 96 209008
 - [facebook](https://www.facebook.com/Oscarvetclinic/)
-
-### VetLine 🏥 🛍️ ✂️️
-
-- 📍 [просп. Комитаса, 6](https://yandex.ru/maps/org/kruglosutochnaya_veterinarnaya_klinika_vetlayn/154801169156/)
-- 📞 +374 11 279999
-- График работы: круглосуточно
-- [facebook](https://facebook.com/vetlinearmenia/) [instagram](https://instagram.com/vetline_vet.clinic/)
-- Услуги: зоомагазин, справки для путешествий, груминг.
+- Услуги: **Рентген**.
 
 </div>
 <div class="card">
@@ -79,13 +101,23 @@ display_toc: false
 </div>
 <div class="card">
 
+### Leo Vet 🏥
+
+- 📍 [ул. Зоравар Андраник, 64/5](https://yandex.com/maps/org/leo_vet/65335301739/)
+- 📞 +374 95 010321
+- Услуги: **УЗИ**.
+
+</div>
+<div class="card">
+
 ### Joli 🏥 🛍 ✂️ {#joli}
 
 - 📍 [ул. Авета Аветисяна, 112/2](https://yandex.ru/maps/org/veterinarny_tsentr_dzholi/135151397057/)
 - 📍 [просп. Азатутян, 8](https://yandex.ru/maps/org/dzholi/236619928303/)
+- 📍 [улица Московян, 8](https://yandex.ru/maps/org/dzholi/119280468507/)
 - [joli.am](https://joli.am/) — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены.
 - [instagram](https://instagram.com/joli_veterinary_center/)
-- Услуги: зоомагазин, справки для путешествий, груминг.
+- Услуги: **Рентген**, зоомагазин, справки для путешествий.
 - Корма в продаже: Brit, Monge.
 
 </div>
@@ -123,6 +155,42 @@ display_toc: false
 </div>
 <div class="card">
 
+### Paws Pet Medical Center 🏥 🛍️
+
+- 📍 [ул. Мамиконянц, 44/2](https://yandex.com/maps/org/158713606079/)
+- 📞 +374 44 994299
+- Услуги: **Рентген**.
+
+</div>
+<div class="card">
+
+### Vet Life 🏥
+
+- 📍 [ул. Багратуняц, 10](https://yandex.com/maps/org/vet_life_veterinary_clinic/170717279722/)
+- 📞 +374 10 427070
+- Услуги: **Рентген**.
+
+</div>
+<div class="card">
+
+### Ветеринарная клиника Национального аграрного университета 🏥
+
+- 📍 [Яндекс.Карты](https://yandex.com/maps/org/144531491170/)
+- 📞 +374 91 419017
+- Услуги: **Рентген**.
+
+</div>
+<div class="card">
+
+### Vetapteka 🏥 💊
+
+- 📍 [ул. Гарегина Нжде, 42](https://yandex.com/maps/org/194508874329/)
+- 📞 +374 91 312053
+- Сайт: [vetapteka.am](https://vetapteka.am)
+
+</div>
+<div class="card">
+
 ### AlphaVet 🏥 🛍
 
 - 📍 [ул. Раффи, 53/20](https://goo.gl/maps/sxc6Ftf1EXKDkdsp8)
@@ -133,34 +201,31 @@ display_toc: false
 </div>
 <div class="card">
 
-### Клиника Аграрного университета 🏥
-
-- 📍 [ул. Эребуни, 10](https://yandex.ru/maps/org/6_y_korpus_natsionalnogo_agrarnogo_universiteta_armenii/44669593317/)
-- 📞 +374 95 417977
-- <i class="fa-brands fa-instagram"></i> [vet_clinic_anau](https://instagram.com/vet_clinic_anau/)
-
-</div>
-<div class="card">
-
-### Yanvet Clinic 🏥 🛍
-
-- 📍 [просп. Азатутян, 9А](https://yandex.ru/maps/org/yanvet_clinic/14410132829/)
-- 📞 +374 93 720088
-- 🔗 [yanvet.am](https://yanvet.am)
-- Услуги: зоомагазин.
-
-</div>
-<div class="card">
-
 ### AmiryanVet 🏥 🛍️
 
-**⚠️ Про клинику много отзывов, что навязывают дополнительные дорогостоящие анализы, будьте внимательны!**
+**⚠️ Про клинику необычно много негативных отзывов, будьте внимательны!**
 
 - 📍 [ул. Амиряна, 10](https://yandex.ru/maps/org/amiryanvet/209808278094/)
 - 📞 +374 95 560119
 - График работы: круглосуточно, по предварительному звонку
 - [facebook](https://facebook.com/AmiryanVeterinary) [instagram](https://instagram.com/amiryanvet/)
-- Услуги: [титры](rabies-titers.md), зоомагазин, справки для путешествий.
+- Услуги: [титры](rabies-titers.md), **Рентген**, зоомагазин, справки для путешествий.
+
+### Amira 🏥 🛍️
+
+**⚠️ Про клинику необычно много негативных отзывов, будьте внимательны!**
+
+- 📍 [улица Джанибекяна, 133/2](https://yandex.com/maps/org/83685414232/)
+
+### Yanvet Clinic 🏥 🛍
+
+**⚠️ Про клинику необычно много негативных отзывов, будьте внимательны!**
+
+- 📍 [просп. Азатутян, 9А](https://yandex.ru/maps/org/yanvet_clinic/14410132829/)
+- 📍 [просп. Тигран Мец, 52](https://yandex.com/maps/org/241078159747/)
+- 📞 +374 93 720088
+- 🔗 [yanvet.am](https://yanvet.am)
+- Услуги: зоомагазин.
 
 </div>
 </div>
@@ -177,6 +242,11 @@ display_toc: false
 - 📍 [ул. Мусаелян, 61](https://yandex.ru/maps/org/vet_vat/40293317454/)
 - 📞 +37493304652
 - Услуги: [титры](rabies-titers.md).
+
+### MyVet 🏥 🛍️
+
+- 📍 [ул. Ширакаци, 5/4](https://yandex.com/maps/org/133388823026/)
+- 📞 +374 77 240323
 
 ## Клиники в Ванадзоре {#vanadzor}
 
