@@ -30,6 +30,9 @@
     if (p.phone) {
       html += '<p><i class="fa fa-phone fa-fw"></i> ' + p.phone + '</p>';
     }
+    if (p.hours) {
+      html += '<p><i class="fa fa-clock fa-fw"></i> ' + p.hours + '</p>';
+    }
     if (p.note)      html += '<p><small>' + p.note + '</small></p>';
     if (p.url)       html += '<p><a href="' + p.url + '" target="_blank" rel="noopener">Сайт</a></p>';
     return html;

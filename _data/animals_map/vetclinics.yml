@@ -1,10 +1,3 @@
-- name: Клиника Аграрного университета
-  lat: 40.141845
-  lng: 44.517176
-  address: ул. Эребуни, 10
-  phone: +374 95 417977
-  yandex_url: https://yandex.ru/maps/org/6_y_korpus_natsionalnogo_agrarnogo_universiteta_armenii/44669593317/
-  url: https://instagram.com/vet_clinic_anau/
 - name: AlphaVet
   lat: 40.173139
   lng: 44.443061
@@ -12,6 +5,13 @@
   phone: +374 98 532099
   yandex_url: https://goo.gl/maps/sxc6Ftf1EXKDkdsp8
   url: https://instagram.com/alphavet_clinic/
+  note: 'Услуги: зоомагазин.'
+- name: Amira
+  lat: 40.2004197
+  lng: 44.4620738
+  address: ул. Джанибекяна, 133/2
+  yandex_url: https://yandex.com/maps/org/83685414232/
+  note: '⚠️ В статье указано: много негативных отзывов о сети AmiryanVet / Amira / Yanvet — будьте внимательны.'
 - name: AmiryanVet
   lat: 40.180226
   lng: 44.509097
@@ -19,7 +19,8 @@
   phone: +374 95 560119
   yandex_url: https://yandex.ru/maps/org/amiryanvet/209808278094/
   url: https://facebook.com/AmiryanVeterinary
-  note: 'График работы: круглосуточно, по предварительному звонку Есть возможность сделать титры. Можно сделать "Сертификат таможенного союза" и справки для выезда за границу. Есть зоомагазин'
+  hours: 'круглосуточно, по предварительному звонку'
+  note: '⚠️ Много негативных отзывов. Услуги: титры, рентген, зоомагазин, справки для путешествий.'
 - name: DoctorVet
   lat: 40.202866
   lng: 44.54469
@@ -27,13 +28,35 @@
   phone: +374 10 289898
   yandex_url: https://yandex.ru/maps/org/doktor_vet/24738688707/
   url: https://www.facebook.com/doctorvetveterinaryclinic
-  note: 'График работы: с 11:00 до 19:00, уточняйте по телефону'
-- name: Joli  🏥 🛍️ ✂️
-  lat: 40.199101
-  lng: 44.503738
+  hours: 'с 11:00 до 19:00, уточняйте по телефону'
+- name: Joli — Авета Аветисяна
+  lat: 40.1992827
+  lng: 44.5035174
+  address: ул. Авета Аветисяна, 112/2
   yandex_url: https://yandex.ru/maps/org/veterinarny_tsentr_dzholi/135151397057/
-  url: https://joli.am/ — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены.
-  note: 'Корма в продаже: Brit, Monge.'
+  url: https://joli.am/
+  note: 'Корма в продаже: Brit, Monge. Услуги: рентген, зоомагазин, справки для путешествий.'
+- name: Joli — Азатутян
+  lat: 40.2011921
+  lng: 44.5220959
+  address: просп. Азатутян, 8
+  yandex_url: https://yandex.ru/maps/org/dzholi/236619928303/
+  url: https://joli.am/
+  note: 'Корма в продаже: Brit, Monge. Услуги: рентген, зоомагазин, справки для путешествий.'
+- name: Joli — Московян
+  lat: 40.1888074
+  lng: 44.5180706
+  address: ул. Московян, 8
+  yandex_url: https://yandex.ru/maps/org/dzholi/119280468507/
+  url: https://joli.am/
+  note: 'Корма в продаже: Brit, Monge. Услуги: рентген, зоомагазин, справки для путешествий.'
+- name: Leo Vet
+  lat: 40.170228
+  lng: 44.445379
+  address: ул. Зоравар Андраник, 64/5
+  phone: +374 95 010321
+  yandex_url: https://yandex.com/maps/org/leo_vet/65335301739/
+  note: 'Услуги: УЗИ.'
 - name: Maltese City
   lat: 40.203239
   lng: 44.50046
@@ -41,14 +64,29 @@
   phone: +374 94 372233 +374 91 626258 (Viber и WhatsApp)
   yandex_url: https://yandex.ru/maps/org/maltez_siti/32700886211/
   url: https://www.facebook.com/maltesecity/
-  note: 'График работы: с 11:00 до 21:00, уточняйте по телефону'
-- name: Oscar Vet Vetclinic
+  hours: 'с 11:00 до 21:00, уточняйте по телефону'
+  note: 'Услуги: титры.'
+- name: MyVet
+  lat: 40.8116804
+  lng: 43.8312667
+  address: ул. Ширакаци, 5/4, Гюмри
+  phone: +374 77 240323
+  yandex_url: https://yandex.com/maps/org/133388823026/
+- name: Oscar Vet Clinic
   lat: 40.194229
   lng: 44.478482
   address: ул. Алабяна, 19
   phone: +374 96 209008
   yandex_url: https://yandex.com/maps/org/oscar_vet_vetclinic/206303141762/
   url: https://www.facebook.com/Oscarvetclinic/
+  note: 'Услуги: рентген.'
+- name: Paws Pet Medical Center
+  lat: 40.210048
+  lng: 44.518161
+  address: ул. Мамиконянц, 44/2
+  phone: +374 44 994299
+  yandex_url: https://yandex.com/maps/org/158713606079/
+  note: 'Услуги: рентген.'
 - name: Quercus
   lat: 40.1863
   lng: 44.51165
@@ -56,8 +94,16 @@
   phone: +374 10 537602
   yandex_url: https://yandex.ru/maps/org/quercus_vet_clinic_zoosalon/181982950255/
   url: https://www.facebook.com/profile.php?id=100034328929603
-  note: 'График работы: пн-сб с 10:00 до 19:00, уточняйте по телефону Есть возможность сделать титры (97000 драмов, срок 2-3 недели). Можно сделать "Сертификат таможенного союза" и справки для выезда за
-    границу. Есть зоомагазин'
+  hours: 'пн-сб с 10:00 до 19:00, уточняйте по телефону'
+  note: 'Титры (97000 драмов, 2–3 недели), зоомагазин, справки для путешествий.'
+- name: Shunn u Katun
+  lat: 40.8096563
+  lng: 44.4960673
+  address: ул. Ованеса Туманяна, 7, Ванадзор
+  phone: +374 55 895495
+  yandex_url: https://yandex.ru/maps/org/shunn_u_katun/161597163350/
+  url: https://shunnukatun.am/
+  hours: 'вт–сб 11:00–19:00, вс–пн выходные'
 - name: Vahe Mkrtchyan's Vet Clinic
   lat: 40.140413
   lng: 44.516569
@@ -65,36 +111,57 @@
   phone: +374 10 451172
   yandex_url: https://yandex.ru/maps/org/vahe_mkrtchyan_vet_clinic/106925944672/
   url: https://facebook.com/VMPC2016
-  note: 'График работы: пн-сб с 11:00 до 20:00 Можно сделать "Сертификат таможенного союза" и справки для выезда за границу.'
+  hours: 'пн-сб с 11:00 до 20:00'
+  note: 'Услуги: рентген, УЗИ, справки для путешествий. Одна из лучших клиник по мнению сообщества.'
+- name: Vet Express
+  lat: 40.204627
+  lng: 44.528384
+  address: ул. Давида Анахта, 7
+  phone: +374 43 209966
+  yandex_url: https://yandex.com/maps/org/34427441900/
+  url: https://vetexpress.am/ru/
+  hours: 'пн–сб 10:00–20:00, вс 9:00–12:00'
+  note: 'Услуги: УЗИ, лабораторная диагностика, вакцинация, стоматология.'
+- name: Vet Family
+  lat: 40.208071
+  lng: 44.499844
+  address: ул. Овсепа Эмина, 91
+  phone: +374 96 577588
+  yandex_url: https://yandex.com/maps/org/217703649329/
+  note: 'Услуги: УЗИ, зоомагазин.'
+- name: Vet Life
+  lat: 40.153280
+  lng: 44.480045
+  address: ул. Багратуняц, 10
+  phone: +374 10 427070
+  yandex_url: https://yandex.com/maps/org/vet_life_veterinary_clinic/170717279722/
+  note: 'Услуги: рентген.'
 - name: Vet Vat
-  lat: 40.784835
-  lng: 43.855035
-  address: ул. Мусаелян, 61
-  phone: '+37493304652'
+  lat: 40.784931
+  lng: 43.855923
+  address: ул. Мусаелян, 61, Гюмри
+  phone: +37493304652
   yandex_url: https://yandex.ru/maps/org/vet_vat/40293317454/
   url: https://facebook.com/vetvatVeterinary
-- name: VetExpert 🏥 🛍️ ✂️
-  lat: 40.205103
-  lng: 44.526075
+  note: 'Услуги: титры.'
+- name: Vetapteka
+  lat: 40.1516276
+  lng: 44.4995351
+  address: ул. Гарегина Нжде, 42
+  phone: +374 91 312053
+  yandex_url: https://yandex.com/maps/org/194508874329/
+  url: https://vetapteka.am
+- name: VetExpert
+  lat: 40.205138
+  lng: 44.526073
   address: просп. Азатутян, 14
-  phone: '+374 10 209966, моб: +374 96 209966'
+  phone: +374 10 209966, моб. +374 96 209966
   yandex_url: https://yandex.ru/maps/org/vet_ekspert/1861952348/
   url: https://vetexpert.am/ru/
-  note: 'График работы: круглосуточно, по предварительному звонку Есть ветеринары как домашних, так и диких/экзотических животных, а также необходимое оборудование, узи, рентген, груминг, отель для животных,
-    оформление документов на выезд в другую страну и прочие услуги. Есть возможность сделать титры, стоимость 100000 драмов за обычный (1 месяц) или 135000 драмов за срочный (11-14 дней). Чтобы получить
-    эту цену скажите что вы из Можно сделать "Сертификат таможенного союза" и справки для выезда за границу. Есть зоомагазин Примерная стоимость услуг: Чипирование 8000 драм; Вакцинация без бешенства 12000
-    драм, с бешенством 15000 драм.'
-- name: VetExpert 🏥 🛍️ ✂️
-  lat: 40.183177
-  lng: 44.510057
-  address: просп. Азатутян, 14
-  phone: '+374 10 209966, моб: +374 96 209966'
-  yandex_url: https://yandex.ru/maps/org/vet_ekspert/1861952348/
-  url: https://vetexpert.am/ru/
-  note: 'График работы: круглосуточно, по предварительному звонку Есть ветеринары как домашних, так и диких/экзотических животных, а также необходимое оборудование, узи, рентген, груминг, отель для животных,
-    оформление документов на выезд в другую страну и прочие услуги. Есть возможность сделать титры, стоимость 100000 драмов за обычный (1 месяц) или 135000 драмов за срочный (11-14 дней). Чтобы получить
-    эту цену скажите что вы из Можно сделать "Сертификат таможенного союза" и справки для выезда за границу. Есть зоомагазин Примерная стоимость услуг: Чипирование 8000 драм; Вакцинация без бешенства 12000
-    драм, с бешенством 15000 драм.'
+  hours: 'круглосуточно, по предварительному звонку'
+  note: >
+    Услуги: титры, рентген, УЗИ, зоомагазин, справки для путешествий. Чипирование 8000 драм; вакцинация 12000/15000;
+    титры 100000 (≈1 мес) или 135000 (11–14 дней) — скажите, что из чата «Армения с питомцем».
 - name: VetHome
   lat: 40.222354
   lng: 44.491217
@@ -102,19 +169,37 @@
   phone: +374 99 366788
   yandex_url: https://yandex.ru/maps/org/vethome/111774686048/
   url: https://www.facebook.com/vethomeyerevan
-  note: 'График работы: пн-сб с 11:00 до 20:00 Есть возможность сделать титры (150000 драмов). Можно сделать "Сертификат таможенного союза" и справки для выезда за границу.'
-- name: 'VetLine 🏥 🛍️ ✂️ '
+  hours: 'пн-сб с 11:00 до 20:00'
+  note: 'Титры (150000 драмов), справки для путешествий.'
+- name: VetLine
   lat: 40.200125
   lng: 44.492885
   address: просп. Комитаса, 6
   phone: +374 11 279999
   yandex_url: https://yandex.ru/maps/org/kruglosutochnaya_veterinarnaya_klinika_vetlayn/154801169156/
   url: https://www.facebook.com/vetlinearmenia/
-  note: 'График работы: круглосуточно Можно сделать "Сертификат таможенного союза" и справки для выезда за границу. Есть зоомагазин'
-- name: Yanvet Clinic
-  lat: 40.20276
-  lng: 44.522014
+  hours: 'круглосуточно'
+  note: 'УЗИ, зоомагазин, справки для путешествий.'
+- name: Ветеринарная клиника Национального аграрного университета
+  lat: 40.1886739
+  lng: 44.521798
+  address: ул. Терьяна, 68/6
+  phone: +374 91 419017
+  yandex_url: https://yandex.com/maps/org/144531491170/
+  note: 'Услуги: рентген.'
+- name: Yanvet Clinic — Азатутян
+  lat: 40.2027689
+  lng: 44.5219637
   address: просп. Азатутян, 9А
   phone: +374 93 720088
   yandex_url: https://yandex.ru/maps/org/yanvet_clinic/14410132829/
   url: https://yanvet.am
+  note: '⚠️ Много негативных отзывов о сети. Услуги: зоомагазин.'
+- name: Yanvet Clinic — Тигран Мец
+  lat: 40.1589826
+  lng: 44.5112145
+  address: просп. Тигран Мец, 52
+  phone: +374 93 720088
+  yandex_url: https://yandex.com/maps/org/241078159747/
+  url: https://yanvet.am
+  note: '⚠️ Много негативных отзывов о сети. Услуги: зоомагазин.'

@@ -24,14 +24,14 @@
   address: ул. Аветика Исаакяна, 38
   phone: +374 55 529277
   yandex_url: https://yandex.ru/maps/org/grin_bin/33792362159/
-  note: пн-вс 08:30-00:00
+  hours: пн-вс 08:30-00:00
 - name: Кафе №2
   lat: 40.739474
   lng: 44.864919
   address: ул. Максима Горького, 17/1
   phone: +374 60 700805
   yandex_url: https://yandex.ru/maps/org/cafe_2/222737698143/
-  note: 'пн-вс: 09-22'
+  hours: 'пн-вс: 09-22'
 - name: Кофейня Звездочка
   lat: 40.200301
   lng: 44.500047
@@ -79,7 +79,7 @@
   address: ул. Мясникяна, 33
   phone: +374 55 308998
   yandex_url: https://yandex.ru/maps/org/sovats_vozni/156793485090/
-  note: 'пн-вс: 10-23'
+  hours: 'пн-вс: 10-23'
 - name: Софист
   lat: 40.188828
   lng: 44.514965
@@ -100,7 +100,8 @@
   lng: 44.506634
   phone: +374 96 272701
   yandex_url: https://yandex.ru/maps/org/chayny_domik/167587794622/
-  note: 'Детский Парк пн-вс: 10-24 С собакой можно на веранду'
+  hours: 'Детский парк: пн-вс 10–24'
+  note: 'С собакой можно на веранду'
 - name: Aeon
   lat: 40.186267
   lng: 44.518238
@@ -118,7 +119,7 @@
   address: ул. Мартироса Сарьяна, 2/2
   phone: +374 11 779977
   yandex_url: https://yandex.ru/maps/org/avocado_queen_yerevan/59200775827/
-  note: 'пн-вс: 09-01'
+  hours: 'пн-вс: 09-01'
 - name: Aygi
   lat: 40.185173
   lng: 44.504789
@@ -160,7 +161,8 @@
   address: ул. Павстоса Бузанда, 13
   phone: +374 44 120112
   yandex_url: https://yandex.ru/maps/org/dors_kraft_biyer_end_kitchen/167907282429/
-  note: 'пн-вс: 11-24 С собакой можно на веранду.'
+  hours: 'пн-вс: 11-24'
+  note: 'С собакой можно на веранду.'
 - name: Eden by Verev
   lat: 40.189099
   lng: 44.514965
@@ -177,7 +179,8 @@
   address: ул. Алабяна, 2/2
   phone: +374 93 715303
   yandex_url: https://yandex.ru/maps/org/green_lanj/54281041477/
-  note: 'пн-вс: 12-24 Кафе в парке'
+  hours: 'пн-вс: 12-24'
+  note: 'Кафе в парке'
 - name: Greenpoint
   lat: 40.177045
   lng: 44.519219
@@ -189,7 +192,7 @@
   address: ул. Мартироса Сарьяна, 1
   phone: '+37441325000'
   yandex_url: https://yandex.ru/maps/org/ground_zero/187272188529/
-  note: пн-вс 08-24
+  hours: пн-вс 08-24
 - name: Grow time
   lat: 40.182484
   lng: 44.506645
@@ -201,7 +204,7 @@
   address: ул. Мартироса Сарьяна, 4
   phone: '+37441200041'
   yandex_url: https://yandex.ru/maps/org/hayk_coffee_roasters/151031274555/
-  note: пн-вс 9-24
+  hours: пн-вс 9-24
 - name: Holiday Inn Republic Square
   lat: 40.178771
   lng: 44.51128
@@ -215,7 +218,7 @@
   address: ул. Сарьяна, 16
   phone: +374 55 650610
   yandex_url: https://yandex.ru/maps/org/hummus_kimchi/10247476118/
-  note: 'пн-вс: 12-23'
+  hours: 'пн-вс: 12-23'
 - name: Juli’s
   lat: 40.184173
   lng: 44.510314
@@ -226,7 +229,8 @@
   lng: 44.510379
   address: ул. Московян, 36
   yandex_url: https://yandex.ru/maps/org/julios/100091795357/
-  note: пн-вс 09-24 Можно с собакой, приносят воду в миске.
+  hours: пн-вс 09-24
+  note: 'Можно с собакой, приносят воду в миске.'
 - name: Laboratory Specialty Coffee
   lat: 40.184587
   lng: 44.511677
@@ -243,7 +247,7 @@
   address: ул. Александра Таманяна, 5, Ереван
   phone: +374 93 330968
   yandex_url: https://yandex.ru/maps/org/mama_jan/161012235389/
-  note: пн-вс 11-23
+  hours: пн-вс 11-23
 - name: Odd Fashioned
   lat: 40.183304
   lng: 44.52247
@@ -265,7 +269,7 @@
   address: ул. Амиряна, 4/6
   phone: +374 95 300300
   yandex_url: https://yandex.ru/maps/org/prepa/46656616641/
-  note: пн-вс 08-23
+  hours: пн-вс 08-23
 - name: Shamam’s macarons
   lat: 40.80603
   lng: 44.490793

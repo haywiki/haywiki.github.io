@@ -1,41 +1,67 @@
 - name: BB Grooming Yerevan
   lat: 40.202526
-  lng: 44.494028
-  address: улица Гюльбенкяна, 39Б
+  lng: 44.493992
+  address: ул. Гюльбенкяна, 39Б
   phone: +374 55 105411
-  yandex_url: https://yandex.ru/maps/10262/yerevan/house/YE0Ycg5kSUUCQFpqfX5xc3hqZg==/
+  yandex_url: https://yandex.com/maps/org/184283936734/
   url: https://instagram.com/bb_grooming_yerevan
+  note: 'Услуги: груминг, зоотовары, перевозка питомцев.'
+- name: BarberDog
+  lat: 40.162984
+  lng: 44.423487
+  address: ул. Арама Хачатуряна, 3
+  yandex_url: https://yandex.com/maps/org/87112370678/
+  url: https://barber.dog/erevan/
+  hours: 'ПН–ВС 10:00–20:00'
+  note: 'Услуги: груминг, зоотовары.'
 - name: Diadella Pet Hotel & Grooming
   lat: 40.178025
   lng: 44.519917
-  address: улица Тпагричнери, 9
+  address: ул. Тпагричнери, 9
   phone: +37498818287 (whatsapp, viber), +37491818287
   yandex_url: https://yandex.ru/maps/10262/yerevan/house/YE0YcwVgSUEAQFpqfX12dnVhYQ==/
   url: https://www.facebook.com/profile.php?id=100064109612549
-  note: 'График работы: по предварительной записи Услуги: груминг, экспресс-линька, передержка (отель для животных).'
+  note: 'Услуги: зоогостиница / передержка.'
+- name: Groom
+  lat: 40.176397
+  lng: 44.518206
+  address: ул. Вардананц, 14/2
+  yandex_url: https://yandex.com/maps/org/184600025267/
+  url: https://groom.am/
+  note: 'Груминг, зоосадик/дневной присмотр, отель, такси/перевозка, аксессуары.'
+- name: Grooming House Armenia
+  lat: 40.170623
+  lng: 44.507955
+  address: просп. Аршакуняц, 2
+  yandex_url: https://yandex.com/maps/org/235700776961/
+  url: https://www.instagram.com/groominghousearmenia/
+  note: 'Груминг, зоотовары. Мастера: polly_grooming, finya_grooming, trexianaa.x.grooming (Instagram).'
 - name: Grooming Room
-  lat: 40.177295
-  lng: 44.503968
-  address: ул. Сурб Григора Лусаворича, 12
-  yandex_url: https://yandex.ru/maps/org/grooming_room/77335829117/
+  lat: 40.177256
+  lng: 44.503959
+  address: ул. Абовяна, 34А
+  yandex_url: https://yandex.com/maps/org/77335829117/
   url: https://www.groomingroom.biz
-  note: 'Услуги: груминг, экспресс-линька.'
-- name: Snoopy grooming салон
-  lat: 40.185517
-  lng: 44.519026
-  address: во дворе ул. Теряна, 54
-  phone: +37495170197 (whatsapp, viber)
-  yandex_url: https://yandex.ru/maps/10262/yerevan/house/YE0YcwZoQUwAQFpqfX15dH9kZw==/
-  url: https://instagram.com/snoopy_grooming_salon_studio/
-  note: 'График работы: по предварительной записи Услуги: груминг, экспресс-линька.'
-- name: VetLine 🏥 🛍️ ✂
-  lat: 40.200191
-  lng: 44.493095
+  note: 'Адрес на Лусаворича указан как устаревший.'
+- name: Joli — Авета Аветисяна
+  lat: 40.1992827
+  lng: 44.5035174
+  yandex_url: https://yandex.ru/maps/org/veterinarny_tsentr_dzholi/135151397057/
+  url: https://joli.am/
+- name: VetExpert
+  lat: 40.205138
+  lng: 44.526073
+  address: просп. Азатутян, 14
+  phone: +374 10 209966, моб. +374 96 209966
+  yandex_url: https://yandex.ru/maps/org/vet_ekspert/1861952348/
+  url: https://vetexpert.am/ru/
+- name: VetLine
+  lat: 40.200125
+  lng: 44.492885
   address: просп. Комитаса, 6
   phone: +374 11 279999
   yandex_url: https://yandex.ru/maps/org/kruglosutochnaya_veterinarnaya_klinika_vetlayn/154801169156/
   url: https://www.facebook.com/vetlinearmenia/
-  note: 'График работы: круглосуточно Можно сделать "Сертификат таможенного союза" и справки для выезда за границу. Есть зоомагазин'
 - name: Woof Grooming Salon
   lat: 40.197892
   lng: 44.521907
@@ -43,3 +69,4 @@
   phone: +374 98 389977
   yandex_url: https://yandex.ru/maps/org/woof/222409553566/
   url: https://www.instagram.com/woof.grooming.yerevan/
+  note: 'Груминг, зоотовары, вкусняшки.'

@@ -16,7 +16,7 @@ use_map: true
 ### Grooming House Armenia
 
 - <i class="fa-brands fa-instagram"></i> [groominghousearmenia](https://www.instagram.com/groominghousearmenia/)
-- 📍 [проспект Аршакуняц, 2](https://yandex.ru/maps/10262/yerevan/house/YE0YcwdnSUQEQFpqfX12cHplbA==/)
+- 📍 [проспект Аршакуняц, 2](https://yandex.com/maps/org/235700776961/)
 - Услуги: груминг, зоотовары.
 
 #### Работают мастера:
