@@ -12,7 +12,7 @@
 {% assign map_uid  = map_lat | append: "_" | append: map_lng | replace: ".", "_" %}
 {% assign layer_list = include.layers | default: "restaurants,hotels,shops,walks,vetclinics,grooming" | split: "," %}
 
-<div id="map-{{ map_uid }}" style="height: {{ include.height | default: '450px' }}; width: 100%;"></div>
+<div id="map-{{ map_uid }}" style="height: {{ include.height | default: '450px' }}; width: 100%; margin-bottom: 15px;"></div>
 
 <script>
 AnimalsMap.init('map-{{ map_uid }}', {{ map_lat }}, {{ map_lng }}, {{ map_zoom }}, [

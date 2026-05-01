@@ -17,12 +17,21 @@
   }
 
   function makePopup(p) {
-    var html = '<b>' + p.name + '</b>';
-    if (p.address)   html += '<br>' + p.address;
-    if (p.phone)     html += '<br>' + p.phone;
-    if (p.note)      html += '<br><small>' + p.note + '</small>';
-    if (p.yandex_url) html += '<br><a href="' + p.yandex_url + '" target="_blank" rel="noopener">Яндекс.Карты</a>';
-    if (p.url)       html += '<br><a href="' + p.url + '" target="_blank" rel="noopener">Сайт</a>';
+    var html = '<h4>' + p.name + '</h4>';
+    if (p.address) {
+      if (p.yandex_url) {
+        html += '<p><i class="fa fa-map-marker fa-fw"></i> <a href="' + p.yandex_url + '" target="_blank" rel="noopener">' + p.address + '</a></p>';
+      } else {
+        html += '<p><i class="fa fa-map-marker fa-fw"></i> ' + p.address + '</p>';
+      }
+    } else if (p.yandex_url) {
+      html += '<p><i class="fa fa-map-marker fa-fw"></i> <a href="' + p.yandex_url + '" target="_blank" rel="noopener">Яндекс.Карты</a></p>';
+    }
+    if (p.phone) {
+      html += '<p><i class="fa fa-phone fa-fw"></i> ' + p.phone + '</p>';
+    }
+    if (p.note)      html += '<p><small>' + p.note + '</small></p>';
+    if (p.url)       html += '<p><a href="' + p.url + '" target="_blank" rel="noopener">Сайт</a></p>';
     return html;
   }
 
