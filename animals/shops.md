@@ -91,7 +91,6 @@ use_map: true
 - 📍 [ул. Зоравара Андраника, 141/3](https://yandex.ru/maps/org/haf_haf/195960463870/)
 - 📍 [ул. Хахах Дони, 16/10](https://yandex.ru/maps/org/haf_haf/201474119722/)
 - 📍 [ул. Маршала Худякова, 177](https://yandex.ru/maps/org/haf_haf/128341921394/)
-- 📍 [ул. Маршала Худякова, 210/1](https://yandex.ru/maps/org/haf_haf/94777163354/)
 - 📍 [ул. Ерванда Кочара, 5/6](https://yandex.ru/maps/org/haf_haf/13302356123/)
 - Есть доставка через [Яндекс Еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf), [Glovo](https://glovoapp.com/am/en/yerevan/haf-haf-yer/) и [menu.am](https://menu.am/ru/shops/haf-haf)
 - Корма в продаже: Royal Canin, Belcando, Leonardo.
@@ -280,6 +279,7 @@ use_map: true
 - <i class="fa-brands fa-instagram"></i> [_dog_house](https://www.instagram.com/_dog_house/)
 - 📞 +374 93 635202
 - 📍 [ул. Вардананц, 15/3](https://yandex.ru/maps/org/fani_dog_khaus/207873306407/)
+- 📍 [улица Киевян, 1](https://yandex.com/maps/org/177018585360/)
 
 </div>
 </div>
@@ -292,7 +292,7 @@ use_map: true
 ### Haf-Haf в Раздане
 
 - 📞 +374 98 423423
-- 📍 [г. Раздан, пр-т Зоравара Андраника, 187](https://yandex.ru/maps/?text=44.767988,40.505510)
+- 📍 [г. Раздан, пр-т Зоравара Андраника, 187](https://yandex.com/maps/org/haf_haf/213116647339/)
 
 </div>
 <div class="card">
