@@ -212,3 +212,38 @@
   lng: 44.506384
   address: ул. Сарьяна, 20
   yandex_url: https://yandex.com/maps/org/107152199722/
+- name: Forty44
+  lat: 40.184780
+  lng: 44.510426
+  address: ул. Газара Парпеци, 16
+  phone: +374 44 394044
+  yandex_url: https://yandex.com/maps/org/137063449440/
+  hours: 'пн-чт 18:00-02:00, пт-вс 18:00-03:00'
+- name: Bastard Meat Bar
+  lat: 40.189707
+  lng: 44.514990
+  address: ул. Таманяна, 3
+  phone: +374 11 313333
+  yandex_url: https://yandex.com/maps/org/108552903861/
+  hours: пн-вс 12:00-00:00
+- name: Слоёнка (Папазяна)
+  lat: 40.204782
+  lng: 44.502143
+  address: ул. Ваграма Папазяна, 22/3
+  phone: +374 91 365281
+  yandex_url: https://yandex.com/maps/org/223988834425/
+  hours: 'пн-пт 08:00-23:00, сб-вс 09:00-23:00'
+- name: Слоёнка (Маштоца)
+  lat: 40.18889
+  lng: 44.517513
+  address: пр-кт Маштоца, 48
+  phone: +374 91 365281
+  yandex_url: https://yandex.com/maps/org/237293954119/
+  hours: 'пн-пт 08:00-23:00, сб-вс 09:00-23:00'
+- name: Mart Coffee
+  lat: 40.180015
+  lng: 44.511257
+  address: ул. Павстоса Бузанда, 17
+  phone: +374 99 096800
+  yandex_url: https://yandex.com/maps/org/231526803354/
+  hours: пн-вс 08:00-23:00

@@ -62,6 +62,11 @@ use_map: true
 - [Mango](https://yandex.com/maps/org/mango/216689555439/) ул. Сарьяна, 4
 - [Mango](https://yandex.com/maps/org/120708642580/) просп. Комитаса, 1
 - [Neko](https://yandex.com/maps/org/107152199722/) ул. Сарьяна, 20
+- [Forty44](https://yandex.com/maps/org/137063449440/) ул. Газара Парпеци, 16
+- [Bastard Meat Bar](https://yandex.com/maps/org/108552903861/) ул. Таманяна, 3
+- [Слоёнка](https://yandex.com/maps/org/223988834425/) ул. Ваграма Папазяна, 22/3
+- [Слоёнка](https://yandex.com/maps/org/237293954119/) пр-кт Маштоца, 48
+- [Mart Coffee](https://yandex.com/maps/org/231526803354/) ул. Павстоса Бузанда, 17
 
 ### Дилижан
 
