@@ -1,23 +1,3 @@
-- name: Бамбак гастро бистро
-  lat: 40.180287
-  lng: 44.509789
-  address: ул. Езника Кохбаци, 16
-  yandex_url: https://yandex.ru/maps/org/bambak_gastro_bistro/182415070258/
-- name: Бар 2022
-  lat: 40.182185
-  lng: 44.507627
-  address: просп. Маштоца, 15/3
-  yandex_url: https://yandex.ru/maps/org/bar_pab_2022/190846691013/
-- name: Бар Мир
-  lat: 40.17848
-  lng: 44.527851
-  address: ул Чаренца, 41
-  yandex_url: https://yandex.ru/maps/org/41678188129
-- name: Гадюка
-  lat: 40.173815
-  lng: 44.521794
-  address: ул. Вардананц, 78
-  yandex_url: https://yandex.ru/maps/org/gadyuka/128711950705/
 - name: Грин Бин
   lat: 40.189537
   lng: 44.515872
@@ -25,6 +5,11 @@
   phone: +374 55 529277
   yandex_url: https://yandex.ru/maps/org/grin_bin/33792362159/
   hours: пн-вс 08:30-00:00
+- name: Гадюка
+  lat: 40.173815
+  lng: 44.521794
+  address: ул. Вардананц, 78
+  yandex_url: https://yandex.ru/maps/org/gadyuka/128711950705/
 - name: Кафе №2
   lat: 40.739474
   lng: 44.864919
@@ -32,11 +17,6 @@
   phone: +374 60 700805
   yandex_url: https://yandex.ru/maps/org/cafe_2/222737698143/
   hours: 'пн-вс: 09-22'
-- name: Кофейня Звездочка
-  lat: 40.200301
-  lng: 44.500047
-  address: улица Грачья Кочара, 16/6
-  yandex_url: https://yandex.ru/maps/org/zvyozdochka/46251805689/
 - name: Кофейня Set
   lat: 40.186164
   lng: 44.508126
@@ -53,11 +33,6 @@
   address: ул. Мясникяна, 37/3
   phone: +374 41 886010
   yandex_url: https://yandex.ru/maps/org/kchuch/108116108720/
-- name: Назук
-  lat: 40.791013
-  lng: 43.849617
-  address: просп. Тиграна Меца, 8
-  yandex_url: https://yandex.ru/maps/org/nazuk/233693679120/
 - name: Отель и ресторан Дилиджаз
   lat: 40.778027
   lng: 44.926062
@@ -73,35 +48,11 @@
   lng: 44.869119
   address: ул. Мясникяна, 38
   yandex_url: https://yandex.ru/maps/org/90638762767
-- name: Совац Возни
-  lat: 40.738828
-  lng: 44.86582
-  address: ул. Мясникяна, 33
-  phone: +374 55 308998
-  yandex_url: https://yandex.ru/maps/org/sovats_vozni/156793485090/
-  hours: 'пн-вс: 10-23'
-- name: Софист
-  lat: 40.188828
-  lng: 44.514965
-  address: ул. Таманяна, 1
-  yandex_url: https://yandex.ru/maps/org/sofist/11726122465/
 - name: Сыроварня
   lat: 40.182078
   lng: 44.515325
   address: Северный пр-кт, 5
   yandex_url: https://yandex.ru/maps/org/syrovarnya_yerevan/98271868081/
-- name: Философия Т
-  lat: 40.188984
-  lng: 44.515722
-  address: ул. Таманяна, 2. Только веранда.
-  yandex_url: https://yandex.ru/maps/org/filosofiya_t/130549637020/
-- name: Чайный Домик
-  lat: 40.175894
-  lng: 44.506634
-  phone: +374 96 272701
-  yandex_url: https://yandex.ru/maps/org/chayny_domik/167587794622/
-  hours: 'Детский парк: пн-вс 10–24'
-  note: 'С собакой можно на веранду'
 - name: Aeon
   lat: 40.186267
   lng: 44.518238
@@ -120,41 +71,16 @@
   phone: +374 11 779977
   yandex_url: https://yandex.ru/maps/org/avocado_queen_yerevan/59200775827/
   hours: 'пн-вс: 09-01'
-- name: Aygi
-  lat: 40.185173
-  lng: 44.504789
-  address: ул. Фрика, 5
-  yandex_url: https://yandex.ru/maps/org/156929111478
-- name: Bagel shop
-  lat: 40.187562
-  lng: 44.518522
-  address: ул. Московян, 27
-  yandex_url: https://yandex.ru/maps/org/bagel_shop/91574702352/
-- name: Barev Cafe
-  lat: 40.185152
-  lng: 44.520957
-  address: ул. Абовяна, 32
-  yandex_url: https://yandex.ru/maps/org/barev_cafe/118542998137/
 - name: Borsch
   lat: 40.17834
   lng: 44.507166
   address: ул. Мовсеса Хоренаци, 9
   yandex_url: https://yandex.ru/maps/org/114885573520
-- name: CoffBerry
-  lat: 40.182537
-  lng: 44.51179
-  address: ул. Езника Кохбаци, 51
-  yandex_url: https://yandex.ru/maps/org/coffberry/98314495335/
-- name: Coffeel
-  lat: 40.189201
-  lng: 44.516156
-  address: ул. Туманяна, 2
-  yandex_url: https://yandex.ru/maps/org/182282830528
-- name: DOC Therapy Bar
-  lat: 40.182369
-  lng: 44.515014
-  phone: '+37444440333'
-  note: Красивое место в в центре Еревана с широким выбором европейских, латиноамериканских и азиатских блюд.
+- name: Doc
+  lat: 40.181369
+  lng: 44.514769
+  address: Северный просп., 5
+  yandex_url: https://yandex.com/maps/org/242400888073/
 - name: Dors Craft Beer & Kitchen
   lat: 40.180636
   lng: 44.510534
@@ -168,24 +94,6 @@
   lng: 44.514965
   address: ул. Таманяна, 1
   yandex_url: https://yandex.ru/maps/org/eden_by_verev/43346376324/
-- name: Gala Cidrerie
-  lat: 40.187308
-  lng: 44.508829
-  address: ул. Мартироса Сарьяна, 4
-  yandex_url: https://yandex.ru/maps/org/gala_cidrerie/215204009320/
-- name: Green lanj
-  lat: 40.190922
-  lng: 44.480606
-  address: ул. Алабяна, 2/2
-  phone: +374 93 715303
-  yandex_url: https://yandex.ru/maps/org/green_lanj/54281041477/
-  hours: 'пн-вс: 12-24'
-  note: 'Кафе в парке'
-- name: Greenpoint
-  lat: 40.177045
-  lng: 44.519219
-  address: ул. Вардананц, 11
-  yandex_url: https://yandex.ru/maps/org/greenpoint/142756023274/
 - name: Ground Zero
   lat: 40.187197
   lng: 44.509934
@@ -193,11 +101,6 @@
   phone: '+37441325000'
   yandex_url: https://yandex.ru/maps/org/ground_zero/187272188529/
   hours: пн-вс 08-24
-- name: Grow time
-  lat: 40.182484
-  lng: 44.506645
-  address: ул. Амиряна, 24
-  yandex_url: https://yandex.ru/maps/org/grow_time/230182055605/
 - name: Hayk Coffee Roasters
   lat: 40.187365
   lng: 44.508984
@@ -205,13 +108,6 @@
   phone: '+37441200041'
   yandex_url: https://yandex.ru/maps/org/hayk_coffee_roasters/151031274555/
   hours: пн-вс 9-24
-- name: Holiday Inn Republic Square
-  lat: 40.178771
-  lng: 44.51128
-  address: ул. Амиряна, 2
-  phone: '+37460833000'
-  yandex_url: https://yandex.ru/maps/org/holiday_inn_yerevan/19291316374/
-  note: Недельная плата за животное 50000 драм, даже если бронирование на одну ночь.
 - name: Hummus | Kimchi
   lat: 40.185623
   lng: 44.506946
@@ -219,23 +115,6 @@
   phone: +374 55 650610
   yandex_url: https://yandex.ru/maps/org/hummus_kimchi/10247476118/
   hours: 'пн-вс: 12-23'
-- name: Juli’s
-  lat: 40.184173
-  lng: 44.510314
-  address: ул. Пушкина, 39
-  yandex_url: https://yandex.ru/maps/org/218294597176
-- name: Julios
-  lat: 40.187804
-  lng: 44.510379
-  address: ул. Московян, 36
-  yandex_url: https://yandex.ru/maps/org/julios/100091795357/
-  hours: пн-вс 09-24
-  note: 'Можно с собакой, приносят воду в миске.'
-- name: Laboratory Specialty Coffee
-  lat: 40.184587
-  lng: 44.511677
-  address: просп. Маштоца, 29
-  yandex_url: https://yandex.ru/maps/org/laboratory_specialty_coffee/83652368598/
 - name: Letters and Numbers
   lat: 40.186619
   lng: 44.509939
@@ -248,11 +127,6 @@
   phone: +374 93 330968
   yandex_url: https://yandex.ru/maps/org/mama_jan/161012235389/
   hours: пн-вс 11-23
-- name: Odd Fashioned
-  lat: 40.183304
-  lng: 44.52247
-  address: ул. Микаэла Налбандяна, 37
-  yandex_url: https://yandex.ru/maps/org/odd_fashioned/165727752672/
 - name: Paul Armenia
   lat: 40.180513
   lng: 44.5154
@@ -275,44 +149,73 @@
   lng: 44.490793
   address: ул. Мясникяна, 19, Ванадзор
   yandex_url: https://yandex.ru/maps/org/shamam_s_macarons/180319484829/
-- name: Sola
-  lat: 40.188664
-  lng: 44.514928
-  address: ул. Александра Таманяна, 1А
-  yandex_url: https://yandex.ru/maps/org/sola/142981253078/
 - name: The Kliver Wineshop & Bar № 1
   lat: 40.741185
   lng: 44.839067
   address: ул. Калинина 236
   yandex_url: https://yandex.ru/maps/org/the_kliver_wineshop_bar_1/120952389606/
-- name: Tuntegh
-  lat: 40.179254
-  lng: 44.504778
-  address: просп. Маштоца, 5/4
-  yandex_url: https://yandex.ru/maps/org/tun_tekh/76749201043/
 - name: Vajrapar
   lat: 40.174385
   lng: 44.517712
   address: ул. Чайковского, 30
   yandex_url: https://yandex.ru/maps/org/198954613842
-- name: Vertigo Craft
-  lat: 40.18605
-  lng: 44.518093
-  address: ул. Теряна, 65
-  yandex_url: https://yandex.ru/maps/org/65667654893
-  note: (уже частично не дог-френдли, возможно исчезнет из списка)
-- name: Vochluys Vochmut
-  lat: 40.185841
-  lng: 44.50723
-  address: ул. Сарьяна, 16
-  yandex_url: https://yandex.ru/maps/org/voch_luys_voch_mut/69418624553/
-- name: Vooka
-  lat: 40.189238
-  lng: 44.514745
-  address: ул. Александра Таманяна, 1
-  yandex_url: https://yandex.ru/maps/org/vuka/101240953494/
+- name: Voch luys voch mut
+  lat: 40.185167
+  lng: 44.506375
+  address: ул. Сарьяна, 20
+  yandex_url: https://yandex.com/maps/org/174213239461/
 - name: Frank by Баста
   lat: 40.179136
   lng: 44.512734
   address: ул. Павстоса Бюзанда, 5
   yandex_url: https://yandex.ru/maps/org/frank_by_basta/113039833181/
+- name: 202°f
+  lat: 40.184147
+  lng: 44.519832
+  address: ул. Абовяна, 26
+  yandex_url: https://yandex.com/maps/org/215858180034/
+- name: Ferment
+  lat: 40.186
+  lng: 44.517945
+  address: ул. Теряна, 65
+  yandex_url: https://yandex.com/maps/org/161253472087/
+- name: Gargoyle & Кружок
+  lat: 40.180612
+  lng: 44.498677
+  address: ул. Рафаеля Исраеляна, 73
+  yandex_url: https://yandex.com/maps/org/84867664974/
+- name: Spot
+  lat: 40.186111
+  lng: 44.507121
+  address: ул. Сарьяна, 16с3
+  yandex_url: https://yandex.com/maps/org/24678354676/
+- name: Surf Coffee X Cascade
+  lat: 40.189046
+  lng: 44.514927
+  address: ул. Таманяна, 1
+  yandex_url: https://yandex.com/maps/org/surf_coffee_x_cascade/128477620786/
+- name: Surf Coffee X Tumanyan
+  lat: 40.180764
+  lng: 44.519329
+  address: ул. Налбандяна, 98
+  yandex_url: https://yandex.com/maps/org/235371465522/
+- name: Surf Coffee X 404
+  lat: 40.187089
+  lng: 44.509716
+  address: ул. Сарьяна, 1
+  yandex_url: https://yandex.com/maps/org/131678962541/
+- name: Mango (Saryan)
+  lat: 40.187399
+  lng: 44.508953
+  address: ул. Сарьяна, 4
+  yandex_url: https://yandex.com/maps/org/mango/216689555439/
+- name: Mango (Komitas)
+  lat: 40.200977
+  lng: 44.493358
+  address: просп. Комитаса, 1
+  yandex_url: https://yandex.com/maps/org/120708642580/
+- name: Neko
+  lat: 40.186483
+  lng: 44.506384
+  address: ул. Сарьяна, 20
+  yandex_url: https://yandex.com/maps/org/107152199722/

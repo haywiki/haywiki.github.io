@@ -8,7 +8,7 @@ display_stale_warning: false
 use_map: true
 ---
 
-{%- include animals-map.html layers="vetclinics,grooming" zoom="11" lat="40.2012" lng="44.5199" -%}
+{%- include animals-map.html layers="vetclinics" zoom="11" lat="40.2012" lng="44.5199" -%}
 
 ## Клиники в Ереване {#yerevan}
 
