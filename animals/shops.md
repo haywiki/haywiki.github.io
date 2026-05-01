@@ -4,6 +4,7 @@ layout: page
 parent_title: Жизнь с питомцем
 parent_url: /animals/
 display_toc: false
+use_map: true
 ---
 
 В Ереване есть множество зоомагазинов, но по сравнению с Россией есть некоторые особенности.
@@ -18,7 +19,7 @@ display_toc: false
 
 ## Карта зоомагазинов
 
-{%- include animals-map.md layers="2480563" location="12/40.2012/44.5199" -%}
+{%- include animals-map.html layers="shops" zoom="12" lat="40.2012" lng="44.5199" -%}
 
 ## Крупнейшие зоомагазины
 

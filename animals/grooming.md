@@ -5,9 +5,10 @@ parent_title: Жизнь с питомцем
 parent_url: /animals/
 display_toc: false
 display_stale_warning: false
+use_map: true
 ---
 
-{%- include animals-map.md layers="2480573" location="13/40.1857/44.5145" -%}
+{%- include animals-map.html layers="grooming" zoom="13" lat="40.1857" lng="44.5145" -%}
 
 <div class="cards list-emoji">
 <div class="card">

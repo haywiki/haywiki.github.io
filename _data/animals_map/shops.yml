@@ -1,0 +1,245 @@
+- name: Джоли — зоомагазин
+  lat: 40.201121
+  lng: 44.522084
+  address: просп. Азатутян, 8
+  yandex_url: https://yandex.ru/maps/org/dzholi/236619928303/
+  url: https://joli.am
+- name: Джоли — зоомагазин
+  lat: 40.188787
+  lng: 44.518045
+  address: ул. Аветика Исаакяна, 41
+  yandex_url: https://yandex.ru/maps/org/zu_market/119280468507/
+  url: https://joli.am
+- name: Мир хвостатых
+  lat: 40.787475
+  lng: 43.843786
+  yandex_url: https://yandex.ru/maps/org/mir_khvostatykh/17380324135/
+  note: Есть корма Monge, Brit
+- name: Фани Дог Хаус
+  lat: 40.174373
+  lng: 44.521392
+  address: ул. Вардананц, 15/3
+  phone: +374 93 635202
+  yandex_url: https://yandex.ru/maps/org/fani_dog_khaus/207873306407/
+  url: https://www.instagram.com/_dog_house/
+- name: AmiryanVet
+  lat: 40.180164
+  lng: 44.509209
+  address: ул. Амиряна, 10
+  phone: +374 95 560119
+  yandex_url: https://yandex.ru/maps/org/amiryanvet/209808278094/
+  url: https://instagram.com/amiryanvet/
+  note: 'Корма в продаже: Purina / Pro Plan'
+- name: Animal Care Center
+  lat: 40.182443
+  lng: 44.504542
+  address: 📍 улица Сарьяна, 28/4
+  yandex_url: https://yandex.ru/maps/10262/yerevan/house/YE0YcwdkTEYEQFpqfX15c3ljYw==/
+  url: https://www.instagram.com/animal_care__center
+  note: 📞 +374 33 554409
+- name: Darphin’s Store — зоомагазин и кото-отель
+  lat: 40.198691
+  lng: 44.478654
+  address: улица Алабяна, 39
+  phone: +374 94 517333
+  yandex_url: https://yandex.ru/maps/10262/yerevan/house/YE0YcgBoTEwOQFpqfX14eXpkYg==
+  url: https://instagram.com/darphins_store
+- name: Forest Voices zoo market
+  lat: 40.203821
+  lng: 44.501866
+  address: проспект Комитаса, 30
+  phone: +374 77 288098
+  yandex_url: https://yandex.ru/maps/org/forest_voices_zoomagazin/99596547688/
+  url: https://www.facebook.com/zoomarket1/about
+  note: 'Корма в продаже: Monge, Royal Canin'
+- name: Forest Voices zoo market
+  lat: 40.185603
+  lng: 44.521472
+  address: проспект Комитаса, 30
+  phone: +374 77 288098
+  yandex_url: https://yandex.ru/maps/org/forest_voices_zoomagazin/99596547688/
+  url: https://www.facebook.com/zoomarket1/about
+  note: 'Корма в продаже: Monge, Royal Canin'
+- name: Haf-Haf
+  lat: 40.197089
+  lng: 44.492993
+  yandex_url: https://yandex.ru/maps/10262/yerevan/search/Haf-Haf/
+  url: https://haf-haf.am/ru/ — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены
+  note: 'У магазина есть доставка через приложение [яндекс еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf) Корма в продаже: Royal Canin.'
+- name: Haf-Haf
+  lat: 40.186918
+  lng: 44.5232
+  yandex_url: https://yandex.ru/maps/10262/yerevan/search/Haf-Haf/
+  url: https://haf-haf.am/ru/ — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены
+  note: 'У магазина есть доставка через приложение [яндекс еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf) Корма в продаже: Royal Canin.'
+- name: Haf-Haf
+  lat: 40.17193
+  lng: 44.518881
+  yandex_url: https://yandex.ru/maps/10262/yerevan/search/Haf-Haf/
+  url: https://haf-haf.am/ru/ — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены
+  note: 'У магазина есть доставка через приложение [яндекс еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf) Корма в продаже: Royal Canin.'
+- name: Haf-Haf
+  lat: 40.180173
+  lng: 44.508378
+  yandex_url: https://yandex.ru/maps/10262/yerevan/search/Haf-Haf/
+  url: https://haf-haf.am/ru/ — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены
+  note: 'У магазина есть доставка через приложение [яндекс еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf) Корма в продаже: Royal Canin.'
+- name: Haf-Haf
+  lat: 40.166125
+  lng: 44.443104
+  yandex_url: https://yandex.ru/maps/10262/yerevan/search/Haf-Haf/
+  url: https://haf-haf.am/ru/ — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены
+  note: 'У магазина есть доставка через приложение [яндекс еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf) Корма в продаже: Royal Canin.'
+- name: Hafo.am
+  lat: 40.214083
+  lng: 44.519573
+  address: улица Капанцяна, 1/3
+  phone: +374 93 577177
+  yandex_url: https://yandex.ru/maps/10262/yerevan/house/YE0YcwZpT0EEQFpqfX5wdXxkZA==/
+  note: 'Корма в продаже: Monge, Mr.Buffalo, Acana, Orijen'
+- name: IV Kusto ZOOmarket
+  lat: 40.178127
+  lng: 44.50679
+  address: ул. Мовсеса Хоренаци, 8
+  phone: +374 44 045550
+  yandex_url: https://yandex.com/maps/org/iv_kusto_zoomarket/202741363289/
+  url: https://www.facebook.com/ivkustozoomarket
+  note: 'Корма в продаже: Monge, Royal Canin, Simba'
+- name: Joli — зоомагазин и ветклиника
+  lat: 40.199035
+  lng: 44.503577
+  yandex_url: https://yandex.ru/maps/org/veterinarny_tsentr_dzholi/135151397057/
+  url: https://joli.am/ — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены.
+  note: 'Корма в продаже: Brit, Monge.'
+- name: Kakadu
+  lat: 40.183255
+  lng: 44.510207
+  yandex_url: https://yandex.ru/maps/10262/yerevan/search/Kakadu/
+  url: https://kakadu.am — на сайте указаны адреса и контактные телефоны
+  note: 'Корма в продаже: Monge, Acana, Orijen.'
+- name: Kakadu
+  lat: 40.206394
+  lng: 44.514788
+  yandex_url: https://yandex.ru/maps/10262/yerevan/search/Kakadu/
+  url: https://kakadu.am — на сайте указаны адреса и контактные телефоны
+  note: 'Корма в продаже: Monge, Acana, Orijen.'
+- name: Kakadu
+  lat: 40.195688
+  lng: 44.494307
+  yandex_url: https://yandex.ru/maps/10262/yerevan/search/Kakadu/
+  url: https://kakadu.am — на сайте указаны адреса и контактные телефоны
+  note: 'Корма в продаже: Monge, Acana, Orijen.'
+- name: Kakadu
+  lat: 40.188697
+  lng: 44.524262
+  yandex_url: https://yandex.ru/maps/10262/yerevan/search/Kakadu/
+  url: https://kakadu.am — на сайте указаны адреса и контактные телефоны
+  note: 'Корма в продаже: Monge, Acana, Orijen.'
+- name: Kakadu
+  lat: 40.208229
+  lng: 44.527958
+  address: просп. Азатутян, 23
+  yandex_url: https://yandex.ru/maps/org/kakadu_/121408506787/
+- name: Nemo — интернет-магазин с доставкой
+  lat: 40.176631
+  lng: 44.50436
+  address: Магазин на карте
+  yandex_url: https://yandex.ru/maps/org/nemo/191697089221/
+  url: https://nemo.am/ — на сайте можно заказать доставку.
+  note: 'Корма в продаже: Royal Canin, Acana, Purina ProPlan, Mr.Buffalo, Monge, Orijen, bonmascota и другие'
+- name: PetCity
+  lat: 40.215407
+  lng: 44.561829
+  address: Магазины на карте
+  yandex_url: https://yandex.ru/maps/10262/yerevan/search/PetCity/
+  url: https://petcity.am/ru/homepage-2 — на сайте можно заказать доставку.
+  note: 'Корма в продаже: Royal Canin, Purina ProPlan, Monge, Acana, Farmina VetLife, N&D и другие'
+- name: PetCity
+  lat: 40.145306
+  lng: 44.522443
+  address: Магазины на карте
+  yandex_url: https://yandex.ru/maps/10262/yerevan/search/PetCity/
+  url: https://petcity.am/ru/homepage-2 — на сайте можно заказать доставку.
+  note: 'Корма в продаже: Royal Canin, Purina ProPlan, Monge, Acana, Farmina VetLife, N&D и другие'
+- name: PetCity
+  lat: 40.212859
+  lng: 44.520641
+  address: Магазины на карте
+  yandex_url: https://yandex.ru/maps/10262/yerevan/search/PetCity/
+  url: https://petcity.am/ru/homepage-2 — на сайте можно заказать доставку.
+  note: 'Корма в продаже: Royal Canin, Purina ProPlan, Monge, Acana, Farmina VetLife, N&D и другие'
+- name: Quercus — зоомагазин и ветклиника
+  lat: 40.186234
+  lng: 44.511639
+  address: ул. Казара Парпеци, 17/3
+  phone: +374 10 537602
+  yandex_url: https://yandex.ru/maps/org/quercus_vet_clinic_zoosalon/181982950255/
+  url: https://www.instagram.com/vet.clinic_quercus/
+  note: 'Корма в продаже: Monge'
+- name: Royal Canin в Дилижане
+  lat: 40.753694
+  lng: 44.896649
+  address: г. Дилижан, ул. Шаумяна 28/3
+  phone: +374 96 966346
+  yandex_url: https://yandex.ru/maps/org/royal_canin/125821415154/
+- name: Urban Pet Shop
+  lat: 40.197728
+  lng: 44.474555
+  url: https://www.facebook.com/UrbanPetShopArmenia/
+  note: 'Корма в продаже: Royal Canin, Monge, Bonmascota, Lapa, Jackpet, Dog&dog'
+- name: Urban Pet Shop
+  lat: 40.197183
+  lng: 44.567295
+  address: https://www.facebook.com/UrbanPetShopArmenia/
+  note: 'Корма в продаже: Royal Canin, Monge, Bonmascota, Lapa, Jackpet, Dog&dog'
+- name: Urban Pet Shop
+  lat: 40.14239
+  lng: 44.520877
+  note: '[UrbanPetShopArmenia|https://www.facebook.com/UrbanPetShopArmenia/]] Корма в продаже: Royal Canin, Monge, Bonmascota, Lapa, Jackpet, Dog&dog'
+- name: Zoo Mall
+  lat: 40.183996
+  lng: 44.516194
+  address: Магазин на карте
+  yandex_url: https://goo.gl/maps/a9LGfFGQkHstkQuy6
+  url: https://zoomall.am/
+  note: 'Корма в продаже: Royal Canin, Monge, Acana'
+- name: Zoo Market Zooashxarh
+  lat: 40.194577
+  lng: 44.487961
+  address: ул. Киевян, 12
+  phone: +374 93 528877
+  yandex_url: https://yandex.ru/maps/org/180669891281/
+  url: https://zoomarket.am/
+  note: 'Корма в продаже: Monge, Royal Canin'
+- name: Zoo Market Zooashxarh
+  lat: 40.169897
+  lng: 44.5168
+  address: ул. Киевян, 12
+  phone: +374 93 528877
+  yandex_url: https://yandex.ru/maps/org/180669891281/
+  url: https://zoomarket.am/
+  note: 'Корма в продаже: Monge, Royal Canin'
+- name: Zoo Market Zooashxarh
+  lat: 40.217328
+  lng: 44.562322
+  address: ул. Киевян, 12
+  phone: +374 93 528877
+  yandex_url: https://yandex.ru/maps/org/180669891281/
+  url: https://zoomarket.am/
+  note: 'Корма в продаже: Monge, Royal Canin'
+- name: Zoo Shop
+  lat: 40.185591
+  lng: 44.508222
+  address: Магазин на карте
+  phone: +374 95 049905
+  yandex_url: https://yandex.ru/maps/org/zoo_shop/16779486277/
+  url: https://instagram.com/zooshop_yerevan/
+  note: 'Корма в продаже: Royal Canin, Monge'
+- name: Zoovet.am
+  lat: 40.202182
+  lng: 44.499403
+  address: ул. Вагарша Вагаршяна, 20
+  phone: +374 93 577177
+  yandex_url: https://yandex.ru/maps/org/zoovet/9352431732/
+  url: https://zoovet.am
+  note: 'Корма в продаже: Monge, Acana, Brit, Bonmascota, Royal Canin, Purina, Orijen'

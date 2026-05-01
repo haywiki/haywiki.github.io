@@ -5,9 +5,10 @@ parent_title: Жизнь с питомцем
 parent_url: /animals/
 display_toc: false
 display_stale_warning: false
+use_map: true
 ---
 
-{%- include animals-map.md layers="2480568,2480573" location="11/40.2012/44.5199" -%}
+{%- include animals-map.html layers="vetclinics,grooming" zoom="11" lat="40.2012" lng="44.5199" -%}
 
 ## Клиники в Ереване {#yerevan}
 

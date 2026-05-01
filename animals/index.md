@@ -3,6 +3,7 @@ title: Жизнь с собакой или кошкой в Армении
 layout: page
 display_toc: false
 display_stale_warning: false
+use_map: true
 ---
 
 <a class="btn btn-shortcut" href="/animals/map.html"><span>🗺</span><br> Pet-friendly карта</a>
@@ -51,7 +52,7 @@ display_stale_warning: false
 
 ## Где гулять? Куда сходить с собакой?
 
-{%- include animals-map.md layers="2480593,2480567" -%}
+{%- include animals-map.html layers="restaurants,walks" -%}
 
 ## Бродячие собаки в Армении
 

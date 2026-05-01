@@ -31,6 +31,18 @@
     }
   }
 
+  .leaflet-container {
+    img {
+      padding: 0;
+      border: 0;
+      border-radius: 0;
+      width: auto;
+      height: auto;
+      max-width: none;
+      box-shadow: none;
+    }
+  }
+
   img {
     padding: .25rem;
     border: 1px solid $grey-color-light;

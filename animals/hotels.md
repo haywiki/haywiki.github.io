@@ -5,9 +5,10 @@ parent_title: Жизнь с питомцем
 parent_url: /animals/
 display_toc: false
 display_stale_warning: false
+use_map: true
 ---
 
-{%- include animals-map.md layers="2480575" location="12/40.2012/44.5199" -%}
+{%- include animals-map.html layers="hotels" zoom="12" lat="40.2012" lng="44.5199" -%}
 
 Обратите внимание, могут быть ограничения на вес и количество животных, а также дополнительная плата. Эту информацию можно
 узнать только в самой гостинице.

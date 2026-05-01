@@ -4,6 +4,7 @@ layout: page
 parent_title: Жизнь с питомцем
 parent_url: /animals/
 display_toc: false
+use_map: true
 ---
 
 На карте отмечены:
@@ -18,15 +19,15 @@ display_toc: false
 
 ## Ереван
 
-{%- include animals-map.md height="600px" location="12/40.2012/44.5199" -%}
+{%- include animals-map.html height="600px" zoom="12" lat="40.2012" lng="44.5199" -%}
 
 ## Дилижан
 
-{%- include animals-map.md height="600px" location="12/40.7438/44.8546" -%}
+{%- include animals-map.html height="600px" zoom="12" lat="40.7438" lng="44.8546" -%}
 
 ## Гюмри
 
-{%- include animals-map.md height="600px" location="15/40.7853/43.8474" -%}
+{%- include animals-map.html height="600px" zoom="15" lat="40.7853" lng="43.8474" -%}
 
 ## Рестораны и кафе {#cafe}
 

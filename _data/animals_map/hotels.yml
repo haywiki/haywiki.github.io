@@ -1,0 +1,143 @@
+- name: Апага Резорт
+  lat: 40.915738
+  lng: 45.078943
+  yandex_url: https://yandex.ru/maps/org/apaga_rezort/74778723297/
+  url: http://www.apaga.info/
+- name: Бутик отель Овер
+  lat: 40.744014
+  lng: 44.852892
+  address: ул Андраники 3-й пер., дом 1
+  phone: +374 95 920091
+  yandex_url: https://yandex.ru/maps/org/butik_otel_over/179643072999/
+- name: Гостевой дом Кесабелла
+  lat: 40.1641
+  lng: 44.413267
+  address: улица Ереванян, 3, Паракар
+  phone: '+37498001986'
+  yandex_url: https://yandex.ru/maps/org/gostevoy_dom_kesabella/234786492198/
+- name: Гостиница Венеция
+  lat: 40.155934
+  lng: 44.52114
+  address: улица Мовсеса Хоренаци, 217/19
+  phone: '+37410570102'
+  yandex_url: https://yandex.ru/maps/org/venetsiya/166723620307/
+- name: Гостиница Режинэ
+  lat: 40.184378
+  lng: 44.53299
+  address: ул. Норки Айгинер, 235/1
+  phone: '+37410655939'
+  yandex_url: https://yandex.ru/maps/org/rezhine/28907706121/
+- name: Ереван Плейс (ex Hyatt Place)
+  lat: 40.176172
+  lng: 44.512879
+  address: ул. Вазгена Саргсяна, 26/1
+  phone: '+37411221234'
+  yandex_url: https://yandex.ru/maps/org/yerevan_pleys/6494473678/
+- name: Концепт-отель by Coaf
+  lat: 40.925689
+  lng: 44.64016
+  yandex_url: https://yandex.ru/maps/org/kontsept_otel_by_coaf/72601532586/
+  url: https://concepthotel.am
+- name: Кросс Резорт Ереван
+  lat: 40.222477
+  lng: 44.459342
+  address: ш. Аштараки, 50-1
+  phone: '+37494777077'
+  yandex_url: https://yandex.ru/maps/org/kross_rezort_yerevan/1193096505/
+- name: Отель Арцах
+  lat: 40.151813
+  lng: 44.503582
+  address: ул. Севана, 116
+  phone: '+37410449939'
+  yandex_url: https://yandex.ru/maps/org/otel_artsakh/223875545819/
+- name: Отель и ресторан Дилиджаз
+  lat: 40.778019
+  lng: 44.926239
+  address: село Техут
+  yandex_url: https://yandex.ru/maps/org/32685331959
+- name: Отель Република Ереван
+  lat: 40.179361
+  lng: 44.509247
+  address: ул. Амиряна, 7/1
+  phone: '+37411990000'
+- name: Тун Армени
+  lat: 40.743091
+  lng: 44.872831
+  yandex_url: https://yandex.ru/maps/org/tun_armeni/15945983303/
+  note: сайт toonarmeni.am
+- name: Albert House
+  lat: 40.166622
+  lng: 44.514064
+  address: ул. Заваряна, 12/1
+  phone: +374 0561114
+  yandex_url: https://yandex.ru/maps/org/albert_house/224294205229/
+- name: Armenian Camp
+  lat: 40.486469
+  lng: 45.366905
+  yandex_url: https://yandex.ru/maps/org/armenian_camp/134656821372/
+- name: Best Western Plus Congress Hotel
+  lat: 40.175369
+  lng: 44.508839
+  address: ул. Италии, 1
+  yandex_url: https://yandex.ru/maps/org/best_western_plus_congress_hotel/1078761583/
+  note: Максимальный вес питомца — 5 кг. Не очень френдли.
+- name: Communa Guest House
+  lat: 40.787914
+  lng: 43.839961
+  yandex_url: https://yandex.ru/maps/org/communa/224566142076/
+  url: https://www.instagram.com/communagyumri/
+- name: DiliVita Rest House
+  lat: 40.731755
+  lng: 45.004699
+  address: село Гош, неподалеку от Дилижана
+  phone: '+37498776477'
+  yandex_url: https://yandex.ru/maps/org/dilivita_rest_house/236966451280/
+- name: glampingpark.am
+  lat: 40.776894
+  lng: 44.581103
+  yandex_url: https://yandex.ru/maps/org/glamping_park/60923708256/
+  note: инстаграм https://www.instagram.com/glampingpark.am/
+- name: Grand Resort Jermuk
+  lat: 39.839197
+  lng: 45.666282
+  yandex_url: https://yandex.ru/maps/org/grand_resort_jermuk/202669564876/
+  note: сайт https://www.grandresortjermuk.com/ru/
+- name: Harsnadzor Eco Resort
+  lat: 39.398679
+  lng: 46.280218
+  address: село Татев
+  phone: '+37477062032'
+  yandex_url: https://yandex.ru/maps/org/harsnadzor_eco_resort/148323819074/
+- name: Ibis Ереван центр
+  lat: 40.181263
+  lng: 44.515223
+  address: Северный проспект 5/1
+  phone: '+37410595959'
+  note: Доплата за животное 5000 драмов.
+- name: Matevosyan's Rest House
+  lat: 40.769801
+  lng: 44.612893
+  yandex_url: https://yandex.ru/maps/org/matevosyan_s_rest_house/194029366022/
+  url: https://www.booking.com/hotel/am/matevosyan-s-rest-house.en-gb.html
+- name: Opera Suite Hotel
+  lat: 40.189271
+  lng: 44.512444
+  address: улица Рафаэла Лемкина, 1
+  phone: '+37411201000'
+  yandex_url: https://yandex.ru/maps/org/opera_suite_hotel/147894966895/
+- name: Rest house Dilijan
+  lat: 40.744115
+  lng: 44.82917
+  yandex_url: https://yandex.ru/maps/org/rest_house_dilijan/34777147882/
+  note: телефон +37498020950.
+- name: Verin Tun
+  lat: 40.751162
+  lng: 44.893296
+  yandex_url: https://yandex.ru/maps/org/verin_tun/53711938211/
+  note: телефон +37443050077
+- name: WishUp Shore
+  lat: 40.504092
+  lng: 45.250347
+  yandex_url: https://yandex.ru/maps/org/vishap_plyazh/5810108409/
+  url: https://instagram.com/wishupshore
+  note: Палаточный лагерь и есть несколько домиков. Бронирование через инстаграм

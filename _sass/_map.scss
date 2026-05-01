@@ -1,0 +1,102 @@
+// Marker dot used by makeIcon()
+.map-marker-dot {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: 2.5px solid #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+
+  i {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 11px;
+    line-height: 1;
+  }
+
+  &--red    { background: #e74c3c; }
+  &--orange { background: #FFA500; }
+  &--green  { background: #27ae60; }
+}
+
+// Polygon classes for walks layer (SVG path elements)
+@mixin polygon-color($color) {
+  fill: $color !important;
+  stroke: $color !important;
+}
+
+.map-polygon--red    { @include polygon-color(#e74c3c); }
+.map-polygon--orange { @include polygon-color(#FFA500); }
+.map-polygon--walks  { @include polygon-color(#27ae60); }
+
+// Cluster icon — transparent wrapper, SVG draws its own shape
+.map-cluster-icon {
+  background: transparent !important;
+  border: none !important;
+}
+
+// Toggle button (looks like a Leaflet zoom button)
+.map-filter-toggle {
+  width: 26px;
+  height: 26px;
+  background: #fff;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4);
+  cursor: pointer;
+  font-size: 14px;
+  color: #333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.15s;
+
+  &:hover { background: #f4f4f4; }
+}
+
+// Collapsible panel — hidden until wrap has --open modifier
+.map-filter-panel {
+  display: none;
+  flex-direction: column;
+  gap: 4px;
+  padding: 6px;
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+
+  .map-filter-wrap--open & { display: flex; }
+}
+
+// Individual layer toggle buttons
+.map-filter-btn {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 5px 10px;
+  border: 2px solid var(--layer-color);
+  border-radius: 4px;
+  background: #fff;
+  color: var(--layer-color);
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.15s, color 0.15s;
+
+  i { width: 14px; text-align: center; }
+
+  &--active {
+    background: var(--layer-color);
+    color: #fff;
+  }
+}
+
+.leaflet-control .fa-location-crosshairs {
+  font-size: 14px;
+  line-height: 30px;
+  display: block;
+  text-align: center
+}

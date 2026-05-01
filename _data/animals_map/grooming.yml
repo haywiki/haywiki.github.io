@@ -1,0 +1,45 @@
+- name: BB Grooming Yerevan
+  lat: 40.202526
+  lng: 44.494028
+  address: улица Гюльбенкяна, 39Б
+  phone: +374 55 105411
+  yandex_url: https://yandex.ru/maps/10262/yerevan/house/YE0Ycg5kSUUCQFpqfX5xc3hqZg==/
+  url: https://instagram.com/bb_grooming_yerevan
+- name: Diadella Pet Hotel & Grooming
+  lat: 40.178025
+  lng: 44.519917
+  address: улица Тпагричнери, 9
+  phone: +37498818287 (whatsapp, viber), +37491818287
+  yandex_url: https://yandex.ru/maps/10262/yerevan/house/YE0YcwVgSUEAQFpqfX12dnVhYQ==/
+  url: https://www.facebook.com/profile.php?id=100064109612549
+  note: 'График работы: по предварительной записи Услуги: груминг, экспресс-линька, передержка (отель для животных).'
+- name: Grooming Room
+  lat: 40.177295
+  lng: 44.503968
+  address: ул. Сурб Григора Лусаворича, 12
+  yandex_url: https://yandex.ru/maps/org/grooming_room/77335829117/
+  url: https://www.groomingroom.biz
+  note: 'Услуги: груминг, экспресс-линька.'
+- name: Snoopy grooming салон
+  lat: 40.185517
+  lng: 44.519026
+  address: во дворе ул. Теряна, 54
+  phone: +37495170197 (whatsapp, viber)
+  yandex_url: https://yandex.ru/maps/10262/yerevan/house/YE0YcwZoQUwAQFpqfX15dH9kZw==/
+  url: https://instagram.com/snoopy_grooming_salon_studio/
+  note: 'График работы: по предварительной записи Услуги: груминг, экспресс-линька.'
+- name: VetLine 🏥 🛍️ ✂
+  lat: 40.200191
+  lng: 44.493095
+  address: просп. Комитаса, 6
+  phone: +374 11 279999
+  yandex_url: https://yandex.ru/maps/org/kruglosutochnaya_veterinarnaya_klinika_vetlayn/154801169156/
+  url: https://www.facebook.com/vetlinearmenia/
+  note: 'График работы: круглосуточно Можно сделать "Сертификат таможенного союза" и справки для выезда за границу. Есть зоомагазин'
+- name: Woof Grooming Salon
+  lat: 40.197892
+  lng: 44.521907
+  address: ул. Бабаяна, 6/Г
+  phone: +374 98 389977
+  yandex_url: https://yandex.ru/maps/org/woof/222409553566/
+  url: https://www.instagram.com/woof.grooming.yerevan/
