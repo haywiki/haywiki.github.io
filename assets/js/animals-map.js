@@ -30,11 +30,15 @@
     if (p.phone) {
       html += '<p><i class="fa fa-phone fa-fw"></i> ' + p.phone + '</p>';
     }
+    if (p.url) {
+      html += '<p><i class="fa fa-link fa-fw"></i> <a href="' + p.url + '" target="_blank" rel="noopener">Сайт</a></p>';
+    }
     if (p.hours) {
       html += '<p><i class="fa fa-clock fa-fw"></i> ' + p.hours + '</p>';
     }
-    if (p.note)      html += '<p><small>' + p.note + '</small></p>';
-    if (p.url)       html += '<p><a href="' + p.url + '" target="_blank" rel="noopener">Сайт</a></p>';
+    if (p.note) {
+      html += '<p>' + p.note + '</p>';
+    }
     return html;
   }
 
