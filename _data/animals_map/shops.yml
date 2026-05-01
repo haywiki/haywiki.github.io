@@ -282,6 +282,13 @@
   phone: +374 33 966326
   yandex_url: https://yandex.com/maps/org/zooeco/121152185646/
   note: 'Большой выбор товаров, аквариумистика'
+- name: Zoo Pharm
+  lat: 40.205218
+  lng: 44.531238
+  address: ул. Мамиконянц, 19
+  phone: +374 91 911065
+  yandex_url: https://yandex.ru/maps/org/zoo_pharm/19159260628/
+  note: 'Ветаптека и зоотовары'
 - name: Woofy Complex Center
   lat: 40.154514
   lng: 44.479264
@@ -290,12 +297,20 @@
   yandex_url: https://yandex.com/maps/org/woofy_complex_center/206725242078/
   types: [grooming, hotels]
   note: 'Зоомагазин, груминг, детский сад и отель для животных'
-- name: Фани Дог Хаус
+- name: Funny Dog Shop & Grooming — Вардананц
   lat: 40.174373
   lng: 44.521392
   address: ул. Вардананц, 15/3
   phone: +374 93 635202
   yandex_url: https://yandex.ru/maps/org/fani_dog_khaus/207873306407/
+  url: https://www.instagram.com/_dog_house/
+  types: [grooming]
+- name: Funny Dog Shop & Grooming — Киевян
+  lat: 40.193245
+  lng: 44.484830
+  address: ул. Киевян, 1
+  phone: +374 93 635202
+  yandex_url: https://yandex.com/maps/org/177018585360/
   url: https://www.instagram.com/_dog_house/
   types: [grooming]
 - name: Haf-Haf — Раздан

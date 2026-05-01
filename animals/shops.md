@@ -265,6 +265,15 @@ use_map: true
 </div>
 <div class="card">
 
+### Zoo Pharm
+
+- 📞 +374 91 911065
+- 📍 [ул. Мамиконянц, 19](https://yandex.ru/maps/org/zoo_pharm/19159260628/)
+- Ветаптека и зоотовары
+
+</div>
+<div class="card">
+
 ### Woofy Complex Center
 
 - 📞 +374 41 710053
