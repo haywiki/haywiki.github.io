@@ -67,6 +67,7 @@
   lng: 44.872831
   address: г. Дилижан
   yandex_url: https://yandex.ru/maps/org/tun_armeni/15945983303/
+  url: https://www.toonarmeni.am
 - name: Albert House
   lat: 40.166622
   lng: 44.514064
@@ -84,7 +85,6 @@
   phone: +37410591199
   yandex_url: https://yandex.ru/maps/org/best_western_plus_congress_hotel/1078761583/
   note: 'Максимальный вес питомца — 5 кг. Не очень френдли.'
-  url: https://www.toonarmeni.am
 - name: Communa Guest House
   lat: 40.787914
   lng: 43.839961
