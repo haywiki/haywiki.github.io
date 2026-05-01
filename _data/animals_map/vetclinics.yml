@@ -5,6 +5,7 @@
   phone: +374 98 532099
   yandex_url: https://goo.gl/maps/sxc6Ftf1EXKDkdsp8
   url: https://instagram.com/alphavet_clinic/
+  types: [shops]
   note: 'Услуги: зоомагазин.'
 - name: Amira
   lat: 40.2004197
@@ -20,6 +21,7 @@
   yandex_url: https://yandex.ru/maps/org/amiryanvet/209808278094/
   url: https://facebook.com/AmiryanVeterinary
   hours: 'круглосуточно, по предварительному звонку'
+  types: [shops]
   note: '⚠️ Много негативных отзывов. Услуги: титры, рентген, зоомагазин, справки для путешествий.'
 - name: DoctorVet
   lat: 40.202866
@@ -35,6 +37,7 @@
   address: ул. Авета Аветисяна, 112/2
   yandex_url: https://yandex.ru/maps/org/veterinarny_tsentr_dzholi/135151397057/
   url: https://joli.am/
+  types: [grooming, shops]
   note: 'Корма в продаже: Brit, Monge. Услуги: рентген, зоомагазин, справки для путешествий.'
 - name: Joli — Азатутян
   lat: 40.2011921
@@ -42,6 +45,7 @@
   address: просп. Азатутян, 8
   yandex_url: https://yandex.ru/maps/org/dzholi/236619928303/
   url: https://joli.am/
+  types: [shops]
   note: 'Корма в продаже: Brit, Monge. Услуги: рентген, зоомагазин, справки для путешествий.'
 - name: Joli — Московян
   lat: 40.1888074
@@ -49,6 +53,7 @@
   address: ул. Московян, 8
   yandex_url: https://yandex.ru/maps/org/dzholi/119280468507/
   url: https://joli.am/
+  types: [shops]
   note: 'Корма в продаже: Brit, Monge. Услуги: рентген, зоомагазин, справки для путешествий.'
 - name: Leo Vet
   lat: 40.170228
@@ -95,6 +100,7 @@
   yandex_url: https://yandex.ru/maps/org/quercus_vet_clinic_zoosalon/181982950255/
   url: https://www.facebook.com/profile.php?id=100034328929603
   hours: 'пн-сб с 10:00 до 19:00, уточняйте по телефону'
+  types: [shops]
   note: 'Титры (97000 драмов, 2–3 недели), зоомагазин, справки для путешествий.'
 - name: Shunn u Katun
   lat: 40.8096563
@@ -103,6 +109,7 @@
   phone: +374 55 895495
   yandex_url: https://yandex.ru/maps/org/shunn_u_katun/161597163350/
   url: https://shunnukatun.am/
+  types: [shops]
   hours: 'вт–сб 11:00–19:00, вс–пн выходные'
 - name: Vahe Mkrtchyan's Vet Clinic
   lat: 40.140413
@@ -128,6 +135,7 @@
   address: ул. Овсепа Эмина, 91
   phone: +374 96 577588
   yandex_url: https://yandex.com/maps/org/217703649329/
+  types: [shops]
   note: 'Услуги: УЗИ, зоомагазин.'
 - name: Vet Life
   lat: 40.153280
@@ -140,7 +148,7 @@
   lat: 40.784931
   lng: 43.855923
   address: ул. Мусаелян, 61, Гюмри
-  phone: +37493304652
+  phone: "+37493304652"
   yandex_url: https://yandex.ru/maps/org/vet_vat/40293317454/
   url: https://facebook.com/vetvatVeterinary
   note: 'Услуги: титры.'
@@ -150,6 +158,7 @@
   address: ул. Гарегина Нжде, 42
   phone: +374 91 312053
   yandex_url: https://yandex.com/maps/org/194508874329/
+  types: [shops]
   url: https://vetapteka.am
 - name: VetExpert
   lat: 40.205138
@@ -159,6 +168,7 @@
   yandex_url: https://yandex.ru/maps/org/vet_ekspert/1861952348/
   url: https://vetexpert.am/ru/
   hours: 'круглосуточно, по предварительному звонку'
+  types: [grooming, shops]
   note: >
     Услуги: титры, рентген, УЗИ, зоомагазин, справки для путешествий. Чипирование 8000 драм; вакцинация 12000/15000;
     титры 100000 (≈1 мес) или 135000 (11–14 дней) — скажите, что из чата «Армения с питомцем».
@@ -179,6 +189,7 @@
   yandex_url: https://yandex.ru/maps/org/kruglosutochnaya_veterinarnaya_klinika_vetlayn/154801169156/
   url: https://www.facebook.com/vetlinearmenia/
   hours: 'круглосуточно'
+  types: [grooming, shops]
   note: 'УЗИ, зоомагазин, справки для путешествий.'
 - name: Ветеринарная клиника Национального аграрного университета
   lat: 40.1886739
@@ -194,6 +205,7 @@
   phone: +374 93 720088
   yandex_url: https://yandex.ru/maps/org/yanvet_clinic/14410132829/
   url: https://yanvet.am
+  types: [shops]
   note: '⚠️ Много негативных отзывов о сети. Услуги: зоомагазин.'
 - name: Yanvet Clinic — Тигран Мец
   lat: 40.1589826
@@ -202,4 +214,5 @@
   phone: +374 93 720088
   yandex_url: https://yandex.com/maps/org/241078159747/
   url: https://yanvet.am
+  types: [shops]
   note: '⚠️ Много негативных отзывов о сети. Услуги: зоомагазин.'

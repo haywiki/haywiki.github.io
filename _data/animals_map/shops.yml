@@ -22,14 +22,6 @@
   phone: +374 93 635202
   yandex_url: https://yandex.ru/maps/org/fani_dog_khaus/207873306407/
   url: https://www.instagram.com/_dog_house/
-- name: AmiryanVet
-  lat: 40.180164
-  lng: 44.509209
-  address: ул. Амиряна, 10
-  phone: +374 95 560119
-  yandex_url: https://yandex.ru/maps/org/amiryanvet/209808278094/
-  url: https://instagram.com/amiryanvet/
-  note: 'Корма в продаже: Purina / Pro Plan'
 - name: Animal Care Center
   lat: 40.182443
   lng: 44.504542
@@ -105,12 +97,6 @@
   yandex_url: https://yandex.com/maps/org/iv_kusto_zoomarket/202741363289/
   url: https://www.facebook.com/ivkustozoomarket
   note: 'Корма в продаже: Monge, Royal Canin, Simba'
-- name: Joli — зоомагазин и ветклиника
-  lat: 40.199035
-  lng: 44.503577
-  yandex_url: https://yandex.ru/maps/org/veterinarny_tsentr_dzholi/135151397057/
-  url: https://joli.am/ — на сайте указаны адреса, контактные телефоны, есть каталог товаров и цены.
-  note: 'Корма в продаже: Brit, Monge.'
 - name: Kakadu
   lat: 40.183255
   lng: 44.510207
@@ -168,14 +154,6 @@
   yandex_url: https://yandex.ru/maps/10262/yerevan/search/PetCity/
   url: https://petcity.am/ru/homepage-2 — на сайте можно заказать доставку.
   note: 'Корма в продаже: Royal Canin, Purina ProPlan, Monge, Acana, Farmina VetLife, N&D и другие'
-- name: Quercus — зоомагазин и ветклиника
-  lat: 40.186234
-  lng: 44.511639
-  address: ул. Казара Парпеци, 17/3
-  phone: +374 10 537602
-  yandex_url: https://yandex.ru/maps/org/quercus_vet_clinic_zoosalon/181982950255/
-  url: https://www.instagram.com/vet.clinic_quercus/
-  note: 'Корма в продаже: Monge'
 - name: Royal Canin в Дилижане
   lat: 40.753694
   lng: 44.896649

@@ -106,8 +106,33 @@
   h4 {
     font-size: 18px !important;
     margin-bottom: 6px !important;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
   }
   p {
     margin: 0 0 3px 0 !important;
+  }
+}
+
+.map-popup-types {
+  display: inline-flex;
+  gap: 4px;
+}
+
+.map-popup-type-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 1.5px solid #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  color: #fff;
+  
+  i {
+    font-size: 9px;
   }
 }

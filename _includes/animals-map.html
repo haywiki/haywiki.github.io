@@ -15,16 +15,21 @@
 <div id="map-{{ map_uid }}" style="height: {{ include.height | default: '450px' }}; width: 100%; margin-bottom: 15px;"></div>
 
 <script>
-AnimalsMap.init('map-{{ map_uid }}', {{ map_lat }}, {{ map_lng }}, {{ map_zoom }}, [
-  {% for lname in layer_list %}
-  {% assign ls = lname | strip %}
-  {% assign points = site.data.animals_map[ls] %}
-  {% assign cfg = site.data.animals_map.layers[ls] %}
-  {% if points and cfg %}
-  { id: {{ ls | jsonify }}, name: {{ cfg.name | jsonify }}, icon: {{ cfg.icon | jsonify }}, color: {{ cfg.color | jsonify }}, points: {{ points | jsonify }} },
-  {% endif %}
-  {% endfor %}
-]);
+AnimalsMap.init('map-{{ map_uid }}', {{ map_lat }}, {{ map_lng }}, {{ map_zoom }}, {
+  layers: {{ site.data.animals_map.layers | jsonify }},
+  requestedLayers: {{ layer_list | jsonify }},
+  points: [
+    {% for layerConfig in site.data.animals_map.layers %}
+    {% assign layerSlug = layerConfig[0] %}
+    {% assign points = site.data.animals_map[layerSlug] %}
+    {% if points %}
+    {% for pointData in points %}
+    { type: {{ layerSlug | jsonify }}, data: {{ pointData | jsonify }} },
+    {% endfor %}
+    {% endif %}
+    {% endfor %}
+  ]
+});
 </script>
 
 {% if include.layers %}

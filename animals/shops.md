@@ -20,7 +20,7 @@ use_map: true
 
 ## Карта зоомагазинов
 
-{%- include animals-map.html layers="shops,vetclinics" zoom="12" lat="40.2012" lng="44.5199" -%}
+{%- include animals-map.html layers="shops" zoom="12" lat="40.2012" lng="44.5199" -%}
 
 ## Избранные зоомагазины
 

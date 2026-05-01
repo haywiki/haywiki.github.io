@@ -5,6 +5,7 @@
   phone: +374 55 105411
   yandex_url: https://yandex.com/maps/org/184283936734/
   url: https://instagram.com/bb_grooming_yerevan
+  types: [shops]
   note: 'Услуги: груминг, зоотовары, перевозка питомцев.'
 - name: BarberDog
   lat: 40.162984
@@ -13,6 +14,7 @@
   yandex_url: https://yandex.com/maps/org/87112370678/
   url: https://barber.dog/erevan/
   hours: 'ПН–ВС 10:00–20:00'
+  types: [shops]
   note: 'Услуги: груминг, зоотовары.'
 - name: Diadella Pet Hotel & Grooming
   lat: 40.178025
@@ -28,6 +30,7 @@
   address: ул. Вардананц, 14/2
   yandex_url: https://yandex.com/maps/org/184600025267/
   url: https://groom.am/
+  types: [shops]
   note: 'Груминг, зоосадик/дневной присмотр, отель, такси/перевозка, аксессуары.'
 - name: Grooming House Armenia
   lat: 40.170623
@@ -35,6 +38,7 @@
   address: просп. Аршакуняц, 2
   yandex_url: https://yandex.com/maps/org/235700776961/
   url: https://www.instagram.com/groominghousearmenia/
+  types: [shops]
   note: 'Груминг, зоотовары. Мастера: polly_grooming, finya_grooming, trexianaa.x.grooming (Instagram).'
 - name: Grooming Room
   lat: 40.177256
@@ -43,25 +47,6 @@
   yandex_url: https://yandex.com/maps/org/77335829117/
   url: https://www.groomingroom.biz
   note: 'Адрес на Лусаворича указан как устаревший.'
-- name: Joli — Авета Аветисяна
-  lat: 40.1992827
-  lng: 44.5035174
-  yandex_url: https://yandex.ru/maps/org/veterinarny_tsentr_dzholi/135151397057/
-  url: https://joli.am/
-- name: VetExpert
-  lat: 40.205138
-  lng: 44.526073
-  address: просп. Азатутян, 14
-  phone: +374 10 209966, моб. +374 96 209966
-  yandex_url: https://yandex.ru/maps/org/vet_ekspert/1861952348/
-  url: https://vetexpert.am/ru/
-- name: VetLine
-  lat: 40.200125
-  lng: 44.492885
-  address: просп. Комитаса, 6
-  phone: +374 11 279999
-  yandex_url: https://yandex.ru/maps/org/kruglosutochnaya_veterinarnaya_klinika_vetlayn/154801169156/
-  url: https://www.facebook.com/vetlinearmenia/
 - name: Woof Grooming Salon
   lat: 40.197892
   lng: 44.521907
@@ -69,4 +54,5 @@
   phone: +374 98 389977
   yandex_url: https://yandex.ru/maps/org/woof/222409553566/
   url: https://www.instagram.com/woof.grooming.yerevan/
+  types: [shops]
   note: 'Груминг, зоотовары, вкусняшки.'

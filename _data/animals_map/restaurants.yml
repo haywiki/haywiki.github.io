@@ -101,13 +101,6 @@
   phone: '+37441325000'
   yandex_url: https://yandex.ru/maps/org/ground_zero/187272188529/
   hours: пн-вс 08-24
-- name: Hayk Coffee Roasters
-  lat: 40.187365
-  lng: 44.508984
-  address: ул. Мартироса Сарьяна, 4
-  phone: '+37441200041'
-  yandex_url: https://yandex.ru/maps/org/hayk_coffee_roasters/151031274555/
-  hours: пн-вс 9-24
 - name: Hummus | Kimchi
   lat: 40.185623
   lng: 44.506946
