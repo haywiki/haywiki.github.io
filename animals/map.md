@@ -4,6 +4,7 @@ layout: page
 parent_title: Жизнь с питомцем
 parent_url: /animals/
 display_toc: false
+display_stale_warning: false
 use_map: true
 ---
 
