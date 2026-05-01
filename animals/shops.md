@@ -11,35 +11,89 @@ use_map: true
 
 - Корм часто продается на развес. В магазине лежат открытыми больше 15-килограммовые мешки с кормом. Обычно,
   покупать корм так безопасно, но в сильную жару летом он быстрее портится, учитывайте это.
-- Выбор аксессуаров меньше и стоимость часто больше чем в России.
-- Практически в каждом магазине можно позвонить и договориться о доставке.
 - При [ветеринарных клиниках](vetclinics.md) практически всегда есть небольшой магазин и ветаптека.
 - Некоторые корма и многие вещи для животных доступны с доставкой в Армению с [Wildberries](https://global.wildberries.ru).
 - Если ваш корм есть в РФ, то можно заказать его через посредника, например Globbing. Вот здесь мы написали [инструкцию как это сделать](../delivery/globbing-from-russia.md).
 
+За последние годы в Армении открылось много небольших зоомагазинов, но для их поиска мы рекомендуем воспользоваться картами Яндекса или 2Гис.
+
 ## Карта зоомагазинов
 
-{%- include animals-map.html layers="shops" zoom="12" lat="40.2012" lng="44.5199" -%}
+{%- include animals-map.html layers="shops,vetclinics" zoom="12" lat="40.2012" lng="44.5199" -%}
 
-## Крупнейшие зоомагазины
+## Избранные зоомагазины
+
+Самый большой выбор кормов, лекарств и аксессуаров, проверенные магазины.
 
 <div class="cards list-emoji">
 <div class="card">
 
+### Zoovet.am
+
+- <i class="fa-solid fa-link"></i> [zoovet.am](https://zoovet.am)
+- 📞 +374 55 133719
+- 📍 [ул. Вагарша Вагаршяна, 20](https://yandex.ru/maps/org/zoovet/9352431732/)
+- Корма в продаже: Grandorf, Monge, Acana, Brit, Bonmascota, Royal Canin, Purina, Orijen, Farmina N&D, Gemon
+
+</div>
+<div class="card">
+
+### Equus.am
+
+- <i class="fa-brands fa-instagram"></i> [equus.am](https://www.instagram.com/equus.am/)
+- 📍 [ул. Севастополян 1/1, Ереван](https://yandex.com/maps/org/93090948216/)
+
+</div>
+<div class="card">
+
+### PetCity
+
+- <i class="fa-solid fa-link"></i> [petcity.am](https://petcity.am/) &nbsp; <i class="fa-brands fa-instagram"></i> [pet_city.am](https://instagram.com/pet_city.am/)
+- 📍 [ул. Царав Ахпюр, 181/2](https://yandex.com/maps/org/244831102114/)
+- 📍 [ул. Н. Тиграняна, 27 (Ераз)](https://yandex.com/maps/org/208622022933/)
+- 📍 [ул. Молдовакан, 15/4](https://yandex.com/maps/org/pet_city/135043478707/)
+- Корма в продаже: Royal Canin, Purina ProPlan, Monge, Acana, Farmina VetLife, N&D и другие
+
+</div>
+<div class="card">
+
+### Nemo — интернет-магазин с доставкой
+
+- <i class="fa-solid fa-link"></i> [nemo.am](https://nemo.am/) &nbsp; <i class="fa-brands fa-instagram"></i> [nemo_petstore](https://instagram.com/nemo_petstore/)
+- 📍 [ул Сурб Григора Лусаворича, 12/10](https://yandex.ru/maps/org/nemo/191697089221/)
+- Корма в продаже: Royal Canin, Acana, Purina ProPlan, Mr.Buffalo, Monge, Orijen, bonmascota и другие
+
+</div>
+<div class="card">
+
 ### Kakadu
 
-- <i class="fa-solid fa-link"></i> [kakadu.am](https://kakadu.am) &nbsp; <i class="fa-brands fa-facebook-f"></i> [Kakadu](https://m.facebook.com/KAKADUSshops/) &nbsp; <i class="fa-brands fa-instagram"></i> [kakadu_petshop](https://instagram.com/kakadu_petshop/)
-- 📍 [Сеть магазинов на карте](https://yandex.ru/maps/10262/yerevan/search/Kakadu/)
-- Корма в продаже: Monge, Acana, Orijen.
+- 📍 [пр-т Маштоца, 21](https://yandex.com/maps/org/208781998677/)
+- 📍 [пр-т Комитаса, 54](https://yandex.com/maps/org/78698440309/)
+- 📍 [пр-т Баграмяна, 79/45](https://yandex.com/maps/org/81149638727/)
+- 📍 [ул. Абовяна, 37](https://yandex.com/maps/org/1427892405/)
+- 📍 [ул. Азатутяна, 23](https://yandex.com/maps/org/121408506787/)
+- 📍 [ул. Башинджагяна, 194/2](https://yandex.com/maps/org/79365686076/)
+- Корма в продаже: Monge, Acana, Orijen и другие.
 
 </div>
 <div class="card">
 
 ### Haf-Haf
 
-- <i class="fa-solid fa-link"></i> [haf-haf.am](https://haf-haf.am/ru/) &nbsp; <i class="fa-brands fa-instagram"></i> [haf.hafpetshop](https://instagram.com/haf.hafpetshop/)
-- 📍 [Сеть магазинов на карте](https://yandex.ru/maps/10262/yerevan/search/Haf-Haf/)
-- Есть доставка через [Яндекс Еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf) и [menu.am](https://menu.am/ru/shops/haf-haf)
+- <i class="fa-solid fa-link"></i> [haf-haf.am](https://haf-haf.am/) &nbsp; <i class="fa-brands fa-instagram"></i> [haf.hafpetshop](https://instagram.com/haf.hafpetshop/)
+- 📍 [ул. Амиряна, 13](https://yandex.ru/maps/org/haf_haf/171070323224/)
+- 📍 [ул. Абовяна, 38](https://yandex.ru/maps/org/haf_haf/107573548808/)
+- 📍 [пр-т Баграмяна, 89](https://yandex.ru/maps/org/haf_haf/1163273689/)
+- 📍 [ул. Ваграма Папазяна, 22А](https://yandex.ru/maps/org/haf_haf/224255119629/)
+- 📍 [ул. Башинджагяна, 188/5](https://yandex.ru/maps/org/haf_haf/68168905957/)
+- 📍 [ул. Зоравара Андраника, 141/3](https://yandex.ru/maps/org/haf_haf/195960463870/)
+- 📍 [ул. Хахах Дони, 16/10](https://yandex.ru/maps/org/haf_haf/201474119722/)
+- 📍 [ул. Маршала Худякова, 177](https://yandex.ru/maps/org/haf_haf/128341921394/)
+- 📍 [ул. Маршала Худякова, 210/1](https://yandex.ru/maps/org/haf_haf/94777163354/)
+- 📍 [ул. Ерванда Кочара, 5/6](https://yandex.ru/maps/org/haf_haf/13302356123/)
+- 📍 [г. Раздан, пр-т Зоравара Андраника, 187](https://yandex.ru/maps/?text=44.767988,40.505510)
+- Есть доставка через [Яндекс Еда](https://eats.yandex.com/ru-am/Yerevan/r/haf-haf), [Glovo](https://glovoapp.com/am/en/yerevan/haf-haf-yer/) и [menu.am](https://menu.am/ru/shops/haf-haf)
 - Корма в продаже: Royal Canin, Belcando, Leonardo.
 
 </div>
