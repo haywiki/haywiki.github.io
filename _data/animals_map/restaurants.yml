@@ -17,11 +17,16 @@
   phone: +374 60 700805
   yandex_url: https://yandex.ru/maps/org/cafe_2/222737698143/
   hours: 'пн-вс: 09-22'
-- name: Кофейня Set
+- name: Кофейня Set — Сарьяна
   lat: 40.186164
   lng: 44.508126
   address: ул. Сарьяна, 17
   yandex_url: https://yandex.ru/maps/org/set/57055157719/
+- name: Кофейня Set — Бюзанда
+  lat: 40.180991
+  lng: 44.510058
+  address: ул. Павстоса Бюзанда, 37
+  yandex_url: https://yandex.com/maps/org/set/3076526244/
 - name: Кофейня Spot
   lat: 40.738555
   lng: 44.854082

@@ -47,6 +47,7 @@ use_map: true
 - [Eden by Verev](https://yandex.ru/maps/org/eden_by_verev/43346376324/) ул. Таманяна, 1
 - [Paul Armenia](https://yandex.ru/maps/org/paul_armenia/209546981995/) ул. Абовяна, 8
 - [Set](https://yandex.ru/maps/org/set/57055157719/) ул. Сарьяна, 17
+- [Set](https://yandex.com/maps/org/set/3076526244/) ул. Павстоса Бюзанда, 37
 - [Aeon](https://yandex.ru/maps/org/aeon/17546564979/) ул. Байрона, 8
 - [Pinsa!](https://yandex.ru/maps/org/pinsa_/192135477698/) ул. Анрапетутян, 78. Точно пускают на веранду, сказали что внутрь тоже можно.
 - [Гадюка](https://yandex.ru/maps/org/gadyuka/128711950705/) ул. Вардананц, 78
