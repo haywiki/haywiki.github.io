@@ -18,17 +18,7 @@ use_map: true
 - Метки с кроватью — [пет-френдли гостиницы](hotels.md);
 - Метки с ножницами — [груминг салоны](grooming.md).
 
-## Ереван
-
-{%- include animals-map.html height="600px" zoom="12" lat="40.2012" lng="44.5199" -%}
-
-## Дилижан
-
-{%- include animals-map.html height="600px" zoom="12" lat="40.7438" lng="44.8546" -%}
-
-## Гюмри
-
-{%- include animals-map.html height="600px" zoom="15" lat="40.7853" lng="43.8474" -%}
+{%- include animals-map.html height="600px" zoom="7" lat="40.2012" lng="44.5199" -%}
 
 ## Рестораны и кафе {#cafe}
 

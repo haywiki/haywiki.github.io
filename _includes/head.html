@@ -9,16 +9,11 @@
   <link rel="manifest" href="/site.webmanifest">
 
   <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,800,800i|Noto+Serif|Noto+Sans+Mono:300,600&subset=cyrillic&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" crossorigin="anonymous">
+  <script src="{{ "/assets/js/main.js" | relative_url | versioned_url }}"></script>
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url |  versioned_url }}">
   {% if page.use_map %}
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin=""/>
-  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" crossorigin=""/>
-  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" crossorigin=""/>
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
-  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js" crossorigin=""></script>
-  <script src="/assets/js/animals-map.js?v=2"></script>
+  <script src="{{ "/assets/js/map-bundle.js" | relative_url | versioned_url }}"></script>
   {% endif %}
   {% include opengraph.html %}
 </head>

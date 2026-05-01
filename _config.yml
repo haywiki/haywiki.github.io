@@ -28,6 +28,8 @@ exclude:
   - robots.txt
 sass:
   sass_dir: _sass
+  load_paths:
+    - node_modules
 relative_links:
   enabled:     true
   collections: true

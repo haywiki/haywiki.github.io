@@ -3,3 +3,10 @@ _site
 .jekyll-metadata
 .idea
 _scripts/__pycache__/
+node_modules/
+yarn-error.log
+assets/js/*.js
+assets/js/*.js.map
+!assets/js/dist/
+assets/fonts/
+assets/images/

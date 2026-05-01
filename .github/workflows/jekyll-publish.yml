@@ -26,6 +26,10 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+      - name: Build JS assets
+        run: |
+          yarn install
+          yarn build
       - name: Bundling with jekyll
         shell: bash -l {0}
         run: |

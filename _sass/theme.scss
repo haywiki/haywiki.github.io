@@ -1,5 +1,4 @@
 @use "theme-vars" as *;
-
 @use "flexboxgrid/main" as flexboxgrid;
 @use "base";
 @use "code";
@@ -9,3 +8,14 @@
 @use "icons";
 @use "map";
 @use "_layout/main" as layout;
+
+// Leaflet & MarkerCluster
+@import "leaflet/dist/leaflet";
+@import "leaflet.markercluster/dist/MarkerCluster";
+@import "leaflet.markercluster/dist/MarkerCluster.Default";
+
+$fa-font-path: "/assets/fonts";
+@import "@fortawesome/fontawesome-free/scss/fontawesome";
+@import "@fortawesome/fontawesome-free/scss/solid";
+@import "@fortawesome/fontawesome-free/scss/brands";
+@import "@fortawesome/fontawesome-free/scss/regular";
