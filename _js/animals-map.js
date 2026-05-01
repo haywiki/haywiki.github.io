@@ -203,6 +203,7 @@
     var clusterGroup = L.markerClusterGroup({
       chunkedLoading: true,
       showCoverageOnHover: false,
+      maxClusterRadius: 50,
       iconCreateFunction: makeClusterIcon
     }).addTo(map);
 
