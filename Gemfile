@@ -15,5 +15,4 @@ end
 gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 gem "kramdown-parser-gfm"
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
-gem "nokogiri", ">= 1.13.9"
-gem "faraday-retry"
+gem "nokogiri", ">= 1.19.4"
