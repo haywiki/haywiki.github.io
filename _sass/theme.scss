@@ -8,13 +8,15 @@
 @use "icons";
 @use "map";
 @use "_layout/main" as layout;
+@use "@fortawesome/fontawesome-free/scss/variables" with (
+  $font-path: "/assets/fonts"
+);
 
 // Leaflet & MarkerCluster
 @import "leaflet/dist/leaflet";
 @import "leaflet.markercluster/dist/MarkerCluster";
 @import "leaflet.markercluster/dist/MarkerCluster.Default";
 
-$fa-font-path: "/assets/fonts";
 @import "@fortawesome/fontawesome-free/scss/fontawesome";
 @import "@fortawesome/fontawesome-free/scss/solid";
 @import "@fortawesome/fontawesome-free/scss/brands";
