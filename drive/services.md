@@ -31,7 +31,7 @@ display_stale_warning: false
 - [Автосервис Ovne](http://ovne.am/ru) — в последнее время появились противоречивые отзывы.
 - [Мир автостекла на Нар-Доса](https://yandex.ru/maps/org/mir_avtostekol/102722719773/) и [Мир автостекла на Арцаха](https://yandex.ru/maps/org/avtoapakineri_ashkhar/140515207660/) — ремонт сколов на лобовом стекле и продажа автостекол. [facebook](https://www.facebook.com/AvtoapakinerAshxarh), [отзыв](https://t.me/am_autoclub/55694), [отзыв](https://t.me/am_autoclub/54899).
 - [RESTART](https://yandex.ru/maps/-/CPuJNC8k) — автосервис; **BMW** в приоритете, с другими марками тоже справляются по отзыву. **+374 55 699300**, **+374 77 699300**.
-- **Автоэлектрик в Гюмри** — мастер **Сергей** [@Leninakan_electrician_service](https://t.me/Leninakan_electrician_service). Качественный ремонт электрики, компьютерная диагностика, работа с электроникой. Отзывы участников сообщества: [1](https://t.me/am_autoclub/212077), [2](https://t.me/am_autoclub/228929), [3](https://t.me/am_autoclub/230251), [4](https://t.me/am_autoclub/218888), [5](https://t.me/am_autoclub/223660).
+- **Автоэлектрик в Гюмри** — мастер **Сергей** [@Leninakan_electrician_service](https://t.me/Leninakan_electrician_service) — компьютерная диагностика, программирование ключей и иммобилайзеров, кодирование Mercedes, русификация и кодирование Ford, Mazda, обслуживание, опрессовка и заправка автокондиционеров, установка сигнализаций и мультимедиа, ремонт электрики и электроники, работа на выезде. Отзывы участников сообщества: [1](https://t.me/am_autoclub/212077), [2](https://t.me/am_autoclub/228929), [3](https://t.me/am_autoclub/230251), [4](https://t.me/am_autoclub/218888), [5](https://t.me/am_autoclub/223660).
 
 ### Черный список сервисов
 

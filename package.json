@@ -9,12 +9,12 @@
     "copy-assets": "mkdir -p assets/fonts assets/images && cp -Rf node_modules/@fortawesome/fontawesome-free/webfonts/. assets/fonts/ && cp -Rf node_modules/leaflet/dist/images/. assets/images/"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^6.7.2",
+    "@fortawesome/fontawesome-free": "^7.3.0",
     "leaflet": "^1.9.4",
     "leaflet.markercluster": "^1.5.3"
   },
   "devDependencies": {
-    "esbuild": "^0.25.0"
+    "esbuild": "^0.28.1"
   },
   "packageManager": "yarn@1.22.21+sha1.1959a18351b811cdeedbd484a8f86c3cc3bbaf72"
 }
