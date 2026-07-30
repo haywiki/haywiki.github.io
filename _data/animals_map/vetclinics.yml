@@ -62,15 +62,6 @@
   phone: +374 95 010321
   yandex_url: https://yandex.com/maps/org/leo_vet/65335301739/
   note: 'Услуги: УЗИ.'
-- name: Maltese City
-  lat: 40.203239
-  lng: 44.50046
-  address: пр-кт Комитаса, 26
-  phone: +374 94 372233 +374 91 626258 (Viber и WhatsApp)
-  yandex_url: https://yandex.ru/maps/org/maltez_siti/32700886211/
-  url: https://www.facebook.com/maltesecity/
-  hours: 'с 11:00 до 21:00, уточняйте по телефону'
-  note: 'Услуги: титры.'
 - name: MyVet
   lat: 40.8116804
   lng: 43.8312667

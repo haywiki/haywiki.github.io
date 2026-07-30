@@ -142,6 +142,7 @@ use_map: true
 - График работы: с 11:00 до 21:00, уточняйте по телефону
 - [facebook](https://facebook.com/maltesecity/) [instagram](https://instagram.com/maltese_city/)
 - Услуги: [титры](rabies-titers.md).
+- Не рекомендуем услуги груминга, во время груминга погибла здоровая собака при непонятных обстоятельствах. [fb](https://www.facebook.com/groups/1596582680525095/posts/3242457789270901)
 
 </div>
 <div class="card">
