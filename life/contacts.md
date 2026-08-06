@@ -275,7 +275,7 @@ display_stale_warning: false
 
 ## Чаты по регионам
 
-- <i class="fa-brands fa-telegram"></i> [Переезд в Ванадзор](https://t.me/vanadzorchat)
+- <i class="fa-brands fa-telegram"></i> [Переезд в Ванадзор](https://t.me/chatvanadzor)
 - <i class="fa-brands fa-telegram"></i> [Dilijan Care](https://t.me/Dilicare) встречи, инициативы, волонтерство и забота о городе 🌿
 - 🔗 [Дилижанский Notion](https://bit.ly/dilinotion) — полезные ссылки и материалы по жизни в Дилижане.
 - <i class="fa-brands fa-telegram"></i> [Русскоязычный Абовян](https://t.me/ruabovyan)

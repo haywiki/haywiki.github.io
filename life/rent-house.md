@@ -63,7 +63,7 @@ layout: page
 ### Жилье в Ванадзоре
 
 - [Купля-продажа, аренда квартир в Лори (facebook)](https://www.facebook.com/groups/579410209987058/?ref=share) — аренда в Ванадзоре.
-- [https://t.me/vanadzorchat](https://t.me/vanadzorchat) — чат Ванадзора
+- [https://t.me/chatvanadzor](https://t.me/chatvanadzor) — чат Ванадзора
 
 ### Проверенные риелторы
 
