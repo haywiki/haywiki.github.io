@@ -39,6 +39,18 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [ТUT и ТАМ](https://t.me/tut8tam) — современная домашняя кухня в Ереване.
 - <i class="fa-brands fa-telegram"></i> [Love&Piece](https://t.me/love_and_piece_am) — Доставка домашней еды в Ереване.
 - <i class="fa-brands fa-telegram"></i> [WeFood](https://t.me/WeFood_am) — Доставка домашней еды в Ереване и Абовяне.
+- <i class="fa-brands fa-telegram"></i> [Получение загранпаспорта РФ в Армении](https://t.me/zagranerevan)
+- <i class="fa-brands fa-telegram"></i> [Попутчики Армения, Грузия](https://t.me/blablacararm)
+- <i class="fa-brands fa-telegram"></i> [Yerevan Concerts](https://t.me/yerevanrock)
+- <i class="fa-brands fa-telegram"></i> [Yerevan Women](https://t.me/YerevanWow)
+- <i class="fa-brands fa-telegram"></i> [Урбанисты Еревана](https://t.me/UrbanYVN)
+- <i class="fa-brands fa-telegram"></i> [Anime Yerevan](https://t.me/AnimeYerevan)
+- <i class="fa-brands fa-telegram"></i> [Английский разговорный клуб](https://t.me/English202355)
+- <i class="fa-brands fa-telegram"></i> [клуб для начинающий](https://t.me/Englishforyerevan)
+- <i class="fa-brands fa-telegram"></i> [Armenian Alphabet](https://t.me/armenianalphabet)
+- <i class="fa-brands fa-telegram"></i> [Водоплавающий Ереван](https://t.me/YerevanSwim)
+- <i class="fa-brands fa-telegram"></i> [BANNOST’ — баня в Ереване](https://t.me/bannost) — юзернейм теперь ведёт на баню в Петербурге
+- <i class="fa-brands fa-telegram"></i> [posutkaerevan](https://t.me/posutkaerevan) — юзернейм угнали, открывается adult-канал
 
 ### Слишком спамные
 
@@ -52,6 +64,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [Move2Armenia — открой Армению для жизни](https://t.me/move2armenia)
 - <i class="fa-brands fa-telegram"></i> [Ереван чат Армения](https://t.me/erevan_360)
 - <i class="fa-brands fa-telegram"></i> [Русские в Армению Выезд, Релокация, Обустройство](https://t.me/vyezd_v_armenia)
+- <i class="fa-brands fa-telegram"></i> [Переезд в Армению - Взаимопомощь](https://t.me/+szFNNJqf1J42Zjhi)
 
 ### Бестолковые
 

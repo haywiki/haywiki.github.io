@@ -46,8 +46,9 @@ layout: page
 
 - [sosedi.network](https://sosedi.network): сервис для поиска соседей
 - [https://t.me/collivingarmenia](https://t.me/collivingarmenia)
-- [t.me/ArkHelps/15332](https://t.me/ArkHelps/15332): коливинг от Ковчега
 - [https://t.me/ColiveArmeniaChat](https://t.me/ColiveArmeniaChat)
+- [TRIGLINKI YEREVAN](https://t.me/triglinkiyerevan) — коливинг в Ереване, Наири Зарьяна 72/1; бронь [@triglinkiyerevan1](https://t.me/triglinkiyerevan1), [сайт](https://triglinki.tilda.ws/)
+- [MIJ Factory](https://t.me/mij_factory) — старая фабрика в Туманяне; Instagram [mij.factory](https://www.instagram.com/mij.factory/), связь [@dmstrn](https://t.me/dmstrn)
 
 ### Чаты и группы по поиску жилья (в том числе риэлторы)
 
@@ -56,7 +57,6 @@ layout: page
 - [https://t.me/relocationArmenia](https://t.me/relocationArmenia)
 - [https://t.me/standardrealty](https://t.me/standardrealty)
 - [https://t.me/rentarmenia](https://t.me/rentarmenia)
-- [https://t.me/posutkaerevan](https://t.me/posutkaerevan)
 - [https://t.me/peryerevan](https://t.me/peryerevan)
 - [https://t.me/jilyoerevan35](https://t.me/jilyoerevan35)
 

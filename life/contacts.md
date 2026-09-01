@@ -85,11 +85,9 @@ display_stale_warning: false
 
 ## Взаимопомощь иммигрантов
 
-- <i class="fa-brands fa-telegram"></i> [Переезд в Армению - Взаимопомощь](https://t.me/+szFNNJqf1J42Zjhi)
 - <i class="fa-brands fa-telegram"></i> [Автомобилисты в Армении](https://t.me/am_autoclub) — чат для переехавших в Армению автомобилистов.
 - <i class="fa-brands fa-telegram"></i> [Природоманы и любители грязного](https://t.me/+_CDEZDR_Fqg1Y2My) — чат любителей выездов на бездорожье.
 - <i class="fa-brands fa-telegram"></i> [Пограничный контроль](https://t.me/+yHACAsBxEXo4OGEy) — отчеты о пересечении границы РФ
-- <i class="fa-brands fa-telegram"></i> [Получение загранпаспорта РФ в Армении](https://t.me/zagranerevan)
 - <i class="fa-brands fa-telegram"></i> [Получение шенгенских виз в Армении](https://t.me/shengen_am)
 - <i class="fa-brands fa-telegram"></i> [Армения. Шенгенские визы](https://t.me/+ugu4XWmyacEyZGMy)
 {: class="list-emoji"}
@@ -133,7 +131,7 @@ display_stale_warning: false
 
 - <i class="fa-brands fa-telegram"></i> [Армения: доставки, посылки, растаможка](https://t.me/am_delivery) — обсуждение покупок через интернет, отправки и получения посылок, прохождения таможни.
 - <i class="fa-brands fa-telegram"></i> [Передачи: Армения <--> Россия](https://t.me/armrustransfer) — группа с просьбами или предложениями о передаче (перевозке) разрешенных вещей между Арменией и Россией.
-- <i class="fa-brands fa-telegram"></i> [Попутчики Армения, Грузия](https://t.me/blablacararm) — поиск попутчиков, трансферов, передача посылок.
+- <i class="fa-brands fa-telegram"></i> [Попутчики Армения Грузия Россия](https://t.me/armtransport)
 - <i class="fa-brands fa-telegram"></i> [Перевозки Ереван - Тбилиси](https://t.me/Tbilisi_Yerevan_transfer)
 {: class="list-emoji"}
 
@@ -203,7 +201,6 @@ display_stale_warning: false
 - <i class="fa-brands fa-telegram"></i> [VIDEO PRODUCTION YEREVAN](https://t.me/synthesisyerevan)
 - <i class="fa-brands fa-telegram"></i> [Фотографы - Видеографы (визажисты, стилисты, модели , ретушеры)](https://t.me/photographers_armenia_erevan)
 - <i class="fa-brands fa-telegram"></i> [Музыканты понаехавшие в Ереван](https://t.me/erevanmusic)
-- <i class="fa-brands fa-telegram"></i> [Yerevan Concerts](https://t.me/yerevanrock) — Rock & metal shows in Yerevan, Armenia.
 - <i class="fa-brands fa-telegram"></i> [Rock Metal Yerevan](https://t.me/yerevanmetal) — Fans of rock & metal music in Yerevan, Armenia.
 - <i class="fa-brands fa-telegram"></i> [Мастер-классы по рисованию и не только в Армении](https://t.me/risovaniye_armeniya) — занятия по рисованию, лепке, вязанию и подобное.
 - 💃 [Танцы в Ереване](dancing.md) — WCS, танго, джаз, zouk, контемп и др.
@@ -214,20 +211,15 @@ display_stale_warning: false
 
 ## Сообщества по интересам
 
-- <i class="fa-brands fa-telegram"></i> [Yerevan Women](https://t.me/YerevanWow) — женское комьюнити: спорт, красота, здоровье, развлечения
 - <i class="fa-brands fa-telegram"></i> [Настолки в Ереване](https://t.me/boardgames_yerevan_chat) — настольные (и не только) игры
 - <i class="fa-brands fa-telegram"></i> [НРИ Ереван Армения](https://t.me/nrierevan) — настольные ролевые игры
 - <i class="fa-brands fa-telegram"></i> [Баня REDHAT](https://t.me/banya_erevan) — клуб любителей русской бани
-- <i class="fa-brands fa-telegram"></i> [BANNOST’ — баня в Ереване](https://t.me/bannost)
-- <i class="fa-brands fa-telegram"></i> [Урбанисты Еревана](https://t.me/UrbanYVN)
 - <i class="fa-brands fa-telegram"></i> [Plants&People community](https://t.me/plantsnpeople) — сообщество любителей растений
 - <i class="fa-brands fa-telegram"></i> [Yerevan Plants](https://t.me/Yerevanplants) — любители растений, регулярные цветочные свопы
 - <i class="fa-brands fa-telegram"></i> [FPV Armenia (ru+am)](https://t.me/fpv_armenia) — сообщество пилотов FPV-дронов
 - <i class="fa-brands fa-telegram"></i> [Чайный клуб в Ереване](https://t.me/moychayarmenia)
 - <i class="fa-brands fa-telegram"></i> [KAVeKON](https://t.me/kavekonart) — любители глины
 - <i class="fa-brands fa-telegram"></i> [Место глины](https://t.me/mestoglini)
-- <i class="fa-brands fa-telegram"></i> [Anime Yerevan](https://t.me/AnimeYerevan)
-- <i class="fa-brands fa-telegram"></i> [Английский разговорный клуб](https://t.me/English202355) и [клуб для начинающий](https://t.me/Englishforyerevan)
 - <i class="fa-brands fa-telegram"></i> [TRIGLINKI YEREVAN](https://t.me/triglinkiyerevan)
 - <i class="fa-brands fa-telegram"></i> [станция \| station](https://t.me/station_evn) — библиотека и мастерская
 {: class="list-emoji"}
@@ -284,7 +276,6 @@ display_stale_warning: false
 ## Армянский язык
 
 - <i class="fa-brands fa-telegram"></i> [Armenian with Alyssa](https://t.me/armenian_with_alyssa) — о разговорном армянском языке.
-- <i class="fa-brands fa-telegram"></i> [Armenian Alphabet](https://t.me/armenianalphabet) — изучение армянского алфавита.
 - <i class="fa-brands fa-telegram"></i> [Армянский язык](https://t.me/learnarmenianfrom0)
 - <i class="fa-brands fa-telegram"></i> [Армянский язык հայերեն @armeniam](https://t.me/armeniam)
 {: class="list-emoji"}
