@@ -44,4 +44,5 @@ display_stale_warning: false
 - [Ветеринарный паспорт](documents.md#vetpassport)
 - [Идентификация животного: чип](documents.md#chip)
 - [Прививка от бешенства и комплексная вакцина](documents.md#vaccines)
-- ‼️**[Титры антител к бешенству](georgia-titers.md)**.
+
+[Титры для Грузии: исключения и практика проверок](georgia-titers.md).
