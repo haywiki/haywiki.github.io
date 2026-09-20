@@ -363,5 +363,27 @@
   phone: +37491205525
   yandex_url: https://yandex.ru/maps/org/new_bella_hotel/85523397811/
   note: 'Сеть одного владельца (вместе с Dream Forest и Mashtots). Доплата за кошку 5000 драм за весь период, бронь без предоплаты, трансфер из аэропорта ~8000 драм.'
-
-
+- name: New Nairi Hotel
+  lat: 40.18757
+  lng: 44.53442
+  address: Ереван, ул. Арменакяна, 121/7
+  yandex_url: https://yandex.com/maps/org/norabats_nairi_hyuranots/128114546327/
+  note: 'Отель в Норк-Мараше, проверен участниками сообщества. Заселение с кошками и собаками без доплаты.'
+- name: Royal Plaza
+  lat: 40.186545
+  lng: 44.508741
+  address: Ереван, ул. Сарьяна, 9
+  yandex_url: https://yandex.com/maps/org/royal_plaza_by_stellar_hotels/119711404233/
+  note: 'Отель на ул. Сарьяна. Проживание с собаками с доплатой (требуется обязательное подтверждение звонком после бронирования).'
+- name: ⚠️ Old Yerevan Hotel
+  lat: 40.179695
+  lng: 44.501592
+  address: Ереван, ул. Пароняна, 14
+  yandex_url: https://yandex.com/maps/org/yerevan_hotel/155533616706/
+  note: '⚠️ Принимают с собаками (~5000 драм/сутки либо по договоренности). Нюансы: окна выходят в закрытый внутренний зимний сад (нет окон на улицу), слабый кондиционер.'
+- name: ⚠️ Alpine Castle Hotel
+  lat: 40.697805
+  lng: 44.84528
+  address: г. Дилижан, ул. Ахбюр Сероб, 3
+  yandex_url: https://yandex.com/maps/org/alpyan_amrots/40258917175/
+  note: '⚠️ Живописный отель на холмах Дилижана. На Booking указано «можно с питомцами», но по факту действует ограничение по весу — строго до 10 кг.'
