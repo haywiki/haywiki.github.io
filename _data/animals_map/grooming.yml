@@ -6,7 +6,7 @@
   yandex_url: https://yandex.com/maps/org/184283936734/
   url: https://instagram.com/bb_grooming_yerevan
   types: [shops]
-  note: 'Услуги: груминг, зоотовары, перевозка питомцев.'
+  note: 'Услуги: любой груминг, зоотовары, перевозка питомцев.'
 - name: BarberDog
   lat: 40.162984
   lng: 44.423487
@@ -15,7 +15,7 @@
   url: https://barber.dog/erevan/
   hours: 'ПН–ВС 10:00–20:00'
   types: [shops]
-  note: 'Услуги: груминг, зоотовары.'
+  note: 'Услуги: любой груминг, зоотовары.'
 - name: Diadella Pet Hotel & Grooming
   lat: 40.178025
   lng: 44.519917
@@ -23,7 +23,7 @@
   phone: +37498818287 (whatsapp, viber), +37491818287
   yandex_url: https://yandex.ru/maps/10262/yerevan/house/YE0YcwVgSUEAQFpqfX12dnVhYQ==/
   url: https://www.facebook.com/profile.php?id=100064109612549
-  note: 'Услуги: зоогостиница / передержка.'
+  note: 'Услуги: любой груминг, зоогостиница / передержка.'
 - name: Groom
   lat: 40.176397
   lng: 44.518206
@@ -39,14 +39,14 @@
   yandex_url: https://yandex.com/maps/org/235700776961/
   url: https://www.instagram.com/groominghousearmenia/
   types: [shops]
-  note: 'Груминг щенков, fear-free уход, тримминг, зоотовары. Мастера: polly_grooming, trexianaa.x.grooming, finya_grooming.'
+  note: 'Любой груминг, щенки, fear-free уход, тримминг, зоотовары. Мастера: polly_grooming, trexianaa.x.grooming, finya_grooming.'
 - name: Grooming Room
   lat: 40.177256
   lng: 44.503959
   address: ул. Абовяна, 34А
   yandex_url: https://yandex.com/maps/org/77335829117/
   url: https://www.groomingroom.biz
-  note: 'Адрес на Лусаворича указан как устаревший.'
+  note: 'Любой груминг, тримминг терьеров, купание крупных собак.'
 - name: Woof Grooming Salon
   lat: 40.197892
   lng: 44.521907
@@ -55,7 +55,7 @@
   yandex_url: https://yandex.ru/maps/org/woof/222409553566/
   url: https://www.instagram.com/woof.grooming.yerevan/
   types: [shops]
-  note: 'Груминг, зоотовары, бережный уход. Мастер: nari.grooming.'
+  note: 'Любой груминг, зоотовары, бережный уход. Мастер: nari.grooming.'
 - name: MagiGroomLab
   lat: 40.199868
   lng: 44.519975
@@ -63,5 +63,5 @@
   phone: +374 94 808753
   yandex_url: https://yandex.com/maps/org/magigroomlab/216992766366/
   url: https://www.instagram.com/magigroomlab/
-  note: 'Породный уход за спаниелями, озоновые ванны, экспресс-линька.'
+  note: 'Любой груминг (все породы собак и кошек), уход за спаниелями, озоновые ванны, экспресс-линька.'
 
