@@ -334,3 +334,34 @@
   phone: +37493630630
   yandex_url: https://yandex.ru/maps/org/villa_mimi/14351851669/
   note: '⚠️ Семейный гостевой дом с садом, с собаками пускают без доплат. Бронирование только для семей с детьми; бассейн оплачивается отдельно.'
+- name: Гостевой дом Кипарис (Cypress)
+  lat: 41.156793
+  lng: 44.792311
+  address: Лорийская область, село Покр-Айрум, 6-я ул., 84
+  phone: +37496557988
+  url: https://cypresshotel.su/
+  yandex_url: https://yandex.ru/maps/org/kiparis_hyuratun/220254179795/
+  note: 'Гостевой дом с коттеджами недалеко от Алаверди и границы с Грузией (удобно в том числе для визаранщиков). Pet-friendly.'
+- name: Dream Forest (Forest Hotel & Cottages)
+  lat: 40.2039
+  lng: 44.5501
+  address: просп. Мясникяна, 40/1
+  phone: +37491205525
+  yandex_url: https://yandex.ru/maps/org/forest_hotel_cottages_evn/86088492016/
+  note: 'Сеть одного владельца (вместе с Mashtots и New Bella). Доплата за кошку 5000 драм за весь период, бронь без предоплаты, трансфер из аэропорта ~8000 драм.'
+- name: Mashtots Hotel (Маштоц)
+  lat: 40.183850
+  lng: 44.512457
+  address: просп. Месропа Маштоца, 40А
+  phone: +37491205525
+  yandex_url: https://yandex.ru/maps/org/mashtots/216324605479/
+  note: 'Сеть одного владельца (вместе с Dream Forest и New Bella). Доплата за кошку 5000 драм за весь период, бронь без предоплаты, трансфер из аэропорта ~8000 драм.'
+- name: New Bella Hotel (Нью Белла)
+  lat: 40.170228
+  lng: 44.516616
+  address: ул. Ерванда Кочара, 6
+  phone: +37491205525
+  yandex_url: https://yandex.ru/maps/org/new_bella_hotel/85523397811/
+  note: 'Сеть одного владельца (вместе с Dream Forest и Mashtots). Доплата за кошку 5000 драм за весь период, бронь без предоплаты, трансфер из аэропорта ~8000 драм.'
+
+
