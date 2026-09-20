@@ -163,4 +163,17 @@ use_map: true
 - Услуги: ветеринарный центр.
 
 </div>
+<div class="card">
+
+### Maltese City
+
+**⚠️ В черном списке сообщества!**
+
+- <i class="fa-brands fa-facebook-f"></i> [maltesecity](https://facebook.com/maltesecity/) &nbsp; <i class="fa-brands fa-instagram"></i> [maltese_city](https://instagram.com/maltese_city/)
+- 📍 [пр-кт Комитаса, 26](https://yandex.ru/maps/org/maltez_siti/32700886211/)
+- ⚠️ Причины предостережения:
+  - Смертельный случай: здоровая собака погибла во время процедуры груминга при невыясненных обстоятельствах ([пост в Facebook](https://www.facebook.com/groups/1596582680525095/posts/3242457789270901))
+  - Жестокое обращение с животными: зафиксированы свидетельства применения электрошокера к собаке во время груминга для «послушания» ([отзыв](https://t.me/c/1807080780/7279))
+
+</div>
 </div>
