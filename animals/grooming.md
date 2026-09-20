@@ -19,6 +19,7 @@ use_map: true
 - 📍 [проспект Аршакуняц, 2](https://yandex.com/maps/org/235700776961/) (возле цирка)
 - **Рекомендуется автором гайда как лучший салон груминга**
 - Подтвержденные услуги:
+  - Любой груминг и полный спектр уходовых процедур для всех пород собак и кошек
   - Бережный fear-free груминг, адаптация тревожных собак и приучение щенков ([отзыв](https://t.me/c/1807080780/31727), [отзыв](https://t.me/c/1807080780/32239), [отзыв](https://t.me/c/1807080780/103041))
   - Первый салонный груминг для щенков декоративных пород ([отзыв](https://t.me/c/1807080780/83266))
   - Породный уход за собаками с двойным типом шерсти: шпицы, корги ([отзыв](https://t.me/c/1807080780/41419), [отзыв](https://t.me/c/1807080780/113758))
@@ -42,7 +43,7 @@ use_map: true
 - <i class="fa-brands fa-instagram"></i> [woof.grooming.yerevan](https://www.instagram.com/woof.grooming.yerevan/) &nbsp; <i class="fa-brands fa-telegram"></i> [woofgroomingyerevan](https://t.me/woofgroomingyerevan)
 - 📍 [ул. Бабаяна, 6/Г](https://yandex.ru/maps/org/woof/222409553566/)
 - 📞 +374 98 389977
-- Услуги: груминг, зоотовары, вкусняшки.
+- Услуги: любой груминг для всех пород, зоотовары, вкусняшки.
 
 #### Работают мастера:
 
@@ -56,6 +57,7 @@ use_map: true
 - <i class="fa-brands fa-instagram"></i> [bb_grooming_yerevan](https://instagram.com/bb_grooming_yerevan)
 - 📍 [улица Гюльбенкяна, 39Б](https://yandex.com/maps/org/184283936734/)
 - Подтвержденные услуги:
+  - Любой груминг, стрижки и гигиенический комплекс для всех пород
   - Сезонная экспресс-линька и компрессорный выдув шерсти ([отзыв](https://t.me/c/1807080780/14918))
   - Комплексный гигиенический уход (помывка, стрижка когтей, чистка ушей) ([отзыв](https://t.me/c/1807080780/14606))
   - Тримминг жесткошерстных пород ([отзыв с замечанием](https://t.me/c/1807080780/41719))
@@ -70,6 +72,7 @@ use_map: true
 - 📍 [улица Абовяна, 34А](https://yandex.com/maps/org/77335829117/) (ранее — ул. Григора Лусаворича, 12)
 - Мастер: Татьяна
 - Подтвержденные услуги:
+  - Любой груминг и полный спектр уходовых процедур для любых пород
   - Породный тримминг терьеров со сложным характером ([отзыв](https://t.me/c/1807080780/4369), [отзыв](https://t.me/c/1807080780/9415))
   - Разбор сложных колтунов ([отзыв](https://t.me/c/1807080780/4369))
   - Полный комплекс и бережный уход ([отзыв](https://t.me/c/1807080780/6865), [отзыв](https://t.me/c/1807080780/9408))
@@ -84,6 +87,7 @@ use_map: true
 - 📍 [ул. Бабаяна, 10/1](https://yandex.com/maps/org/magigroomlab/216992766366/)
 - Мастер: Руслана (опыт 15+ лет)
 - Подтвержденные услуги:
+  - Любой груминг и стрижки для всех пород собак и кошек (не только спаниели)
   - Породный вычес и уход за спаниелями (кавалеры) ([отзыв](https://t.me/c/1807080780/99076))
   - Озоновые гидромассажные ванны для шерсти и кожи
   - Благотворительный груминг подопечных приютов ([отзыв](https://t.me/c/1807080780/104012), [отзыв](https://t.me/c/1807080780/104486))
@@ -116,6 +120,7 @@ use_map: true
 - <i class="fa-solid fa-link"></i> [barber.dog/erevan](https://barber.dog/erevan/) &nbsp; <i class="fa-brands fa-telegram"></i> [barberdog_erevan](https://t.me/barberdog_erevan) &nbsp; <i class="fa-brands fa-instagram"></i> [barberdog_erevan](https://www.instagram.com/barberdog_erevan/)
 - 📍 [ул. Арама Хачатуряна, 3](https://yandex.com/maps/org/87112370678/)
 - Подтвержденные услуги:
+  - Любой груминг и стрижки для любых пород собак и кошек
   - Полный комплекс (помывка в 3 этапа, сушка, стрижка когтей, чистка ушей и глаз, окантовка) ([отзыв](https://t.me/c/1807080780/35736), [отзыв](https://t.me/c/1807080780/49834), [отзыв](https://t.me/c/1807080780/82684))
   - Экспресс-линька линяющих пород: хаски, корги ([отзыв](https://t.me/c/1807080780/34808))
   - Породные стрижки: йоркширские терьеры, шпицы ([отзыв](https://t.me/c/1807080780/66260))
@@ -131,7 +136,7 @@ use_map: true
 - <i class="fa-brands fa-facebook-f"></i> [Diadella](https://www.facebook.com/profile.php?id=100064109612549) &nbsp; <i class="fa-brands fa-instagram"></i> [diadella_](https://instagram.com/diadella_/)
 - 📍 [улица Тпагричнери, 9](https://yandex.ru/maps/10262/yerevan/house/YE0YcwVgSUEAQFpqfX12dnVhYQ==/)
 - 📞 +37498818287 (whatsapp, viber), +37491818287
-- Услуги: зоогостиница / передержка.
+- Дополнительные услуги: зоогостиница / передержка.
 
 </div>
 <div class="card">
@@ -141,7 +146,7 @@ use_map: true
 - <i class="fa-solid fa-link"></i> [vetexpert.am](https://vetexpert.am/ru/) &nbsp; <i class="fa-brands fa-facebook-f"></i> [vetexpertvetgroup](https://facebook.com/vetexpertvetgroup) &nbsp; <nobr markdown="span"><i class="fa-brands fa-instagram"></i> [vetexpertveterinarygroup](https://instagram.com/vetexpertveterinarygroup/)</nobr>
 - 📍 [просп. Азатутян, 14](https://yandex.ru/maps/org/vet_ekspert/1861952348/)
 - 📞 +374 10 209966, моб: +374 96 209966
-- Услуги: ветеринарная клиника.
+- Дополнительные услуги: ветеринарная клиника.
 
 </div>
 <div class="card">
@@ -151,7 +156,7 @@ use_map: true
 - <i class="fa-brands fa-facebook-f"></i> [vetlinearmenia](https://facebook.com/vetlinearmenia/) &nbsp; <i class="fa-brands fa-instagram"></i> [vetline_vet.clinic](https://instagram.com/vetline_vet.clinic/)
 - 📍 [просп. Комитаса, 6](https://yandex.ru/maps/org/kruglosutochnaya_veterinarnaya_klinika_vetlayn/154801169156/)
 - 📞 +374 11 279999
-- Услуги: ветеринарная клиника.
+- Услуги: ветеринарная клиника, груминг для любых пород.
 
 </div>
 <div class="card">
@@ -160,7 +165,7 @@ use_map: true
 
 - <i class="fa-solid fa-link"></i> [joli.am](https://joli.am/) &nbsp; <i class="fa-brands fa-instagram"></i> [joli_veterinary_center](https://instagram.com/joli_veterinary_center/)
 - 📍 [ул. Авета Аветисяна, 112/2](https://yandex.ru/maps/org/veterinarny_tsentr_dzholi/135151397057/)
-- Услуги: ветеринарный центр.
+- Услуги: ветеринарный центр, груминг для любых пород.
 
 </div>
 <div class="card">
