@@ -3,123 +3,122 @@
   lng: 45.078943
   yandex_url: https://yandex.ru/maps/org/apaga_rezort/74778723297/
   url: http://www.apaga.info/
+  note: 'Лояльны к собакам любого размера без доплат, пускают на завтрак. На территории свои собаки и лошади, просят водить на поводке.'
 - name: Бутик-отель Овер
   lat: 40.744014
   lng: 44.852892
   address: г. Дилижан, ул. Андраники 3-й пер., 1
   phone: +37495920091
   yandex_url: https://yandex.ru/maps/org/butik_otel_over/179643072999/
-- name: Гостевой дом Кесабелла
-  lat: 40.1641
-  lng: 44.413267
-  address: ул. Ереванян, 3, Паракар
-  phone: +37498001986
-  yandex_url: https://yandex.ru/maps/org/gostevoy_dom_kesabella/234786492198/
-- name: Гостиница Венеция
-  lat: 40.155934
-  lng: 44.52114
-  address: ул. Мовсеса Хоренаци, 217/19
-  phone: +37410570102
-  yandex_url: https://yandex.ru/maps/org/venetsiya/166723620307/
+  note: 'Известен как Hover (Հովեր). Догфрендли, можно в отдельные домики с собаками (договариваться заранее, берут доплату).'
 - name: Гостиница Режинэ
   lat: 40.184378
   lng: 44.53299
   address: ул. Норки Айгинер, 235/1
   phone: +37410655939
   yandex_url: https://yandex.ru/maps/org/rezhine/28907706121/
+  note: 'Размещение с животными допускается; перед бронированием рекомендуется уточнить допустимый вес и породу.'
 - name: Ереван Плейс (ex Hyatt Place)
   lat: 40.176172
   lng: 44.512879
   address: ул. Вазгена Саргсяна, 26/1
   phone: +37411221234
   yandex_url: https://yandex.ru/maps/org/yerevan_pleys/6494473678/
+  note: 'Только собаки весом до 8 кг, доплата 15 000 драм в сутки. Не допускаются в зоны питания, в номере без присмотра должны быть в переноске.'
 - name: Концепт-отель by Coaf
   lat: 40.925689
   lng: 44.64016
   address: село Дебет
   yandex_url: https://yandex.ru/maps/org/kontsept_otel_by_coaf/72601532586/
   url: https://concepthotel.am
+  note: '100% догфрендли, фиксированная доплата 10 000 драм за заезд (любой вес). На территории могут быть сельские собаки.'
 - name: Кросс Резорт Ереван
   lat: 40.222477
   lng: 44.459342
   address: Аштаракское ш., 50/12
   phone: +37494777077
   yandex_url: https://yandex.ru/maps/org/kross_rezort_yerevan/1193096505/
-- name: Отель Арцах
-  lat: 40.151813
-  lng: 44.503582
-  address: ул. Севана, 116
-  phone: +37410449939
-  yandex_url: https://yandex.ru/maps/org/otel_artsakh/223875545819/
+  note: '⚠️ На агрегаторах указан запрет; заселение с питомцем возможно только по предварительному согласованию минимум за 48 часов.'
 - name: Отель и ресторан Дилиджаз
   lat: 40.778019
   lng: 44.926239
   address: село Техут
   yandex_url: https://yandex.ru/maps/org/32685331959/
+  note: 'Условия зависят от категории номера; требуется предварительное согласование по телефону.'
 - name: Отель Република Ереван
   lat: 40.179361
   lng: 44.509247
   address: ул. Амиряна, 7
   phone: +37411990000
   yandex_url: https://yandex.ru/maps/org/otel_republika_yerevan/141128342239/
+  note: 'Размещение с питомцами по предварительному запросу, доплата ~25 000 драм за заезд.'
 - name: Тун Армени
   lat: 40.743091
   lng: 44.872831
   address: г. Дилижан
   yandex_url: https://yandex.ru/maps/org/tun_armeni/15945983303/
   url: https://www.toonarmeni.am
+  note: 'Принимают с небольшими собаками (проверено со спаниелем), доплата 20 000 драм.'
 - name: Albert House
   lat: 40.166622
   lng: 44.514064
   address: ул. Заваряна, 12/1
   phone: +37410561114
   yandex_url: https://yandex.ru/maps/org/albert_house/224294205229/
+  note: 'Доплата 5000 драм за собаку (проверено с питомцами до 15 кг). Очень дружелюбный персонал: размер и вес значения не имеют, главное — спокойствие.'
 - name: Armenian Camp
   lat: 40.486469
   lng: 45.366905
   yandex_url: https://yandex.ru/maps/org/armenian_camp/134656821372/
+  note: 'Разрешено с собаками (с кошками нельзя), доплата 1000 драм. Линда на территории. Пускают в гастродворик, на каяки и в пешие туры.'
 - name: Best Western Plus Congress Hotel
   lat: 40.175369
   lng: 44.508839
   address: ул. Италии, 1
   phone: +37410591199
   yandex_url: https://yandex.ru/maps/org/best_western_plus_congress_hotel/1078761583/
-  note: 'Максимальный вес питомца — 5 кг. Не очень френдли.'
+  note: 'Максимальный вес собаки — строго до 5 кг, доплата 4000 драм в сутки. Размещение только в специальных номерах.'
 - name: Communa Guest House
   lat: 40.787914
   lng: 43.839961
   address: г. Гюмри
   yandex_url: https://yandex.ru/maps/org/communa/224566142076/
   url: https://www.instagram.com/communagyumri/
+  note: 'Атмосферный гостевой дом в историческом центре Гюмри, принимают с собаками.'
 - name: DiliVita resthouse
   lat: 40.731871
   lng: 45.004802
   address: село Гош, неподалёку от Дилижана
   phone: +37498776477
   yandex_url: https://yandex.com/maps/org/dilivita_resthouse/21059370161/
+  note: '⚠️ Данные на агрегаторах разнятся; обязательно уточняйте возможность заезда с питомцем по телефону.'
 - name: Dave Hotel Yerevan
   lat: 40.190769
   lng: 44.503926
   address: ул. Прошяна, 4
   phone: +37460707575
   yandex_url: https://yandex.ru/maps/org/dave_hotel_yerevan/198326053456/
+  note: 'Принимают собак и кошек весом до 12 кг, доплата 25 000 драм за весь период проживания.'
 - name: glampingpark.am
   lat: 40.776894
   lng: 44.581103
+  phone: +37455515254
   yandex_url: https://yandex.ru/maps/org/glamping_park/60923708256/
   url: https://www.instagram.com/glampingpark.am/
-  note: 'Неподалёку от Ванадзора.'
+  note: 'Глэмпинг около Ванадзора, принимают с собаками любого размера (были с хаски). На территории двое своих дружелюбных пёселей.'
 - name: Grand Resort Jermuk
   lat: 39.839197
   lng: 45.666282
   yandex_url: https://yandex.ru/maps/org/grand_resort_jermuk/202669564876/
   url: https://www.grandresortjermuk.com/ru/
+  note: 'Пускают с собаками весом до 25 кг, очень доброжелательный персонал. Доплата варьируется от 2000 руб до 12 000 драм за 2 ночи.'
 - name: Harsnadzor Eco Resort
   lat: 39.398679
   lng: 46.280218
   address: село Татев
   phone: +37477062032
   yandex_url: https://yandex.com/maps/org/66240830357/
+  note: '⚠️ На агрегаторах стоит запрет; заезд с собакой возможен только по предварительной прямой договоренности с базой. На канатную дорогу «Крылья Татева» с собаками не пускают.'
 - name: Holiday Inn Republic Square
   lat: 40.178696
   lng: 44.511370
@@ -137,26 +136,201 @@
 - name: Matevosyan's Rest House
   lat: 40.769801
   lng: 44.612893
+  address: село Лермонтово, неподалёку от Ванадзора
   yandex_url: https://yandex.ru/maps/org/matevosyan_s_rest_house/194029366022/
-- name: Opera Suite Hotel
-  lat: 40.189271
-  lng: 44.512444
-  address: ул. Рафаэла Лемкина, 1
-  phone: +37411201000
-  yandex_url: https://yandex.ru/maps/org/opera_suite_hotel/147894966895/
+  note: 'Уютные домики, тепло, чисто, вкусно кормят, хозяева очень рады гостям с собаками.'
 - name: Вилла Дилижан
   lat: 40.744115
   lng: 44.82917
   phone: +37498020950
   yandex_url: https://yandex.ru/maps/org/villa_dilijan/177549778192/
+  note: 'Ранее Rest house Dilijan. Домики с видом на горы, пускают с любыми собаками без доплат. Рассчитано на теплый сезон.'
 - name: Verin Tun Guesthouse
   lat: 40.751162
   lng: 44.893296
   phone: +37443050077
   yandex_url: https://yandex.ru/maps/org/verin_tun/53711938211/
+  note: '⚠️ На агрегаторах стоит запрет; заселение с небольшой собакой в отдельный коттедж возможно по прямой договоренности с хозяйкой.'
 - name: WishUp Shore
   lat: 40.504092
   lng: 45.250347
   yandex_url: https://yandex.ru/maps/org/vishap_plyazh/5810108409/
   url: https://instagram.com/wishupshore
-  note: 'Палаточный лагерь и домики. Бронирование через Instagram.'
+  note: 'Палаточный лагерь и домики на берегу Севана. Полностью dog-friendly: пускают в кафе и на пляж, прокат сапов и каяков.'
+- name: Garden Inn Resort Sevan
+  lat: 40.565044
+  lng: 44.999966
+  address: г. Севан, Public Beach 4
+  phone: +37496111195
+  yandex_url: https://yandex.ru/maps/org/garden_inn_resort_sevan/177681428203/
+  note: 'Очень любят собак, можно по всей территории, доплата 2000 драм.'
+- name: Comuna Sevan
+  lat: 40.477462
+  lng: 45.394402
+  address: озеро Севан, трасса H-7
+  yandex_url: https://yandex.ru/maps/org/komuna_sevan/180567632351/
+  note: 'Кемпинг и домики на берегу Севана, проверено с далматином.'
+- name: Altitude 1900
+  lat: 40.629678
+  lng: 44.959324
+  address: озеро Севан, село Цовагюх
+  yandex_url: https://yandex.ru/maps/org/altitude_1900_dive_resort/175061365720/
+  note: 'Дайвинг-резорт со своим пирсом на озере, полностью dog-friendly.'
+- name: Mount Wolf Glamping
+  lat: 40.709072
+  lng: 44.657251
+  address: Лорийская область
+  phone: +37491990099
+  yandex_url: https://yandex.ru/maps/org/mount_wolf_glamping/7258682167/
+  note: '⚠️ Панорамный видовой глэмпинг в горах. Правила для крупных собак противоречивы — требуется обязательное предварительное согласование до бронирования.'
+- name: Anapat Canyon
+  lat: 39.716452
+  lng: 45.204020
+  address: Вайоц Дзор, ущелье Анапат
+  phone: +37494800085
+  yandex_url: https://yandex.ru/maps/org/anapat_canyon/139742004793/
+  note: 'Домики на горе в каньоне, полностью dog-friendly без доплат за собаку.'
+- name: Green Agarak
+  lat: 40.965871
+  lng: 44.480980
+  address: Лорийская область, село Гюлагарак
+  phone: +37499505505
+  yandex_url: https://yandex.ru/maps/org/green_agarak/25165806394/
+  note: 'Гостевой дом в горах возле Степанавана, отличные виды, dog-friendly.'
+- name: Red Forest
+  lat: 40.750557
+  lng: 44.877496
+  address: г. Дилижан, ул. Саят-Нова, 46
+  phone: +37494400404
+  yandex_url: https://yandex.ru/maps/org/red_forest/202173211042/
+  note: 'Домики и ресторан в хвойном лесу Дилижана, большая зеленая территория.'
+- name: Aurora Luxe
+  lat: 40.778001
+  lng: 44.926668
+  address: г. Дилижан, село Техут, 2-я ул., 21
+  phone: +37499909999
+  yandex_url: https://yandex.ru/maps/org/aurora_villas_teghut/228651202285/
+  note: 'Коттеджи с индивидуальным бассейном и зоной BBQ в Дилижане, принимают с собаками.'
+- name: Artanish Beach Resort
+  lat: 40.485049
+  lng: 45.373108
+  address: Артаниш, озеро Севан
+  phone: +37444888005
+  yandex_url: https://yandex.ru/maps/org/artanish_beach_resort/119618766446/
+  note: 'Полностью dog-friendly, можно с собаками любого размера на пляж и в ресторан. На территории дружелюбные местные гампры.'
+- name: Noy Land Resort
+  lat: 40.510922
+  lng: 45.000618
+  address: село Чкаловка, озеро Севан
+  phone: +37433772211
+  yandex_url: https://yandex.ru/maps/org/noy_lend_rezort/166900342867/
+  note: 'Заселение с собаками в отдельные бунгало без доплаты. Бассейн и пляж, можно гулять по территории; в закрытую столовую вход ограничен.'
+- name: Port Ayas
+  lat: 40.485456
+  lng: 45.361089
+  address: озеро Севан, Артаниш
+  yandex_url: https://yandex.ru/maps/org/port_ayas_otel_i_restoran/222106571778/
+  note: 'Разрешено с собаками и кошками без доплат (нужен ветпаспорт). Есть утепленные будки с выгулом на случай, если питомца нельзя оставить в номере.'
+- name: Dilijan Park Resort & Villas
+  lat: 40.760440
+  lng: 44.923437
+  address: г. Дилижан, ул. Парз Лич, 20
+  phone: +37441604604
+  yandex_url: https://yandex.ru/maps/org/dilijan_park_resort_villas/35841606021/
+  note: 'С собаками любого размера заселяют в отдельные коттеджи (в главный корпус нельзя), проверено с крупными собаками без доплат.'
+- name: Getahovit Resort
+  lat: 40.900648
+  lng: 45.128049
+  address: село Гетаовит, Тавушская область
+  yandex_url: https://yandex.ru/maps/org/getahovit_resort/152374375535/
+  note: 'Пускают с крупными собаками бесплатно без доплат в специально выделенные домики/номера.'
+- name: Eighty Eight Hotel and Spa
+  lat: 40.529892
+  lng: 44.696064
+  address: г. Цахкадзор, ул. Тандзахбюр, 34/1
+  phone: +37410212000
+  yandex_url: https://yandex.ru/maps/org/eighty_eight_hotel_and_spa/106359574753/
+  note: 'Принимают с собаками любого размера в любые номера, фиксированная доплата 20 000 драм в сутки.'
+- name: Splendor Resort
+  lat: 40.533174
+  lng: 44.708185
+  address: г. Цахкадзор, ул. Мгер Мкртчяна, 40
+  phone: +37494494951
+  yandex_url: https://yandex.ru/maps/org/splendor_resort_restaurant/210871394424/
+  note: 'Коттеджный комплекс в лесной зоне, принимают с собаками по предварительной договоренности.'
+- name: Stellar Hotels Tsaghkadzor
+  lat: 40.529612
+  lng: 44.719813
+  address: г. Цахкадзор, ул. Егише Чаренца, 7
+  phone: +37491410101
+  yandex_url: https://yandex.ru/maps/org/alpina_resort_by_stellar_hotels/32188081628/
+  note: '⚠️ Размещение разрешено строго с маленькими собаками весом до 7 кг, собакам среднего и крупного размера отказывают.'
+- name: Everest Rest House
+  lat: 40.531961
+  lng: 44.727207
+  address: г. Цахкадзор, ул. Мгер Мкртчяна, 13/3
+  yandex_url: https://yandex.ru/maps/org/everest_rest_house/38260518196/
+  note: '❌ На агрегаторах указан как pet-friendly, но на практике категорически отказывают с собаками крупнее декоративных (отказ от 15–30 кг).'
+- name: Berlin ART Hotel
+  lat: 40.783667
+  lng: 43.845930
+  address: г. Гюмри, просп. Победы, 25
+  phone: +37431257659
+  yandex_url: https://yandex.ru/maps/org/berlin/244295790256/
+  note: 'Арт-отель с зеленым внутренним двориком, принимают с собаками за небольшую доплату.'
+- name: Hotel Vanatur
+  lat: 40.786750
+  lng: 43.850616
+  address: г. Гюмри, ул. Максима Горького, 70/2
+  phone: +37431257005
+  yandex_url: https://yandex.ru/maps/org/vanatur_hotel/163558644818/
+  note: 'Гостиница рядом с вокзалом, по согласованию на Booking принимают с небольшими собаками без доплат.'
+- name: Chalet Lermo
+  lat: 40.763571
+  lng: 44.629296
+  address: село Лермонтово, Лорийская область
+  phone: +37493346742
+  yandex_url: https://yandex.ru/maps/org/chalet_lermo/176639811290/
+  note: 'Шале с баней в горах Лори, dog-friendly.'
+- name: Innwoods Hotel
+  lat: 41.079682
+  lng: 44.642313
+  address: г. Алаверди, Лорийская область
+  phone: +37455620860
+  yandex_url: https://yandex.ru/maps/org/innwoods/20432142442/
+  note: 'Отель в лесу, пускают с собаками без доплат (проверено с питомцами до 15 кг). На дальней территории есть местная собака на привязи.'
+- name: NorDar Hotel
+  lat: 40.127739
+  lng: 44.759715
+  address: село Гарни, Котайкская область, ул. 1-я, 16
+  phone: +37499011703
+  yandex_url: https://yandex.ru/maps/org/nordar_hotel/188615128708/
+  note: 'Бассейн и мангальная зона, пускают с собаками без доплат.'
+- name: EcoLife Lodge
+  lat: 40.998823
+  lng: 44.383045
+  address: г. Степанаван, Лорийская область, ул. Антараин, 6/2
+  phone: +37498357777
+  yandex_url: https://yandex.ru/maps/org/ecolife_lodge_hotel_restaurant/173943567836/
+  note: 'Эко-лодж в тихом месте у хвойного леса, рады гостям с собаками.'
+- name: Address Number 8
+  lat: 39.887334
+  lng: 45.338412
+  address: село Горбатех (Horbategh), ущелье Ехегис, Вайоц Дзор
+  phone: +37498590033
+  yandex_url: https://yandex.ru/maps/org/hastse_tiv_8/6859852395/
+  note: 'Вилла для отдыха с полностью огороженной закрытой территорией (идеально для склонных к побегу собак), принимают с собаками и кошками.'
+- name: WOW Glamping
+  lat: 40.947035
+  lng: 44.653579
+  address: село Дсех, Лорийская область
+  phone: +37477171766
+  yandex_url: https://yandex.ru/maps/org/wow_glamping/50226572267/
+  note: '⚠️ Доплата за собаку 5 000 драм за заезд. По территории свободно гуляют кролики — охотничьим собакам необходим контроль на поводке.'
+- name: Villa Mimi
+  lat: 40.330352
+  lng: 44.320705
+  address: село Парпи, Арагацотнская область, ул. Саака Торосяна, 16
+  phone: +37493630630
+  yandex_url: https://yandex.ru/maps/org/villa_mimi/14351851669/
+  note: '⚠️ Семейный гостевой дом с садом, с собаками пускают без доплат. Бронирование только для семей с детьми; бассейн оплачивается отдельно.'
