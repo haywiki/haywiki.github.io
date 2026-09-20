@@ -5,18 +5,21 @@
   phone: +374 55 529277
   yandex_url: https://yandex.ru/maps/org/grin_bin/33792362159/
   hours: пн-вс 08:30-00:00
-- name: Гадюка
+  note: 'Проверенное pet-friendly кафе у Каскада, всегда рады гостям с собаками'
+- name: ⚠️ Гадюка
   lat: 40.173815
   lng: 44.521794
   address: ул. Вардананц, 78
   yandex_url: https://yandex.ru/maps/org/gadyuka/128711950705/
-- name: Кафе №2
+  note: '⚠️ Пускают с собаками, но очень громко — звук отражается от металлических стен, чувствительным собакам может быть некомфортно'
+- name: ⚠️ Кафе №2
   lat: 40.739474
   lng: 44.864919
   address: ул. Максима Горького, 17/1
   phone: +374 60 700805
   yandex_url: https://yandex.ru/maps/org/cafe_2/222737698143/
   hours: 'пн-вс: 09-22'
+  note: '⚠️ Пускают только с небольшими собаками (есть ограничение по росту)'
 - name: Кофейня Set — Сарьяна
   lat: 40.186164
   lng: 44.508126
@@ -33,11 +36,12 @@
   address: ул. Гетапня, 10
   yandex_url: https://yandex.ru/maps/org/the_spot/186394169592/
 - name: Кчуч
-  lat: 40.739104
-  lng: 44.866576
-  address: ул. Мясникяна, 37/3
+  lat: 40.741156
+  lng: 44.869151
+  address: ул. Саят-Новы, 6
   phone: +374 41 886010
-  yandex_url: https://yandex.ru/maps/org/kchuch/108116108720/
+  yandex_url: https://yandex.ru/maps/org/kchuch/64118041800/
+  note: 'Ресторан национальной кухни в Дилижане, pet-friendly'
 - name: Отель и ресторан Дилиджаз
   lat: 40.778027
   lng: 44.926062
@@ -130,6 +134,13 @@
   lng: 44.5154
   address: ул. Абовяна, 8
   yandex_url: https://yandex.ru/maps/org/paul_armenia/209546981995/
+  note: 'Летом можно на веранду (с маленькой собакой)'
+- name: Paul le café
+  lat: 40.181871
+  lng: 44.513201
+  address: ул. Теряна, 5 (Courtyard by Marriott)
+  yandex_url: https://yandex.com/maps/org/paul_le_cafe/101439288611/
+  note: 'Пускают внутрь с собаками любого размера, включая крупных (проверено со смесью овчарки)'
 - name: Pinsa!
   lat: 40.178959
   lng: 44.521832
@@ -167,11 +178,13 @@
   lng: 44.512734
   address: ул. Павстоса Бюзанда, 5
   yandex_url: https://yandex.ru/maps/org/frank_by_basta/113039833181/
+  note: 'Официально pet-friendly — собаки любого размера, дают воду и угощения'
 - name: 202°f
-  lat: 40.184147
-  lng: 44.519832
-  address: ул. Абовяна, 26
-  yandex_url: https://yandex.com/maps/org/215858180034/
+  lat: 40.182244
+  lng: 44.514528
+  address: Северный просп., 8/2
+  yandex_url: https://yandex.com/maps/org/202_f/105723038999/
+  note: 'Спешелти кофе, пускают с собаками (проверено с крупной собакой 30 кг)'
 - name: Ferment
   lat: 40.186
   lng: 44.517945
@@ -182,6 +195,7 @@
   lng: 44.498677
   address: ул. Рафаеля Исраеляна, 73
   yandex_url: https://yandex.com/maps/org/84867664974/
+  note: 'Пускают с собаками любых размеров, включая крупных, выносят воду'
 - name: Spot
   lat: 40.186111
   lng: 44.507121
@@ -192,26 +206,31 @@
   lng: 44.514927
   address: ул. Таманяна, 1
   yandex_url: https://yandex.com/maps/org/surf_coffee_x_cascade/128477620786/
+  note: 'Всегда рады гостям с собаками'
 - name: Surf Coffee X Tumanyan
   lat: 40.180764
   lng: 44.519329
   address: ул. Налбандяна, 98
   yandex_url: https://yandex.com/maps/org/235371465522/
+  note: 'Всегда рады гостям с собаками'
 - name: Surf Coffee X 404
   lat: 40.187089
   lng: 44.509716
   address: ул. Сарьяна, 1
   yandex_url: https://yandex.com/maps/org/131678962541/
+  note: 'Всегда рады гостям с собаками'
 - name: Mango (Saryan)
   lat: 40.187399
   lng: 44.508953
   address: ул. Сарьяна, 4
   yandex_url: https://yandex.com/maps/org/mango/216689555439/
+  note: 'Всегда рады гостям с собаками'
 - name: Mango (Komitas)
   lat: 40.200977
   lng: 44.493358
   address: просп. Комитаса, 1
   yandex_url: https://yandex.com/maps/org/120708642580/
+  note: 'Всегда рады гостям с собаками'
 - name: Neko
   lat: 40.186483
   lng: 44.506384
@@ -252,3 +271,165 @@
   phone: +374 99 096800
   yandex_url: https://yandex.com/maps/org/231526803354/
   hours: пн-вс 08:00-23:00
+- name: The Coffee
+  lat: 40.189311
+  lng: 44.514907
+  address: ул. Таманяна, 1 / ул. Исаакяна, 36
+  phone: +374 44 402240
+  yandex_url: https://yandex.ru/maps/org/the_coffee/102752569728/
+  note: 'Pet Day по субботам (-15% на заказ с собакой), пускают внутрь собак любого размера'
+- name: The Academy
+  lat: 40.191842
+  lng: 44.508993
+  address: просп. Маршала Баграмяна, 24А
+  phone: +374 44 943333
+  yandex_url: https://yandex.ru/maps/org/the_academy/83710635403/
+  note: 'Спешелти кофе, персонал сам зовет внутрь с собаками любых размеров'
+- name: Cha Art
+  lat: 40.191877
+  lng: 44.505608
+  address: просп. Маршала Баграмяна, 19/1
+  phone: +374 98 122240
+  yandex_url: https://yandex.ru/maps/org/cha_art/154703688781/
+  note: 'Чайная и арт-пространство, рады собакам любого размера'
+- name: Jermots Cafe
+  lat: 40.177085
+  lng: 44.520788
+  address: ул. Тпагричнери, 13
+  phone: +374 44 330200
+  yandex_url: https://yandex.com/maps/org/jermots_cafe/67451989430/
+  note: 'Зеленое кафе у Вернисажа, пускают внутрь (на полу бетон, берите коврик)'
+- name: Andrew
+  lat: 40.181410
+  lng: 44.510912
+  address: ул. Езника Кохбаци, 7
+  phone: +374 44 321777
+  yandex_url: https://yandex.ru/maps/org/andrew/4029945112/
+  note: 'Выносят миску с водой, пускают воспитанных собак внутрь'
+- name: Myrt
+  lat: 40.187488
+  lng: 44.509769
+  address: ул. Мартироса Сарьяна, 2
+  phone: +374 95 020290
+  yandex_url: https://yandex.ru/maps/org/myrt/44618387180/
+  note: 'Кафе на Сарьяна, официально pet-friendly'
+- name: The Kond House
+  lat: 40.180473
+  lng: 44.503048
+  address: ул. Лео, 46
+  phone: +374 99 717771
+  yandex_url: https://yandex.com/maps/org/the_kond_house/91269371903/
+  note: 'Исторический Конд, камин, качели, дают воду, пускают больших собак (хаски)'
+- name: Pho Bo
+  lat: 40.178499
+  lng: 44.520011
+  address: ул. Анрапетутян, 71
+  phone: +374 99 157777
+  yandex_url: https://yandex.com/maps/org/phobo/133560596422/
+  note: 'Вьетнамское бистро, проверено с собаками'
+- name: Impact Hub Yerevan
+  lat: 40.155994
+  lng: 44.509285
+  address: просп. Тиграна Меца, 80/1
+  phone: +374 11 222210
+  yandex_url: https://yandex.com/maps/org/impact_hub/169220647478/
+  note: 'Международный коворкинг, можно с собаками любых размеров при спокойном поведении'
+- name: Овк Пандок
+  lat: 40.354647
+  lng: 44.377792
+  address: село Оганаван
+  phone: +374 93 424262
+  yandex_url: https://yandex.ru/maps/org/hovk_pandok/141588797765/
+  note: 'Колоритный пандок над ущельем реки Касах, уличные беседки, собаке сразу выносят воду'
+- name: Carahunge Dilijan
+  lat: 40.739810
+  lng: 44.861093
+  address: г. Дилижан, ул. Калинина, 25
+  phone: +374 44 242020
+  yandex_url: https://yandex.com/maps/org/carahunge_dilijan/29437634504/
+  note: 'Уютный ресторан в Дилижане с вкусной кухней, неоднократно проверен собачниками'
+- name: Vibe Coffee
+  lat: 40.178841
+  lng: 44.509753
+  address: ул. Закяна, 1
+  yandex_url: https://yandex.com/maps/org/vibe/107994316199/
+  note: 'Спешелти кофейня, рада всем четверолапым'
+- name: Moka Pot
+  lat: 40.188938
+  lng: 44.518672
+  address: ул. Исаакяна, 26
+  yandex_url: https://yandex.com/maps/org/moka_pot/156275887752/
+  note: 'Всегда рады собакам, уютная кофейня с тирамису'
+- name: ⚠️ Santino Pizza
+  lat: 40.182265
+  lng: 44.513431
+  address: ул. Пушкина, 36
+  phone: +374 33 646464
+  yandex_url: https://yandex.com/maps/org/santino/242050290110/
+  note: '⚠️ Пускают только с маленькими собаками'
+- name: ⚠️ Afrolab Roastery
+  lat: 40.182655
+  lng: 44.512971
+  address: ул. Пушкина, 40
+  yandex_url: https://yandex.com/maps/org/afrolab_roastery/232756172743/
+  note: '⚠️ Кофейня-ростери, пускают с собаками (проверено с самоедом)'
+- name: Altar
+  lat: 40.206400
+  lng: 44.526326
+  address: просп. Азатутян, 17 (Арабкир)
+  yandex_url: https://yandex.com/maps/org/190313203045/
+  note: 'Кофе и кухня, проверено с собаками'
+- name: Coffee House (парк Буэнос-Айрес)
+  lat: 40.205285
+  lng: 44.480044
+  address: ул. Алабяна, 65/6 (Ачапняк)
+  yandex_url: https://yandex.com/maps/org/coffee_house/65013728868/
+  note: 'Кофейня в парке Буэнос-Айрес, принимают с собаками, выносят воду и угощения'
+- name: NewTone Park
+  lat: 40.205406
+  lng: 44.480041
+  address: ул. Алабяна, 65/6
+  yandex_url: https://yandex.com/maps/org/newtone_park/41442007269/
+  note: 'Ресторан в парке Буэнос-Айрес, терраса, персонал хорошо относится к собакам'
+- name: Sorriso (Ераз Парк)
+  lat: 40.211397
+  lng: 44.530591
+  address: шоссе Тбилисян, 1/7
+  yandex_url: https://yandex.com/maps/org/sorriso/214268701841/
+  note: 'Итальянское кафе у дороги рядом с Ераз Парком, пет-френдли'
+- name: ⚠️ Ringo
+  lat: 40.205808
+  lng: 44.477020
+  address: ул. Маргаряна, 4/2 (парк Буэнос-Айрес, Малатия)
+  yandex_url: https://yandex.com/maps/org/ringo_ponchik/135925681028/
+  note: '⚠️ Зайти сделать заказ можно, но сидеть разрешают только на террасе'
+- name: Sig & Chips
+  lat: 40.174996
+  lng: 44.522620
+  address: ул. Алека Манукяна, 12/1
+  yandex_url: https://yandex.com/maps/org/sig_chips/162463680667/
+  note: 'Вкусный фастфуд, пускают с питомцами'
+- name: Rolls (Dilijan)
+  lat: 40.738672
+  lng: 44.868166
+  address: г. Дилижан, ул. Мясникяна, 30Б
+  yandex_url: https://yandex.com/maps/org/rolls/75277327690/
+  note: 'Кафе-фастфуд в Дилижане, пускают с собаками'
+- name: Red Forest
+  lat: 40.750557
+  lng: 44.877496
+  address: г. Дилижан, ул. Саят-Новы, 46
+  yandex_url: https://yandex.com/maps/org/red_forest/202173211042/
+  note: 'Ресторан-бар в Дилижане, официально пет-френдли'
+- name: Mosh
+  lat: 40.739232
+  lng: 44.857658
+  address: г. Дилижан, ул. Гетапня, 2
+  yandex_url: https://yandex.com/maps/org/mosh/108877500505/
+  note: 'Бар и спешелти кофейня, pet-friendly (сезонный режим работы)'
+- name: Boo Mountain Bike Park (Boo Cafe)
+  lat: 40.800546
+  lng: 44.482724
+  address: г. Ванадзор, ул. Мясникяна, 90/2-3
+  yandex_url: https://yandex.com/maps/org/boo_mountain_bike_park/26634366325/
+  note: 'Спортивно-развлекательный парк с памп-треком и Boo Cafe, pet-friendly, на территории живут свои дружелюбные собаки'
