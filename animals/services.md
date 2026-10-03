@@ -16,10 +16,11 @@ display_stale_warning: false
 - 🟢 <i class="fa-brands fa-instagram"></i> [darphins_store](https://instagram.com/darphins_store) — кото-отель от соучредителя Armenian Animal Aid. Строгие требования к здоровью (тесты на FIV/FeLv).
 - [Ранчо Сируник](https://www.ranchosirunik.am/services) (<i class="fa-brands fa-instagram"></i> [instagram](https://www.instagram.com/ranchosirunik/), [карты](https://maps.app.goo.gl/sBe1o12GWZER2T2p8)) — гостиница и дневной детский сад для собак в селе Птхни (недалеко от Еревана). Площадки под открытым небом, внимательное отношение к питомцам, фото- и видеоотчеты, видеонаблюдение 24/7. Бесплатная услуга доставки собак из Еревана и Котайкской области и обратно. Телефон: +37495488879.
 - <i class="fa-brands fa-instagram"></i> [_animal_care__center](https://www.instagram.com/animal_care__center/) — зоогостиница в Ереване с видеонаблюдением (доступ для владельцев 24/7).
-- 🟡 [Pet sitter](https://www.pet-sitter.ru) ([telegram](https://t.me/petsitter_online)) — сервис ситтинга. Не рекомендуем из-за недостаточной проверки сотрудников и агрессивного маркетинга.
 - <i class="fa-brands fa-instagram"></i> [Dog Walk Armenia](https://www.instagram.com/dogwalkarmenia/) — выгул и передержка собак.
 - <i class="fa-brands fa-facebook-f"></i> [Pet Hotel "Roly"](https://www.facebook.com/shnerikatunerihyuranocRolyPethotelRoly/) — домашняя передержка для собак в Ереване.
 - [ZooHotel](https://yandex.com/maps/org/zoohotel/238958317679/) — зоогостиница в селе Паракар (ул. Мгера Мкртчяна, 3/7). Видеонаблюдение онлайн для владельцев, регулярные фото/видеоотчеты, проверено сообществом.
+- [Хвост / Hvost Pet Sitting](https://t.me/hvost_pet_sitting) — передержка собак и кошек, визиты к кошкам на дом. В сентябре 2026 участники сообщества положительно отзывались о передержке и ежедневных визитах с видеоотчётами. Условия уточняйте у исполнителя.
+- 🟡 [Pet sitter](https://www.pet-sitter.ru) ([telegram](https://t.me/petsitter_online)) — сервис ситтинга. Не рекомендуем из-за недостаточной проверки сотрудников и агрессивного маркетинга.
 
 ### Частные мастера
 
@@ -75,6 +76,7 @@ display_stale_warning: false
 - [Иза](tel:+37491556940) — выгул собак и ситтинг у клиента в Ереване. Собаки только малых и средних пород.
 - [Дарья](https://t.me/chernyaeva_d) — ситтинг у клиента для кошек в Ереване.
 - [Анна](https://t.me/LaurelAn) — выгул собак, ситтинг у клиента для собак в Ереване в районе Оперы.
+- [Татьяна @kitten_noir](https://t.me/kitten_noir) — ситтинг с проживанием в доме владельца. Есть положительный отзыв о повторном десятидневном уходе за тремя собаками в доме за пределами Еревана. Условия и доступность уточняйте лично.
 - 🟡 [Furpetcare](https://www.instagram.com/furpetcareyerevan/) — пет-ситтеры (Алик и Светлана). Английский и армянский языки. Индивидуальный подход к тревожным собакам. Смешанные отзывы.
 - 🟡 [Алла Никишова](https://t.me/Nikishowhippet) — «детский сад-санаторий» в частном доме. Специализация на борзых, ЛФК, курсинг. Есть услуга «Школьный автобус» (транспортировка). Были инциденты на передержке.
 

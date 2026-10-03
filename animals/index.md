@@ -33,6 +33,7 @@ use_map: true
 ### Сетки-антикошки в Армении
 
 - [@IyPainaKatysha](https://t.me/IyPainaKatysha) — [производство сеток на заказ](https://t.me/am_pets/1439), установка без сверления и повреждения окон, подойдет для съемных квартир. [Отзыв](https://t.me/am_pets/1441).
+- [WinKeeper](https://winkeeper.am/ru/) — защитные системы для окон и балконов. Участница сообщества сообщила об установке системы на весь открытый балкон с отдельной москитной сеткой. При заказе согласуйте конструкцию для кошки, размеры промежутков и крепления: не всякая система для безопасности детей подходит для животных.
 
 ## Поездки с животным из Армении
 
@@ -44,8 +45,7 @@ use_map: true
 ## Чем заняться с собакой в Армении?
 
 - 🔗 [@dogfatherart](https://dogfatherart.notion.site/0f82ebcfa0c644da9e3cebff0aa32b6d) — кинолог [Павел Соколов](https://t.me/Pavelsok) и его собачий бассейн в Ереване! ([небольшой клип с занятия](https://www.youtube.com/watch?v=CSWQisSAhJg))
-- <i class="fa-brands fa-telegram"></i> [Курсинг в Ереване](https://t.me/coursing_erevan) — беговые тренировки по субботам
-- <i class="fa-brands fa-telegram"></i> [Armenian camp](https://t.me/armeniancamp) — всесезонный лагерь активного досуга на Севане, можно с собакой!
+- [@sm_dogs](https://t.me/sm_dogs) — проверенный кинолог с множеством хороших отзывов.
 - <i class="fa-brands fa-telegram"></i> [We Hike](https://t.me/hikeam) — походы в горы Армении, можно с собакой!
 - <i class="fa-brands fa-instagram"></i> [pupcakeyerevan](https://www.instagram.com/pupcakeyerevan/) — тортики из паштета для собак.
 {: class="list-emoji"}
