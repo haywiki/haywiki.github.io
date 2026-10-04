@@ -74,7 +74,8 @@ display_stale_warning: false
 - [Automax](https://automax.am/ru/)
 - [Шип-Шип](https://erevan.ship-ship.ru/)
 - [Avtoshem](https://avtoshem.am/) — помимо продажи, принимают шины на утилизацию
-- [ZX Garage](https://zxgarage.am/ru)
+- [ZX Garage](https://zxgarage.am/ru) — ⚠️ при шиномонтаже в точке Michelin участники отмечали затяжку колёс гайковёртом. Попросите проверить момент затяжки динамометрическим ключом
+- [Bridgestone Armenia](https://yandex.ru/maps/org/bridzhstoun_armeniya/172250335347/) — магазин шин на ул. Чаренца, 92. Есть положительный опыт покупки: участник отметил выбор размеров и цены, сопоставимые с Ozon
 
 ### Утилизация старых шин
 
