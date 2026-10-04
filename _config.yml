@@ -7,6 +7,7 @@ baseurl: ""
 url: "https://haywiki.org"
 github_username: haywiki
 lang: ru
+timezone: Asia/Yerevan
 show_excerpts: true
 
 markdown: kramdown
