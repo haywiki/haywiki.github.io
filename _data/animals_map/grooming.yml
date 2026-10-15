@@ -47,6 +47,16 @@
   yandex_url: https://yandex.com/maps/org/77335829117/
   url: https://www.groomingroom.biz
   note: 'Любой груминг, тримминг терьеров со сложным характером, купание крупных собак.'
+- name: PetHome
+  lat: 40.186760
+  lng: 44.512185
+  address: ул. Туманяна, 40 (вход со стороны ул. Спендиаряна)
+  phone: +374 55 599910
+  yandex_url: https://yandex.com/maps/org/pet_home/227597578306/
+  url: https://www.instagram.com/pethome.yerevan/
+  hours: 'ежедневно с 10:00 до 22:00'
+  types: [shops]
+  note: 'Груминг, зоотовары. Мастер: Дарья / «Дориан Грей» (@DorianGrayyyy).'
 - name: Woof Grooming Salon
   lat: 40.197892
   lng: 44.521907

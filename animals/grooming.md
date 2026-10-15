@@ -117,12 +117,35 @@ use_map: true
 </div>
 <div class="card">
 
+### PetHome
+
+- <i class="fa-brands fa-instagram"></i> [pethome.yerevan](https://www.instagram.com/pethome.yerevan/)
+- 📍 [ул. Туманяна, 40](https://yandex.com/maps/org/pet_home/227597578306/) (вход со стороны ул. Спендиаряна)
+- 📞 +374 55 599910
+- График работы: ежедневно с 10:00 до 22:00
+- Мастер: Дарья / «Дориан Грей» ([@DorianGrayyyy](https://t.me/DorianGrayyyy))
+- Услуги: груминг, зоотовары
+
+</div>
+<div class="card">
+
 ### VetExpert
 
 - <i class="fa-solid fa-link"></i> [vetexpert.am](https://vetexpert.am/ru/) &nbsp; <i class="fa-brands fa-facebook-f"></i> [vetexpertvetgroup](https://facebook.com/vetexpertvetgroup) &nbsp; <nobr markdown="span"><i class="fa-brands fa-instagram"></i> [vetexpertveterinarygroup](https://instagram.com/vetexpertveterinarygroup/)</nobr>
 - 📍 [просп. Азатутян, 14](https://yandex.ru/maps/org/vet_ekspert/1861952348/)
 - 📞 +374 10 209966, моб: +374 96 209966
 - Дополнительные услуги: ветеринарная клиника
+
+</div>
+<div class="card">
+
+### VetHome
+
+- <i class="fa-solid fa-link"></i> [vethome.am](https://www.vethome.am/) &nbsp; <i class="fa-brands fa-facebook-f"></i> [vethomeyerevan](https://facebook.com/vethomeyerevan)
+- 📍 [1-й квартал Давташен, 36/4](https://yandex.ru/maps/org/vethome/111774686048/)
+- 📞 +374 99 366788
+- Мастер: Дарья / «Дориан Грей» ([@DorianGrayyyy](https://t.me/DorianGrayyyy))
+- Услуги: груминг, ветеринарная клиника
 
 </div>
 <div class="card">
@@ -161,7 +184,7 @@ use_map: true
 - ❌ Токсичный менеджмент и неадекватная реакция руководства на отзывы: в ответ на спокойное замечание о кошке, оставленной на несколько часов в закрытой переноске без воды, владелица салона публично обвинила клиентку в найме «агентов» и создании ботов
 - ❌ Травля клиентов в соцсетях: публикация фото лиц клиентов в сторис салона с оскорблениями («хозяйка неадекват»), угрозы судами и удаление отзывов на картах
 - Услуги: породные стрижки пуделей, тримминг, механическая чистка зубов, озоновые ванны, сушильный бокс для кошек
-- Мастера: Дарья / «Дориан Грей» ([@DorianGrayyyy](https://t.me/DorianGrayyyy)), Руслан Харизов ([@ruslankharizov](https://t.me/ruslankharizov))
+- Мастер: Руслан Харизов ([@ruslankharizov](https://t.me/ruslankharizov))
 
 </div>
 <div class="card">
